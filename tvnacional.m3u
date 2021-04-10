@@ -7,11 +7,152 @@ https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=
 http://190.52.205.146/hls/oromartv_hi/index.m3u8
 #EXTINF: -1 tvg-name = "rtstv" tvg-logo = "https://www.rts.com.ec/wp-content/themes/albavision-theme/img/favicon/apple-touch-icon.png" group-title="ECUADOR", rts
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MTUzMzcyLCJzZXNzaW9uIjoiNDUuMTYyLjc1LjY3Iiwid2hpdGVsaXN0IjpbIjQ1LjE2Mi43NS42NyJdfSwic2lnbmF0dXJlIjoiMWVhY2ZkM2NiNTAxZTRkNGRkZGExNzZhOTdhOGIwMmZiZThlY2ZjZCJ9
-
+#EXTINF:-1 group-title="ECUADOR",Canal Uno TV Ecu 
+http://45.71.202.210:50000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="ECUADOR",Ecuador TV 
+http://45.71.202.210:50000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="ECUADOR",Ecuavisa (clone)-fsef02 
+http://45.71.202.210:50000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="ECUADOR",GamaTV 
+http://45.71.202.210:50000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="ECUADOR",TC Television 
+http://45.71.202.210:50000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="ECUADOR",Teleamazonas SD 
+http://45.71.202.210:50000/play/a07o/index.m3u8 
+#EXTINF:-1 group-title="ECUADOR",Teleamazonas (clone)-fsef01 
+http://45.71.202.210:50000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/01/23/15797838060407.jpg" group-title="DEPORTES" group-title="DEPORTES",GOL TV S2
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR
+http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/1099
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",DIRECTV ECUADOR
+http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/989
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES",ESPN 1 (COL)
+http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/965
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES",ESPN 1 (ARG)
+http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/69718
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES",ESPN 1 (MEX)
+http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/1540
+#EXTINF:-1,DEPORTES - ARG Fox Sports 2 (e)(720)
+http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/979
+#EXTINF:-1,DEPORTES - ARG Fox Sports 3 (e)(720)
+http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/982
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/31/16/12/220933.jpg" group-title="PELICULAS",CAPITÁN AMERICA
 http://tux-vod.dynu.com:80/peliculas/720/captain%20america%20the%20winter%20solder.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="PELICULAS",LA LIGA DE LA JUSTICIA ZACK ZNEIJDER
 http://vod.tuxchannel.tv:80/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/90/6d/3b/906d3b4c314f63ffe2fae8f011223b9b.jpg" group-title="PELICULAS",THE JOKER
+http://tux-vod.dynu.com:80/peliculas/720/joker%202019.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZkMzlkYmItZDAyNy00NmZhLWE3MWItMzQyNDhkYzcwMTFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS",CHERRY (ESTRENO 2021)
+http://51.222.13.153:999/PELISSD/cherry-2021-Latino.mkv
+#EXTINF:-1 group-title="TVSATELITE",Cinemax 
+http://45.71.202.210:50000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",De Pelicula 
+http://170.79.233.222:8500/play/a0k7/index.m3u8 
+#EXTINF:-1 group-title="TVSATELITE",Sony 
+http://45.71.202.210:50000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Space 
+http://45.71.202.210:50000/play/a02q/index.m3u8 
+#EXTINF:-1 group-title="TVSATELITE",TNT 
+http://179.51.168.13:3000/play/a03m 
+#EXTINF:-1 group-title="TVSATELITE",TCM 
+http://179.51.168.13:3000/play/a03l 
+#EXTINF:-1 group-title="TVSATELITE",Universal 
+http://45.71.202.210:50000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Warner 
+http://45.71.202.210:50000/play/a00p/index.m3u8    
+#EXTINF:-1 group-title="TVSATELITE",AE Mundo 
+http://179.51.168.13:3000/play/a02m 
+#EXTINF:-1 group-title="TVSATELITE",AMC HD 
+http://179.51.168.13:3000/play/uy7 
+#EXTINF:-1 group-title="TVSATELITE",Animal Planet 
+http://179.51.168.13:3000/play/a02n
+#EXTINF:-1 group-title="TVSATELITE",Cinecanal 
+http://179.51.168.13:3000/play/a02q 
+#EXTINF:-1 group-title="TVSATELITE",Cinemax 
+http://179.51.168.13:3000/play/a02r
+#EXTINF:-1 group-title="TVSATELITE",HBO 2 
+http://179.51.168.13:3000/play/a03a 
+#EXTINF:-1 group-title="TVSATELITE",HBO Family 
+http://179.51.168.13:3000/play/a03b 
+#EXTINF:-1 group-title="TVSATELITE",HBO POP 
+http://179.51.168.13:3000/play/a02o 
+#EXTINF:-1 group-title="TVSATELITE",TLC 
+http://179.51.168.13:3000/play/a03n
+#EXTINF:-1 group-title="TVSATELITE",Discovery Channel 
+http://45.71.202.210:50000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Discovery ID 
+http://45.71.202.210:50000/play/a022/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Home and Health 
+http://45.71.202.210:50000/play/a026/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Discovery Kids 
+http://45.71.202.210:50000/play/a001/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Discovery Turbo 
+http://45.71.202.210:50000/play/a030/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Disney Channel 
+http://45.71.202.210:50000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Disney Jr 
+http://45.71.202.210:50000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",E Entertainment 
+http://45.71.202.210:50000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",FX Movies 
+http://45.71.202.210:50000/play/a008/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",FX 
+http://45.71.202.210:50000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Fox Channel 
+http://45.71.202.210:50000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Fox Life 
+http://45.71.202.210:50000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",HBO 
+http://45.71.202.210:50000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",HBO Family 
+http://45.71.202.210:50000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",HBO Plus 
+http://45.71.202.210:50000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",History Channel 
+http://45.71.202.210:50000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",History 2 
+http://170.79.233.222:8500/play/a0i2/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Max Prime 
+http://45.71.202.210:50000/play/a00g/index.m3u8 
+#EXTINF:-1 group-title="TVSATELITE",Max Prime 
+http://45.71.202.210:50000/play/a00g/index.m3u8 
+#EXTINF:-1 group-title="TVSATELITE",Nat Geo 
+http://45.71.202.210:50000/play/a01i/index.m3u8 
+#EXTINF:-1 group-title="TVSATELITE",NatGeo Kids 
+http://45.71.202.210:50000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Nick Jr 
+http://45.71.202.210:50000/play/a02z/index.m3u8 
+#EXTINF:-1 group-title="TVSATELITE",Nickelodeon 
+http://45.71.202.210:50000/play/a01g/index.m3u8 
+#EXTINF:-1 group-title="TVSATELITE",Cartoon Network 
+http://200.73.117.225:8000/play/a012 
+#EXTINF:-1 group-title="TVSATELITE",Telemundo 
+http://45.71.202.210:50000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",SyFy 
+http://200.54.19.131:8500/play/a0ie/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",MTV 
+http://45.71.202.210:50000/play/a01o/index.m3u8  
+#EXTINF:-1 group-title="TVSATELITE",ESPN
+http://45.71.202.210:50000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",ESPN 2 
+http://45.71.202.210:50000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",ESPN 2 CO 
+http://45.71.202.210:50000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",ESPN 3 
+http://45.71.202.210:50000/play/a032/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Fox Sport PY 
+http://45.71.202.210:50000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Fox Sports 2 
+http://45.71.202.210:50000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Fox Sports 3 
+http://45.71.202.210:50000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",GOLTV Ecuador 
+http://45.71.202.210:50000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
+http://45.71.202.210:50000/play/a021/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA",CHILE TV 
+http://179.51.168.13:3000/play/asd3
+#EXTINF:-1 group-title="Lista xtv36",Caracol Int 
+http://200.54.19.131:8500/play/a0iw/index.m3u8
+    
