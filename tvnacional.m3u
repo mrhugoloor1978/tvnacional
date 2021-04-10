@@ -153,6 +153,5 @@ http://45.71.202.210:50000/play/a00u/index.m3u8
 http://45.71.202.210:50000/play/a021/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA",CHILE TV 
 http://179.51.168.13:3000/play/asd3
-#EXTINF:-1 group-title="Lista xtv36",Caracol Int 
-http://200.54.19.131:8500/play/a0iw/index.m3u8
+
     
