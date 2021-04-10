@@ -1,0 +1,10 @@
+# tvnacional
+# EXTM3U
+#EXTINF: -1 tvg-name = "teleamazonas" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_teleamazonas.svg", teleamazonas
+https://playback.akamaized.net/streams/1359588_4428723_lsirazqxi8m162jmp2l_1/media/1359588_4428723_lsirazqxi8m162jmp2l_1@2756000p.m3u8?dw=14400&ts=1618027200&hdnts=exp=1618202859~acl=/streams/1359588_4428723_lsirazqxi8m162jmp2l_1/media*~hmac=92c744048d72838b310f4fabedb8e7e971bca776f8d0cc2f3e72087f9adc2197
+#EXTINF: -1 tvg-name = "tvc" tvg-logo = "https://tpc.googlesyndication.com/pagead/images/abg/icon.png", tvc
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MTE3MTQ5LCJzZXNzaW9uIjoiNDUuMTYyLjc1LjY3Iiwid2hpdGVsaXN0IjpbIjQ1LjE2Mi43NS42NyJdfSwic2lnbmF0dXJlIjoiZjNhY2JiODVhMTMyYjkwODEyZWY4ZGIxNTRkNzYwMjRhMWY4MzQyMiJ9
+#EXTINF: -1 tvg-name = "oromartv" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", oromar
+http://190.52.205.146/hls/oromartv_hi/index.m3u8
+#EXTINF: -1 tvg-name = "rtstv" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", rts
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MTE4MTAzLCJzZXNzaW9uIjoiNDUuMTYyLjc1LjY3Iiwid2hpdGVsaXN0IjpbIjQ1LjE2Mi43NS42NyJdfSwic2lnbmF0dXJlIjoiY2E0ZDgxNDRjY2JjZTU5YWMxYzcxYTlkYTZjOGUxNTZhOTdiNjQ2NiJ9
