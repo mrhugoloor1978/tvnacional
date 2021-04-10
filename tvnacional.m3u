@@ -1,9 +1,17 @@
 # EXTM3U
-#EXTINF: -1 tvg-name = "teleamazonas" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_teleamazonas.svg", teleamazonas
+#EXTINF: -1 tvg-name = "teleamazonas" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_teleamazonas.svg" group-title="ECUADOR", teleamazonas
 https://playback.akamaized.net/streams/1359588_4428723_lsirazqxi8m162jmp2l_1/media/1359588_4428723_lsirazqxi8m162jmp2l_1@2756000p.m3u8?dw=14400&ts=1618027200&hdnts=exp=1618202859~acl=/streams/1359588_4428723_lsirazqxi8m162jmp2l_1/media*~hmac=92c744048d72838b310f4fabedb8e7e971bca776f8d0cc2f3e72087f9adc2197
-#EXTINF: -1 tvg-name = "tvc" tvg-logo = "https://api.tagdeliver.com/v1/sy/tag/log", tvc
+#EXTINF: -1 tvg-name = "tvc" tvg-logo = "https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css" group-title="ECUADOR", tvc
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MTU0NDYyLCJzZXNzaW9uIjoiNDUuMTYyLjc1LjY3Iiwid2hpdGVsaXN0IjpbIjQ1LjE2Mi43NS42NyJdfSwic2lnbmF0dXJlIjoiYmE4YzVkN2E0ZTc5NDVlYzgxOGNiNDUwZDEyOTVhODcyNDlhZDljZSJ9
-#EXTINF: -1 tvg-name = "oromartv" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", oromar
+#EXTINF: -1 tvg-name = "oromartv" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",oromar
 http://190.52.205.146/hls/oromartv_hi/index.m3u8
-#EXTINF: -1 tvg-name = "rtstv" tvg-logo = "https://www.rts.com.ec/wp-content/themes/albavision-theme/img/favicon/apple-touch-icon.png", rts
+#EXTINF: -1 tvg-name = "rtstv" tvg-logo = "https://www.rts.com.ec/wp-content/themes/albavision-theme/img/favicon/apple-touch-icon.png" group-title="ECUADOR", rts
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MTUzMzcyLCJzZXNzaW9uIjoiNDUuMTYyLjc1LjY3Iiwid2hpdGVsaXN0IjpbIjQ1LjE2Mi43NS42NyJdfSwic2lnbmF0dXJlIjoiMWVhY2ZkM2NiNTAxZTRkNGRkZGExNzZhOTdhOGIwMmZiZThlY2ZjZCJ9
+
+#EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/01/23/15797838060407.jpg" group-title="DEPORTES" group-title="DEPORTES",GOL TV S2
+http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/31/16/12/220933.jpg" group-title="PELICULAS",CAPITÁN AMERICA
+http://tux-vod.dynu.com:80/peliculas/720/captain%20america%20the%20winter%20solder.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="PELICULAS",LA LIGA DE LA JUSTICIA ZACK ZNEIJDER
+http://vod.tuxchannel.tv:80/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
