@@ -66,7 +66,7 @@ http://179.51.168.13:3000/play/a02m
 #EXTINF:-1 group-title="TVSATELITE",AMC HD 
 http://179.51.168.13:3000/play/uy7 
 #EXTINF:-1 group-title="TVSATELITE",Animal Planet 
-http://179.51.168.13:3000/play/a02n
+http://45.71.202.210:50000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",Cinecanal 
 http://179.51.168.13:3000/play/a02q 
 #EXTINF:-1 group-title="TVSATELITE",Cinemax 
