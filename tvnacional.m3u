@@ -56,7 +56,7 @@ http://190.5.114.14:8080/play/a0th/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",Sony 
 http://45.71.202.210:50000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",Space 
-http://45.71.202.210:50000/play/a02q/index.m3u8 
+http://190.5.114.14:8080/play/a0tt/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", TNT
 http://190.5.114.14:8080/play/a0pz/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", Serie TNT
