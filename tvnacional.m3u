@@ -51,6 +51,8 @@ http://tux-vod.dynu.com:80/peliculas/720/joker%202019.mkv
 http://51.222.13.153:999/PELISSD/cherry-2021-Latino.mkv
 #EXTINF:-1 group-title="TVSATELITE",Cinemax 
 http://45.71.202.210:50000/play/a02n/index.m3u8
+#EXTINF:-1, group-title="TVSATELITE", Peliculas 24/7
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA: De Pelicula" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",LA: De Pelicula
 http://skylogic.site:8080/esterichannel50con/36cb6c13/82439
 #EXTINF:-1 tvg-id="" tvg-name="LA: CINE DINAMITA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",LA: CINE DINAMITA
