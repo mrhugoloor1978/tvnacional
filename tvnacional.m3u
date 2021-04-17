@@ -1,4 +1,6 @@
 # EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA: EC Teleamazonas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ECUADOR",LA: EC Teleamazonas HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278109
 #EXTINF: -1 tvg-name = "canelatv" tvg-logo =https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif group-title="ECUADOR", canela tv
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w751577676.m3u8
 #EXTINF: -1 tvg-name = "tvc" tvg-logo = "https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css" group-title="ECUADOR", tvc
