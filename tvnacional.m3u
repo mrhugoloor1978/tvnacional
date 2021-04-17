@@ -190,8 +190,7 @@ http://skylogic.site:8080/esterichannel50con/36cb6c13/192107
 #EXTINF:-1 tvg-id="" tvg-name="MX: NTN24 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NOTICIAS",MX: NTN24 FHD
 http://skylogic.site:8080/esterichannel50con/36cb6c13/31777
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="INFANTIL", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="INFANTIL", El Chavo 
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", Monstruos de Verdad
@@ -200,6 +199,5 @@ https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8rJZuk0.png" group-title="INFANTIL", Mi TV
 http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="INFANTIL", Simpson
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
     
