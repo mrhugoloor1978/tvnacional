@@ -58,7 +58,7 @@ http://skylogic.site:8080/esterichannel50con/36cb6c13/76215
 #EXTINF:-1 group-title="TVSATELITE",Space 
 http://45.71.202.210:50000/play/a02q/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", TNT
-http://190.5.114.14:8080/play/a0pz/index.m3u8
+http://45.71.202.210:50000/play/a01v/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", Serie TNT
 http: //190.5.114.14:8080/play/a0pr/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE", Multipremier
