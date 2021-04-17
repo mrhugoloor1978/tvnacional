@@ -139,6 +139,8 @@ http://45.71.202.210:50000/play/a02z/index.m3u8
 http://45.71.202.210:50000/play/a01g/index.m3u8 
 #EXTINF:-1 group-title="TVSATELITE",Cartoon Network 
 http://190.5.114.14:8080/play/a0ws/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUR: CARTOON NETWORK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",SUR: CARTOON NETWORK
+http://skylogic.site:8080/esterichannel50con/36cb6c13/49445
 #EXTINF:-1 group-title="TVSATELITE",Telemundo 
 http://45.71.202.210:50000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",SyFy 
