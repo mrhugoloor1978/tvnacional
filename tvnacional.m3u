@@ -195,6 +195,8 @@ http://skylogic.site:8080/esterichannel50con/36cb6c13/192107
 http://skylogic.site:8080/esterichannel50con/36cb6c13/31777
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="NOTICIAS", RT - 25.5
 https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="NOTICIAS", TODO NOTICIAS (OPCION 2)
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/tn.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="INFANTIL", El Chavo 
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
