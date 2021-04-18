@@ -189,7 +189,8 @@ http://45.71.202.210:50000/play/a002/index.
 http://skylogic.site:8080/esterichannel50con/36cb6c13/192107
 #EXTINF:-1 tvg-id="" tvg-name="MX: NTN24 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NOTICIAS",MX: NTN24 FHD
 http://skylogic.site:8080/esterichannel50con/36cb6c13/31777
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="NOTICIAS", RT - 25.5
+https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="INFANTIL", El Chavo 
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
