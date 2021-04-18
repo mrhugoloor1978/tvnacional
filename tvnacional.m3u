@@ -60,7 +60,9 @@ http://skylogic.site:8080/esterichannel50con/36cb6c13/82439
 #EXTINF:-1 tvg-id="" tvg-name="LA: CINE DINAMITA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",LA: CINE DINAMITA
 http://skylogic.site:8080/esterichannel50con/36cb6c13/76215
 #EXTINF:-1 group-title="TVSATELITE", RETRO
-http://stream.mediawork.cz/retrotv/retrotvHQ1/media_w1632423129.m3u8
+http://stream.mediawork.cz/retrotv/retrotvHQ1/media_w1632423129.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TVSATELITE", SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com/playlist.m3u8
 #EXTINF:-1 group-title="TVSATELITE",Space 
 http://45.71.202.210:50000/play/a02q/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", TNT
