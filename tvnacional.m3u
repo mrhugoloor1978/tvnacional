@@ -58,7 +58,7 @@ http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA: De Pelicula" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",LA: De Pelicula
 http://skylogic.site:8080/esterichannel50con/36cb6c13/82439
 #EXTINF:-1 tvg-id="" tvg-name="LA: CINE DINAMITA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",LA: CINE DINAMITA
-http://skylogic.site:8080/esterichannel50con/36cb6c13/
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76215
 #EXTINF:-1 group-title="TVSATELITE",A3CINE
 http://200.115.190.211:8000/play/KgkA9tT2SpLYm86J/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",ABC HD
