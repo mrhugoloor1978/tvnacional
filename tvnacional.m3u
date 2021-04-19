@@ -69,10 +69,10 @@ http://200.115.190.211:8000/play/8Cq8VftfuLDUjBSh/index.m3u8
 http://45.71.202.210:50000/play/a02q/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", TNT
 http://45.71.202.210:50000/play/a01v/index.m3u8
-#EXTINF : -1 group-title="TVSATELITE", Serie TNT
-http: //190.5.114.14:8080/play/a0pr/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE", Multipremier
-http://190.5.114.14:8080/play/a0td/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TNT SERIES
+http://200.115.190.211:8000/play/xEXxT427QRqh86TC/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", 
+http://200.115.190.211:8000/play/PKaCscg4MeGenpzG/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",TCM 
 http://179.51.168.13:3000/play/a03l 
 #EXTINF:-1 group-title="TVSATELITE",Universal 
