@@ -1,6 +1,8 @@
 # EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="LA: EC Teleamazonas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ECUADOR",LA: EC Teleamazonas HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278109
+http://skylogic.site:8080/esterichannel50con/36cb6c13/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="ECUADOR", CINE CABLE TV
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://maxtvonline.com/wp-content/uploads/2017/10/logo2.png" group-title="ECUADOR", MAX TV ECUADOR
 https://streamingwowza.com:1936/maxtvonline/smil:maxtvonline.smil/chunklist_w40285888_b608000_sleng.m3u8
 #EXTINF: -1 tvg-name = "canelatv" tvg-logo =https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif group-title="ECUADOR", canela tv
