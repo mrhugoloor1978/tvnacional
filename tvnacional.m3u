@@ -193,8 +193,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="COLOMBIA", Retro Plus TV Señal 3  | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="COLOMBIA",CO: CARACOL 2 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8350
+#EXTINF:-1 tvg-id="" tvg-name="SUR: CARACOL NACIONAL" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="COLOMBIA",SUR: CARACOL NACIONAL
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76225
 #EXTINF:-1 group-title="NOTICIAS",CNN ESPANOL
 http://200.115.190.211:8000/play/WmpucMcLyV96bWYM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: RUSSIA TODAY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NOTICIAS",ES: RUSSIA TODAY
