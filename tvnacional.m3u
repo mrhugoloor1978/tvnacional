@@ -7,6 +7,8 @@ https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 https://streamingwowza.com:1936/maxtvonline/smil:maxtvonline.smil/chunklist_w40285888_b608000_sleng.m3u8
 #EXTINF: -1 tvg-name = "canelatv" tvg-logo =https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif group-title="ECUADOR", canela tv
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w751577676.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logotipo_Corporativo_de_la_Red_de_Televisi%C3%B3n_de_la_Universidad_de_Chile_%281992-1993%29.png" group-title="ECUADOR", RTU TV
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 #EXTINF: -1 tvg-name = "tvc" tvg-logo = "https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css" group-title="ECUADOR", tvc
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4Njk5MDY3LCJzZXNzaW9uIjoiNDUuMTYyLjc1LjY3Iiwid2hpdGVsaXN0IjpbIjQ1LjE2Mi43NS42NyJdfSwic2lnbmF0dXJlIjoiZmQwMDczZTI1YWNmYjk5OTE0MzFmYWJhODZlNGM1Y2ZlMTdjZTAyZCJ9
 #EXTINF: -1 tvg-name = "oromartv" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",oromar
