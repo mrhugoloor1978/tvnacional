@@ -209,6 +209,8 @@ https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/tn.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="NOTICIAS", TELESUR - 25.4
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/200px-Flag_of_Panama.svg.png" group-title="NOTICIAS", Telemetro
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="INFANTIL", El Chavo 
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
