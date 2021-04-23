@@ -234,6 +234,15 @@ http://skylogic.site:8080/esterichannel50con/36cb6c13/76225
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="COLOMBIA",Canal RCN
 http://186.33.168.30:8000/play/a02m/index.m3u8
+#EXTINF:-1 título-grupo = "COLOMBIA",City TV
+http://186.33.168.30:8000/play/a030/index.m3u8
+#EXTINF:-1 título-grupo = "COLOMBIA",Senal Colombia
+http://186.33.168.30:8000/play/a02r/index.m3u8
+#EXTINF:-1título-grupo = "COLOMBIA",Telecafe
+http://186.33.168.30:8000/play/a03l/index.m3u8
+#EXTINF:-1 título-grupo = "COLOMBIA",Telecaribe
+http://186.33.168.30:8000/play/a03j/index.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",CNN ESPANOL
 http://200.115.190.211:8000/play/WmpucMcLyV96bWYM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: RUSSIA TODAY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NOTICIAS",ES: RUSSIA TODAY
