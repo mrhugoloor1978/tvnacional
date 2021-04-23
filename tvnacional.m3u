@@ -59,6 +59,8 @@ http://45.71.202.210:50000/play/a02n/index.m3u8
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA: De Pelicula" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",LA: De Pelicula
 http://skylogic.site:8080/esterichannel50con/36cb6c13/82439
+#EXTINF:-1 group-title="TVSATELITE",Cinema Dinamita
+http://45.182.23.211:2000/play/a0es/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",Cine Latino
 http://45.182.23.211:2000/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE", AZ CINEMA
