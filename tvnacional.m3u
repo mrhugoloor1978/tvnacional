@@ -29,18 +29,29 @@ http://45.71.202.210:50000/play/a07k/index.m3u8
 http://45.71.202.210:50000/play/a07o/index.m3u8 
 #EXTINF:-1 group-title="ECUADOR",Teleamazonas (clone)-fsef01 
 http://45.71.202.210:50000/play/a08q/index.m3u8
-#EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/01/23/15797838060407.jpg" group-title="DEPORTES" group-title="DEPORTES",GOL TV S2
-http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR
-http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/1099
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",DIRECTV ECUADOR
-http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/989
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES",ESPN 1 (COL)
-http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/965
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES",ESPN 1 (ARG)
-http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/69718
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES",ESPN 1 (MEX)
-http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/1540
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+http://200.115.190.211:8000/play/eGhTK4fJJR5p5M3N/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+http://200.115.190.211:8000/play/G5zcc3HYpdc5AjMs/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS HD
+http://200.115.190.211:8000/play/zMbqBSS3gramuTPy/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX1 Oeste
+http://200.115.190.211:8000/play/Ru4Yp6qytEFsXYGA/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX7 WSVN
+http://200.115.190.211:8000/play/xShXfm4TDt98YmwJ/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",GOL TV
+http://200.115.190.211:8000/play/S58HV7ekrnCUvF4u/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
+http://200.115.190.211:8000/play/Xc74Bxbg3Qkc43Sr/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://200.115.190.211:8000/play/Z5TWRUY3869wGRLG/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN + HD
+http://200.115.190.211:8000/play/7mZEEEBQpQGypd9c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN2
+http://200.115.190.211:8000/play/3jZRN66nDhuZwLbW/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN3
+http://200.115.190.211:8000/play/4hrEpujghmYgjET8/index.m3u8
 #EXTINF:-1,DEPORTES - ARG Fox Sports 2 (e)(720)
 http://tv.masterplaytv.xyz:25461/Icemcorp/ZMfZ2i2aAM/
 #EXTINF:-1,DEPORTES - ARG Fox Sports 3 (e)(720)
