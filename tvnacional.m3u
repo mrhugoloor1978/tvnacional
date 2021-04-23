@@ -106,9 +106,9 @@ http://184.173.181.2:1935/8062/8062/playlist.m3u8
 http://skylogic.site:8080/esterichannel50con/36cb6c13/82439
 #EXTINF:-1 group-title="TVSATELITE",Cinema Dinamita
 http://45.182.23.211:2000/play/a0es/index.m3u8
-#EXTINF:-1 título-grupo = "TVSATELITE",Canal Claro
+#EXTINF:-1 group-title="TVSATELITE",Canal Claro
 http://45.71.202.210:50000/play/a024/index.m3u8
-#EXTINF:-1 título-grupo = "TVSATELITE",Claro Cinema
+#EXTINF:-1 group-title="TVSATELITE",Claro Cinema
 http://45.71.202.210:50000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",Cine Latino
 http://45.182.23.211:2000/play/a0ep/index.m3u8
