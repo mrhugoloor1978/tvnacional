@@ -1,4 +1,18 @@
 # EXTM3U
+#EXTINF:-1 group-title="ECUADOR",CANAL UNO HD
+http://200.24.132.99:8000/play/a00a
+#EXTINF:-1 group-title="ECUADOR",ECTV HD
+http://200.24.132.99:8000/play/a00f
+#EXTINF:-1 group-title="ECUADOR",Ecuavisa HD
+http://200.24.132.99:8000/play/a002
+#EXTINF:-1 group-title="ECUADOR",Oromar HD
+http://200.24.132.99:8000/play/a00c
+#EXTINF:-1 group-title="ECUADOR",RTS HD
+http://200.24.132.99:8000/play/a004
+#EXTINF:-1 group-title="ECUADOR",TC HD
+http://200.24.132.99:8000/play/a008
+#EXTINF:-1 group-title="ECUADOR",TELEAMAZONAS HD
+http://200.24.132.99:8000/play/a006
 #EXTINF:-1 tvg-id="" tvg-name="LA: EC Teleamazonas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ECUADOR",LA: EC Teleamazonas HD
 http://skylogic.site:8080/esterichannel50con/36cb6c13/
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="ECUADOR", CINE CABLE TV
