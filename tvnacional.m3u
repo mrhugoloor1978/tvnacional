@@ -190,12 +190,10 @@ http://45.71.202.210:50000/play/a00h/index.m3u8
 http://45.71.202.210:50000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",History Channel 
 http://45.71.202.210:50000/play/a01j/index.m3u8
-#EXTINF:-1 título-grupo = "TVSATELITE",History 2
+#EXTINF:-1 group-title="TVSATELITE",History 2
 http://186.33.168.30:8000/play/a08h/index.m3u8
-#EXTINF:-1 título-grupo = "TVSATELITE",SyFy
+#EXTINF:-1 group-title="TVSATELITE",SyFy
 http://186.33.168.30:8000/play/a082/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",History 2 
-http://170.79.233.222:8500/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",Max Prime 
 http://45.71.202.210:50000/play/a00g/index.m3u8 
 #EXTINF:-1 group-title="TVSATELITE",Max Prime 
