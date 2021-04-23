@@ -44,25 +44,23 @@ http://45.71.202.210:50000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="ECUADOR",Teleamazonas (clone)-fsef01 
 http://45.71.202.210:50000/play/a08q/index.m3u8
 
-#EXTINF:-1 título de grupo = "DEPORTES",ClaroSports
+#EXTINF:-1 group-title= "DEPORTES",ClaroSports
 http://45.71.202.210:50000/play/a01w/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",ESPN 2 CO
+#EXTINF:-1 group-title= "DEPORTES",ESPN 2 CO
 http://45.71.202.210:50000/play/a07u/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",GOL TV
-http://45.71.202.210:50000/play/a00u/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",GOLTVEC
+#EXTINF:-1 group-title= "DEPORTES",GOL TV
 http://45.71.202.210:50000/play/a07h/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",TNT SPORTS 2
+#EXTINF:-1 group-title= "DEPORTES",TNT SPORTS 2
 http://186.33.168.30:8000/play/a011/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",TNT SPORTS 3
+#EXTINF:-1 group-title= "DEPORTES",TNT SPORTS 3
 http://186.33.168.30:8000/play/a01o/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",TNT Sports HD
+#EXTINF:-1 group-title= "DEPORTES",TNT Sports HD
 http://186.33.168.30:8000/play/a08r/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",TyC Sports
+#EXTINF:-1 group-title= "DEPORTES",TyC Sports
 http://186.33.168.30:8000/play/a07s/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",TyC Sports
+#EXTINF:-1 group-title= "DEPORTES",TyC Sports
 http://186.33.168.30:8000/play/a01n/index.m3u8
-#EXTINF:-1 título de grupo = "DEPORTES",TyC Sports HD
+#EXTINF:-1 group-title= "DEPORTES",TyC Sports HD
 http://186.33.168.30:8000/play/a08p/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
 http://200.115.190.211:8000/play/eGhTK4fJJR5p5M3N/index.m3u8
