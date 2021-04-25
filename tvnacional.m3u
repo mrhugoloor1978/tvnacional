@@ -118,8 +118,8 @@ http://200.115.190.211:8000/play/KgkA9tT2SpLYm86J/index.m3u8
 http://200.115.190.211:8000/play/bhAmBxmCwn3VLbnJ/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",Sony 
 http://45.71.202.210:50000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",AXN HD
-http://200.115.190.211:8000/play/8Cq8VftfuLDUjBSh/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",AXN 
+http://38.131.11.225:8000/play/a01x
 #EXTINF:-1 group-title="TVSATELITE",Space 
 http://45.71.202.210:50000/play/a02q/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", TNT
