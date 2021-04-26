@@ -94,10 +94,8 @@ http://tux-vod.dynu.com:80/peliculas/720/captain%20america%20the%20winter%20sold
 http://vod.tuxchannel.tv:80/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/90/6d/3b/906d3b4c314f63ffe2fae8f011223b9b.jpg" group-title="PELICULAS",THE JOKER
 http://tux-vod.dynu.com:80/peliculas/720/joker%202019.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZkMzlkYmItZDAyNy00NmZhLWE3MWItMzQyNDhkYzcwMTFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS",CHERRY (ESTRENO 2021)
-http://51.222.13.153:999/PELISSD/cherry-2021-Latino.mkv
-#EXTINF:-1 group-title="TVSATELITE",Cinemax 
-http://45.71.202.210:50000/play/a02n/index.m3u8
+
+
 #EXTINF:-1, group-title="TVSATELITE", Peliculas 24/7
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA: De Pelicula" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",LA: De Pelicula
@@ -230,6 +228,7 @@ http://45.71.202.210:50000/play/a01c/index.m3u8
 http://45.71.202.210:50000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",GOLTV Ecuador 
 http://45.71.202.210:50000/play/a00u/index.m3u8
+
 #EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
 http://45.71.202.210:50000/play/a021/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA",CHILE TV 
