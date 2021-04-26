@@ -33,8 +33,8 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b12480
 http://45.71.202.210:50000/play/a07i/index.m3u8
 #EXTINF:-1 group-title="ECUADOR",Ecuador TV 
 http://45.71.202.210:50000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="ECUADOR",Ecuavisa (clone)-fsef02 
-http://45.71.202.210:50000/play/a08p/index.m3u8
+#EXTINF: -1 título-grupo = "ECUADOR, Ecuavisa
+http://201.182.242.194:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="ECUADOR",GamaTV 
 http://45.71.202.210:50000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="ECUADOR",TC Television 
