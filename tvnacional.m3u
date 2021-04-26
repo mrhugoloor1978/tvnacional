@@ -883,4 +883,88 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e299600076
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="CINE Y SERIES 2", DOUG EL CAZARRECOMPENZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="SATELITE 720",Animal Planet Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=259&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Axn
+https://blackghost.live/play/zufree-426.php?c=263&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Azteca Uno
+https://blackghost.live/play/zufree-426.php?c=265&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Boomerang Mexico
+https://blackghost.live/play/zufree-426.php?c=267&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Cartoon Network Mexico
+https://blackghost.live/play/zufree-426.php?c=274&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Cinecanal Oeste
+https://blackghost.live/play/zufree-426.php?c=275&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",CineLatino
+https://blackghost.live/play/zufree-426.php?c=276&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",CNN en Español
+https://blackghost.live/play/zufree-426.php?c=279&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Discovery Channel
+https://blackghost.live/play/zufree-426.php?c=283&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Discovery Home & Health
+https://blackghost.live/play/zufree-426.php?c=284&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Discovery Turbo
+https://blackghost.live/play/zufree-426.php?c=286&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Disney Channel México
+https://blackghost.live/play/zufree-426.php?c=287&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Disney Junior Mexico
+https://blackghost.live/play/zufree-426.php?c=288&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Disney XD Mexico
+https://blackghost.live/play/zufree-426.php?c=289&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",FoX Channel
+https://blackghost.live/play/zufree-426.php?c=295&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Fox Premium Action
+https://blackghost.live/play/zufree-426.php?c=297&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Fox Premium Family Oeste
+https://blackghost.live/play/zufree-426.php?c=300&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Fox Premium Movies
+https://blackghost.live/play/zufree-426.php?c=301&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Fox Premium Series Oeste
+https://blackghost.live/play/zufree-426.php?c=302&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",FX
+https://blackghost.live/play/zufree-426.php?c=306&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",FXM Oeste
+https://blackghost.live/play/zufree-426.php?c=307&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",HBO + Latinoamerica
+https://blackghost.live/play/zufree-426.php?c=309&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",HBO 2 Latinoamerica
+https://blackghost.live/play/zufree-426.php?c=310&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",HBO Family Latinoamerica
+https://blackghost.live/play/zufree-426.php?c=311&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",HBO Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=312&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Hbo Xtreme
+https://blackghost.live/play/zufree-426.php?c=313&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",History Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=315&f=.ts
+#EXTINF:-1 group-title="SATELITE 720", Investigation Discovery
+https://blackghost.live/play/zufree-426.php?c=321&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Las Estrellas México
+https://blackghost.live/play/zufree-426.php?c=324&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",MTV Latino
+https://blackghost.live/play/zufree-426.php?c=329&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",National Geographic Norte
+https://blackghost.live/play/zufree-426.php?c=333&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",National Geographic Wild
+https://blackghost.live/play/zufree-426.php?c=334&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Nick Jr Latin America
+https://blackghost.live/play/zufree-426.php?c=335&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Nickelodeon Norte
+https://blackghost.live/play/zufree-426.php?c=336&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Paramount Network Latin America
+https://blackghost.live/play/zufree-426.php?c=340&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Sony Channel Sur
+https://blackghost.live/play/zufree-426.php?c=344&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Space MExico
+https://blackghost.live/play/zufree-426.php?c=345&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Studio Universal
+https://blackghost.live/play/zufree-426.php?c=346&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Tcl
+https://blackghost.live/play/zufree-426.php?c=349&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",TNT América Latina
+https://blackghost.live/play/zufree-426.php?c=351&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",TNT Series México
+https://blackghost.live/play/zufree-426.php?c=352&f=.ts
+#EXTINF:-1 group-title="SATELITE 720",Universal TV
+https://blackghost.live/play/zufree-426.php?c=355&f=.ts
     
