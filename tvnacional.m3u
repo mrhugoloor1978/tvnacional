@@ -213,21 +213,7 @@ http://190.5.114.14:8080/play/a0or/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",MTV 
 http://45.71.202.210:50000/play/a01o/index.m3u8  
 #EXTINF:-1 group-title="TVSATELITE",ESPN
-http://45.71.202.210:50000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",ESPN 2 
-http://45.71.202.210:50000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",ESPN 2 CO 
-http://45.71.202.210:50000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",ESPN 3 
-http://45.71.202.210:50000/play/a032/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",Fox Sport PY 
-http://45.71.202.210:50000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",Fox Sports 2 
-http://45.71.202.210:50000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",Fox Sports 3 
-http://45.71.202.210:50000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",GOLTV Ecuador 
-http://45.71.202.210:50000/play/a00u/index.m3u8
+http://45.71.202.210:
 
 #EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
 http://45.71.202.210:50000/play/a021/index.m3u8
