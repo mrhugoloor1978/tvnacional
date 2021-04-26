@@ -3,8 +3,8 @@
 http://200.24.132.99:8000/play/a00a
 #EXTINF:-1 group-title="ECUADOR",ECTV HD
 http://200.24.132.99:8000/play/a00f
-#EXTINF:-1 group-title="ECUADOR",Ecuavisa HD
-http://200.24.132.99:8000/play/a002
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ECUADOR", ECUAVISA
+http://45.71.202.210:50000/play/a08p/index.m3u8
 #EXTINF:-1 group-title="ECUADOR",Oromar HD
 http://200.24.132.99:8000/play/a00c
 #EXTINF:-1 group-title="ECUADOR",RTS HD
