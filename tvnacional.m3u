@@ -164,7 +164,7 @@ http://38.131.11.225:8000/play/a09n
 http://38.131.11.225:8000/play/a09o
 #EXTINF: -1 group-title = "TVSATELITE", FX
 http://38.131.11.225:8000/play/a0bm
-#EXTINF: -1 group-title = "TVSATELITE", Películas FX
+#EXTINF: -1 group-title = "TVSATELITE", FX Movies
 http://38.131.11.225:8000/play/a00a
 #EXTINF: -1 group-title = "TVSATELITE", Fox Life
 http://38.131.11.225:8000/play/a00y
@@ -182,7 +182,7 @@ http://38.131.11.225:8000/play/a0f2
 http://38.131.11.225:8000/play/a01u
 #EXTINF: -1 group-title = "TVSATELITE", HBO 2
 http://38.131.11.225:8000/play/a00g
-#EXTINF: -1 group-title = "TVSATELITE", Familia HBO
+#EXTINF: -1 group-title = "TVSATELITE", HBO Family
 http://38.131.11.225:8000/play/a00j
 #EXTINF: -1 group-title = "TVSATELITE", HBO Plus
 http://38.131.11.225:8000/play/a00h
@@ -190,7 +190,7 @@ http://38.131.11.225:8000/play/a00h
 http://38.131.11.225:8000/play/a00i
 #EXTINF: -1 group-title = "TVSATELITE", History Channel
 http://38.131.11.225:8000/play/a00r
-#EXTINF: -1 group-title = "TVSATELITE", Hogar y salud
+#EXTINF: -1 group-title = "TVSATELITE", Home and Health
 http://38.131.11.225:8000/play/a01d
 #EXTINF: -1 group-title = "TVSATELITE", I-Sat
 http://38.131.11.225:8000/play/a00v
@@ -208,9 +208,9 @@ http://38.131.11.225:8000/play/a011
 http://38.131.11.225:8000/play/a0bi
 #EXTINF: -1 group-title = "TVSATELITE", Nickelodeon
 http://38.131.11.225:8000/play/a00o
-#EXTINF: -1 group-title = "TVSATELITE", CANAL ESTRELLA
+#EXTINF: -1 group-title = "TVSATELITE", star channel
 http://38.131.11.225:8000/play/a0fz
-#EXTINF: -1 group-title = "TVSATELITE", VIDA ESTRELLA
+#EXTINF: -1 group-title = "TVSATELITE", Fox Life
 http://38.131.11.225:8000/play/a0fy
 #EXTINF: -1 group-title = "TVSATELITE", Sony
 http://38.131.11.225:8000/play/a01w
@@ -234,7 +234,7 @@ http://38.131.11.225:8000/play/a0a9
 http://38.131.11.225:8000/play/a006
 #EXTINF: -1 group-title = "TVSATELITE", Telemundo
 http://38.131.11.225:8000/play/a035
-#EXTINF: -1 group-title = "TVSATELITE", Viajes y vida
+#EXTINF: -1 group-title = "TVSATELITE", TLC
 http://38.131.11.225:8000/play/a030
 #EXTINF: -1 group-title = "TVSATELITE", TyC Sports
 http://38.131.11.225:8000/play/a02o
