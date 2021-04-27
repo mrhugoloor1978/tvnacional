@@ -100,16 +100,7 @@ http://tux-vod.dynu.com:80/peliculas/720/joker%202019.mkv
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA: De Pelicula" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE",LA: De Pelicula
 http://skylogic.site:8080/esterichannel50con/36cb6c13/82439
-#EXTINF: -1 group-title = "TVSATELITE", Cine Dinamita
-http://45.182.23.211:2000/play/a0es/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Canal Claro
-http://45.71.202.210:50000/play/a024/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Claro Cinema
-http://45.71.202.210:50000/play/a02y/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Cine Latino
-http://45.182.23.211:2000/play/a0ep/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", AZ CINEMA
-http://200.115.190.211:8000/play/ppDuxzpFe2YZtbph/index.m3u8
+
 #EXTINF: -1 group-title = "TVSATELITE", Multipremier
 http://200.115.190.211:8000/play/PKaCscg4MeGenpzG/index.m3u8
 #EXTINF: -1 título-grupo = "TVSATELITE", AXN 
@@ -127,11 +118,11 @@ http://38.131.11.225:8000/play/a01x
 #EXTINF: -1 group-title = "TVSATELITE", Animal Planet
 http://38.131.11.225:8000/play/a02h
 #EXTINF: -1 group-title = "TVSATELITE", CDF Basico
-http : //38.131.11.225: 8000 / play / a0bw
+http://38.131.11.225:8000/play/a0bw
 #EXTINF: -1 group-title = "TVSATELITE", CDF PREMIUM
 http://38.131.11.225:8000/play/a0bc
 #EXTINF: -1 group-title = "TVSATELITE", CHV
-http://38.131.11.225:8000/ play / a008
+http://38.131.11.225:8000/play/a008
 #EXTINF: -1 group-title = "TVSATELITE", CNN Chile
 http://38.131.11.225:8000/play/a0bk
 #EXTINF: -1 group-title = "TVSATELITE", CNN Español
@@ -145,11 +136,11 @@ http://38.131.11.225:8000/play/a012
 #EXTINF: -1 group-title = "TVSATELITE", Cinecanal
 http://38.131.11.225:8000/play/a00s
 #EXTINF: -1 group-title = "TVSATELITE", Cinemax
-http: //38.131.11.225:8000/play/a0bn
+http://38.131.11.225:8000/play/a0bn
 #EXTINF: -1 group-title = "TVSATELITE", Discovery Channel
 http://38.131.11.225:8000/play/a0bp
 #EXTINF: -1 group-title = "TVSATELITE", Discovery ID
-http://38.131.11.225:8000/ play / a0c0
+http://38.131.11.225:8000/play/a0c0
 #EXTINF: -1 group-title = "TVSATELITE", Discovery Kids
 http://38.131.11.225:8000/play/a0bf
 #EXTINF: -1 group-title = "TVSATELITE", Discovery Turbo
@@ -161,7 +152,7 @@ http://38.131.11.225:8000/play/a0bg
 #EXTINF: -1 group-title = "TVSATELITE", Disney 
 http://38.131.11.225:8000/play/a0be
 #EXTINF: -1 group-title = "TVSATELITE", E Entertainment
-http://38.131.11.225:8000 / play / a0bo
+http://38.131.11.225:8000/play/a0bo
 #EXTINF: -1 group-title = "TVSATELITE", ESPN
 http://38.131.11.225:8000/play/a0bt
 #EXTINF: -1 group-title = "TVSATELITE", ESPN 2
@@ -171,7 +162,7 @@ http://38.131.11.225:8000/play/a029
 #EXTINF: -1 group-title = "TVSATELITE", Enlace
 http://38.131.11.225:8000/play/a03f
 #EXTINF: -1 group-title = "TVSATELITE", FOX P ACTION
-http: //38.131 .11.225: 8000 / play / a00f
+http://38.131.11.225:8000/play/a00f
 #EXTINF: -1 group-title = "TVSATELITE", FOX P MOVIES
 http://38.131.11.225:8000/play/a09n
 #EXTINF: -1 group-title = "TVSATELITE", FOX P SERIES E
@@ -179,7 +170,7 @@ http://38.131.11.225:8000/play/a09o
 #EXTINF: -1 group-title = "TVSATELITE", FX
 http://38.131.11.225:8000/play/a0bm
 #EXTINF: -1 group-title = "TVSATELITE", Películas FX
-http://38.131.11.225:8000 / play / a00a
+http://38.131.11.225:8000/play/a00a
 #EXTINF: -1 group-title = "TVSATELITE", Fox Life
 http://38.131.11.225:8000/play/a00y
 #EXTINF: -1 group-title = "TVSATELITE", Fox Sports
@@ -189,7 +180,7 @@ http://38.131.11.225:8000/play/a0c1
 #EXTINF: -1 group-title = "TVSATELITE", Fox Sports 2
 http://38.131.11.225:8000/play/a0ca
 #EXTINF: -1 group-title = "TVSATELITE", Fox Sports 3
-http : //38.131.11.225: 8000 / play / a0bv
+http://38.131.11.225:8000/play/a0bv
 #EXTINF: -1 group-title = "TVSATELITE", GOL TV
 http://38.131.11.225:8000/play/a0f2
 #EXTINF: -1 group-title = "TVSATELITE", HBO
@@ -197,7 +188,7 @@ http://38.131.11.225:8000/play/a01u
 #EXTINF: -1 group-title = "TVSATELITE", HBO 2
 http://38.131.11.225:8000/play/a00g
 #EXTINF: -1 group-title = "TVSATELITE", Familia HBO
-http://38.131.11.225: 8000 / play / a00j
+http://38.131.11.225:8000/play/a00j
 #EXTINF: -1 group-title = "TVSATELITE", HBO Plus
 http://38.131.11.225:8000/play/a00h
 #EXTINF: -1 group-title = "TVSATELITE", HBO XTREME
@@ -207,7 +198,7 @@ http://38.131.11.225:8000/play/a00r
 #EXTINF: -1 group-title = "TVSATELITE", Hogar y salud
 http://38.131.11.225:8000/play/a01d
 #EXTINF: -1 group-title = "TVSATELITE", I-Sat
-http : //38.131.11.225: 8000 / play / a00v
+http://38.131.11.225:8000/play/a00v
 #EXTINF: -1 group-title = "TVSATELITE", La Red
 http://38.131.11.225:8000/play/a005
 #EXTINF: -1 group-title = "TVSATELITE", MTV
@@ -215,7 +206,7 @@ http://38.131.11.225:8000/play/a00w
 #EXTINF: -1 group-title = "TVSATELITE", Mega
 http://38.131.11.225:8000/play/a007
 #EXTINF: -1 group-title = "TVSATELITE", Nat Geo
-http://38.131.11.225:8000 / play / a00q
+http://38.131.11.225:8000/play/a00q
 #EXTINF: -1 group-title = "TVSATELITE", NatGeo Kids
 http://38.131.11.225:8000/play/a011
 #EXTINF: -1 group-title = "TVSATELITE", Nick Jr
@@ -223,7 +214,7 @@ http://38.131.11.225:8000/play/a0bi
 #EXTINF: -1 group-title = "TVSATELITE", Nickelodeon
 http://38.131.11.225:8000/play/a00o
 #EXTINF: -1 group-title = "TVSATELITE", CANAL ESTRELLA
-http: //38.131 .11.225: 8000 / play / a0fz
+http://38.131.11.225:8000/play/a0fz
 #EXTINF: -1 group-title = "TVSATELITE", VIDA ESTRELLA
 http://38.131.11.225:8000/play/a0fy
 #EXTINF: -1 group-title = "TVSATELITE", Sony
@@ -231,17 +222,19 @@ http://38.131.11.225:8000/play/a01w
 #EXTINF: -1 group-title = "TVSATELITE", Espacio
 http://38.131.11.225:8000/play/a01y
 #EXTINF: -1 group-title = "TVSATELITE", TBS
-http://38.131.11.225:8000/ play / a038
+http://38.131.11.225:8000/play/a038
 #EXTINF: -1 group-title = "TVSATELITE", TCM
 http://38.131.11.225:8000/play/a010
 #EXTINF: -1 group-title = "TVSATELITE", TNT
 http://38.131.11.225:8000/play/a013
+#EXTINF: -1 group-title = "SATELITE", TNT Series
+https://blackghost.live/play/zufree-426.php?c=352&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", TV + HD
 http://38.131.11.225:8000/play/a0f0
 #EXTINF: -1 group-title = "TVSATELITE", TVE
 http://38.131.11.225:8000/play/a0f5
 #EXTINF: -1 group-title = "TVSATELITE", TVEDUCA
-http://38.131.11.225:8000 / play / a0a9
+http://38.131.11.225:8000/play/a0a9
 #EXTINF: -1 group-title = "TVSATELITE", TVN
 http://38.131.11.225:8000/play/a006
 #EXTINF: -1 group-title = "TVSATELITE", Telemundo
@@ -255,160 +248,194 @@ http://38.131.11.225:8000/play/a00t
 #EXTINF: -1 group-title = "TVSATELITE", ViaX
 http://38.131.11.225:8000/play/a031
 #EXTINF: -1 group-title = "TVSATELITE", Warner
-http://38.131.11.225:8000/ play / a05i
-#EXTINF: -1 group-title = "TVSATELITE", Zona Latina
-http://38.131.11.225:8000/play/a00x
+http://38.131.11.225:8000/play/a05i
 
-#EXTINF: -1 group-title = "TVSATELITE", A&E HD
-http://200.115.190.211:8000/play/8XG7XmKxcXbmsbJG/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", A3CINE
-http://200.115.190.211:8000/play/KgkA9tT2SpLYm86J/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", ABC HD
-http://200.115.190.211:8000/play/bhAmBxmCwn3VLbnJ/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", AGROTENDENCIAS
-http://200.115.190.211:8000/play/sfhJShygd638Ggnc/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", AMC HD
-http://200.115.190.211:8000/play/QhKufqUh6RQhQ5dY/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", ANIMAL PLANET HD
-http://200.115.190.211:8000/play/3xraqjwdjUNTNVu9/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", ANTENA3
-http://200.115.190.211:8000/play/akjWPSp33R6D9dv3/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", AXN HD
-http://200.115.190.211:8000/play/8Cq8VftfuLDUjBSh/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", AZ CINEMA
-http://200.115.190.211:8000/play/ppDuxzpFe2YZtbph/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", CARTOON NETWORK
-http://200.115.190.211:8000/play/73Ep4s92JhcqCy3U/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", CBS HD
-http://200.115.190.211:8000/play/SJc3fvCpEhFAv6N2/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", CINEMAX
-http://200.115.190.211:8000/play/VudG5hu6fgnMYz56/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", CNN ESPANOL
-http://200.115.190.211:8000/play/WmpucMcLyV96bWYM/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", CNN INTERNACIONAL
-http://200.115.190.211:8000/play/kbRr3ah49h2fTXNn/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", CNN USA
-http://200.115.190.211:8000/play/ZV59GS9TWebAFp8t/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", COMEDY CENTRAL
-http://200.115.190.211:8000/play/nJfwMEtBDLbNp7ay/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", DISCOVERY CHANNEL HD
-http://200.115.190.211:8000/play/ZbNgJUAyX5qQ2Kck/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", DISCOVERY HOME & HEALTH HD
-http://200.115.190.211:8000/play/qUqJGdarkz5aTfGt/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", DISCOVERY KIDS
-http://200.115.190.211:8000/play/s8FgQukj6d9eKmT9/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", DISCOVERY WORLD
-http://200.115.190.211:8000/play/Nf4QeAarDKFtuBFz/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", DISNEY CHANNEL
-http://200.115.190.211:8000/play/ntefpXvD4uthEv4f/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", DISNEY JUNIOR
-http://200.115.190.211:8000/play/QnbYDeU2yshyMZpD/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", DTV HD
-http://200.115.190.211:8000/play/23Bp6Sqv99nCx5s6/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Discovery Theater HD
-http://200.115.190.211:8000/play/rDeXCAhrZdLmXQ7Y/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", E!
-http://200.115.190.211:8000/play/PrEJ4uP9gUv7H63u/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", ENCORE HD
-http://200.115.190.211:8000/play/Y8c3rYC2aR76bVBh/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", ESPN
-http://200.115.190.211:8000/play/Z5TWRUY3869wGRLG/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", ESPN + HD
-http://200.115.190.211:8000/play/7mZEEEBQpQGypd9c/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", ESPN2
-http://200.115.190.211:8000/play/3jZRN66nDhuZwLbW/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", ESPN3
-http://200.115.190.211:8000/play/4hrEpujghmYgjET8/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", EUROPA EUROPA HD
-http://200.115.190.211:8000/play/enZUJwvXgpXGf34j/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", EWTN
-http://200.115.190.211:8000/play/5HJJPbP7JMwg5Vc5/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Encore Family
-http://200.115.190.211:8000/play/LMMEXc96QKtvV7uC/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Encore Suspense
-http://200.115.190.211:8000/play/PWqe4ZjGCTAvu2Xv/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOOD NETWORK
-http://200.115.190.211:8000/play/wmUA33kut66JuxHh/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX ACTION HD
-http://200.115.190.211:8000/play/2QB37RxhyfbMBFWX/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX CINEMA
-http://200.115.190.211:8000/play/a003/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX CLASSICS
-http://200.115.190.211:8000/play/Wp8HjC58CyFcJQkp/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX COMEDY
-http://200.115.190.211:8000/play/EpGPZNRenSkT43JD/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX FAMILY HD
-http://200.115.190.211:8000/play/nLmfZ6YJY7uAhAYT/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX LA
-http://200.115.190.211:8000/play/rrbJCSv5TM24E5Vr/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX LIFE
-http://200.115.190.211:8000/play/nJ7PGPWccY5dK52Y/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX MOVIES HD
-http://200.115.190.211:8000/play/fG79VXb6dpyJPLX8/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX NEWS HD
-http://200.115.190.211:8000/play/K5ajuynCU4YyEy57/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX PREMIUM SERIES
-http://200.115.190.211:8000/play/6Lawtu4xzjnyBLb7/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX SPORTS 2
-http://200.115.190.211:8000/play/eGhTK4fJJR5p5M3N/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX SPORTS 3
-http://200.115.190.211:8000/play/G5zcc3HYpdc5AjMs/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX SPORTS HD
-http://200.115.190.211:8000/play/zMbqBSS3gramuTPy/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX1 Oeste
-http://200.115.190.211:8000/play/Ru4Yp6qytEFsXYGA/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOX7 WSVN
-http://200.115.190.211:8000/play/xShXfm4TDt98YmwJ/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FOXPREMIUM
-http://200.115.190.211:8000/play/aaC2G9BQULG4Wa3k/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", FXM HD
-http://200.115.190.211:8000/play/AscWKz6Yjh5nJT84/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", GO TV HD
-http://200.115.190.211:8000/play/ezcjMhAHpPDNzV82/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", GOL TV
-http://200.115.190.211:8000/play/S58HV7ekrnCUvF4u/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", GOLF CHANNEL
-http://200.115.190.211:8000/play/Xc74Bxbg3Qkc43Sr/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", GUATEVISION
-http://200.115.190.211:8000/play/5Zd33BSgrRbERkXk/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HALLMARK MOVIE CHANNEL
-http://200.115.190.211:8000/play/DuLWJ8FDApFxgpya/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HBO
-http://200.115.190.211:8000/play/37HqRRJPHef5JsZJ/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HBO 2
-http://200.115.190.211:8000/play/47AHMHsNFq52ryGq/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HBO FAMILY
-http://200.115.190.211:8000/play/9GeWdwHE7P5mPGQy/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HBO Plus Mexico
-http://200.115.190.211:8000/play/ckr5Yr73dR6S4Zv7/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HBO2
-http://200.115.190.211:8000/play/LUdAVy2yA74XyH5h/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HCH
-http://200.115.190.211:8000/play/h9ZJEvEGVfy9by8W/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HISTORY CHANNEL HD
-http://200.115.190.211:8000/play/hgRR6HGdf23As/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", HTV
-http://200.115.190.211:8000/play/kNHuA5HwSWbQdWsR/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", INVESTIGATION DISCOVERY HD
-http://200.115.190.211:8000/play/8EVmhNhJHQUwrNKA/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", LIFETIME LA
-http://200.115.190.211:8000/play/ZPqDc6wxcS6VPMpy/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", LTV
-http://200.115.190.211:8000/play/CTNCGw9LatkAH8tA/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", MTV LA
-http://200.115.190.211:8000/play/RZ4ag2RYC9eLULYQ/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", MULTIPREMIER
-http://200.115.190.211:8000/play/PKaCscg4MeGenpzG/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", NAT GEO KIDS HD
-http://200.115.190.211:8000/play/74PETzjp8XBFZwSL/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", NATIONAL GEOGRAPHIC
-http://200.115.190.211:8000/play/TQqUqLTut8Hk4F89/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", NBC HD
-http://200.115.190.211:8000/play/ZAtkbM9v9JDDCwCh/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", NBCSN HD
-http://200.115.190.211:8000/play/95KZ3fsmfRhA387z/index.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", NICK JR.
-http://200.115.190.211:8000/play/8r3qmk4pggfET2MK/index.m3u8
+#EXTINF: -1 group-title = "SATELITE", Animal Planet Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=259&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Axn
+https://blackghost.live/play/zufree-426.php?c=263&f=.ts
+#EXTINF: -1 título-grupo = "SATELITE", Cinecanal Oeste
+https://blackghost.live/play/zufree-426.php?c=275&f=.ts
+#EXTINF: -1 título-grupo = "SATELITE", CineLatino
+https://blackghost.live/play/zufree-426.php?c=276&f=.ts
+#EXTINF: -1 group-title = "SATELITE", CNN en Español
+https://blackghost.live/play/zufree-426.php?c=279&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Discovery Channel
+https://blackghost.live/play/zufree-426.php?c=283&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Discovery Home & Health
+https://blackghost.live/play/zufree-426.php?c=284&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Discovery Turbo
+https://blackghost.live/play/zufree-426.php?c=286&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Disney Channel México
+https://blackghost.live/play/zufree-426.php?c=287&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Disney Junior México
+https://blackghost.live/play/zufree-426.php?c=288&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Disney XD México
+https://blackghost.live/play/zufree-426.php?c=289&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Canal FoX
+https://blackghost.live/play/zufree-426.php?c=295&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Fox Premium Action
+https://blackghost.live/play/zufree-426.php?c=297&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Fox Premium Family Oeste
+https://blackghost.live/play/zufree-426.php?c=300&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Fox Premium Movies
+https://blackghost.live/play/zufree-426.php?c=301&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Fox Premium Series Oeste
+https://blackghost.live/play/zufree-426.php?c=302&f=.ts
+#EXTINF: -1 título-grupo = "SATELITE", FX
+https://blackghost.live/play/zufree-426.php?c=306&f=.ts
+#EXTINF: -1 título-grupo = "SATELITE", FXM Oeste
+https://blackghost.live/play/zufree-426.php?c=307&f=.ts
+#EXTINF: -1 group-title = "SATELITE", HBO + Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=309&f=.ts
+#EXTINF: -1 group-title = "SATELITE", HBO 2 Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=310&f=.ts
+#EXTINF: -1 group-title = "SATELITE", HBO Family Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=311&f=.ts
+#EXTINF: -1 group-title = "SATELITE", HBO Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=312&f=.ts
+#EXTINF: -1 título de grupo = "SATELITE", Hbo Xtreme
+https://blackghost.live/play/zufree-426.php?c=313&f=.ts
+#EXTINF: -1 group-title = "SATELITE", History Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=315&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Descubrimiento de investigación
+https://blackghost.live/play/zufree-426.php?c=321&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Las Estrellas México
+https://blackghost.live/play/zufree-426.php?c=324&f=.ts
+#EXTINF: -1 título-grupo = "SATELITE", MTV Latino
+https://blackghost.live/play/zufree-426.php?c=329&f=.ts
+#EXTINF: -1 group-title = "SATELITE", National Geographic Norte
+https://blackghost.live/play/zufree-426.php?c=333&f=.ts
+#EXTINF: -1 group-title = "SATELITE", National Geographic Wild
+https://blackghost.live/play/zufree-426.php?c=334&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Nick Jr Latinoamérica
+https://blackghost.live/play/zufree-426.php?c=335&f=.ts
+#EXTINF: -1 título de grupo = "SATELITE", Nickelodeon Norte
+https://blackghost.live/play/zufree-426.php?c=336&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Paramount Network Latin America
+https://blackghost.live/play/zufree-426.php?c=340&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Space MExico
+https://blackghost.live/play/zufree-426.php?c=345&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Studio Universal
+https://blackghost.live/play/zufree-426.php?c=346&f=.ts
+#EXTINF: -1 título-grupo = "SATELITE", Tcl
+https://blackghost.live/play/zufree-426.php?c=349&f=.ts
+#EXTINF: -1 group-title = "SATELITE", TNT América Latina
+https://blackghost.live/play/zufree-426.php?c=351&f=.ts
+#EXTINF: -1 group-title = "SATELITE", TNT Series México
+https://blackghost.live/play/zufree-426.php?c=352&f=.ts
+#EXTINF: -1 group-title = "SATELITE", Ae
+https://blackghost.live/play/teleclub-426.php?c=la-ae-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Amc
+https://blackghost.live/play/teleclub-426.php?c=la-AMC&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Animal-Planet
+https://blackghost.live/play/teleclub-426.php?c=la-animal-planet-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Aztecauno
+https://blackghost.live/play/teleclub-426.php?c=aztecauno&f=.m3u8
+#EXTINF: -1 título de grupo = "SATELITE", Bitme
+https://blackghost.live/play/teleclub-426.php?c=bitme&f=.m3u8
+#EXTINF: -1 título de grupo = "SATELITE", Bloomberg
+https://blackghost.live/play/teleclub-426.php?c=bloomberg&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Boomerang
+https://blackghost.live/play/teleclub-426.php?c=la-boomerang-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Canal 5
+https://blackghost.live/play/teleclub-426.php?c=CANAL-5&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Canal De Las Estrellas Hd
+https://blackghost.live/play/teleclub-426.php?c=Canal-de-las-Estrellas-HD&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Cartoon-Network
+https://blackghost.live/play/teleclub-426.php?c=la-cartoon-network-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Cinemax
+https://blackghost.live/play/teleclub-426.php?c=la-cinemax&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Comedy-Central
+https://blackghost.live/play/teleclub-426.php?c=la-comedy-central-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Discovery-Channel
+https://blackghost.live/play/teleclub-426.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Discovery-Home-Health
+https://blackghost.live/play/teleclub-426.php?c=la-discovery-home-health&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Discovery-Kids
+https://blackghost.live/play/teleclub-426.php?c=la-discovery-kids-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Discovery-Science
+https://blackghost.live/play/teleclub-426.php?c=DISCOVERY-SCIENCE&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Discovery-Theater
+https://blackghost.live/play/teleclub-426.php?c=DISCOVERY-THEATER-HD&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Discovery-Tlc
+https://blackghost.live/play/teleclub-426.php?c=la-discovery-tlc&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Discovery-World
+https://blackghost.live/play/teleclub-426.php?c=DISCOVERY-WORLD-HD&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Disney-Channel
+https://blackghost.live/play/teleclub-426.php?c=la-disney-channel-hd&f=.m3u8
+#EXTINF: -1 título-grupo = "SATELITE", Disney-Junior
+https://blackghost.live/play/teleclub-426.php?c=la-disney-junior&f=.m3u8
+#EXTINF: -1 título-grupo = "SATELITE", Disney-Xd
+https://blackghost.live/play/teleclub-426.php?c=la-disney-xd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", E-Entertainment
+https://blackghost.live/play/teleclub-426.php?c=la-e-entertainment-hd&f=.m3u8
+#EXTINF: -1 título-grupo = "SATELITE", El-Gourmet
+https://blackghost.live/play/teleclub-426.php?c=la-el-gourmet&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Food-Network
+https://blackghost.live/play/teleclub-426.php?c=la-food-network-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Foxchannel
+https://blackghost.live/play/teleclub-426.php?c=foxchannel/index.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
+#EXTINF: -1 título de grupo = "SATELITE", Fox-Cinema
+https://blackghost.live/play/teleclub-426.php?c=la-fox-cinema-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Fox-Classics
+https://blackghost.live/play/teleclub-426.php?c=la-fox-classics&f=.m3u8
+#EXTINF: -1 título de grupo = "SATELITE", Fox-Comedy
+https://blackghost.live/play/teleclub-426.php?c=la-fox-comedy-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Fox-Family
+https://blackghost.live/play/teleclub-426.php?c=la-fox-family-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Fox-Life
+https://blackghost.live/play/teleclub-426.php?c=la-fox-life-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Fox-Movies
+https://blackghost.live/play/teleclub-426.php?c=Fox-Movies-HD&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Fox-Series
+https://blackghost.live/play/teleclub-426.php?c=FOX-SERIES&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Fx
+https://blackghost.live/play/teleclub-426.php?c=la-fx-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Dorado
+https://blackghost.live/play/teleclub-426.php?c=GOLDEN-HD&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Hbo-2
+https://blackghost.live/play/teleclub-426.php?c=la-HBO-2&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Hbo-Signature
+https://blackghost.live/play/teleclub-426.php?c=HBO-SIGNATURE-HD&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", History-Channel
+https://blackghost.live/play/teleclub-426.php?c=la-history-channel-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", de por vida
+https://blackghost.live/play/teleclub-426.php?c=la-lifetime-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Max-Prime
+https://blackghost.live/play/teleclub-426.php?c=MAX-PRIME-HD&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Mtv
+https://blackghost.live/play/teleclub-426.php?c=la-mtv-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Multimediossd
+https://blackghost.live/play/teleclub-426.php?c=multimediossd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Nat-Geo-Kids
+https://blackghost.live/play/teleclub-426.php?c=la-nat-geo-kids-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Nat-Geo-Wild
+https://blackghost.live/play/teleclub-426.php?c=la-nat-geo-wild-hd&f=.m3u8
+#EXTINF: -1 título-grupo = "SATELITE", Nick-2
+https://blackghost.live/play/teleclub-426.php?c=la-nick-2-hd&f=.m3u8
+#EXTINF: -1 título-grupo = "SATELITE", Nick-Jr
+https://blackghost.live/play/teleclub-426.php?c=nick-jr&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Nicktoons
+https://blackghost.live/play/teleclub-426.php?c=la-nicktoons&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Paramount-Channel
+https://blackghost.live/play/teleclub-426.php?c=la-paramount-channel-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Sony
+https://blackghost.live/play/teleclub-426.php?c=la-sony-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Espacio
+https://blackghost.live/play/teleclub-426.php?c=la-space-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Telenovelas
+https://blackghost.live/play/teleclub-426.php?c=la-telenovelas&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Tnt-Series
+https://blackghost.live/play/teleclub-426.php?c=la-tnt-series-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Tooncast
+https://blackghost.live/play/teleclub-426.php?c=la-tooncast-hd&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Unicable
+https://blackghost.live/play/teleclub-426.php?c=la-unicable&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Universal-Channel
+https://blackghost.live/play/teleclub-426.php?c=la-universal-channel&f=.m3u8
+#EXTINF: -1 group-title = "SATELITE", Warner
+https://blackghost.live/play/teleclub-426.php?c=la-warner-hd&f=.m3u8
 
 #EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
 http://45.71.202.210:50000/play/a021/index.m3u8
