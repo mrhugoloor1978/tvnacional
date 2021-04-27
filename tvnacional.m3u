@@ -37,16 +37,7 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b12480
 http://45.71.202.210:50000/play/a07i/index.m3u8
 #EXTINF:-1 group-title="ECUADOR",Ecuador TV 
 http://45.71.202.210:50000/play/a02i/index.m3u8
-#EXTINF: -1 título-grupo = "ECUADOR, Ecuavisa
-http://201.182.242.194:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="ECUADOR",GamaTV 
-http://45.71.202.210:50000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="ECUADOR",TC Television 
-http://45.71.202.210:50000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="ECUADOR",Teleamazonas SD 
-http://45.71.202.210:50000/play/a07o/index.m3u8 
-#EXTINF:-1 group-title="ECUADOR",Teleamazonas (clone)-fsef01 
-http://45.71.202.210:50000/play/a08q/index.m3u8
+
 
 #EXTINF:-1 group-title= "DEPORTES",ClaroSports
 http://45.71.202.210:50000/play/a01w/index.m3u8
@@ -223,7 +214,7 @@ http://38.131.11.225:8000/play/a0fz
 http://38.131.11.225:8000/play/a0fy
 #EXTINF: -1 group-title = "TVSATELITE", Sony
 http://38.131.11.225:8000/play/a01w
-#EXTINF: -1 group-title = "TVSATELITE", Espacio
+#EXTINF: -1 group-title = "TVSATELITE",  Space
 http://38.131.11.225:8000/play/a01y
 #EXTINF: -1 group-title = "TVSATELITE", TBS
 http://38.131.11.225:8000/play/a038
