@@ -227,7 +227,7 @@ http://38.131.11.225:8000/play/a038
 http://38.131.11.225:8000/play/a010
 #EXTINF: -1 group-title = "TVSATELITE", TNT
 http://38.131.11.225:8000/play/a013
-#EXTINF: -1 group-title = "SATELITE", TNT Series
+#EXTINF: -1 group-title = "TVSATELITE", TNT Series
 https://blackghost.live/play/zufree-426.php?c=352&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", TV + HD
 http://38.131.11.225:8000/play/a0f0
