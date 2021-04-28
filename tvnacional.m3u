@@ -96,7 +96,7 @@ http://skylogic.site:8080/esterichannel50con/36cb6c13/82439
 
 #EXTINF: -1 group-title = "TVSATELITE", Multipremier
 http://200.115.190.211:8000/play/PKaCscg4MeGenpzG/index.m3u8
-#EXTINF: -1 título-grupo = "TVSATELITE", AXN 
+#EXTINF: -1 group-title = "TVSATELITE", AXN 
 http://38.131.11.225:8000/play/a01x
 #EXTINF: -1 group-title = "TVSATELITE", Cartoon Network
 http://200.115.190.211:8000/play/73Ep4s92JhcqCy3U/index.m3u8
@@ -104,7 +104,7 @@ http://200.115.190.211:8000/play/73Ep4s92JhcqCy3U/index.m3u8
 http://138.0.229.13:8000/play/a039/index.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", 24 Horas
 http://38.131.11.225:8000/play/a00m
-#EXTINF: -1 group-title = "TVSATELITE", AE Mundo
+#EXTINF: -1 group-title = "TVSATELITE", A&E Mundo
 http://38.131.11.225:8000/play/a02q
 #EXTINF: -1 group-title = "TVSATELITE", AXN
 http://38.131.11.225:8000/play/a01x
@@ -303,7 +303,7 @@ https://blackghost.live/play/zufree-426.php?c=333&f=.ts
 https://blackghost.live/play/zufree-426.php?c=334&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Nick Jr Latinoamérica
 https://blackghost.live/play/zufree-426.php?c=335&f=.ts
-#EXTINF: -1 título de grupo = "TVSATELITE", Nickelodeon Norte
+#EXTINF: -1 group-title = "TVSATELITE", Nickelodeon 
 https://blackghost.live/play/zufree-426.php?c=336&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Paramount Network Latin America
 https://blackghost.live/play/zufree-426.php?c=340&f=.ts
@@ -327,7 +327,7 @@ https://blackghost.live/play/teleclub-426.php?c=la-animal-planet-hd&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=aztecauno&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Bitme
 https://blackghost.live/play/teleclub-426.php?c=bitme&f=.m3u8
-#EXTINF: -1 group-titleo = "TVSATELITE", Bloomberg
+#EXTINF: -1 group-title = "TVSATELITE", Bloomberg
 https://blackghost.live/play/teleclub-426.php?c=bloomberg&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Boomerang
 https://blackghost.live/play/teleclub-426.php?c=la-boomerang-hd&f=.m3u8
@@ -363,7 +363,7 @@ https://blackghost.live/play/teleclub-426.php?c=la-disney-junior&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=la-disney-xd&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", E-Entertainment
 https://blackghost.live/play/teleclub-426.php?c=la-e-entertainment-hd&f=.m3u8
-#EXTINF: -1 título-grupo = "TVSATELITE", Gourmet 
+#EXTINF: -1 group-title = "TVSATELITE", Gourmet 
 https://blackghost.live/play/teleclub-426.php?c=la-el-gourmet&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Food-Network
 https://blackghost.live/play/teleclub-426.php?c=la-food-network-hd&f=.m3u8
