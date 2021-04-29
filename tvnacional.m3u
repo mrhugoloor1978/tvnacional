@@ -15,13 +15,6 @@ http://200.24.132.99:8000/play/a008
 #EXTINF:-1 group-title="ECUADOR",TELEAMAZONAS HD
 http://200.24.132.99:8000/play/a006
 
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/6/67/Ecuavisa_logo_2008.png" group-title="ECUADOR",Ecuavisa QUITO HD
-http://latinoamericatv.vip:8080/paco/paco123/309
-
-
-
-
-
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" tvg-url="" group-title="ECUADOR",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
@@ -43,6 +36,20 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b12480
 http://45.71.202.210:50000/play/a07i/index.m3u8
 #EXTINF:-1 group-title="ECUADOR",Ecuador TV 
 http://45.71.202.210:50000/play/a02i/index.m3u8
+
+
+#EXTINF:-1 group-title="ECUADOR",Ecuavisa QUITO HD
+http://latinoamericatv.vip:8080/paco/paco123/309
+#EXTINF:-1 group-title="ECUADOR",Ecuavisa sd
+http://latinoamericatv.vip:8080/paco/paco123/312
+#EXTINF:-1 group-title="ECUADOR",TELEAMAZONAS GQUIL SD
+http://latinoamericatv.vip:8080/paco/paco123/317
+#EXTINF:-1 group-title="ECUADOR",TELEAMAZONAS QUITO SIERRA HD
+http://latinoamericatv.vip:8080/paco/paco123/320
+#EXTINF:-1 group-title="ECUADOR",ECUAVISA GQUIL HD
+http://latinoamericatv.vip:8080/paco/paco123/321
+#EXTINF:-1 group-title="ECUADOR",Ecuavisa Internacional
+http://latinoamericatv.vip:8080/paco/paco123/324
 
 
 #EXTINF:-1 group-title= "DEPORTES",ClaroSports
@@ -435,6 +442,13 @@ https://blackghost.live/play/teleclub-426.php?c=la-unicable&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=la-universal-channel&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Warner
 https://blackghost.live/play/teleclub-426.php?c=la-warner-hd&f=.m3u8
+
+#EXTINF:-1 group-title="TVSATELITE,TNT SERIES  SD
+http://latinoamericatv.vip:8080/paco/paco123/1250
+#EXTINF:-1 group-title="TVSATELITE,AMC  SD
+http://latinoamericatv.vip:8080/paco/paco123/1285
+#EXTINF:-1 group-title="TVSATELITE,GOLDEN EDG  SD
+http://latinoamericatv.vip:8080/paco/paco123/1291
 
 #EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
 http://45.71.202.210:50000/play/a021/index.m3u8
