@@ -256,7 +256,7 @@ http://38.131.11.225:8000/play/a031
 #EXTINF: -1 group-title = "TVSATELITE", Warner
 http://38.131.11.225:8000/play/a05i
 
-#EXTINF: -1 group-title = "TVSATELITE", Animal Planet Latinoamérica
+#EXTINF: -1 group-title = "TVSATELITE", Animal Planet
 https://blackghost.live/play/zufree-426.php?c=259&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Axn
 https://blackghost.live/play/zufree-426.php?c=263&f=.ts
@@ -272,9 +272,9 @@ https://blackghost.live/play/zufree-426.php?c=283&f=.ts
 https://blackghost.live/play/zufree-426.php?c=284&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Discovery Turbo
 https://blackghost.live/play/zufree-426.php?c=286&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", Disney Channel México
+#EXTINF: -1 group-title = "TVSATELITE", Disney Channel 
 https://blackghost.live/play/zufree-426.php?c=287&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", Disney Junior México
+#EXTINF: -1 group-title = "TVSATELITE", Disney Junior 
 https://blackghost.live/play/zufree-426.php?c=288&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Disney XD
 https://blackghost.live/play/zufree-426.php?c=289&f=.ts
@@ -286,27 +286,27 @@ https://blackghost.live/play/zufree-426.php?c=297&f=.ts
 https://blackghost.live/play/zufree-426.php?c=300&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Fox Premium Movies
 https://blackghost.live/play/zufree-426.php?c=301&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", Fox Premium Series Oeste
+#EXTINF: -1 group-title = "TVSATELITE", Fox Premium Series 
 https://blackghost.live/play/zufree-426.php?c=302&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", FX
 https://blackghost.live/play/zufree-426.php?c=306&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", FXM
 https://blackghost.live/play/zufree-426.php?c=307&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", HBO + Latinoamérica
+#EXTINF: -1 group-title = "TVSATELITE", HBO + 
 https://blackghost.live/play/zufree-426.php?c=309&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", HBO 2 Latinoamérica
+#EXTINF: -1 group-title = "TVSATELITE", HBO 2 
 https://blackghost.live/play/zufree-426.php?c=310&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", HBO Family Latinoamérica
+#EXTINF: -1 group-title = "TVSATELITE", HBO Family 
 https://blackghost.live/play/zufree-426.php?c=311&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", HBO Latinoamérica
+#EXTINF: -1 group-title = "TVSATELITE", HBO
 https://blackghost.live/play/zufree-426.php?c=312&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Hbo Xtreme
 https://blackghost.live/play/zufree-426.php?c=313&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", History Latinoamérica
+#EXTINF: -1 group-title = "TVSATELITE", History
 https://blackghost.live/play/zufree-426.php?c=315&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Descubrimiento de investigación
 https://blackghost.live/play/zufree-426.php?c=321&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", Las Estrellas México
+#EXTINF: -1 group-title = "TVSATELITE", Las Estrellas
 https://blackghost.live/play/zufree-426.php?c=324&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", MTV Latino
 https://blackghost.live/play/zufree-426.php?c=329&f=.ts
@@ -324,11 +324,11 @@ https://blackghost.live/play/zufree-426.php?c=340&f=.ts
 https://blackghost.live/play/zufree-426.php?c=345&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Studio Universal
 https://blackghost.live/play/zufree-426.php?c=346&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", Tcl
+#EXTINF: -1 group-title = "TVSATELITE", Tlc
 https://blackghost.live/play/zufree-426.php?c=349&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", TNT América Latina
+#EXTINF: -1 group-title = "TVSATELITE", TNT
 https://blackghost.live/play/zufree-426.php?c=351&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", TNT Series México
+#EXTINF: -1 group-title = "TVSATELITE", TNT
 https://blackghost.live/play/zufree-426.php?c=352&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Ae
 https://blackghost.live/play/teleclub-426.php?c=la-ae-hd&f=.m3u8
@@ -406,13 +406,13 @@ https://blackghost.live/play/teleclub-426.php?c=la-HBO-2&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=HBO-SIGNATURE-HD&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", History-Channel
 https://blackghost.live/play/teleclub-426.php?c=la-history-channel-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", de por vida
+#EXTINF: -1 group-title = "TVSATELITE", Fox life
 https://blackghost.live/play/teleclub-426.php?c=la-lifetime-hd&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Max-Prime
 https://blackghost.live/play/teleclub-426.php?c=MAX-PRIME-HD&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Mtv
 https://blackghost.live/play/teleclub-426.php?c=la-mtv-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Multimediossd
+#EXTINF: -1 group-title = "TVSATELITE", Multimedios sd
 https://blackghost.live/play/teleclub-426.php?c=multimediossd&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Nat-Geo-Kids
 https://blackghost.live/play/teleclub-426.php?c=la-nat-geo-kids-hd&f=.m3u8
@@ -428,7 +428,7 @@ https://blackghost.live/play/teleclub-426.php?c=la-nicktoons&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=la-paramount-channel-hd&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Sony
 https://blackghost.live/play/teleclub-426.php?c=la-sony-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Espacio
+#EXTINF: -1 group-title = "TVSATELITE", Space
 https://blackghost.live/play/teleclub-426.php?c=la-space-hd&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Telenovelas
 https://blackghost.live/play/teleclub-426.php?c=la-telenovelas&f=.m3u8
@@ -443,11 +443,11 @@ https://blackghost.live/play/teleclub-426.php?c=la-universal-channel&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Warner
 https://blackghost.live/play/teleclub-426.php?c=la-warner-hd&f=.m3u8
 
-#EXTINF:-1 group-title="TVSATELITE,TNT SERIES  SD
+#EXTINF:-1 group-title="TVSATELITE", TNT SERIES  SD
 http://latinoamericatv.vip:8080/paco/paco123/1250
-#EXTINF:-1 group-title="TVSATELITE,AMC  SD
+#EXTINF:-1 group-title="TVSATELITE", AMC  SD
 http://latinoamericatv.vip:8080/paco/paco123/1285
-#EXTINF:-1 group-title="TVSATELITE,GOLDEN EDG  SD
+#EXTINF:-1 group-title="TVSATELITE", GOLDEN EDG  SD
 http://latinoamericatv.vip:8080/paco/paco123/1291
 
 #EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
