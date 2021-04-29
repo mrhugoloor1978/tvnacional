@@ -38,18 +38,10 @@ http://45.71.202.210:50000/play/a07i/index.m3u8
 http://45.71.202.210:50000/play/a02i/index.m3u8
 
 
-#EXTINF:-1 group-title="ECUADOR",Ecuavisa QUITO HD
-http://latinoamericatv.vip:8080/paco/paco123/309
+
 #EXTINF:-1 group-title="ECUADOR",Ecuavisa sd
 http://latinoamericatv.vip:8080/paco/paco123/312
-#EXTINF:-1 group-title="ECUADOR",TELEAMAZONAS GQUIL SD
-http://latinoamericatv.vip:8080/paco/paco123/317
-#EXTINF:-1 group-title="ECUADOR",TELEAMAZONAS QUITO SIERRA HD
-http://latinoamericatv.vip:8080/paco/paco123/320
-#EXTINF:-1 group-title="ECUADOR",ECUAVISA GQUIL HD
-http://latinoamericatv.vip:8080/paco/paco123/321
-#EXTINF:-1 group-title="ECUADOR",Ecuavisa Internacional
-http://latinoamericatv.vip:8080/paco/paco123/324
+
 
 
 #EXTINF:-1 group-title= "DEPORTES",ClaroSports
