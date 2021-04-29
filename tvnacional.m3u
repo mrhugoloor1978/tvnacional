@@ -15,7 +15,7 @@ http://200.24.132.99:8000/play/a008
 #EXTINF:-1 group-title="ECUADOR",TELEAMAZONAS HD
 http://200.24.132.99:8000/play/a006
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Ecuavisa#/media/Archivo:Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa QUITO HD
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/6/67/Ecuavisa_logo_2008.png" group-title="ECUADOR",Ecuavisa QUITO HD
 http://latinoamericatv.vip:8080/paco/paco123/309
 
 
