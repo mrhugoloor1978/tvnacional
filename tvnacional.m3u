@@ -443,12 +443,6 @@ https://blackghost.live/play/teleclub-426.php?c=la-universal-channel&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Warner
 https://blackghost.live/play/teleclub-426.php?c=la-warner-hd&f=.m3u8
 
-#EXTINF:-1 group-title="TVSATELITE", TNT SERIES  SD
-http://latinoamericatv.vip:8080/paco/paco123/1250
-#EXTINF:-1 group-title="TVSATELITE", AMC  SD
-http://latinoamericatv.vip:8080/paco/paco123/1285
-#EXTINF:-1 group-title="TVSATELITE", GOLDEN EDG  SD
-http://latinoamericatv.vip:8080/paco/paco123/1291
 
 #EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
 http://45.71.202.210:50000/play/a021/index.m3u8
