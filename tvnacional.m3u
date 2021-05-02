@@ -1,7 +1,6 @@
 # EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: Alienigenas Ancestrales 24/7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE1", Alienigenas Ancestrales
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172712
+
 #EXTINF:-1 group-title="ECUADOR",CANAL UNO HD
 http://200.24.132.99:8000/play/a00a
 #EXTINF:-1 group-title="ECUADOR",ECTV HD
@@ -109,6 +108,10 @@ http://38.131.11.225:8000/play/a01x
 http://200.115.190.211:8000/play/73Ep4s92JhcqCy3U/index.m3u8
 #EXTINF: -1 group-title = "TVSATELITE",  Golden
 http://138.0.229.13:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA: Alienigenas Ancestrales 24/7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE", Alienigenas Ancestrales
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172712
+#EXTINF:-1 tvg-id="" tvg-name="LA: Golden EDGE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TVSATELITE", Golden EDGE
+http://skylogic.site:8080/esterichannel50con/36cb6c13/38467
 #EXTINF: -1 group-title = "TVSATELITE", 24 Horas
 http://38.131.11.225:8000/play/a00m
 #EXTINF: -1 group-title = "TVSATELITE", A&E
