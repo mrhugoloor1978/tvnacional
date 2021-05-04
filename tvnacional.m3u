@@ -133,7 +133,7 @@ http://38.131.11.225:8000/play/a0bk
 http://38.131.11.225:8000/play/a0bj
 #EXTINF: -1 group-title = "TVSATELITE", Canal 13
 http://38.131.11.225:8000/play/a0bb
-#EXTINF: -1 group-title = "TVSATELITE", Canal de Las estrellas
+#EXTINF: -1 group-title = "TVSATELITE", Las estrellas
 http://38.131.11.225:8000/play/a032
 #EXTINF: -1 group-title = "TVSATELITE", Cartoon Network
 http://38.131.11.225:8000/play/a012
@@ -151,11 +151,11 @@ http://38.131.11.225:8000/play/a0bf
 http://38.131.11.225:8000/play/a0bq
 #EXTINF: -1 group-title = "TVSATELITE", Disney Channel
 http://38.131.11.225:8000/play/a0bd
-#EXTINF: -1 group-title = "TVSATELITE", Disney Jr
+#EXTINF: -1 group-title = "TVSATELITE", Disney Junior
 http://38.131.11.225:8000/play/a0bg
 #EXTINF: -1 group-title = "TVSATELITE", Disney 
 http://38.131.11.225:8000/play/a0be
-#EXTINF: -1 group-title = "TVSATELITE", E Entertainment
+#EXTINF: -1 group-title = "TVSATELITE", E! Entertainment
 http://38.131.11.225:8000/play/a0bo
 #EXTINF: -1 group-title = "TVSATELITE", ESPN
 http://38.131.11.225:8000/play/a0bt
@@ -169,7 +169,7 @@ http://38.131.11.225:8000/play/a03f
 http://38.131.11.225:8000/play/a00f
 #EXTINF: -1 group-title = "TVSATELITE", FOX P MOVIES
 http://38.131.11.225:8000/play/a09n
-#EXTINF: -1 group-title = "TVSATELITE", FOX P SERIES E
+#EXTINF: -1 group-title = "TVSATELITE", FOX P SERIES 
 http://38.131.11.225:8000/play/a09o
 #EXTINF: -1 group-title = "TVSATELITE", FX
 http://38.131.11.225:8000/play/a0bm
@@ -185,8 +185,8 @@ http://38.131.11.225:8000/play/a0c1
 http://38.131.11.225:8000/play/a0ca
 #EXTINF: -1 group-title = "TVSATELITE", Fox Sports 3
 http://38.131.11.225:8000/play/a0bv
-#EXTINF: -1 group-title = "TVSATELITE", GOL TV
-http://38.131.11.225:8000/play/a0f2
+#EXTINF:-1 tvg-id="Dep|| Gol TV  | Ecuador" tvg-name="LAT: Gol TV | Ecuador" tvg-logo="http://xtream-coders.com/x0/deportes/goltv.png" group-title="TVSATELITE", Gol TV 
+http://011011011.com:8080/vuemedia/587yt65r/132842
 #EXTINF: -1 group-title = "TVSATELITE", HBO
 http://38.131.11.225:8000/play/a01u
 #EXTINF: -1 group-title = "TVSATELITE", HBO 2
@@ -201,7 +201,7 @@ http://38.131.11.225:8000/play/a00i
 http://38.131.11.225:8000/play/a00r
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: H2" tvg-logo="http://xtream-coders.com/x0/latino/histort2.png" group-title="TVSATELITE", H2
 http://011011011.com:8080/vuemedia/587yt65r/43720
-#EXTINF: -1 group-title = "TVSATELITE", Home and Health
+#EXTINF: -1 group-title = "TVSATELITE", Discovery Home and Health
 http://38.131.11.225:8000/play/a01d
 #EXTINF: -1 group-title = "TVSATELITE", I-Sat
 http://38.131.11.225:8000/play/a00v
@@ -213,9 +213,9 @@ http://38.131.11.225:8000/play/a00w
 http://38.131.11.225:8000/play/a007
 #EXTINF: -1 group-title = "TVSATELITE", Nat Geo
 http://38.131.11.225:8000/play/a00q
-#EXTINF: -1 group-title = "TVSATELITE", NatGeo Kids
+#EXTINF: -1 group-title = "TVSATELITE", Nat-Geo Kids
 http://38.131.11.225:8000/play/a011
-#EXTINF: -1 group-title = "TVSATELITE", Nick Jr
+#EXTINF: -1 group-title = "TVSATELITE", Nick Junior
 http://38.131.11.225:8000/play/a0bi
 #EXTINF: -1 group-title = "TVSATELITE", Nickelodeon
 http://38.131.11.225:8000/play/a00o
@@ -225,7 +225,7 @@ http://38.131.11.225:8000/play/a0fz
 http://38.131.11.225:8000/play/a0fy
 #EXTINF: -1 group-title = "TVSATELITE", Sony
 http://38.131.11.225:8000/play/a01w
-#EXTINF: -1 group-title = "TVSATELITE",  Space
+#EXTINF: -1 group-title = "TVSATELITE", Space
 http://38.131.11.225:8000/play/a01y
 #EXTINF: -1 group-title = "TVSATELITE", TBS
 http://38.131.11.225:8000/play/a038
@@ -245,7 +245,7 @@ http://38.131.11.225:8000/play/a0a9
 http://38.131.11.225:8000/play/a006
 #EXTINF: -1 group-title = "TVSATELITE", Telemundo
 http://38.131.11.225:8000/play/a035
-#EXTINF: -1 group-title = "TVSATELITE", TLC
+#EXTINF: -1 group-title = "TVSATELITE", Tlc
 http://38.131.11.225:8000/play/a030
 #EXTINF: -1 group-title = "TVSATELITE", TyC Sports
 http://38.131.11.225:8000/play/a02o
@@ -308,17 +308,17 @@ https://blackghost.live/play/zufree-426.php?c=315&f=.ts
 https://blackghost.live/play/zufree-426.php?c=321&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Las Estrellas
 https://blackghost.live/play/zufree-426.php?c=324&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", MTV Latino
+#EXTINF: -1 group-title = "TVSATELITE", MTV
 https://blackghost.live/play/zufree-426.php?c=329&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", National Geographic Norte
+#EXTINF: -1 group-title = "TVSATELITE", Nat-Geo
 https://blackghost.live/play/zufree-426.php?c=333&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Nat-Geo-Wild
 https://blackghost.live/play/zufree-426.php?c=334&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", Nick Jr 
+#EXTINF: -1 group-title = "TVSATELITE", Nick Junior 
 https://blackghost.live/play/zufree-426.php?c=335&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Nickelodeon 
 https://blackghost.live/play/zufree-426.php?c=336&f=.ts
-#EXTINF: -1 group-title = "TVSATELITE", Paramount Network 
+#EXTINF: -1 group-title = "TVSATELITE", Paramount  
 https://blackghost.live/play/zufree-426.php?c=340&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", Space  
 https://blackghost.live/play/zufree-426.php?c=345&f=.ts
@@ -332,11 +332,11 @@ https://blackghost.live/play/zufree-426.php?c=351&f=.ts
 https://blackghost.live/play/zufree-426.php?c=352&f=.ts
 #EXTINF: -1 group-title = "TVSATELITE", A&e
 https://blackghost.live/play/teleclub-426.php?c=la-ae-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Amc
-https://blackghost.live/play/teleclub-426.php?c=la-AMC&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Animal-Planet
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: AMC" tvg-logo="http://xtream-coders.com/x0/latino/amc.png" group-title="TVSATELITE", AMC
+http://011011011.com:8080/vuemedia/587yt65r/82172
+#EXTINF: -1 group-title = "TVSATELITE", Animal Planet
 https://blackghost.live/play/teleclub-426.php?c=la-animal-planet-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Aztecauno
+#EXTINF: -1 group-title = "TVSATELITE", Azteca uno
 https://blackghost.live/play/teleclub-426.php?c=aztecauno&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Bitme
 https://blackghost.live/play/teleclub-426.php?c=bitme&f=.m3u8
@@ -352,9 +352,9 @@ https://blackghost.live/play/teleclub-426.php?c=Canal-de-las-Estrellas-HD&f=.m3u
 https://blackghost.live/play/teleclub-426.php?c=la-cartoon-network-hd&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Cinemax
 https://blackghost.live/play/teleclub-426.php?c=la-cinemax&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Comedy-Central
+#EXTINF: -1 group-title = "TVSATELITE", Comedy Central
 https://blackghost.live/play/teleclub-426.php?c=la-comedy-central-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Discovery-Channel
+#EXTINF: -1 group-title = "TVSATELITE", Discovery Channel
 https://blackghost.live/play/teleclub-426.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Discovery-Home-Health
 https://blackghost.live/play/teleclub-426.php?c=la-discovery-home-health&f=.m3u8
@@ -380,7 +380,7 @@ https://blackghost.live/play/teleclub-426.php?c=la-e-entertainment-hd&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=la-el-gourmet&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Food-Network
 https://blackghost.live/play/teleclub-426.php?c=la-food-network-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Foxchannel
+#EXTINF: -1 group-title = "TVSATELITE", Fox channel
 https://blackghost.live/play/teleclub-426.php?c=foxchannel/index.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Fox-Cinema
 https://blackghost.live/play/teleclub-426.php?c=la-fox-cinema-hd&f=.m3u8
@@ -398,7 +398,7 @@ https://blackghost.live/play/teleclub-426.php?c=Fox-Movies-HD&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=FOX-SERIES&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Fx
 https://blackghost.live/play/teleclub-426.php?c=la-fx-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE",  Golden
+#EXTINF: -1 group-title = "TVSATELITE", Golden
 https://blackghost.live/play/teleclub-426.php?c=GOLDEN-HD&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Hbo-2
 https://blackghost.live/play/teleclub-426.php?c=la-HBO-2&f=.m3u8
@@ -420,7 +420,7 @@ https://blackghost.live/play/teleclub-426.php?c=la-nat-geo-kids-hd&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=la-nat-geo-wild-hd&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Nick-2
 https://blackghost.live/play/teleclub-426.php?c=la-nick-2-hd&f=.m3u8
-#EXTINF: -1 group-title = "TVSATELITE", Nick-Jr
+#EXTINF: -1 group-title = "TVSATELITE", Nick-Junior
 https://blackghost.live/play/teleclub-426.php?c=nick-jr&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", Nicktoons
 https://blackghost.live/play/teleclub-426.php?c=la-nicktoons&f=.m3u8
@@ -448,13 +448,16 @@ https://blackghost.live/play/teleclub-426.php?c=la-warner-hd&f=.m3u8
 http://45.71.202.210:50000/play/a021/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA",CHILE TV 
 http://179.51.168.13:3000/play/asd3
-#EXTINF:-1 group-title="COLOMBIA",Canal Caracol
-http://186.33.168.30:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg" group-title="COLOMBIA", Cali TV  | CO
+
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: RCN TELENOVELAS" tvg-logo="http://xtream-coders.com/x0/latino/rcn_telenovelas.png" group-title="COLOMBIA", RCN TELENOVELAS
+http://011011011.com:8080/vuemedia/587yt65r/92035
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: Caracol " tvg-logo="http://xtream-coders.com/x0/latino/caracol.png" group-title="COLOMBIA", Caracol 
+http://011011011.com:8080/vuemedia/587yt65r/47837
+#EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg" group-title="COLOMBIA", Cali TV 
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="115" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/115_Canal_Capital.png" group-title="COLOMBIA", Canal Capital  | CO
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg" group-title="COLOMBIA", Caracol  | CO
+#EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg" group-title="COLOMBIA", Caracol 
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="125" tvg-name="Cosmovisión" tvg-logo="https://www.m3u.cl/logo/125_Cosmovision.jpg" group-title="COLOMBIA", Cosmovisión  | CO
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8?PlaylistM3UCL
