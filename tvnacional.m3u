@@ -46,7 +46,7 @@ http://latinoamericatv.vip:8080/paco/paco123/312
 
 
 
-#EXTINF:-1 group-title= "DEPORTES",ClaroSports
+#EXTINF:-1 group-title= "DEPORTES",Claro Sports
 http://45.71.202.210:50000/play/a01w/index.m3u8
 #EXTINF:-1 group-title= "DEPORTES",ESPN 2 CO
 http://45.71.202.210:50000/play/a07u/index.m3u8
@@ -165,11 +165,11 @@ http://38.131.11.225:8000/play/a0bs
 http://38.131.11.225:8000/play/a029
 #EXTINF: -1 group-title = "TVSATELITE", Enlace
 http://38.131.11.225:8000/play/a03f
-#EXTINF: -1 group-title = "TVSATELITE", FOX P ACTION
+#EXTINF: -1 group-title = "TVSATELITE", FOX Premium ACTION
 http://38.131.11.225:8000/play/a00f
-#EXTINF: -1 group-title = "TVSATELITE", FOX P MOVIES
+#EXTINF: -1 group-title = "TVSATELITE", FOX Premium MOVIES
 http://38.131.11.225:8000/play/a09n
-#EXTINF: -1 group-title = "TVSATELITE", FOX P SERIES 
+#EXTINF: -1 group-title = "TVSATELITE", FOX Premium SERIES 
 http://38.131.11.225:8000/play/a09o
 #EXTINF: -1 group-title = "TVSATELITE", FX
 http://38.131.11.225:8000/play/a0bm
@@ -201,7 +201,7 @@ http://38.131.11.225:8000/play/a00i
 http://38.131.11.225:8000/play/a00r
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: H2" tvg-logo="http://xtream-coders.com/x0/latino/histort2.png" group-title="TVSATELITE", H2
 http://011011011.com:8080/vuemedia/587yt65r/43720
-#EXTINF: -1 group-title = "TVSATELITE", Discovery Home and Health
+#EXTINF: -1 group-title = "TVSATELITE", Discovery Home & Health
 http://38.131.11.225:8000/play/a01d
 #EXTINF: -1 group-title = "TVSATELITE", I-Sat
 http://38.131.11.225:8000/play/a00v
@@ -251,7 +251,7 @@ http://38.131.11.225:8000/play/a030
 http://38.131.11.225:8000/play/a02o
 #EXTINF: -1 group-title = "TVSATELITE", Universal
 http://38.131.11.225:8000/play/a00t
-#EXTINF: -1 group-title = "TVSATELITE", ViaX
+#EXTINF: -1 group-title = "TVSATELITE", Via X
 http://38.131.11.225:8000/play/a031
 #EXTINF: -1 group-title = "TVSATELITE", Warner
 http://38.131.11.225:8000/play/a05i
