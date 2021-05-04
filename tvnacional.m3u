@@ -199,6 +199,8 @@ http://38.131.11.225:8000/play/a00h
 http://38.131.11.225:8000/play/a00i
 #EXTINF: -1 group-title = "TVSATELITE", History Channel
 http://38.131.11.225:8000/play/a00r
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: H2" tvg-logo="http://xtream-coders.com/x0/latino/histort2.png" group-title="TVSATELITE", H2
+http://011011011.com:8080/vuemedia/587yt65r/43720
 #EXTINF: -1 group-title = "TVSATELITE", Home and Health
 http://38.131.11.225:8000/play/a01d
 #EXTINF: -1 group-title = "TVSATELITE", I-Sat
