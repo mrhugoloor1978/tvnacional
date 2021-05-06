@@ -6,9 +6,9 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 http://200.24.132.99:8000/play/a00a
 #EXTINF:-1 group-title="ECUADOR",ECTV HD
 http://200.24.132.99:8000/play/a00f
-#EXTINF:-1 group-title="ECUADOR",Ecuavisa HD
+#EXTINF:-1 tvg-logo="https://www.radiocre.com/wp-content/uploads/2015/06/logo-ecuavisa.jpg" group-title="ECUADOR",Ecuavisa HD
 http://200.24.132.99:8000/play/a002
-#EXTINF:-1 group-title="ECUADOR",Oromar HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar HD
 http://200.24.132.99:8000/play/a00c
 #EXTINF:-1 group-title="ECUADOR",RTS HD
 http://200.24.132.99:8000/play/a004
@@ -16,6 +16,8 @@ http://200.24.132.99:8000/play/a004
 http://200.24.132.99:8000/play/a008
 #EXTINF:-1 group-title="ECUADOR",TELEAMAZONAS HD
 http://200.24.132.99:8000/play/a006
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/05/miptv-100x70.png" group-title="ECUADOR",EC:ACV Vision Movies (EC)
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/chunklist_w1667001350.m3u8?_=1
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" tvg-url="" group-title="ECUADOR",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
