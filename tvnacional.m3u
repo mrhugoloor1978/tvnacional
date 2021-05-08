@@ -262,196 +262,251 @@ http://38.131.11.225:8000/play/a05i
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: AMC" tvg-logo="http://xtream-coders.com/x0/latino/amc.png" group-title="TVSATELITE", AMC
 http://011011011.com:8080/vuemedia/587yt65r/82172
 
-#EXTINF:-1 group-title = "TVSATELITE", A&E HD
-http://45.182.23.211:2000/play/a0bo/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", AMC HD
-http://45.182.23.211:2000/play/a0bp/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", AXN HD
-http://45.182.23.211:2000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", AZ click HD
-http://45.182.23.211:2000/play/a0bv/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Animal Planet HD
-http://45.182.23.211:2000/play/a0bl/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Antena 7- HD
-http://45.182.23.211:2000/play/a0b2/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Azcorazon
-http://45.182.23.211:2000/play/a0dr/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", BBC World
-http://45.182.23.211:2000/play/a0dv/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Boomerang
-http://45.182.23.211:2000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", CARTOON NT HD
-http://45.182.23.211:2000/play/a0al/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", CCN
-http://45.182.23.211:2000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", CERTV
-http://45.182.23.211:2000/play/a0c0/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", CINECANAL HD
-http://45.182.23.211:2000/play/a0b0/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", CNN Español
-http://45.182.23.211:2000/play/a0bf/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Canal 3 - GUA
-http://45.182.23.211:2000/play/a0ea/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Canal 4 - PAN
-http://45.182.23.211:2000/play/a0ee/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Cine Latino
-http://45.182.23.211:2000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Cine Latino
-http://45.182.23.211:2000/play/a0ep/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", CineMax
-http://45.182.23.211:2000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Comedy Central HD
-http://45.182.23.211:2000/play/a0dd/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Concert Channel
-http://45.182.23.211:2000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", DHE HD
-http://45.182.23.211:2000/play/a0bu/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", DISCOVERY THEATHER HD
-http://45.182.23.211:2000/play/a0da/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Discovery Channel HD
-http://45.182.23.211:2000/play/a0cz/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Discovery Home & Health
-http://45.182.23.211:2000/play/a0el/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Discovery ID HD
-http://45.182.23.211:2000/play/a0d4/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Discovery Kids HD
-http://45.182.23.211:2000/play/a0d0/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Discovery Turbo
-http://45.182.23.211:2000/play/a0ek/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Discovery World HD
-http://45.182.23.211:2000/play/a0d1/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Disney
-http://45.182.23.211:2000/play/a0c8/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Disney Junior
-http://45.182.23.211:2000/play/a0do/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Disney HD
-http://45.182.23.211:2000/play/a0aw/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", E! Entertairment HD
-http://45.182.23.211:2000/play/a0bm/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", ESPN 2 HD
-http://45.182.23.211:2000/play/a0cu/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", ESPN 3 HD
-http://45.182.23.211:2000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", ESPN HD
-http://45.182.23.211:2000/play/a0cs/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", EWTN
-http://45.182.23.211:2000/play/a0bh/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", El Gourmet
-http://45.182.23.211:2000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Europa HD
-http://45.182.23.211:2000/play/a0bs/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE",FOX
-http://45.182.23.211:2000/play/a0c9/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE",FOX Action HD
-http://45.182.23.211:2000/play/a0di/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FOX Comedy HD
-http://45.182.23.211:2000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FOX Family HD
-http://45.182.23.211:2000/play/a0dj/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FOX HD
-http://45.182.23.211:2000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FOX LIFE
-http://45.182.23.211:2000/play/a0b9/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FOX Movies HD
-http://45.182.23.211:2000/play/a0dh/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FOX SPORTS 2 HD
-http://45.182.23.211:2000/play/a0d8/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FOX SPORTS 3 HD
-http://45.182.23.211:2000/play/a0cv/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FOX Series HD
-http://45.182.23.211:2000/play/a0dg/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FX HD
-http://45.182.23.211:2000/play/a0br/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", FX Movies HD
-http://45.182.23.211:2000/play/a0bt/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Film & arts HD
-http://45.182.23.211:2000/play/a0bn/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Fox Classic HD
-http://45.182.23.211:2000/play/a0dk/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Fox Sports HD
-http://45.182.23.211:2000/play/a0cp/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Golf Channel HD
-http://45.182.23.211:2000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", HBO Family HD
-http://45.182.23.211:2000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", HBO HD
-http://45.182.23.211:2000/play/a0am/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", HBO Plus HD
-http://45.182.23.211:2000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", HBO2 HD
-http://45.182.23.211:2000/play/a0an/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", HOLA! TV HD
-http://45.182.23.211:2000/play/a0dc/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", History HD
-http://45.182.23.211:2000/play/a0as/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Discovery Home & Health HD
-http://45.182.23.211:2000/play/a0db/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", LIFE TIME
-http://45.182.23.211:2000/play/a0bc/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", MTV HD
-http://45.182.23.211:2000/play/a0at/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", MTV Hits
-http://45.182.23.211:2000/play/a0bd/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", MTV SIM HD
-http://45.182.23.211:2000/play/a0de/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Multipremier
-http://45.182.23.211:2000/play/a0eo/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Nat Geo HD
-http://45.182.23.211:2000/play/a0cw/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Nat Geo
-http://45.182.23.211:2000/play/a0dt/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Nick 2 HD
-http://45.182.23.211:2000/play/a0d6/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Nick Junior
-http://45.182.23.211:2000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Nick SIM HD
-http://45.182.23.211:2000/play/a0d7/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Nickelodeon
-http://45.182.23.211:2000/play/a0eh/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Paramount HD
-http://45.182.23.211:2000/play/a0cx/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Pasiones HD
-http://45.182.23.211:2000/play/a0d2/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", RHEMA TV
-http://45.182.23.211:2000/play/a0eu/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", SEMILLITAS
-http://45.182.23.211:2000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", SONY HD
-http://45.182.23.211:2000/play/a0az/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", SPACE HD
-http://45.182.23.211:2000/play/a0cr/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Star TVE HD
-http://45.182.23.211:2000/play/a0bw/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Studio Universal HD
-http://45.182.23.211:2000/play/a0bj/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", SyFy HD
-http://45.182.23.211:2000/play/a0bk/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", TBN Enlace
-http://45.182.23.211:2000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", TBS
-http://45.182.23.211:2000/play/a0ds/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", TNT HD
-http://45.182.23.211:2000/play/a0d9/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", TNT Series HD
-http://45.182.23.211:2000/play/a0cy/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", TV Max - PAN
-http://45.182.23.211:2000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", TV Max - PAN
-http://45.182.23.211:2000/play/a0ed/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Telemundo HD
-http://45.182.23.211:2000/play/a0bq/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Telesistema RD
-http://45.182.23.211:2000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Universal
-http://45.182.23.211:2000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", Univision HD
-http://45.182.23.211:2000/play/a0d3/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", VH1 Classic
-http://45.182.23.211:2000/play/a0be/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", VH1 HD
-http://45.182.23.211:2000/play/a0df/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE", WARNER HD
-http://45.182.23.211:2000/play/a0ay/index.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Baby TV
+http://tecnotv.club/thet/smartv.php?c=563_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Baby First
+http://tecnotv.club/thet/smartv.php?c=128_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Boomerang
+http://tecnotv.club/thet/smartv.php?c=564_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Cartoon Network
+http://tecnotv.club/thet/smartv.php?c=565_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Disney Channel
+http://tecnotv.club/thet/smartv.php?c=566_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Disney Jr
+http://tecnotv.club/thet/smartv.php?c=568_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Disney XD
+http://tecnotv.club/thet/smartv.php?c=569_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Discovery Kids
+http://tecnotv.club/thet/smartv.php?c=570_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Nick
+http://tecnotv.club/thet/smartv.php?c=572_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Nick Jr
+http://tecnotv.club/thet/smartv.php?c=670_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Teen Nick
+http://tecnotv.club/thet/smartv.php?c=139_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Tooncast
+http://tecnotv.club/thet/smartv.php?c=748_&f=.m3u8
+
+
+#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TVSATELITE",AZTECA UNO MX 
+http://tecnotv.club/thet/smartv.php?c=712_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal2hd_thumb.png" group-title="TVSATELITE",CANAL 2 MX *
+http://tecnotv.club/thet/smartv.php?c=500_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_nxdwanla.png" group-title="TVSATELITE",CANAL 5 MX 
+http://tecnotv.club/thet/smartv.php?c=494_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_msqleg9z.png" group-title="TVSATELITE",AZTECA 7 MX 
+http://tecnotv.club/thet/smartv.php?c=495_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb.png" group-title="TVSATELITE",NUEVE 
+http://tecnotv.club/thet/smartv.php?c=16_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_782zb3ya.png" group-title="TVSATELITE",IMAGEN TV *
+http://tecnotv.club/thet/smartv.php?c=497_&f=.m3u8
+
+
+
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="TVSATELITE",afizzionados
+http://tecnotv.club/thet/smartv.php?c=174_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="TVSATELITE",AyM Sports 
+http://tecnotv.club/thet/smartv.php?c=152_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="TVSATELITE",BEIN SPORTS 
+http://tecnotv.club/thet/smartv.php?c=594_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-deportes_thumb_aacotgfl.png" group-title="TVSATELITE",ESPN Deportes
+http://tecnotv.club/thet/smartv.php?c=600_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-mexico_thumb_unkceuug.png" group-title="TVSATELITE",ESPN 1 
+http://tecnotv.club/thet/smartv.php?c=597_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-2-mexico_thumb_gc4xc9g8.png" group-title="TVSATELITE",ESPN 2
+http://tecnotv.club/thet/smartv.php?c=598_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-3-mexico_thumb_zmtk64z4.png" group-title="TVSATELITE",ESPN 3 
+http://tecnotv.club/thet/smartv.php?c=599_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-mexico_thumb_ogg91p4g.png" group-title="TVSATELITE",FOX SPORTS 1  
+http://tecnotv.club/thet/smartv.php?c=604_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2-mexico_thumb_ire81j6c.png" group-title="TVSATELITE",FOX SPORTS 2 
+http://tecnotv.club/thet/smartv.php?c=605_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_iuz8bwyo.png" group-title="TVSATELITE",FOX SPORTS 3 
+http://tecnotv.club/thet/smartv.php?c=606_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_ybotu7fs.png" group-title="TVSATELITE",CARACOL 
+http://tecnotv.club/thet/smartv.php?c=345_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_hra9dw5v.png" group-title="TVSATELITE",GALAVISION
+http://tecnotv.club/thet/smartv.php?c=608_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/golf-hd_thumb_1pljbk6n.png" group-title="TVSATELITE",GOLF CHANNEL
+http://tecnotv.club/thet/smartv.php?c=253_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_w4gvhs2a.png" group-title="TVSATELITE",TELEMUNDO
+http://tecnotv.club/thet/smartv.php?c=42_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_ngsn6tna.png" group-title="TVSATELITE",TUDN MX
+http://tecnotv.club/thet/smartvsport.php?c=617_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_4vvy03nm.png" group-title="TVSATELITE",TUDN US
+http://tecnotv.club/thet/smartvsport.php?c=336_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tvcdep_thumb_z6ia56a1.png" group-title="TVSATELITE",TVC Deportes
+http://tecnotv.club/thet/smartvsport.php?c=749_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/nbcsn_thumb_x4eybjw0.png" group-title="TVSATELITE",NBCSN
+http://tecnotv.club/thet/smartvsport.php?c=612_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/NFL_logo_thumb_r29zzwtg.png" group-title="TVSATELITE",FOX NFL
+http://tecnotv.club/thet/smartvsport.php?c=337_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/havoc_thumb_2f3eknhx.png" group-title="TVSATELITE",HAVOC
+http://tecnotv.club/thet/smartvsport.php?c=164_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/las_thumb_6od2dgyd.png" group-title="TVSATELITE",LAS Deportes
+http://tecnotv.club/thet/smartvsport.php?c=165_&f=.m3u8
+
+#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_v9han5w5.png" group-title="TVSATELITE",RCN
+http://tecnotv.club/thet/smartv.php?c=658_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_s76802wb.png" group-title="TVSATELITE",UNIMAS
+http://tecnotv.club/thet/smartv.php?c=619_&f=.m3u8
+
+
+
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Golden
+http://tecnotv.club/thet/smartv.php?c=712_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Golden Edge
+http://tecnotv.club/thet/smartv.php?c=713_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Golden Plus
+http://tecnotv.club/thet/smartv.php?c=714_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Golden premier
+http://tecnotv.club/thet/smartv.php?c=444_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO
+http://tecnotv.club/thet/smartv.php?c=558_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO 2 
+http://tecnotv.club/thet/smartv.php?c=559_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Plus
+http://tecnotv.club/thet/smartv.php?c=560_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Family
+http://tecnotv.club/thet/smartv.php?c=561_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Mundi
+http://tecnotv.club/thet/smartv.php?c=449_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Pop
+http://tecnotv.club/thet/smartv.php?c=717_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Signature
+http://tecnotv.club/thet/smartv.php?c=718_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Xtreme
+http://tecnotv.club/thet/smartv.php?c=723_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Action
+http://tecnotv.club/thet/smartv.php?c=708_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Cinema
+http://tecnotv.club/thet/smartv.php?c=458_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Classic
+http://tecnotv.club/thet/smartv.php?c=553_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Comedy
+http://tecnotv.club/thet/smartv.php?c=709_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Fun
+http://tecnotv.club/thet/smartv.php?c=554_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Hits
+http://tecnotv.club/thet/smartv.php?c=555_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Satar Life
+http://tecnotv.club/thet/smartv.php?c=556_&f=.m3u8
+#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Series
+http://tecnotv.club/thet/smartv.php?c=557_&f=.m3u8
+
+
+
+#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_m0wgbdan.png" group-title="TVSATELITE",AZTECA UNO MX
+http://tecnotv.club/thet/smartv.php?c=136_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_3280eo5o.png" group-title="TVSATELITE",CANAL 5 MX
+http://tecnotv.club/thet/smartv.php?c=134_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_hlyuscho.png" group-title="TVSATELITE",AZTECA 7
+http://tecnotv.club/thet/smartv.php?c=133_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_nx5nfgky.png" group-title="TVSATELITE",IMAGEN TV
+http://tecnotv.club/thet/smartv.php?c=130_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/multimedios_thumb_v8yqfgug.png" group-title="TVSATELITE",MULTIMEDIOS
+http://tecnotv.club/thet/smartv.php?c=1862_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/canalonce_thumb_v4nr9ng2.png" group-title="TVSATELITE",ONCE TV HD
+http://tecnotv.club/thet/smartv.php?c=242_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/atreseries_thumb_ar0o6bp8.png" group-title="TVSATELITE",A3 SERIES
+http://tecnotv.club/thet/smartv.php?c=250_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_dvotcczj.png" group-title="TVSATELITE",GALAVISION *
+http://tecnotv.club/thet/smartv.php?c=608_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_4s30ej0r.png" group-title="TVSATELITE",TELEMUNDO
+http://tecnotv.club/thet/smartv.php?c=506_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_dssnhuu7.png" group-title="TVSATELITE",UNIMAS *
+http://tecnotv.club/thet/smartv.php?c=86_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-corazon_thumb_7ewmf0ip.png" group-title="TVSATELITE",AZ CORAZON *
+http://tecnotv.club/thet/smartv.php?c=381_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/a-e_thumb_lq5jd1wu.png" group-title="TVSATELITE",A&E
+http://tecnotv.club/thet/smartv.php?c=521_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/axn_thumb_vw6s2435.png" group-title="TVSATELITE",AXN
+http://tecnotv.club/thet/smartv.php?c=522_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/comedy-central_thumb_exj2lgma.png" group-title="TVSATELITE",COMEDY CENTRAL
+http://tecnotv.club/thet/smartv.php?c=523_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb_yws0mebm.png" group-title="TVSATELITE",Entertaiment
+http://tecnotv.club/thet/smartv.php?c=574_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox_thumb_2k9ozo3b.png" group-title="TVSATELITE",STAR Channel
+http://tecnotv.club/thet/smartv.php?c=551_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/foxlife_thumb_vyskn253.png" group-title="TVSATELITE",STAR LIFE
+http://tecnotv.club/thet/smartv.php?c=556_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_ar7hgf44.png" group-title="TVSATELITE",FX
+http://tecnotv.club/thet/smartv.php?c=524_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb_qppv6t5m.png" group-title="TVSATELITE",SONY Channel
+http://tecnotv.club/thet/smartv.php?c=527_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tele-novelas_thumb_paz2cn8v.png" group-title="TVSATELITE",Tele Novelas *
+http://tecnotv.club/thet/smartv.php?c=293_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tbs_thumb_lgn89gg2.png" group-title="TVSATELITE",TBS
+http://tecnotv.club/thet/smartv.php?c=526_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/thet-series_thumb_8pqj6dar.png" group-title="TVSATELITE",thet Series
+http://tecnotv.club/thet/smartv.php?c=528_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/universal-channel_thumb_57xd1jj3.png" group-title="TVSATELITE",UNIVERSAL TV
+http://tecnotv.club/thet/smartv.php?c=529_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/warner-hd_thumb_hu9p6wd0.png" group-title="TVSATELITE",WARNER TV
+http://tecnotv.club/thet/smartv.php?c=531_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-cinema_thumb_nhudvjsc.png" group-title="TVSATELITE",AZ CINEMA
+http://tecnotv.club/thet/smartv.php?c=532_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/amc_thumb_08n9mi0j.png" group-title="TVSATELITE",AMC
+http://tecnotv.club/thet/smartv.php?c=428_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/cinecanal_thumb_te31i31p.png" group-title="TVSATELITE",CINECANAL
+http://tecnotv.club/thet/smartv.php?c=533_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/cinemax_thumb_5n1c3kli.png" group-title="TVSATELITE",CINEMAX
+http://tecnotv.club/thet/smartv.php?c=533_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/cine-latino_thumb_q02e79dl.png" group-title="TVSATELITE",CINE LATINO
+http://tecnotv.club/thet/smartv.php?c=535_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/film-arts_thumb_61ieosqe.png" group-title="TVSATELITE",FILM & ARTS
+http://tecnotv.club/thet/smartv.php?c=537_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fxm_thumb_jhy1152z.png" group-title="TVSATELITE",FXM
+http://tecnotv.club/thet/smartv.php?c=538_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/i-sat_thumb_bx6qquj7.png" group-title="TVSATELITE",ISAT
+http://tecnotv.club/thet/smartv.php?c=539_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/multicinema_thumb_dbr9pju7.png" group-title="TVSATELITE",MULTICINEMA
+http://tecnotv.club/thet/smartv.php?c=540_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/multipremier_thumb_cc1gxuqu.png" group-title="TVSATELITE",MULTIPREMIER
+http://tecnotv.club/thet/smartv.php?c=540_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/paramount-channel_thumb_fmls125b.png" group-title="TVSATELITE",PARAMOUNT
+http://tecnotv.club/thet/smartv.php?c=542_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="TVSATELITE",SPACE
+http://tecnotv.club/thet/smartv.php?c=543_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb_nqpp4m2g.png" group-title="TVSATELITE",STUDIO Universal *
+http://tecnotv.club/thet/smartv.php?c=440_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb_7bblsmj2.png" group-title="TVSATELITE",SYFY
+http://tecnotv.club/thet/smartv.php?c=547_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tcm_thumb_swt3x169.png" group-title="TVSATELITE",TCM 
+http://tecnotv.club/thet/smartv.php?c=441_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/thethd_thumb_6pyntdsy.png" group-title="TVSATELITE",thet
+http://tecnotv.club/thet/smartv.php?c=549_&f=.m3u8
+
+#EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_4vlh8w8h.png" group-title="TVSATELITE",Investigation Discovery
+http://tecnotv.club/thet/smartv.php?c=573_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/animal-planet_thumb_k4lqrjjv.png" group-title="TVSATELITE",ANIMAL Planet
+http://tecnotv.club/thet/smartv.php?c=663_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery_thumb_qyk5mk2l.png" group-title="TVSATELITE",DISCOVERY Channel
+http://tecnotv.club/thet/smartv.php?c=664_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb_kgienfnt.png" group-title="TVSATELITE",Discovery SCIENCE
+http://tecnotv.club/thet/smartv.php?c=398_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_50jsgghm.png" group-title="TVSATELITE",Discovery THEATER
+http://tecnotv.club/thet/smartv.php?c=665_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb_62wvtncw.png" group-title="TVSATELITE",Discovery TURBO
+http://tecnotv.club/thet/smartv.php?c=666_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/lifetime_thumb_yv8kir0v.png" group-title="TVSATELITE",LIFE TIME
+http://tecnotv.club/thet/smartv.php?c=525_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/history-channel_thumb_08pn9bnu.png" group-title="TVSATELITE",HISTORY Channel
+http://tecnotv.club/thet/smartv.php?c=576_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/h2_thumb_tdao937c.png" group-title="TVSATELITE",Histrory 2
+http://tecnotv.club/thet/smartv.php?c=575_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_isd7oqur.png" group-title="TVSATELITE", Discovery Home & Health
+http://tecnotv.club/thet/smartv.php?c=577_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/holatvhd_thumb_i97f2lmp.png" group-title="TVSATELITE",HOLA TV
+http://tecnotv.club/thet/smartv.php?c=578_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/maschic-hd_thumb_rbe64wu6.png" group-title="TVSATELITE",MAS CHIC
+http://tecnotv.club/thet/smartv.php?c=122_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb_y5snyhuu.png" group-title="TVSATELITE",NAT GEO
+http://tecnotv.club/thet/smartv.php?c=579_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/nat-geo-wild_thumb_ow2qes79.png" group-title="TVSATELITE",Nat geo WILD
+http://tecnotv.club/thet/smartv.php?c=580_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb_ey4z48r8.png" group-title="TVSATELITE",TLC Discovery
+http://tecnotv.club/thet/smartv.php?c=581_&f=.m3u8
 
 #EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
 http://45.71.202.210:50000/play/a021/index.m3u8
@@ -681,136 +736,134 @@ https://www.youtube.com/watch?v=kg1I6vR1t0g
 https://www.youtube.com/watch?v=Gb8yExL4evE
 
 
-#EXTINF:-1 group-title="INFANTIL",24/7  CAILLOU
-https://blackghost.live/play/zufree-426.php?c=3&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7  CORAJE EL PERRO COBARDE
-https://blackghost.live/play/zufree-426.php?c=4&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7  CUENTRO GREEM
-https://blackghost.live/play/zufree-426.php?c=5&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7  DINOSAURIOS 1991
-https://blackghost.live/play/zufree-426.php?c=6&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7  DRAGON BALL 1984
-https://blackghost.live/play/zufree-426.php?c=7&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7  LOS SIMPSON
-https://blackghost.live/play/zufree-426.php?c=8&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7  SOUTH PARK
-https://blackghost.live/play/zufree-426.php?c=9&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7  THE WALKING DEAD
-https://blackghost.live/play/zufree-426.php?c=10&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 ALF
-https://blackghost.live/play/zufree-426.php?c=11&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 BARNY Y SUS AMIGOS
-https://blackghost.live/play/zufree-426.php?c=13&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 BATMAN 1966 RETRO
-https://blackghost.live/play/zufree-426.php?c=14&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 BOB ESPONJA
-https://blackghost.live/play/zufree-426.php?c=16&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 BREAKING  BAD
-https://blackghost.live/play/zufree-426.php?c=17&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 CABALLEROS DEL ZODIACO
-https://blackghost.live/play/zufree-426.php?c=18&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 CANTINFLAS
-https://blackghost.live/play/zufree-426.php?c=19&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 CSI: MIAMI
-https://blackghost.live/play/zufree-426.php?c=21&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 Death note
-https://blackghost.live/play/zufree-426.php?c=22&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-https://blackghost.live/play/zufree-426.php?c=23&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 DRAGON  BALL SUPER
-https://blackghost.live/play/zufree-426.php?c=25&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 DRAGON BALL GT 1996
-https://blackghost.live/play/zufree-426.php?c=26&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 DRAGON BALL Z 1989
-https://blackghost.live/play/zufree-426.php?c=27&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 El Avispón Verde
-https://blackghost.live/play/zufree-426.php?c=28&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 EL CHAPULIN COLORADO
-https://blackghost.live/play/zufree-426.php?c=29&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 EL CHAVO DEL 8
-https://blackghost.live/play/zufree-426.php?c=30&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 EL CHEMA
-https://blackghost.live/play/zufree-426.php?c=31&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 EL COYOTE Y CORRE CAMINOS
-https://blackghost.live/play/zufree-426.php?c=32&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 EL PATRON DEL MAL
-https://blackghost.live/play/zufree-426.php?c=33&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 EL SEÑOR DE LOS CIELOS
-https://blackghost.live/play/zufree-426.php?c=34&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 FUTURAMA 1999
-https://blackghost.live/play/zufree-426.php?c=35&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 HAPPY TREE FRIENDS
-https://blackghost.live/play/zufree-426.php?c=36&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 He-Man
-https://blackghost.live/play/zufree-426.php?c=37&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 HÉROES EN PIJAMAS
-https://blackghost.live/play/zufree-426.php?c=38&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 JUEGO DE TRONOS
-https://blackghost.live/play/zufree-426.php?c=39&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LA CASA DE PAPEL
-https://blackghost.live/play/zufree-426.php?c=40&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LA FAMILIA MONSTERS 1964
-https://blackghost.live/play/zufree-426.php?c=41&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LA HORA PICO
-https://blackghost.live/play/zufree-426.php?c=42&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LA PANTERA ROSA
-https://blackghost.live/play/zufree-426.php?c=44&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LA RISA EN VACIONES
-https://blackghost.live/play/zufree-426.php?c=45&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LA ROSA DE GUADALUPE
-https://blackghost.live/play/zufree-426.php?c=46&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LAZY TOWN
-https://blackghost.live/play/zufree-426.php?c=47&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LE TEMES ALA OSCURIDAD
-https://blackghost.live/play/zufree-426.php?c=48&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LOS LOCOS ADDAMS
-https://blackghost.live/play/zufree-426.php?c=49&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LOS PICA PIEDRAS
-https://blackghost.live/play/zufree-426.php?c=50&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 LUIS MIGUEL LA SERIE 2018
-https://blackghost.live/play/zufree-426.php?c=51&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 Malcolm in the middle 2000
-https://blackghost.live/play/zufree-426.php?c=52&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 Mazinger Z
-https://blackghost.live/play/zufree-426.php?c=53&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 Naruto
-https://blackghost.live/play/zufree-426.php?c=55&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 Peliculas de terror
-https://blackghost.live/play/zufree-426.php?c=57&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 PELICULAS ESTRENOS 2018
-https://blackghost.live/play/zufree-426.php?c=58&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 PEPPA PIG
-https://blackghost.live/play/zufree-426.php?c=59&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 PINKY y CEREBRO
-https://blackghost.live/play/zufree-426.php?c=60&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 Pokémon
-https://blackghost.live/play/zufree-426.php?c=61&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 POWER RANGERS
-https://blackghost.live/play/zufree-426.php?c=62&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 ROBOTECH
-https://blackghost.live/play/zufree-426.php?c=63&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 SAILOR MOON
-https://blackghost.live/play/zufree-426.php?c=64&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 Shark Tank México TEP 1
-https://blackghost.live/play/zufree-426.php?c=65&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 Shark Tank México TEP 2
-https://blackghost.live/play/zufree-426.php?c=66&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 SHERA
-https://blackghost.live/play/zufree-426.php?c=67&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 SMALLVILLE
-https://blackghost.live/play/zufree-426.php?c=68&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 SPIDER-MAN
-https://blackghost.live/play/zufree-426.php?c=69&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 STRANGER THINGS
-https://blackghost.live/play/zufree-426.php?c=70&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 SUPER CAMPEONES
-https://blackghost.live/play/zufree-426.php?c=71&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 THUNDERCAST
-https://blackghost.live/play/zufree-426.php?c=72&f=.ts
-#EXTINF:-1 group-title="INFANTIL",24/7 XMEN ANIME
-https://blackghost.live/play/zufree-426.php?c=73&f=.ts
-#EXTINF:-1 group-title="INFANTIL",A&E Latinoamerica
-https://blackghost.live/play/zufree-426.php?c=258&f=.ts
+#EXTINF:-1 group-title="24/7",24/7  CAILLOU
+http://tecnotv.club/thet/24.php?c=3&f=.ts
+#EXTINF:-1 group-title="24/7",24/7  CORAJE EL PERRO COBARDE
+http://tecnotv.club/thet/24.php?c=4&f=.ts
+#EXTINF:-1 group-title="24/7",24/7  CUENTRO GREEM
+http://tecnotv.club/thet/24.php?c=5&f=.ts
+#EXTINF:-1 group-title="24/7",24/7  DINOSAURIOS 1991
+http://tecnotv.club/thet/24.php?c=6&f=.ts
+#EXTINF:-1 group-title="24/7",24/7  DRAGON BALL 1984
+http://tecnotv.club/thet/24.php?c=7&f=.ts
+#EXTINF:-1 group-title="24/7",24/7  LOS SIMPSON
+http://tecnotv.club/thet/24.php?c=8&f=.ts
+#EXTINF:-1 group-title="24/7",24/7  SOUTH PARK
+http://tecnotv.club/thet/24.php?c=9&f=.ts
+#EXTINF:-1 group-title="24/7",24/7  THE WALKING DEAD
+http://tecnotv.club/thet/24.php?c=10&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 ALF
+http://tecnotv.club/thet/24.php?c=11&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 BARNY Y SUS AMIGOS
+http://tecnotv.club/thet/24.php?c=13&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 BATMAN 1966 RETRO
+http://tecnotv.club/thet/24.php?c=14&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
+http://tecnotv.club/thet/24.php?c=16&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 BREAKING  BAD
+http://tecnotv.club/thet/24.php?c=17&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://tecnotv.club/thet/24.php?c=18&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 CANTINFLAS
+http://tecnotv.club/thet/24.php?c=19&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 CSI: MIAMI
+http://tecnotv.club/thet/24.php?c=21&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 Death note
+http://tecnotv.club/thet/24.php?c=22&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://tecnotv.club/thet/24.php?c=23&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 DRAGON  BALL SUPER
+http://tecnotv.club/thet/24.php?c=25&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL GT 1996
+http://tecnotv.club/thet/24.php?c=26&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL Z 1989
+http://tecnotv.club/thet/24.php?c=27&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 El Avispón Verde
+http://tecnotv.club/thet/24.php?c=28&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 EL CHAthetIN COLORADO
+http://tecnotv.club/thet/24.php?c=29&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 EL CHAVO DEL 8
+http://tecnotv.club/thet/24.php?c=30&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 EL CHEMA
+http://tecnotv.club/thet/24.php?c=31&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
+http://tecnotv.club/thet/24.php?c=32&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 EL thetON DEL MAL
+http://tecnotv.club/thet/24.php?c=33&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 EL SEÑOR DE LOS CIELOS
+http://tecnotv.club/thet/24.php?c=34&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 FUTURAMA 1999
+http://tecnotv.club/thet/24.php?c=35&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 HAPPY TREE FRIENDS
+http://tecnotv.club/thet/24.php?c=36&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 He-Man
+http://tecnotv.club/thet/24.php?c=37&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 HÉROES EN PIJAMAS
+http://tecnotv.club/thet/24.php?c=38&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 JUEGO DE TRONOS
+http://tecnotv.club/thet/24.php?c=39&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LA CASA DE PAPEL
+http://tecnotv.club/thet/24.php?c=40&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
+http://tecnotv.club/thet/24.php?c=41&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LA HORA PICO
+http://tecnotv.club/thet/24.php?c=42&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LA PANTERA ROSA
+http://tecnotv.club/thet/24.php?c=44&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LA RISA EN VACIONES
+http://tecnotv.club/thet/24.php?c=45&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://tecnotv.club/thet/24.php?c=46&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LAZY TOWN
+http://tecnotv.club/thet/24.php?c=47&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://tecnotv.club/thet/24.php?c=48&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LOS LOCOS ADDAMS
+http://tecnotv.club/thet/24.php?c=49&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LOS PICA PIEDRAS
+http://tecnotv.club/thet/24.php?c=50&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
+http://tecnotv.club/thet/24.php?c=51&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 Malcolm in the middle 2000
+http://tecnotv.club/thet/24.php?c=52&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 Mazinger Z
+http://tecnotv.club/thet/24.php?c=53&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 Naruto
+http://tecnotv.club/thet/24.php?c=55&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 Peliculas de terror
+http://tecnotv.club/thet/24.php?c=57&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 PELICULAS ESTRENOS 2018
+http://tecnotv.club/thet/24.php?c=58&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 PEPPA PIG
+http://tecnotv.club/thet/24.php?c=59&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 PINKY y CEREBRO
+http://tecnotv.club/thet/24.php?c=60&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 Pokémon
+http://tecnotv.club/thet/24.php?c=61&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 POWER RANGERS
+http://tecnotv.club/thet/24.php?c=62&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 ROBOTECH
+http://tecnotv.club/thet/24.php?c=63&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 SAILOR MOON
+http://tecnotv.club/thet/24.php?c=64&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 Shark Tank México TEP 1
+http://tecnotv.club/thet/24.php?c=65&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 Shark Tank México TEP 2
+http://tecnotv.club/thet/24.php?c=66&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 SHERA
+http://tecnotv.club/thet/24.php?c=67&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 SMALLVILLE
+http://tecnotv.club/thet/24.php?c=68&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 SPIDER-MAN
+http://tecnotv.club/thet/24.php?c=69&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 STRANGER THINGS
+http://tecnotv.club/thet/24.php?c=70&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
+http://tecnotv.club/thet/24.php?c=71&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 THUNDERCAST
+http://tecnotv.club/thet/24.php?c=72&f=.ts
+#EXTINF:-1 group-title="24/7",24/7 XMEN ANIME
+http://tecnotv.club/thet/24.php?c=73&f=.ts
 
 
 
@@ -949,86 +1002,94 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e299600076
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="CINE Y SERIES 2", DOUG EL CAZARRECOMPENZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", HISTORIAS DE ULTRATUMBA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", MISTERIOS MEDICOS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", LOUPE ARTE + MUSICA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO MISTERIOS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=46d6f678-e5e4-4c2d-b6ae-02fbc5444cb0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2e65dce-93c5-11eb-939c-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV VIAJES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00071-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef6ea5a4-5004-451b-bbdc-9dd3d9cc8614&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV CIENCIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV HISTORIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV COCINA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02780-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8850b362-804f-4cf0-a920-4f711796663f&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV COCINA 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c801a80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e0dc4ab-902e-4ad1-a9d5-748727626eaa&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV COCINA 3
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c6543-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fc7e1c7-88d8-4d19-915b-02a6745f031d&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", MASTER CHEF
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d532-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3935b7bb-6c42-4a74-a1c0-19d91d4ea3b7&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", COMEDY CENTRAL
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", COMEDY CENTRAL LATINO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21b9ab81-ee95-4efe-8594-158f8ea6d0c7&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", COMEDIA MADE IN SPAIN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c681-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01d86952-90df-4d0a-b9ae-c63701be5b5c&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", FAILARMY
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", TROL
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4495153-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a2764e7-63c5-42d1-b852-912658276538&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV NATURALEZA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV NATURALEZA 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804190-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17b587b-1c4b-4113-806a-81298e54678e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV ANIMALES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b00032-b77c-4a09-85aa-2efb870d9032&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV ANIMALES 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80604634-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1735a645-8fe1-4cf4-96a3-62c1e4c43743&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", TASTEMADE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV HOGAR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", FASHIONBOX
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV NOVELAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02782-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b78acb-0a00-4b76-bfa7-4f50b2916c32&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV TELENOVELAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62761-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5672b9c0-2841-4fd4-ad79-89a6c5fe9134&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", TELEMUNDO TELENOVELAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a164a5e2-21e7-49e8-a7e9-bbc4785c7386&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", NOVELAS ROMANCE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c839cf2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a7995e2-90ca-4ea0-82a2-c34af9dc3d4e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", NOVELAS DRAMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c400-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1feeb0e2-4545-4706-9038-7ed5ff515781&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", NOVELAS THRILLER
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV VIDA REAL
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d530-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec2383fd-6e28-4df5-9d1c-b66eee700e0c&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV VIDA REAL 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2614-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90ce9a24-5441-43cd-b47a-9bf118213407&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV VIDA REAL (España)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abdceddf6a20007f8ccd2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c682-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8d96b811-f975-445c-a6de-0af8c9a1816e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV MUNDO REAL
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff01-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88807768-141f-4fbd-b153-6f5257129b8c&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV REALITIES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f99b228-251b-4230-bbe0-7bc14292a7e0&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV AVENTURA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", SPIKE AVENTURA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804191-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18c982c0-0d7b-4cf8-bf92-6eaec6a491c2&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", ESR 24/7 NETWORK
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", IGN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c72d411-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd3bdfcd-3e09-44d5-89ca-daef1432299e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", IGN 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9030f60f-6b24-446e-8b43-73ed42a17db8&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", IGN 3
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449ed93-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8552379d-eb98-45b8-bf09-8d25de349206&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="VARIEDADES", PLUTO TV GAMER 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
-    
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/assets/images/default/channel.id-featured-default.jpg" group-title="PLUTO TV", Pluto Tv
+http://tecnotv.club/thet/plutotv.php?c=5e793a7cfbdf780007f7eb75
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="PLUTO TV", Cine Suspenso
+http://tecnotv.club/thet/plutotv.php?c=5ddc4e8bcbb9010009b4e84f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg" group-title="PLUTO TV", Cine Accion
+http://tecnotv.club/thet/plutotv.php?c=5dcb62e63d4d8f0009f36881
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg" group-title="PLUTO TV", Estrellas en Accion
+http://tecnotv.club/thet/plutotv.php?c=5e972a21ad709d00074195ba
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="PLUTO TV", Cine Comedia
+http://tecnotv.club/thet/plutotv.php?c=5dcdde78f080d900098550e4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg" group-title="PLUTO TV", Cine Terror
+http://tecnotv.club/thet/plutotv.php?c=5dcddf1ed95e740009fef7ab
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg" group-title="PLUTO TV", Viajes
+http://tecnotv.club/thet/plutotv.php?c=5dcddfbdb7cf0e0009ae09ea
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="PLUTO TV", Cine Drama
+http://tecnotv.club/thet/plutotv.php?c=5dcddfcb229eff00091b6bdf
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg" group-title="PLUTO TV", Cocina
+http://tecnotv.club/thet/plutotv.php?c=5dcde0657444a40009cd2422
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="PLUTO TV", Deportes
+http://tecnotv.club/thet/plutotv.php?c=5dcde07af1c85b0009b18651
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg" group-title="PLUTO TV", Novelas
+http://tecnotv.club/thet/plutotv.php?c=5dcde0cc2efd2700090b7ff4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg" group-title="PLUTO TV", Series
+http://tecnotv.club/thet/plutotv.php?c=5dcde1317578340009b751d0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg" group-title="PLUTO TV", Anime
+http://tecnotv.club/thet/plutotv.php?c=5dcde17bf6591d0009839e02
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="PLUTO TV", Reality
+http://tecnotv.club/thet/plutotv.php?c=5dcde197f6591d0009839e04
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="PLUTO TV", Investiga
+http://tecnotv.club/thet/plutotv.php?c=5dcde27ffae9520009c0c75a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg" group-title="PLUTO TV", Junior
+http://tecnotv.club/thet/plutotv.php?c=5dcde2ac4bc6c500094ab45b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="PLUTO TV", Cine Estelar
+http://tecnotv.club/thet/plutotv.php?c=5dcde437229eff00091b6c30
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg" group-title="PLUTO TV", Hogar
+http://tecnotv.club/thet/plutotv.php?c=5dd6ab8056beb000091fc6b6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featuredImage.jpg" group-title="PLUTO TV", Competencias
+http://tecnotv.club/thet/plutotv.php?c=5dd6d935d000120009bc1132
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg" group-title="PLUTO TV", Kids
+http://tecnotv.club/thet/plutotv.php?c=5dd6dae8ce788b0009eaf77b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="PLUTO TV", Velocidad
+http://tecnotv.club/thet/plutotv.php?c=5dd6dc7480e3550009133d4a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="PLUTO TV", Cine Familia
+http://tecnotv.club/thet/plutotv.php?c=5dd6ddb30a1d8a000908ed4c
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/featuredImage.jpg" group-title="PLUTO TV", Teen
+http://tecnotv.club/thet/plutotv.php?c=5dd6de52b9914200091f047a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="PLUTO TV", Cine Romance
+http://tecnotv.club/thet/plutotv.php?c=5dd7ea2aeab5230009986735
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" group-title="PLUTO TV", Animales
+http://tecnotv.club/thet/plutotv.php?c=5dd834c66fe2ca0009303b8d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg" group-title="PLUTO TV", Series Latinas
+http://tecnotv.club/thet/plutotv.php?c=5dd837642c6e9300098ad484
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" group-title="PLUTO TV", Naturaleza
+http://tecnotv.club/thet/plutotv.php?c=5dd85eac039bba0009e86d1d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg" group-title="PLUTO TV", Nick Clasico
+http://tecnotv.club/thet/plutotv.php?c=5ddd7c348520b40009c347e2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg" group-title="PLUTO TV", Nick Jr Club
+http://tecnotv.club/thet/plutotv.php?c=5ddd7cb2cbb9010009b4fe32
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/featuredImage.jpg" group-title="PLUTO TV", Degrassi
+http://tecnotv.club/thet/plutotv.php?c=5de58ef515635d00091f605d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg" group-title="PLUTO TV", Series Retro
+http://tecnotv.club/thet/plutotv.php?c=5de802659167b10009e7deba
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="PLUTO TV", Mtv Classic
+http://tecnotv.club/thet/plutotv.php?c=5de91b7ea86ee60009d89e75
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg" group-title="PLUTO TV", Telefe clasico
+http://tecnotv.club/thet/plutotv.php?c=5de91cf02fc07c0009910465
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="PLUTO TV", Cine
+http://tecnotv.club/thet/plutotv.php?c=5defde6d6c07b50009cf0757
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="PLUTO TV", MasterChef
+http://tecnotv.club/thet/plutotv.php?c=5e3ddbd27091820009f86dd9
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/featuredImage.jpg" group-title="PLUTO TV", Futbol para Fans
+http://tecnotv.club/thet/plutotv.php?c=5e3ddd1a3ef73b00091d5779
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg" group-title="PLUTO TV", Minuto para Ganar
+http://tecnotv.club/thet/plutotv.php?c=5e46e64dc73db400094b5f0b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="PLUTO TV", Los archivos del FBI
+http://tecnotv.club/thet/plutotv.php?c=5e67d41b93312100076f3fca
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg" group-title="PLUTO TV", BABAR
+http://tecnotv.club/thet/plutotv.php?c=5e67e20c93312100076f3ffe
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg" group-title="PLUTO TV", Anime Accion
+http://tecnotv.club/thet/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/featuredImage.jpg" group-title="PLUTO TV", Comedy Central Stand-Up
+http://tecnotv.club/thet/plutotv.php?c=5e8f8e7598841d0007bf35b3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="PLUTO TV", Peleas
+http://tecnotv.club/thet/plutotv.php?c=5e98b0447665f200078caded
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="PLUTO TV", The New Detectives
+http://tecnotv.club/thet/plutotv.php?c=5ea71d48af1d0b0007d837f4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="PLUTO TV", Rugrats Crecidos
+http://tecnotv.club/thet/plutotv.php?c=5ea7215005d66d0007e8128a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/featuredImage.jpg" group-title="PLUTO TV", Star Trek
+http://tecnotv.club/thet/plutotv.php?c=5ec5761aabe4690007f6e047
