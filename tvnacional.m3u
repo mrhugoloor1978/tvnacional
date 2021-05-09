@@ -262,251 +262,242 @@ http://38.131.11.225:8000/play/a05i
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: AMC" tvg-logo="http://xtream-coders.com/x0/latino/amc.png" group-title="TVSATELITE", AMC
 http://011011011.com:8080/vuemedia/587yt65r/82172
 
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Baby TV
-http://tecnotv.club/thet/smartv.php?c=563_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Baby First
-http://tecnotv.club/thet/smartv.php?c=128_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Boomerang
-http://tecnotv.club/thet/smartv.php?c=564_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Cartoon Network
-http://tecnotv.club/thet/smartv.php?c=565_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Disney Channel
-http://tecnotv.club/thet/smartv.php?c=566_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Disney Jr
-http://tecnotv.club/thet/smartv.php?c=568_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Disney XD
-http://tecnotv.club/thet/smartv.php?c=569_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Discovery Kids
-http://tecnotv.club/thet/smartv.php?c=570_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Nick
-http://tecnotv.club/thet/smartv.php?c=572_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Nick Jr
-http://tecnotv.club/thet/smartv.php?c=670_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Teen Nick
-http://tecnotv.club/thet/smartv.php?c=139_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Tooncast
-http://tecnotv.club/thet/smartv.php?c=748_&f=.m3u8
-
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TVSATELITE",AZTECA UNO MX 
-http://tecnotv.club/thet/smartv.php?c=712_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal2hd_thumb.png" group-title="TVSATELITE",CANAL 2 MX *
-http://tecnotv.club/thet/smartv.php?c=500_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_nxdwanla.png" group-title="TVSATELITE",CANAL 5 MX 
-http://tecnotv.club/thet/smartv.php?c=494_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_msqleg9z.png" group-title="TVSATELITE",AZTECA 7 MX 
-http://tecnotv.club/thet/smartv.php?c=495_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb.png" group-title="TVSATELITE",NUEVE 
-http://tecnotv.club/thet/smartv.php?c=16_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_782zb3ya.png" group-title="TVSATELITE",IMAGEN TV *
-http://tecnotv.club/thet/smartv.php?c=497_&f=.m3u8
-
-
-
-#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="TVSATELITE",afizzionados
-http://tecnotv.club/thet/smartv.php?c=174_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="TVSATELITE",AyM Sports 
-http://tecnotv.club/thet/smartv.php?c=152_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="TVSATELITE",BEIN SPORTS 
-http://tecnotv.club/thet/smartv.php?c=594_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-deportes_thumb_aacotgfl.png" group-title="TVSATELITE",ESPN Deportes
-http://tecnotv.club/thet/smartv.php?c=600_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-mexico_thumb_unkceuug.png" group-title="TVSATELITE",ESPN 1 
-http://tecnotv.club/thet/smartv.php?c=597_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-2-mexico_thumb_gc4xc9g8.png" group-title="TVSATELITE",ESPN 2
-http://tecnotv.club/thet/smartv.php?c=598_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-3-mexico_thumb_zmtk64z4.png" group-title="TVSATELITE",ESPN 3 
-http://tecnotv.club/thet/smartv.php?c=599_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-mexico_thumb_ogg91p4g.png" group-title="TVSATELITE",FOX SPORTS 1  
-http://tecnotv.club/thet/smartv.php?c=604_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2-mexico_thumb_ire81j6c.png" group-title="TVSATELITE",FOX SPORTS 2 
-http://tecnotv.club/thet/smartv.php?c=605_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_iuz8bwyo.png" group-title="TVSATELITE",FOX SPORTS 3 
-http://tecnotv.club/thet/smartv.php?c=606_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_ybotu7fs.png" group-title="TVSATELITE",CARACOL 
-http://tecnotv.club/thet/smartv.php?c=345_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_hra9dw5v.png" group-title="TVSATELITE",GALAVISION
-http://tecnotv.club/thet/smartv.php?c=608_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golf-hd_thumb_1pljbk6n.png" group-title="TVSATELITE",GOLF CHANNEL
-http://tecnotv.club/thet/smartv.php?c=253_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_w4gvhs2a.png" group-title="TVSATELITE",TELEMUNDO
-http://tecnotv.club/thet/smartv.php?c=42_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_ngsn6tna.png" group-title="TVSATELITE",TUDN MX
-http://tecnotv.club/thet/smartvsport.php?c=617_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_4vvy03nm.png" group-title="TVSATELITE",TUDN US
-http://tecnotv.club/thet/smartvsport.php?c=336_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tvcdep_thumb_z6ia56a1.png" group-title="TVSATELITE",TVC Deportes
-http://tecnotv.club/thet/smartvsport.php?c=749_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/nbcsn_thumb_x4eybjw0.png" group-title="TVSATELITE",NBCSN
-http://tecnotv.club/thet/smartvsport.php?c=612_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/NFL_logo_thumb_r29zzwtg.png" group-title="TVSATELITE",FOX NFL
-http://tecnotv.club/thet/smartvsport.php?c=337_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/havoc_thumb_2f3eknhx.png" group-title="TVSATELITE",HAVOC
-http://tecnotv.club/thet/smartvsport.php?c=164_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/las_thumb_6od2dgyd.png" group-title="TVSATELITE",LAS Deportes
-http://tecnotv.club/thet/smartvsport.php?c=165_&f=.m3u8
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_v9han5w5.png" group-title="TVSATELITE",RCN
-http://tecnotv.club/thet/smartv.php?c=658_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_s76802wb.png" group-title="TVSATELITE",UNIMAS
-http://tecnotv.club/thet/smartv.php?c=619_&f=.m3u8
-
-
-
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Golden
-http://tecnotv.club/thet/smartv.php?c=712_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Golden Edge
-http://tecnotv.club/thet/smartv.php?c=713_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Golden Plus
-http://tecnotv.club/thet/smartv.php?c=714_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Golden premier
-http://tecnotv.club/thet/smartv.php?c=444_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO
-http://tecnotv.club/thet/smartv.php?c=558_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO 2 
-http://tecnotv.club/thet/smartv.php?c=559_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Plus
-http://tecnotv.club/thet/smartv.php?c=560_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Family
-http://tecnotv.club/thet/smartv.php?c=561_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Mundi
-http://tecnotv.club/thet/smartv.php?c=449_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Pop
-http://tecnotv.club/thet/smartv.php?c=717_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Signature
-http://tecnotv.club/thet/smartv.php?c=718_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",HBO Xtreme
-http://tecnotv.club/thet/smartv.php?c=723_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Action
-http://tecnotv.club/thet/smartv.php?c=708_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Cinema
-http://tecnotv.club/thet/smartv.php?c=458_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Classic
-http://tecnotv.club/thet/smartv.php?c=553_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Comedy
-http://tecnotv.club/thet/smartv.php?c=709_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Fun
-http://tecnotv.club/thet/smartv.php?c=554_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Hits
-http://tecnotv.club/thet/smartv.php?c=555_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Satar Life
-http://tecnotv.club/thet/smartv.php?c=556_&f=.m3u8
-#EXTINF:-1 logo=".png" group-title="TVSATELITE",Star Series
-http://tecnotv.club/thet/smartv.php?c=557_&f=.m3u8
-
-
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_m0wgbdan.png" group-title="TVSATELITE",AZTECA UNO MX
-http://tecnotv.club/thet/smartv.php?c=136_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_3280eo5o.png" group-title="TVSATELITE",CANAL 5 MX
-http://tecnotv.club/thet/smartv.php?c=134_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_hlyuscho.png" group-title="TVSATELITE",AZTECA 7
-http://tecnotv.club/thet/smartv.php?c=133_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_nx5nfgky.png" group-title="TVSATELITE",IMAGEN TV
-http://tecnotv.club/thet/smartv.php?c=130_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multimedios_thumb_v8yqfgug.png" group-title="TVSATELITE",MULTIMEDIOS
-http://tecnotv.club/thet/smartv.php?c=1862_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canalonce_thumb_v4nr9ng2.png" group-title="TVSATELITE",ONCE TV HD
-http://tecnotv.club/thet/smartv.php?c=242_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/atreseries_thumb_ar0o6bp8.png" group-title="TVSATELITE",A3 SERIES
-http://tecnotv.club/thet/smartv.php?c=250_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_dvotcczj.png" group-title="TVSATELITE",GALAVISION *
-http://tecnotv.club/thet/smartv.php?c=608_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_4s30ej0r.png" group-title="TVSATELITE",TELEMUNDO
-http://tecnotv.club/thet/smartv.php?c=506_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_dssnhuu7.png" group-title="TVSATELITE",UNIMAS *
-http://tecnotv.club/thet/smartv.php?c=86_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-corazon_thumb_7ewmf0ip.png" group-title="TVSATELITE",AZ CORAZON *
-http://tecnotv.club/thet/smartv.php?c=381_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/a-e_thumb_lq5jd1wu.png" group-title="TVSATELITE",A&E
-http://tecnotv.club/thet/smartv.php?c=521_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/axn_thumb_vw6s2435.png" group-title="TVSATELITE",AXN
-http://tecnotv.club/thet/smartv.php?c=522_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/comedy-central_thumb_exj2lgma.png" group-title="TVSATELITE",COMEDY CENTRAL
-http://tecnotv.club/thet/smartv.php?c=523_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb_yws0mebm.png" group-title="TVSATELITE",Entertaiment
-http://tecnotv.club/thet/smartv.php?c=574_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_thumb_2k9ozo3b.png" group-title="TVSATELITE",STAR Channel
-http://tecnotv.club/thet/smartv.php?c=551_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxlife_thumb_vyskn253.png" group-title="TVSATELITE",STAR LIFE
-http://tecnotv.club/thet/smartv.php?c=556_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_ar7hgf44.png" group-title="TVSATELITE",FX
-http://tecnotv.club/thet/smartv.php?c=524_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb_qppv6t5m.png" group-title="TVSATELITE",SONY Channel
-http://tecnotv.club/thet/smartv.php?c=527_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tele-novelas_thumb_paz2cn8v.png" group-title="TVSATELITE",Tele Novelas *
-http://tecnotv.club/thet/smartv.php?c=293_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tbs_thumb_lgn89gg2.png" group-title="TVSATELITE",TBS
-http://tecnotv.club/thet/smartv.php?c=526_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/thet-series_thumb_8pqj6dar.png" group-title="TVSATELITE",thet Series
-http://tecnotv.club/thet/smartv.php?c=528_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/universal-channel_thumb_57xd1jj3.png" group-title="TVSATELITE",UNIVERSAL TV
-http://tecnotv.club/thet/smartv.php?c=529_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/warner-hd_thumb_hu9p6wd0.png" group-title="TVSATELITE",WARNER TV
-http://tecnotv.club/thet/smartv.php?c=531_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-cinema_thumb_nhudvjsc.png" group-title="TVSATELITE",AZ CINEMA
-http://tecnotv.club/thet/smartv.php?c=532_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/amc_thumb_08n9mi0j.png" group-title="TVSATELITE",AMC
-http://tecnotv.club/thet/smartv.php?c=428_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cinecanal_thumb_te31i31p.png" group-title="TVSATELITE",CINECANAL
-http://tecnotv.club/thet/smartv.php?c=533_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cinemax_thumb_5n1c3kli.png" group-title="TVSATELITE",CINEMAX
-http://tecnotv.club/thet/smartv.php?c=533_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cine-latino_thumb_q02e79dl.png" group-title="TVSATELITE",CINE LATINO
-http://tecnotv.club/thet/smartv.php?c=535_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/film-arts_thumb_61ieosqe.png" group-title="TVSATELITE",FILM & ARTS
-http://tecnotv.club/thet/smartv.php?c=537_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fxm_thumb_jhy1152z.png" group-title="TVSATELITE",FXM
-http://tecnotv.club/thet/smartv.php?c=538_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/i-sat_thumb_bx6qquj7.png" group-title="TVSATELITE",ISAT
-http://tecnotv.club/thet/smartv.php?c=539_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multicinema_thumb_dbr9pju7.png" group-title="TVSATELITE",MULTICINEMA
-http://tecnotv.club/thet/smartv.php?c=540_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multipremier_thumb_cc1gxuqu.png" group-title="TVSATELITE",MULTIPREMIER
-http://tecnotv.club/thet/smartv.php?c=540_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/paramount-channel_thumb_fmls125b.png" group-title="TVSATELITE",PARAMOUNT
-http://tecnotv.club/thet/smartv.php?c=542_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="TVSATELITE",SPACE
-http://tecnotv.club/thet/smartv.php?c=543_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb_nqpp4m2g.png" group-title="TVSATELITE",STUDIO Universal *
-http://tecnotv.club/thet/smartv.php?c=440_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb_7bblsmj2.png" group-title="TVSATELITE",SYFY
-http://tecnotv.club/thet/smartv.php?c=547_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tcm_thumb_swt3x169.png" group-title="TVSATELITE",TCM 
-http://tecnotv.club/thet/smartv.php?c=441_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/thethd_thumb_6pyntdsy.png" group-title="TVSATELITE",thet
-http://tecnotv.club/thet/smartv.php?c=549_&f=.m3u8
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_4vlh8w8h.png" group-title="TVSATELITE",Investigation Discovery
-http://tecnotv.club/thet/smartv.php?c=573_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/animal-planet_thumb_k4lqrjjv.png" group-title="TVSATELITE",ANIMAL Planet
-http://tecnotv.club/thet/smartv.php?c=663_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery_thumb_qyk5mk2l.png" group-title="TVSATELITE",DISCOVERY Channel
-http://tecnotv.club/thet/smartv.php?c=664_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb_kgienfnt.png" group-title="TVSATELITE",Discovery SCIENCE
-http://tecnotv.club/thet/smartv.php?c=398_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_50jsgghm.png" group-title="TVSATELITE",Discovery THEATER
-http://tecnotv.club/thet/smartv.php?c=665_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb_62wvtncw.png" group-title="TVSATELITE",Discovery TURBO
-http://tecnotv.club/thet/smartv.php?c=666_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/lifetime_thumb_yv8kir0v.png" group-title="TVSATELITE",LIFE TIME
-http://tecnotv.club/thet/smartv.php?c=525_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/history-channel_thumb_08pn9bnu.png" group-title="TVSATELITE",HISTORY Channel
-http://tecnotv.club/thet/smartv.php?c=576_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h2_thumb_tdao937c.png" group-title="TVSATELITE",Histrory 2
-http://tecnotv.club/thet/smartv.php?c=575_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_isd7oqur.png" group-title="TVSATELITE", Discovery Home & Health
-http://tecnotv.club/thet/smartv.php?c=577_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/holatvhd_thumb_i97f2lmp.png" group-title="TVSATELITE",HOLA TV
-http://tecnotv.club/thet/smartv.php?c=578_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/maschic-hd_thumb_rbe64wu6.png" group-title="TVSATELITE",MAS CHIC
-http://tecnotv.club/thet/smartv.php?c=122_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb_y5snyhuu.png" group-title="TVSATELITE",NAT GEO
-http://tecnotv.club/thet/smartv.php?c=579_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/nat-geo-wild_thumb_ow2qes79.png" group-title="TVSATELITE",Nat geo WILD
-http://tecnotv.club/thet/smartv.php?c=580_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb_ey4z48r8.png" group-title="TVSATELITE",TLC Discovery
-http://tecnotv.club/thet/smartv.php?c=581_&f=.m3u8
+#EXTINF : -1 group-title="TVSATELITE", AE Mundo
+http://186.147.217.10:8000/play/a07y/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", ATV Lima
+http://186.147.217.10:8000/play/a099/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", AXN
+http://186.147.217.10:8000/play/a0au/index.m3u8
+# EXTINF : -1 group-title="TVSATELITE", America TV Internacional (Argentina)
+http://186.147.217.10:8000/play/a09f/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", AmericaTV - Canal 4 (Lima)
+http://186.147.217.10:8000 /play/a097/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Animal Planet
+http://186.147.217.10:8000/play/a07p/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Baby TV
+http://186.147.217.10:8000 /play/a0ck/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", CNN Español
+http://186.147.217.10:8000/play/a072/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", CNN Internacional
+http://186.147.217.10:8000/play/a0co/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", CableNoticias
+http://186.147.217.10:8000/play/a0dk/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal 13 ( Chile)
+http://186.147.217.10:8000/play/a077/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal Caracol
+http://186.147.217.10:8000/play/a09p/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal Claro
+http://186.147.217.10:8000/play/a093/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal Institucional
+http://186.147.217.10:8000/play/a09t/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal RCN
+http://186.147.217.10:8000/play/a09q/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal Trece (Paraguay)
+http://186.147.217.10:8000/play/a09d/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal Trece Bogotá
+http://186.147.217.10:8000/play/a0bb/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal Uno
+http://186.147.217.10:8000/play/a09n/index. m3u8
+#EXTINF : -1 group-title="TVSATELITE", Las estrellas
+http://186.147.217.10:8000/play/a08c/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Canal del Congreso
+http://186.147.217.10:8000/play/a09u /index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Capital
+http://186.147.217.10:8000/play/a0a5/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Cartoon Network
+http://186.147.217.10:8000/play/a06c/ index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Cinecanal
+http://186.147.217.10:8000/play/a062/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Cinemax
+http://186.147.217.10:8000/play/a0as/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", City TV
+http://186.147.217.10:8000/play/a0a4/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Claro Cinema
+http://186.147.217.10:8000/play/a0b3/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Claro Sports
+http://186.147.217.10:8000/play/a06e/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", DW ( Deutsch +)
+http://186.147.217.10:8000/play/a0cr/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", De Película
+http://186.147.217.10:8000/play/a0dx/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Discovery Channel
+http://186.147.217.10:8000/play/a07o/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Discovery ID
+http://186.147.217.10:8000/play/a091/index.m3u8
+#EXTINF: -1 group-title="TVSATELITE", Discovery Kids
+http://186.147.217.10:8000/play/a071/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Discovery Turbo
+http://186.147.217.10:8000/play/a0b5/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Disney Channel
+http://186.147.217.10:8000/play/a07n/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Disney Jr
+http://186.147.217.10:8000/play/a07i/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Disney 
+http://186.147.217.10:8000/play/a05z/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", E Entertainment
+http://186.147.217.10:8000/play/a07r/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", ESPN
+http://186.147.217.10:8000/play/a07u/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", ESPN 2
+http://186.147.217.10:8000/play/a07k/index.m3u8
+#EXTINF: -1 group-title="TVSATELITE", ESPN 2 
+http://186.147.217.10:8000/play/a07t/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", ESPN 3
+http://186.147.217.10:8000/play/a0b7/index.m3u8
+# EXTINF : -1 group-title="TVSATELITE", ESPN CO
+http://186.147.217.10:8000/play/a09y/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", El Gourmet
+http://186.147.217.10:8000/play/a0dg/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Enlace
+http://186.147.217.10:8000/play/a06h/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Epoca
+http://186.147.217.10:8000/play/a0cj/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", FX
+http://186.147.217.10:8000/play/a0aw/index.m3u8
+#EXTINF : - 1 group-title="TVSATELITE", FX Movies
+http://186.147.217.10:8000/play/a078/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Fox Sports
+http://186.147.217.10:8000/play/a07s/index.m3u8
+#EXTINF : - 1 group-title="TVSATELITE", Fox Sports 1
+http://186.147.217.10:8000/play/a09b/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Fox Sports 2
+http://186.147.217.10:8000/play/a08d/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", GOL TV
+http://186.147.217.10:8000/play/a07v/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Gol TV
+http://186.147.217.10:8000/play/a0ct/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", HBO
+http://186.147.217.10:8000/play/a0ar/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", HBO 2
+http://186.147.217.10:8000/play/a07e/index.m3u8
+#EXTINF : - 1 group-title="TVSATELITE", HBO family
+http://186.147.217.10:8000/play/a07h/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", HBO MUNDI
+http://186.147.217.10:8000/play/a0du/index.m3u8
+#EXTINF : - 1 group-title="TVSATELITE", HBO POP
+http://186.147.217.10:8000/play/a0d3/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", HBO Plus
+http://186.147.217.10:8000/play/a07f/index.m3u8
+#EXTINF: -1 group-title="TVSATELITE", HBO Signature
+http://186.147.217.10:8000/play/a0d0/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", HBO XTREME
+http://186.147.217.10:8000/play/a07g/index.m3u8
+# EXTINF : -1 group-title="TVSATELITE", HGTV
+http://186.147.217.10:8000/play/a0de/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", HTV
+http://186.147.217.10:8000/play/a0di/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", History Channel
+http://186.147.217.10:8000/play/a061/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Discovery Home & Health
+http://186.147.217.10:8000/play/a095/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", I-Sat
+http://186.147.217.10:8000/play/a064/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", La Tele (Lima)
+http://186.147.217.10:8000/play/a09a/index .m3u8
+#EXTINF: -1 group-title="TVSATELITE", La Tele (Paraguay)
+http://186.147.217.10:8000/play/a0b9/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Latina
+http://186.147.217.10:8000/play/a096/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Lifetime
+http://186.147.217.10:8000/play/a0dp/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", MTV
+http://186.147.217.10:8000/play/a065/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Nat Geo
+http://186.147.217.10:8000/play/a060/index.m3u8
+# EXTINF : -1 group-title="TVSATELITE", Nat Geo Kids
+http://186.147.217.10:8000/play/a06b/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Nick Junior
+http://186.147.217.10:8000/play/a0b4/index.m3u8
+# EXTINF: -1 group-title="TVSATELITE", Nickelodeon
+http://186.147.217.10:8000/play/a05y/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", Panamericana TV
+http://186.147.217.10:8000/play/a098/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", RAI
+http://186.147.217.10:8000/play/a0cq/index.m3u8
+#EXTINF : - 1 group-title="TVSATELITE", RCN Novelas
+http://186.147.217.10:8000/play/a090/index.m3u8
+#EXTINF : -1 group-title="TVSATELITE", SNT
+http://186.147.217.10:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", STAR ACTION
+http://186.147.217.10:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", STAR CHANNEL
+http://186.147.217.10:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", STAR HITS
+http://186.147.217.10:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", STAR LIFE
+http://186.147.217.10:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", STAR SERIES
+http://186.147.217.10:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Señal Colombia
+http://186.147.217.10:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Sin Limites
+http://186.147.217.10:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Sony
+http://186.147.217.10:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Space
+http://186.147.217.10:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Studio Universal
+http://186.147.217.10:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", TBS
+http://186.147.217.10:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", TCM
+http://186.147.217.10:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TLC
+http://186.147.217.10:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TLT (La Tele Tuya)
+http://186.147.217.10:8000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TNT
+http://186.147.217.10:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TNT SPORTS 2
+http://186.147.217.10:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TNT SPORTS 3
+http://186.147.217.10:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TNT Series
+http://186.147.217.10:8000/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", TRO
+http://186.147.217.10:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", TV Peru
+http://186.147.217.10:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TVE
+http://186.147.217.10:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Teleantioquia
+http://186.147.217.10:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Telecafe
+http://186.147.217.10:8000/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Telecaribe
+http://186.147.217.10:8000/play/a0b8/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Telefe
+http://186.147.217.10:8000/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Telefuturo
+http://186.147.217.10:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Teleislas
+http://186.147.217.10:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Telemundo
+http://186.147.217.10:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Telepacifico
+http://186.147.217.10:8000/play/a0az/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Telesur
+http://186.147.217.10:8000/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Tooncast
+http://186.147.217.10:8000/play/a0d2/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Tru TV
+http://186.147.217.10:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",TyC Sports
+http://186.147.217.10:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Unicanal
+http://186.147.217.10:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",Universal
+http://186.147.217.10:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE",ViaX
+http://186.147.217.10:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Warner
+http://186.147.217.10:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Win
+http://186.147.217.10:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Zona Latina
+http://186.147.217.10:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="TVSATELITE", Zoom
+http://186.147.217.10:8000/play/a0a1/index.m3u8
 
 #EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
 http://45.71.202.210:50000/play/a021/index.m3u8
