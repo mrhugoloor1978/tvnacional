@@ -236,7 +236,7 @@ http://38.131.11.225:8000/play/a010
 #EXTINF: -1 group-title = "TVSATELITE", TNT
 http://38.131.11.225:8000/play/a013
 #EXTINF: -1 group-title = "TVSATELITE", TNT Series
-http://186.147.217.10:8000/play/a0cv/index.m3u8
+https://blackghost.live/play/teleclub-505.php?c=la-tnt-series-hd&f=.m3u8
 #EXTINF: -1 group-title = "TVSATELITE", TV + HD
 http://38.131.11.225:8000/play/a0f0
 #EXTINF: -1 group-title = "TVSATELITE", TVE
