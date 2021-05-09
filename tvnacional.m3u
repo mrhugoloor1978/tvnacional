@@ -330,7 +330,7 @@ http://186.147.217.10:8000/play/a071/index.m3u8
 http://186.147.217.10:8000/play/a0b5/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", Disney Channel
 http://186.147.217.10:8000/play/a07n/index.m3u8
-#EXTINF : -1 group-title="TVSATELITE", Disney Jr
+#EXTINF : -1 group-title="TVSATELITE", Disney Junior
 http://186.147.217.10:8000/play/a07i/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", Disney 
 http://186.147.217.10:8000/play/a05z/index.m3u8
@@ -418,15 +418,15 @@ http://186.147.217.10:8000/play/a0cq/index.m3u8
 http://186.147.217.10:8000/play/a090/index.m3u8
 #EXTINF : -1 group-title="TVSATELITE", SNT
 http://186.147.217.10:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE", STAR ACTION
+#EXTINF:-1 group-title="TVSATELITE", Fox Action
 http://186.147.217.10:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE", STAR CHANNEL
+#EXTINF:-1 group-title="TVSATELITE", Fox Chanel
 http://186.147.217.10:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE", STAR HITS
+#EXTINF:-1 group-title="TVSATELITE", Fox Hits
 http://186.147.217.10:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE", STAR LIFE
+#EXTINF:-1 group-title="TVSATELITE", Fox LIFE
 http://186.147.217.10:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE", STAR SERIES
+#EXTINF:-1 group-title="TVSATELITE", Fox SERIES
 http://186.147.217.10:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE", Señal Colombia
 http://186.147.217.10:8000/play/a09v/index.m3u8
