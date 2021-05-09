@@ -71,8 +71,6 @@ http://200.115.190.211:8000/play/eGhTK4fJJR5p5M3N/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
 http://200.115.190.211:8000/play/G5zcc3HYpdc5AjMs/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS HD
-http://200.115.190.211:8000/play/zMbqBSS3gramuTPy/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX1 Oeste
 http://200.115.190.211:8000/play/Ru4Yp6qytEFsXYGA/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX7 WSVN
 http://200.115.190.211:8000/play/xShXfm4TDt98YmwJ/index.m3u8
@@ -422,7 +420,7 @@ http://186.147.217.10:8000/play/a06f/index.m3u8
 http://186.147.217.10:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE", Fox Channel
 http://186.147.217.10:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE", Star Hits
+#EXTINF:-1 group-title="TVSATELITE", Fox Hits
 http://186.147.217.10:8000/play/a07b/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE", Fox LIFE
 http://186.147.217.10:8000/play/a067/index.m3u8
@@ -444,13 +442,13 @@ http://186.147.217.10:8000/play/a094/index.m3u8
 http://186.147.217.10:8000/play/a06a/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",TLC
 http://186.147.217.10:8000/play/a08a/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",TLT (La Tele Tuya)
+#EXTINF:-1 group-title="TVSATELITE", TLT 
 http://186.147.217.10:8000/play/a0d6/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",TNT
 http://186.147.217.10:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",TNT SPORTS 2
+#EXTINF:-1 group-title="TVSATELITE",TNT Sports 2
 http://186.147.217.10:8000/play/a079/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE",TNT SPORTS 3
+#EXTINF:-1 group-title="TVSATELITE",TNT Sports 3
 http://186.147.217.10:8000/play/a07x/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE",TNT Series
 http://186.147.217.10:8000/play/a0cv/index.m3u8
