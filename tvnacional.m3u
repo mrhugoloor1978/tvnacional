@@ -108,13 +108,13 @@ http://181.37.235.10:8081/play/a0gf/index.m3u8
 http://181.37.235.10:8081/play/a0dx/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE1", HBO 2
 http://181.37.235.10:8081/play/a0hg/index.m3u8
-#EXTINF:-1   group-title="TVSATELITE1", Hbo-Signature
+#EXTINF:-1 group-title="TVSATELITE1", Hbo-Signature
 https://blackghost.live/play/teleclub-505.php?c=HBO-SIGNATURE-HD&f=.m3u8
 #EXTINF:-1 group-title="TVSATELITE1", AXN
 http://181.37.235.10:8081/play/a0dv/index.m3u8
-#EXTINF:-1   group-title="TVSATELITE1",Tnt-Series
+#EXTINF:-1 group-title="TVSATELITE1",Tnt-Series
 https://blackghost.live/play/teleclub-505.php?c=la-tnt-series-hd&f=.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", TNT
+#EXTINF:-1 group-title ="TVSATELITE1", TNT
 http://181.37.235.10:8081/play/a0dw/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE1", Fox Channel
 http://181.37.235.10:8081/play/a0gz/index.m3u8
