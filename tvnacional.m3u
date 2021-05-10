@@ -144,7 +144,7 @@ http://181.37.235.10:8081/play/a0i8/index.m3u8
 http://181.37.235.10:8081/play/a0gk/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE1", El Gourmet
 http://181.37.235.10:8081/play/a0i4/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE", DHE
+#EXTINF:-1 group-title="TVSATELITE1", DHE
 http://181.37.235.10:8081/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE1", Cinema Dinamita
 http://181.37.235.10:8081/play/a0hd/index.m3u8
