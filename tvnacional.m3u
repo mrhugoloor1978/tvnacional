@@ -313,11 +313,11 @@ http://181.37.235.10:8081/play/a0cg/index.m3u8
 http://181.37.235.10:8081/play/a0f7/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", CLARO SPORTS
 http://181.37.235.10:8081/play/a0cd/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3",CNN Internacional
+#EXTINF:-1 group-title = "TVSATELITE3", CNN Internacional
 http://181.37.235.10:8081/play/a0i1/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", CNNE
 http://181.37.235.10:8081/play/a0dy/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3",COLOR VISION 
+#EXTINF:-1 group-title = "TVSATELITE3", COLOR VISION 
 http://181.37.235.10:8081/play/a0oq/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", CONCERT CHANNEL
 http://181.37.235.10:8081/play/a0id/index.m3u8
@@ -407,7 +407,7 @@ http://181.37.235.10:8081/play/a0nm/index.m3u8
 http://181.37.235.10:8081/play/a0gn/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX
 http://181.37.235.10:8081/play/a0gz/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX Action HD
+#EXTINF:-1 group-title = "TVSATELITE3", Fox premium Action HD
 http://181.37.235.10:8081/play/a0kq/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX COMEDY
 http://181.37.235.10:8081/play/a0i9/index.m3u8
@@ -431,13 +431,13 @@ http://181.37.235.10:8081/play/a0lr/index.m3u8
 http://181.37.235.10:8081/play/a0ko/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX Sports 2
 http://181.37.235.10:8081/play/a0f9/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX+ACT
+#EXTINF:-1 group-title = "TVSATELITE3", FOX+ ACT
 http://181.37.235.10:8081/play/a0fd/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX+CLA
+#EXTINF:-1 group-title = "TVSATELITE3", FOX+ CLA
 http://181.37.235.10:8081/play/a0ff/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX+FAM
+#EXTINF:-1 group-title = "TVSATELITE3", FOX+ FAM
 http://181.37.235.10:8081/play/a0fe/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX+MOV
+#EXTINF:-1 group-title = "TVSATELITE3", FOX+ MOV
 http://181.37.235.10:8081/play/a0hl/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FUTV HD CR
 http://181.37.235.10:8081/play/a0n9/index.m3u8
@@ -471,7 +471,7 @@ http://181.37.235.10:8081/play/a0nr/index.m3u8
 http://181.37.235.10:8081/play/a0f6/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", HBO
 http://181.37.235.10:8081/play/a0hf/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3",HBO Family
+#EXTINF:-1 group-title = "TVSATELITE3", HBO Family
 http://181.37.235.10:8081/play/a0hi/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", HBO Family HD
 http://181.37.235.10:8081/play/a0ih/index.m3u8
@@ -575,7 +575,7 @@ http://181.37.235.10:8081/play/a0fg/index.m3u8
 http://181.37.235.10:8081/play/a0nq/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Studio Universal
 http://181.37.235.10:8081/play/a0hc/index.m3u8
-#EXTINF:-1, group-title = "TVSATELITE3" Studio Universal HD
+#EXTINF:-1, group-title = "TVSATELITE3", Studio Universal HD
 http://181.37.235.10:8081/play/a0nd/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3" ,SyFy
 http://181.37.235.10:8081/play/a0gg/index.m3u8
