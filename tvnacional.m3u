@@ -263,22 +263,14 @@ http://181.37.235.10:8081/play/a0kn/index.m3u8
 
 #EXTINF:-1 group-title = "TVSATELITE3", A&E
 http://181.37.235.10:8081/play/a0gf/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", A&E HD
-http://181.37.235.10:8081/play/a0ni/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", AMC
 http://181.37.235.10:8081/play/a0dx/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", AMC HD
-http://181.37.235.10:8081/play/a0nj/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", AME 
 http://181.37.235.10:8081/play/a0oz/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", AXN
 http://181.37.235.10:8081/play/a0dv/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", AZ click HD
-http://181.37.235.10:8081/play/a0np/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Animal Planet
 http://181.37.235.10:8081/play/a0gi/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Animal Planet HD
-http://181.37.235.10:8081/play/a0nf/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Antena 7- RD
 http://181.37.235.10:8081/play/a0d8/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Atres Series
@@ -407,28 +399,12 @@ http://181.37.235.10:8081/play/a0nm/index.m3u8
 http://181.37.235.10:8081/play/a0gn/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX
 http://181.37.235.10:8081/play/a0gz/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Fox premium Action HD
-http://181.37.235.10:8081/play/a0kq/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX COMEDY
 http://181.37.235.10:8081/play/a0i9/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX Comedy HD
-http://181.37.235.10:8081/play/a0m1/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX Family HD
-http://181.37.235.10:8081/play/a0kr/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX HD
-http://181.37.235.10:8081/play/a0gq/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX LIFE
 http://181.37.235.10:8081/play/a0dk/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX Movies HD
-http://181.37.235.10:8081/play/a0kp/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX SERIES
 http://181.37.235.10:8081/play/a0hk/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX SPORTS 2 HD
-http://181.37.235.10:8081/play/a0kg/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX SPORTS 3 HD
-http://181.37.235.10:8081/play/a0lr/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FOX Series HD
-http://181.37.235.10:8081/play/a0ko/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX Sports 2
 http://181.37.235.10:8081/play/a0f9/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FOX+ ACT
@@ -443,64 +419,38 @@ http://181.37.235.10:8081/play/a0hl/index.m3u8
 http://181.37.235.10:8081/play/a0n9/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FX
 http://181.37.235.10:8081/play/a0f2/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FX HD
-http://181.37.235.10:8081/play/a0nl/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", FX Movies
 http://181.37.235.10:8081/play/a0h8/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", FX Movies HD
-http://181.37.235.10:8081/play/a0nn/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Film Arts
 http://181.37.235.10:8081/play/a0i6/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Film arts HD
-http://181.37.235.10:8081/play/a0nh/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Fox Classic HD
-http://181.37.235.10:8081/play/a0ks/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Fox Sport 3
 http://181.37.235.10:8081/play/a0ds/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Fox Sports
 http://181.37.235.10:8081/play/a0h4/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Fox Sports HD
-http://181.37.235.10:8081/play/a0hm/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Golden
 http://181.37.235.10:8081/play/a0fb/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Golf Channel
 http://181.37.235.10:8081/play/a0hy/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Golf Channel HD
-http://181.37.235.10:8081/play/a0nr/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", H2
 http://181.37.235.10:8081/play/a0f6/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", HBO
 http://181.37.235.10:8081/play/a0hf/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", HBO Family
 http://181.37.235.10:8081/play/a0hi/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", HBO Family HD
-http://181.37.235.10:8081/play/a0ih/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", HBO HD
-http://181.37.235.10:8081/play/a0ie/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", HBO Plus
 http://181.37.235.10:8081/play/a0hh/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", HBO Plus HD
-http://181.37.235.10:8081/play/a0mv/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", HBO XTREME
 http://181.37.235.10:8081/play/a0ii/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", HBO XTREME
 http://181.37.235.10:8081/play/a0hj/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", HBO2
 http://181.37.235.10:8081/play/a0hg/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", HBO2 HD
-http://181.37.235.10:8081/play/a0mu/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", HOLA! TV HD
-http://181.37.235.10:8081/play/a0kk/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", History Channel
 http://181.37.235.10:8081/play/a0gj/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", History HD
-http://181.37.235.10:8081/play/a0e4/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Hola!TV
 http://181.37.235.10:8081/play/a0hw/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", discovery Home & Health HD
 http://181.37.235.10:8081/play/a0kj/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", discovery ID
-http://181.37.235.10:8081/play/a0h2/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", LIFE TIME
 http://181.37.235.10:8081/play/a0dr/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", La voz de Maria
@@ -513,8 +463,6 @@ http://181.37.235.10:8081/play/a0h5/index.m3u8
 http://181.37.235.10:8081/play/a0e6/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", MTV Hits
 http://181.37.235.10:8081/play/a0dt/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", MTV SIM HD
-http://181.37.235.10:8081/play/a0km/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Mas Chic
 http://181.37.235.10:8081/play/a0hs/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Multipremier
@@ -571,12 +519,8 @@ http://181.37.235.10:8081/play/a0ow/index.m3u8
 http://181.37.235.10:8081/play/a0ov/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Sembrador
 http://181.37.235.10:8081/play/a0fg/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Star TVE HD
-http://181.37.235.10:8081/play/a0nq/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Studio Universal
 http://181.37.235.10:8081/play/a0hc/index.m3u8
-#EXTINF:-1, group-title = "TVSATELITE3", Studio Universal HD
-http://181.37.235.10:8081/play/a0nd/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3" ,SyFy
 http://181.37.235.10:8081/play/a0gg/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", SyFy HD
@@ -603,8 +547,6 @@ http://181.37.235.10:8081/play/a0dw/index.m3u8
 http://181.37.235.10:8081/play/a0kh/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", TNT Series
 http://181.37.235.10:8081/play/a0do/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", TNT Series HD
-http://181.37.235.10:8081/play/a0lu/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", TVE
 http://181.37.235.10:8081/play/a0gp/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Tele Antillas - RD
@@ -613,10 +555,6 @@ http://181.37.235.10:8081/play/a0d7/index.m3u8
 http://181.37.235.10:8081/play/a01f/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Telemundo
 http://181.37.235.10:8081/play/a0dl/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Telemundo HD
-http://181.37.235.10:8081/play/a0nk/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", Telesistema RD
-http://181.37.235.10:8081/play/a0d9/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Teleunion -RD
 http://181.37.235.10:8081/play/a011/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Teleuniverso - RD
@@ -629,16 +567,149 @@ http://181.37.235.10:8081/play/a0fh/index.m3u8
 http://181.37.235.10:8081/play/a0fa/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", VH1 Classic
 http://181.37.235.10:8081/play/a0du/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", VH1 HD
-http://181.37.235.10:8081/play/a0kn/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE3", WARNER HD
-http://181.37.235.10:8081/play/a0gr/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", WMTVI CH57
 http://181.37.235.10:8081/play/a0p0/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", Warner
 http://181.37.235.10:8081/play/a0gd/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE3", ZooMoo
 http://181.37.235.10:8081/play/a0hr/index.m3u8
+
+=================================================
+#EXTINF:-1 group-title = "TVSATELITE3", A&E
+http://45.182.127.235:8500/play/a0pc
+#EXTINF:-1 group-title = "TVSATELITE3", AMC
+http://45.182.127.235:8500/play/a0nw
+#EXTINF:-1 group-title = "TVSATELITE3", ATRES SERIES
+http://45.182.127.235:8500/play/a0pg
+#EXTINF:-1 group-title = "TVSATELITE3", AXN
+http://45.182.127.235:8500/play/a0jl
+#EXTINF:-1 group-title = "TVSATELITE3", Animal Planet
+http://45.182.127.235:8500/play/a0nm
+#EXTINF:-1 group-title = "TVSATELITE3", Boomerang
+http://45.182.127.235:8500/play/a0lw
+#EXTINF:-1 group-title = "TVSATELITE3", CNN Español
+http://45.182.127.235:8500/play/a0pa
+#EXTINF:-1 group-title = "TVSATELITE3", Cartoon Network
+http://45.182.127.235:8500/play/a0mm
+#EXTINF:-1 group-title = "TVSATELITE3", Cinecanal
+http://45.182.127.235:8500/play/a0jz
+#EXTINF:-1 group-title = "TVSATELITE3", Cinemax
+http://45.182.127.235:8500/play/a0m4
+#EXTINF:-1 group-title = "TVSATELITE3", Comedy Central
+http://45.182.127.235:8500/play/a0nt
+#EXTINF:-1 group-title = "TVSATELITE3", Discovery Channel
+http://45.182.127.235:8500/play/a0no
+#EXTINF:-1 group-title = "TVSATELITE3", Discovery H&H
+http://45.182.127.235:8500/play/a0jh
+#EXTINF:-1 group-title = "TVSATELITE3", Discovery Kids
+http://45.182.127.235:8500/play/a0nl
+#EXTINF:-1 group-title = "TVSATELITE3", Disney Junior
+http://45.182.127.235:8500/play/a0jf
+#EXTINF:-1 group-title = "TVSATELITE3", E! Entertainment TV
+http://45.182.127.235:8500/play/a0mq
+#EXTINF:-1 group-title = "TVSATELITE3", ESPN
+http://45.182.127.235:8500/play/a0lz
+#EXTINF:-1 group-title = "TVSATELITE3", ESPN 
+http://45.182.127.235:8500/play/a0mr
+#EXTINF:-1 group-title = "TVSATELITE3", ESPN 3
+http://45.182.127.235:8500/play/a0jk
+#EXTINF:-1 group-title = "TVSATELITE3", ESPN 2
+http://45.182.127.235:8500/play/a0ms
+#EXTINF:-1 group-title = "TVSATELITE3", El Canal del Futbol 
+http://45.182.127.235:8500/play/a0k1
+#EXTINF:-1 group-title = "TVSATELITE3", Eurochannel
+http://45.182.127.235:8500/play/a0qh
+#EXTINF:-1 group-title = "TVSATELITE3", Europa Europa
+http://45.182.127.235:8500/play/a0q9
+#EXTINF:-1 group-title = "TVSATELITE3", FX
+http://45.182.127.235:8500/play/a0jo
+#EXTINF:-1 group-title = "TVSATELITE3", Film&Arts
+http://45.182.127.235:8500/play/a0q7
+#EXTINF:-1 group-title = "TVSATELITE3", Fox Sports
+http://45.182.127.235:8500/play/a0ou
+#EXTINF:-1 group-title = "TVSATELITE3", Fox Sports 1
+http://45.182.127.235:8500/play/a0mt
+#EXTINF:-1 group-title = "TVSATELITE3", Fox Sports 2
+http://45.182.127.235:8500/play/a0ly
+#EXTINF:-1 group-title = "TVSATELITE3", Fox Sports 3
+http://45.182.127.235:8500/play/a0pb
+#EXTINF:-1 group-title = "TVSATELITE3", Glitz*
+http://45.182.127.235:8500/play/a0q5
+#EXTINF:-1 group-title = "TVSATELITE3", Golden
+http://45.182.127.235:8500/play/a0m0
+#EXTINF:-1 group-title = "TVSATELITE3", Golden
+http://45.182.127.235:8500/play/a0m6
+#EXTINF:-1 group-title = "TVSATELITE3", Golden Edge
+http://45.182.127.235:8500/play/a0jy
+#EXTINF:-1 group-title = "TVSATELITE3", HBO Family
+http://45.182.127.235:8500/play/a0k5
+#EXTINF:-1 group-title = "TVSATELITE3", HBO Plus
+http://45.182.127.235:8500/play/a0k7
+#EXTINF:-1 group-title = "TVSATELITE3", HBO SD
+http://45.182.127.235:8500/play/a0mx
+#EXTINF:-1 group-title = "TVSATELITE3", HBO Signature
+http://45.182.127.235:8500/play/a0k8
+#EXTINF:-1 group-title = "TVSATELITE3", HBO XTREME
+http://45.182.127.235:8500/play/a0k6
+#EXTINF:-1 group-title = "TVSATELITE3", History 2
+http://45.182.127.235:8500/play/a0mo
+#EXTINF:-1 group-title = "TVSATELITE3", History Channel
+http://45.182.127.235:8500/play/a0jg
+#EXTINF:-1 group-title = "TVSATELITE3", I SAT
+http://45.182.127.235:8500/play/a0m2
+#EXTINF:-1 group-title = "TVSATELITE3", ID - Investigation Discovery
+http://45.182.127.235:8500/play/a0jn
+#EXTINF:-1 group-title = "TVSATELITE3", MTV
+http://45.182.127.235:8500/play/a0p9
+#EXTINF:-1 group-title = "TVSATELITE3", Mas Chic
+http://45.182.127.235:8500/play/a0q6
+#EXTINF:-1 group-title = "TVSATELITE3", Nat Geo Kids
+http://45.182.127.235:8500/play/a0nn
+#EXTINF:-1 group-title = "TVSATELITE3", Nat Geo Wild
+http://45.182.127.235:8500/play/a0mp
+#EXTINF:-1 group-title = "TVSATELITE3", Nat Geo
+http://45.182.127.235:8500/play/a0mn
+#EXTINF:-1 group-title = "TVSATELITE3", Nickelodeon
+http://45.182.127.235:8500/play/a0lv
+#EXTINF:-1 group-title = "TVSATELITE3", Paramount Channel
+http://45.182.127.235:8500/play/a0m3
+#EXTINF:-1 group-title = "TVSATELITE3", FOX CHANNEL
+http://45.182.127.235:8500/play/a0jx
+#EXTINF:-1 group-title = "TVSATELITE3", FOX FUN
+http://45.182.127.235:8500/play/a0nx
+#EXTINF:-1 group-title = "TVSATELITE3", FOX HITS
+http://45.182.127.235:8500/play/a0my
+#EXTINF:-1 group-title = "TVSATELITE3", FOX LIFE
+http://45.182.127.235:8500/play/a0np
+#EXTINF:-1 group-title = "TVSATELITE3", FOX SERIES O
+http://45.182.127.235:8500/play/a0k0
+#EXTINF:-1 group-title = "TVSATELITE3", Sony
+http://45.182.127.235:8500/play/a0mu
+#EXTINF:-1 group-title = "TVSATELITE3", SyFy
+http://45.182.127.235:8500/play/a0mw
+#EXTINF:-1 group-title = "TVSATELITE3", TBS Very Funny
+http://45.182.127.235:8500/play/a0mv
+#EXTINF:-1 group-title = "TVSATELITE3", TCM
+http://45.182.127.235:8500/play/a0m1
+#EXTINF:-1 group-title = "TVSATELITE3", TLC
+http://45.182.127.235:8500/play/a0p6
+#EXTINF:-1 group-title = "TVSATELITE3", TNT
+http://45.182.127.235:8500/play/a0pe
+#EXTINF:-1 group-title = "TVSATELITE3", TNT SPORTS 3
+http://45.182.127.235:8500/play/a0p2
+#EXTINF:-1 group-title = "TVSATELITE3", TNT Series
+http://45.182.127.235:8500/play/a0pf
+#EXTINF:-1 group-title = "TVSATELITE3",Telenovelas
+http://45.182.127.235:8500/play/a0js
+#EXTINF:-1 group-title = "TVSATELITE3", Travel and Living Channel
+http://45.182.127.235:8500/play/a0p7
+#EXTINF:-1 group-title = "TVSATELITE3", Tru TV
+http://45.182.127.235:8500/play/a0k3
+#EXTINF:-1 group-title = "TVSATELITE3", Universal
+http://45.182.127.235:8500/play/a0jm
+#EXTINF:-1 group-title = "TVSATELITE3", Win Sports
+http://45.182.127.235:8500/play/a0ns
+
 
 
 
