@@ -201,8 +201,6 @@ http://181.37.235.10:8081/play/a0dv/index.m3u8
 https://blackghost.live/play/teleclub-505.php?c=la-tnt-series-hd&f=.m3u8
 #EXTINF:-1 group-title ="TVSATELITE1", TNT
 http://181.37.235.10:8081/play/a0dw/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Fox Channel
-http://181.37.235.10:8081/play/a0gz/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE1", Multipremier
 http://181.37.235.10:8081/play/a0h9/index.m3u8
 #EXTINF:-1 group-title="TVSATELITE1", Cine Latino
