@@ -1656,5 +1656,505 @@ http://ipeteve.com/php/SR_REGIO_690/regio22.php?c=teennick&f=.m3u8
 #EXTINF:-1  group-title="TVSATELITE1", TOONCAST
 http://ipeteve.com/php/SR_REGIO_690/regio22.php?c=tooncast&f=.m3u8
 
-
+====================================================================
+#EXTINF:-1 group-title = "CANALES HD Y SD", 3ABN 
+http://45.5.8.78:8000/play/a026
+#EXTINF:-1 group-title = "CANALES HD Y SD", A&E
+http://45.5.8.78:8000/play/a021
+#EXTINF:-1 group-title = "CANALES HD Y SD",A&E 
+http://45.5.8.78:8000/play/a00j
+#EXTINF:-1 group-title = "CANALES HD Y SD", A24
+http://45.5.8.78:8000/play/a056
+#EXTINF:-1 group-title = "CANALES HD Y SD", AME 
+http://45.5.8.78:8000/play/a05i
+#EXTINF:-1 group-title = "CANALES HD Y SD", AUTOMOTIVE TV
+http://45.5.8.78:8000/play/a06i
+#EXTINF:-1 group-title = "CANALES HD Y SD", AXN HD
+http://45.5.8.78:8000/play/a01z
+#EXTINF:-1 group-title = "CANALES HD Y SD", AXN sd
+http://45.5.8.78:8000/play/a00x
+#EXTINF:-1 group-title = "CANALES HD Y SD", AZCorazon
+http://45.5.8.78:8000/play/a06s
+#EXTINF:-1 group-title = "CANALES HD Y SD", Alegrando Tv sd
+http://45.5.8.78:8000/play/a02t
+#EXTINF:-1 group-title = "CANALES HD Y SD", Aliento Vision sd
+http://45.5.8.78:8000/play/a05c
+#EXTINF:-1 group-title = "CANALES HD Y SD", AmericanSports sd
+http://45.5.8.78:8000/play/a00g
+#EXTINF:-1 group-title = "CANALES HD Y SD", Animal Planet HD
+http://45.5.8.78:8000/play/a05v
+#EXTINF:-1 group-title = "CANALES HD Y SD", Antena 21 sd
+http://45.5.8.78:8000/play/a001
+#EXTINF:-1 group-title = "CANALES HD Y SD", Antena 3 sd
+http://45.5.8.78:8000/play/a031
+#EXTINF:-1 group-title = "CANALES HD Y SD", Antena 7 sd
+http://45.5.8.78:8000/play/a04h
+#EXTINF:-1 group-title = "CANALES HD Y SD", Azmundo sd
+http://45.5.8.78:8000/play/a03z
+#EXTINF:-1 group-title = "CANALES HD Y SD", Azteca Uno Hd
+http://45.5.8.78:8000/play/a06y
+#EXTINF:-1 group-title = "CANALES HD Y SD", BBC WORLD HD
+http://45.5.8.78:8000/play/a05q
+#EXTINF:-1 group-title = "CANALES HD Y SD", BEIN SPORTS HD
+http://45.5.8.78:8000/play/a05x
+#EXTINF:-1 group-title = "CANALES HD Y SD", BONAO TV CANAL 12
+http://45.5.8.78:8000/play/a04b
+#EXTINF:-1 group-title = "CANALES HD Y SD", BRAZZERS XXX
+http://45.5.8.78:8000/play/a029
+#EXTINF:-1 group-title = "CANALES HD Y SD", BYU-TV HD
+http://45.5.8.78:8000/play/a020
+#EXTINF:-1 group-title = "CANALES HD Y SD", BabyTv sd
+http://45.5.8.78:8000/play/a02j
+#EXTINF:-1 group-title = "CANALES HD Y SD", Bolivia Deportes HD
+http://45.5.8.78:8000/play/a051
+#EXTINF:-1 group-title = "CANALES HD Y SD", Boomerang sd
+http://45.5.8.78:8000/play/a00i
+#EXTINF:-1 group-title = "CANALES HD Y SD", Boreal TV HD
+http://45.5.8.78:8000/play/a04s
+#EXTINF:-1 group-title = "CANALES HD Y SD", C-SPAN HD
+http://45.5.8.78:8000/play/a063
+#EXTINF:-1 group-title = "CANALES HD Y SD", CANAL 13 sd
+http://45.5.8.78:8000/play/a01c
+#EXTINF:-1 group-title = "CANALES HD Y SD", CANAL 49
+http://45.5.8.78:8000/play/a06n
+#EXTINF:-1 group-title = "CANALES HD Y SD", CANAL CAPITAL SD
+http://45.5.8.78:8000/play/a01b
+#EXTINF:-1 group-title = "CANALES HD Y SD", CANAL UNO (R) SD
+http://45.5.8.78:8000/play/a01a
+#EXTINF:-1 group-title = "CANALES HD Y SD", CATV SD
+http://45.5.8.78:8000/play/a033
+#EXTINF:-1 group-title = "CANALES HD Y SD", CDN Sportmax sd
+http://45.5.8.78:8000/play/a04k
+#EXTINF:-1 group-title = "CANALES HD Y SD", CDN sd
+http://45.5.8.78:8000/play/a00b
+#EXTINF:-1 group-title = "CANALES HD Y SD", CERTV
+http://45.5.8.78:8000/play/a06z
+#EXTINF:-1 group-title = "CANALES HD Y SD", CGTN Documentary SD
+http://45.5.8.78:8000/play/a019
+#EXTINF:-1 group-title = "CANALES HD Y SD", CHINOLA TV
+http://45.5.8.78:8000/play/a06o
+#EXTINF:-1 group-title = "CANALES HD Y SD", discovery CIVILIZATION 
+http://45.5.8.78:8000/play/a02e
+#EXTINF:-1 group-title = "CANALES HD Y SD", CNN Espanol SD
+http://45.5.8.78:8000/play/a02q
+#EXTINF:-1 group-title = "CANALES HD Y SD", CNN Inges
+http://45.5.8.78:8000/play/a03e
+#EXTINF:-1 group-title = "CANALES HD Y SD", CNN internacional
+http://45.5.8.78:8000/play/a06p
+#EXTINF:-1 group-title = "CANALES HD Y SD", CRTV sd
+http://45.5.8.78:8000/play/a05f
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cala Weather
+http://45.5.8.78:8000/play/a06c
+#EXTINF:-1 group-title = "CANALES HD Y SD", Canal 56
+http://45.5.8.78:8000/play/a052
+#EXTINF:-1 group-title = "CANALES HD Y SD", Canal del Sol
+http://45.5.8.78:8000/play/a06j
+#EXTINF:-1 group-title = "CANALES HD Y SD",Canal las Estrellas
+http://45.5.8.78:8000/play/a03y
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cartoon Network sd
+http://45.5.8.78:8000/play/a02o
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cielo TV
+http://45.5.8.78:8000/play/a05a
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cinecanal SD
+http://45.5.8.78:8000/play/a038
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cinema Premier A sd
+http://45.5.8.78:8000/play/a00m
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cinema Premier C sd
+http://45.5.8.78:8000/play/a00n
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cinema Premier F SD
+http://45.5.8.78:8000/play/a00k
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cinema Premier sd
+http://45.5.8.78:8000/play/a00l
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cinevision
+http://45.5.8.78:8000/play/a005
+#EXTINF:-1 group-title = "CANALES HD Y SD", City Tv SD
+http://45.5.8.78:8000/play/a007
+#EXTINF:-1 group-title = "CANALES HD Y SD", Classic Arts HD Pri
+http://45.5.8.78:8000/play/a017
+#EXTINF:-1 group-title = "CANALES HD Y SD", ColorVision HD
+http://45.5.8.78:8000/play/a02a
+#EXTINF:-1 group-title = "CANALES HD Y SD", Conciencia TV
+http://45.5.8.78:8000/play/a05m
+#EXTINF:-1 group-title = "CANALES HD Y SD", Coral 39 SD
+http://45.5.8.78:8000/play/a044
+#EXTINF:-1 group-title = "CANALES HD Y SD", Cultura HD
+http://45.5.8.78:8000/play/a00c
+#EXTINF:-1 group-title = "CANALES HD Y SD", DANTV HD
+http://45.5.8.78:8000/play/a066
+#EXTINF:-1 group-title = "CANALES HD Y SD", DELTA TV
+http://45.5.8.78:8000/play/a06l
+#EXTINF:-1 group-title = "CANALES HD Y SD", DHE HD
+http://45.5.8.78:8000/play/a067
+#EXTINF:-1 group-title = "CANALES HD Y SD", DISCOVERY SCIENCE SPA HD
+http://45.5.8.78:8000/play/a02f
+#EXTINF:-1 group-title = "CANALES HD Y SD", DISCOVERY TURBO Latin HD
+http://45.5.8.78:8000/play/a02d
+#EXTINF:-1 group-title = "CANALES HD Y SD", DW Aleman
+http://45.5.8.78:8000/play/a065
+#EXTINF:-1 group-title = "CANALES HD Y SD", DW SD
+http://45.5.8.78:8000/play/a064
+#EXTINF:-1 group-title = "CANALES HD Y SD", De Pelicula sd
+http://45.5.8.78:8000/play/a01w
+#EXTINF:-1 group-title = "CANALES HD Y SD", Digital 15 SD
+http://45.5.8.78:8000/play/a00d
+#EXTINF:-1 group-title = "CANALES HD Y SD", Discovery H&H HD
+http://45.5.8.78:8000/play/a05u
+#EXTINF:-1 group-title = "CANALES HD Y SD", Discovery ID HD
+http://45.5.8.78:8000/play/a05w
+#EXTINF:-1 group-title = "CANALES HD Y SD", Disney Junior HD
+http://45.5.8.78:8000/play/a02h
+#EXTINF:-1 group-title = "CANALES HD Y SD", Disney Multicountry HD
+http://45.5.8.78:8000/play/a02k
+#EXTINF:-1 group-title = "CANALES HD Y SD", Disney SD
+http://45.5.8.78:8000/play/a060
+#EXTINF:-1 group-title = "CANALES HD Y SD", E!
+http://45.5.8.78:8000/play/a024
+#EXTINF:-1 group-title = "CANALES HD Y SD", E! sd
+http://45.5.8.78:8000/play/a00v
+#EXTINF:-1 group-title = "CANALES HD Y SD", ESPN HD
+http://45.5.8.78:8000/play/a008
+#EXTINF:-1 group-title = "CANALES HD Y SD", ESPN News sd
+http://45.5.8.78:8000/play/a03u
+#EXTINF:-1 group-title = "CANALES HD Y SD", ESPN+ HD
+http://45.5.8.78:8000/play/a01p
+#EXTINF:-1 group-title = "CANALES HD Y SD", ESPN+ SD
+http://45.5.8.78:8000/play/a03d
+#EXTINF:-1 group-title = "CANALES HD Y SD", ESPN2 HD
+http://45.5.8.78:8000/play/a06v
+#EXTINF:-1 group-title = "CANALES HD Y SD", ESPN2 SD
+http://45.5.8.78:8000/play/a032
+#EXTINF:-1 group-title = "CANALES HD Y SD", EWTN HD
+http://45.5.8.78:8000/play/a057
+#EXTINF:-1 group-title = "CANALES HD Y SD", Ecovision SD
+http://45.5.8.78:8000/play/a006
+#EXTINF:-1 group-title = "CANALES HD Y SD", En Television SD
+http://45.5.8.78:8000/play/a003
+#EXTINF:-1 group-title = "CANALES HD Y SD", Enlace sd
+http://45.5.8.78:8000/play/a009
+#EXTINF:-1 group-title = "CANALES HD Y SD", Enlce Juvenil HD
+http://45.5.8.78:8000/play/a05b
+#EXTINF:-1 group-title = "CANALES HD Y SD", Espiga TV SD
+http://45.5.8.78:8000/play/a04d
+#EXTINF:-1 group-title = "CANALES HD Y SD", F1 SPORT SD
+http://45.5.8.78:8000/play/a02z
+#EXTINF:-1 group-title = "CANALES HD Y SD", FOX SD
+http://45.5.8.78:8000/play/a03f
+#EXTINF:-1 group-title = "CANALES HD Y SD", FX Colombia HD
+http://45.5.8.78:8000/play/a02i
+#EXTINF:-1 group-title = "CANALES HD Y SD", FX Latino SD
+http://45.5.8.78:8000/play/a00f
+#EXTINF:-1 group-title = "CANALES HD Y SD", FXM HD
+http://45.5.8.78:8000/play/a05t
+#EXTINF:-1 group-title = "CANALES HD Y SD", FXM SD
+http://45.5.8.78:8000/play/a03a
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fashion HD
+http://45.5.8.78:8000/play/a014
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fox Action HD
+http://45.5.8.78:8000/play/a05n
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fox Deportes
+http://45.5.8.78:8000/play/a01g
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fox Life SD
+http://45.5.8.78:8000/play/a03j
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fox Premium Series HD
+http://45.5.8.78:8000/play/a05p
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fox Sports 2 SD
+http://45.5.8.78:8000/play/a03h
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fox Sports 3 SD
+http://45.5.8.78:8000/play/a03i
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fox Sports SD
+http://45.5.8.78:8000/play/a03g
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fox sport 3 HD
+http://45.5.8.78:8000/play/a06w
+#EXTINF:-1 group-title = "CANALES HD Y SD", France 24 English sd
+http://45.5.8.78:8000/play/a018
+#EXTINF:-1 group-title = "CANALES HD Y SD", Fuego TV SD
+http://45.5.8.78:8000/play/a02u
+#EXTINF:-1 group-title = "CANALES HD Y SD", GLITZ SD
+http://45.5.8.78:8000/play/a03m
+#EXTINF:-1 group-title = "CANALES HD Y SD", Galaxia TV HD
+http://45.5.8.78:8000/play/a04m
+#EXTINF:-1 group-title = "CANALES HD Y SD", Guacara TV HD
+http://45.5.8.78:8000/play/a04e
+#EXTINF:-1 group-title = "CANALES HD Y SD", H2 HD
+http://45.5.8.78:8000/play/a027
+#EXTINF:-1 group-title = "CANALES HD Y SD", HBO HD
+http://45.5.8.78:8000/play/a01t
+#EXTINF:-1 group-title = "CANALES HD Y SD", HTV HD
+http://45.5.8.78:8000/play/a02m
+#EXTINF:-1 group-title = "CANALES HD Y SD", Headlines News SD
+http://45.5.8.78:8000/play/a03r
+#EXTINF:-1 group-title = "CANALES HD Y SD", Hilando Fino HD
+http://45.5.8.78:8000/play/a04a
+#EXTINF:-1 group-title = "CANALES HD Y SD", Hilando Fino SD
+http://45.5.8.78:8000/play/a069
+#EXTINF:-1 group-title = "CANALES HD Y SD", History HD
+http://45.5.8.78:8000/play/a023
+#EXTINF:-1 group-title = "CANALES HD Y SD", History Latino SD
+http://45.5.8.78:8000/play/a00h
+#EXTINF:-1 group-title = "CANALES HD Y SD", Imagen HD
+http://45.5.8.78:8000/play/a012
+#EXTINF:-1 group-title = "CANALES HD Y SD", LIFETIME HD
+http://45.5.8.78:8000/play/a028
+#EXTINF:-1 group-title = "CANALES HD Y SD", La Voz de Maria SD
+http://45.5.8.78:8000/play/a058
+#EXTINF:-1 group-title = "CANALES HD Y SD", Lifetime SD
+http://45.5.8.78:8000/play/a00w
+#EXTINF:-1 group-title = "CANALES HD Y SD", Luna TV SD
+http://45.5.8.78:8000/play/a04x
+#EXTINF:-1 group-title = "CANALES HD Y SD", METV HD
+http://45.5.8.78:8000/play/a05y
+#EXTINF:-1 group-title = "CANALES HD Y SD", MICROVISION SD
+http://45.5.8.78:8000/play/a02s
+#EXTINF:-1 group-title = "CANALES HD Y SD", MLB
+http://45.5.8.78:8000/play/06q
+#EXTINF:-1 group-title = "CANALES HD Y SD", MOVIE ROOM ADVEN SD
+http://45.5.8.78:8000/play/a00s
+#EXTINF:-1 group-title = "CANALES HD Y SD", MOVIE ROOM COMED SD
+http://45.5.8.78:8000/play/a00r
+#EXTINF:-1 group-title = "CANALES HD Y SD", MOVIE ROOM DRAMA SD
+http://45.5.8.78:8000/play/a00t
+#EXTINF:-1 group-title = "CANALES HD Y SD", MOVIE ROOM SD
+http://45.5.8.78:8000/play/a00q
+#EXTINF:-1 group-title = "CANALES HD Y SD", MTV SD
+http://45.5.8.78:8000/play/a016
+#EXTINF:-1 group-title = "CANALES HD Y SD", Maimon TV SD
+http://45.5.8.78:8000/play/a048
+#EXTINF:-1 group-title = "CANALES HD Y SD", MariaVision SD
+http://45.5.8.78:8000/play/a01x
+#EXTINF:-1 group-title = "CANALES HD Y SD", Mega
+http://45.5.8.78:8000/play/a02r
+#EXTINF:-1 group-title = "CANALES HD Y SD", Microvision HD
+http://45.5.8.78:8000/play/a04p
+#EXTINF:-1 group-title = "CANALES HD Y SD", Mocavision HD
+http://45.5.8.78:8000/play/a04w
+#EXTINF:-1 group-title = "CANALES HD Y SD", Movie Room Adventure HD
+http://45.5.8.78:8000/play/a01l
+#EXTINF:-1 group-title = "CANALES HD Y SD", Movie Room Comedy HD
+http://45.5.8.78:8000/play/a01o
+#EXTINF:-1 group-title = "CANALES HD Y SD", Movie Room Comedy HD
+http://45.5.8.78:8000/play/a01n
+#EXTINF:-1 group-title = "CANALES HD Y SD", Movie Room HD
+http://45.5.8.78:8000/play/a01m
+#EXTINF:-1 group-title = "CANALES HD Y SD", Movie Room SD
+http://45.5.8.78:8000/play/a01k
+#EXTINF:-1 group-title = "CANALES HD Y SD", NATGEO WILD SD
+http://45.5.8.78:8000/play/a06f
+#EXTINF:-1 group-title = "CANALES HD Y SD", NBA TV
+http://45.5.8.78:8000/play/a06r
+#EXTINF:-1 group-title = "CANALES HD Y SD", NBC UNIVERSO
+http://45.5.8.78:8000/play/a030
+#EXTINF:-1 group-title = "CANALES HD Y SD", NTN24 SD
+http://45.5.8.78:8000/play/a01s
+#EXTINF:-1 group-title = "CANALES HD Y SD", Nat Geo Kids SD
+http://45.5.8.78:8000/play/a036
+#EXTINF:-1 group-title = "CANALES HD Y SD", Nat Geo Love Nature HD
+http://45.5.8.78:8000/play/a05l
+#EXTINF:-1 group-title = "CANALES HD Y SD", Natgeo Wild HD
+http://45.5.8.78:8000/play/a02c
+#EXTINF:-1 group-title = "CANALES HD Y SD", Nexxo SD
+http://45.5.8.78:8000/play/a04g
+#EXTINF:-1 group-title = "CANALES HD Y SD", PLAYBOY
+http://45.5.8.78:8000/play/a03b
+#EXTINF:-1 group-title = "CANALES HD Y SD", Pasiones
+http://45.5.8.78:8000/play/a054
+#EXTINF:-1 group-title = "CANALES HD Y SD", PenHouse Wold SD
+http://45.5.8.78:8000/play/a02n
+#EXTINF:-1 group-title = "CANALES HD Y SD", Prime SD
+http://45.5.8.78:8000/play/a013
+#EXTINF:-1 group-title = "CANALES HD Y SD", Punal TV HD
+http://45.5.8.78:8000/play/a04n
+#EXTINF:-1 group-title = "CANALES HD Y SD", RATIMBU SD
+http://45.5.8.78:8000/play/a06a
+#EXTINF:-1 group-title = "CANALES HD Y SD", RCN Internacional SD
+http://45.5.8.78:8000/play/a01r
+#EXTINF:-1 group-title = "CANALES HD Y SD", READY TV SD
+http://45.5.8.78:8000/play/a02v
+#EXTINF:-1 group-title = "CANALES HD Y SD", RNN SD
+http://45.5.8.78:8000/play/a004
+#EXTINF:-1 group-title = "CANALES HD Y SD", RT ESP HD
+http://45.5.8.78:8000/play/a041
+#EXTINF:-1 group-title = "CANALES HD Y SD", RT ESP SD
+http://45.5.8.78:8000/play/a042
+#EXTINF:-1 group-title = "CANALES HD Y SD", RT SD
+http://45.5.8.78:8000/play/a06g
+#EXTINF:-1 group-title = "CANALES HD Y SD", RTVE 24 SD
+http://45.5.8.78:8000/play/a062
+#EXTINF:-1 group-title = "CANALES HD Y SD", Ready HD
+http://45.5.8.78:8000/play/a05j
+#EXTINF:-1 group-title = "CANALES HD Y SD", Real TV SD
+http://45.5.8.78:8000/play/a05d
+#EXTINF:-1 group-title = "CANALES HD Y SD", Red Advenir Internacional SD
+http://45.5.8.78:8000/play/a068
+#EXTINF:-1 group-title = "CANALES HD Y SD", Renacer en el espiritu SD
+http://45.5.8.78:8000/play/a046
+#EXTINF:-1 group-title = "CANALES HD Y SD", SONY SD
+http://45.5.8.78:8000/play/a039
+#EXTINF:-1 group-title = "CANALES HD Y SD", SPACE HD
+http://45.5.8.78:8000/play/a01q
+#EXTINF:-1 group-title = "CANALES HD Y SD", SPACE SD
+http://45.5.8.78:8000/play/a02p
+#EXTINF:-1 group-title = "CANALES HD Y SD", SUPER TV 8
+http://45.5.8.78:8000/play/a047
+#EXTINF:-1 group-title = "CANALES HD Y SD", SYFY SD
+http://45.5.8.78:8000/play/a02w
+#EXTINF:-1 group-title = "CANALES HD Y SD", Santiago TV
+http://45.5.8.78:8000/play/a01h
+#EXTINF:-1 group-title = "CANALES HD Y SD", Señal Colombia SD
+http://45.5.8.78:8000/play/a01y
+#EXTINF:-1 group-title = "CANALES HD Y SD", SexTreme xxx
+http://45.5.8.78:8000/play/a01u
+#EXTINF:-1 group-title = "CANALES HD Y SD", Sony HD
+http://45.5.8.78:8000/play/a025
+#EXTINF:-1 group-title = "CANALES HD Y SD", Studio Universal HD
+http://45.5.8.78:8000/play/a00o
+#EXTINF:-1 group-title = "CANALES HD Y SD", Studio Universal SD
+http://45.5.8.78:8000/play/a040
+#EXTINF:-1 group-title = "CANALES HD Y SD", Super Canal 33 SD
+http://45.5.8.78:8000/play/a06b
+#EXTINF:-1 group-title = "CANALES HD Y SD", Supertv55 SD
+http://45.5.8.78:8000/play/a04z
+#EXTINF:-1 group-title = "CANALES HD Y SD", SyFy HD
+http://45.5.8.78:8000/play/a02l
+#EXTINF:-1 group-title = "CANALES HD Y SD", TBS Very Funny SD
+http://45.5.8.78:8000/play/a03s
+#EXTINF:-1 group-title = "CANALES HD Y SD", TCM SD
+http://45.5.8.78:8000/play/a03p
+#EXTINF:-1 group-title = "CANALES HD Y SD", TELECAFE sd
+http://45.5.8.78:8000/play/a01e
+#EXTINF:-1 group-title = "CANALES HD Y SD", TELEMILENIO
+http://45.5.8.78:8000/play/a06k
+#EXTINF:-1 group-title = "CANALES HD Y SD", TELEPACIFICO SD
+http://45.5.8.78:8000/play/a01d
+#EXTINF:-1 group-title = "CANALES HD Y SD", TENNIS SD
+http://45.5.8.78:8000/play/a02x
+#EXTINF:-1 group-title = "CANALES HD Y SD", TERRENA TV
+http://45.5.8.78:8000/play/a03l
+#EXTINF:-1 group-title = "CANALES HD Y SD", DISCOVERY THEATER HD SPA
+http://45.5.8.78:8000/play/a010
+#EXTINF:-1 group-title = "CANALES HD Y SD", TL Novelas
+http://45.5.8.78:8000/play/a01j
+#EXTINF:-1 group-title = "CANALES HD Y SD", TLC Latin HD
+http://45.5.8.78:8000/play/a02g
+#EXTINF:-1 group-title = "CANALES HD Y SD", TNE 58 HD
+http://45.5.8.78:8000/play/a050
+#EXTINF:-1 group-title = "CANALES HD Y SD", TNT Ing SD
+http://45.5.8.78:8000/play/a03t
+#EXTINF:-1 group-title = "CANALES HD Y SD", TNT Series
+http://45.5.8.78:8000/play/a00y
+#EXTINF:-1 group-title = "CANALES HD Y SD", TRA
+http://45.5.8.78:8000/play/a070
+#EXTINF:-1 group-title = "CANALES HD Y SD", TRA sd
+http://45.5.8.78:8000/play/a05h
+#EXTINF:-1 group-title = "CANALES HD Y SD", TRACE HD
+http://45.5.8.78:8000/play/a06x
+#EXTINF:-1 group-title = "CANALES HD Y SD", TRO SD
+http://45.5.8.78:8000/play/a01f
+#EXTINF:-1 group-title = "CANALES HD Y SD", TRT WORLD HD
+http://45.5.8.78:8000/play/a05s
+#EXTINF:-1 group-title = "CANALES HD Y SD", TRT World SD
+http://45.5.8.78:8000/play/a00z
+#EXTINF:-1 group-title = "CANALES HD Y SD", TV DOMINICANA
+http://45.5.8.78:8000/play/a04i
+#EXTINF:-1 group-title = "CANALES HD Y SD", TV Plata HD
+http://45.5.8.78:8000/play/a04r
+#EXTINF:-1 group-title = "CANALES HD Y SD", TVE
+http://45.5.8.78:8000/play/a061
+#EXTINF:-1 group-title = "CANALES HD Y SD", TYC SPORTS
+http://45.5.8.78:8000/play/a011
+#EXTINF:-1 group-title = "CANALES HD Y SD", TYC SPORTS SD
+http://45.5.8.78:8000/play/a034
+#EXTINF:-1 group-title = "CANALES HD Y SD", TeleCinema
+http://45.5.8.78:8000/play/a053
+#EXTINF:-1 group-title = "CANALES HD Y SD", TeleSur HD
+http://45.5.8.78:8000/play/a043
+#EXTINF:-1 group-title = "CANALES HD Y SD", Teleantillas SD
+http://45.5.8.78:8000/play/a045
+#EXTINF:-1 group-title = "CANALES HD Y SD", Teleantioquia
+http://45.5.8.78:8000/play/a05k
+#EXTINF:-1 group-title = "CANALES HD Y SD", Teleazul
+http://45.5.8.78:8000/play/a06m
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telebendicion HD
+http://45.5.8.78:8000/play/a04c
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telecaribe SD
+http://45.5.8.78:8000/play/a055
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telecentro SD
+http://45.5.8.78:8000/play/a04f
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telecontacto HD
+http://45.5.8.78:8000/play/a04j
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telecotui TV SD
+http://45.5.8.78:8000/play/a01v
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telefuturo SD
+http://45.5.8.78:8000/play/a05g
+#EXTINF:-1 group-title = "CANALES HD Y SD", Teleislas HD
+http://45.5.8.78:8000/play/a015
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telemedios 25 sd
+http://45.5.8.78:8000/play/a002
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telemicro HD
+http://45.5.8.78:8000/play/a00e
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telemundo Int SD
+http://45.5.8.78:8000/play/a03x
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telemundo SD
+http://45.5.8.78:8000/play/a035
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telenord 10 HD
+http://45.5.8.78:8000/play/a04u
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telenord 14
+http://45.5.8.78:8000/play/a04v
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telenord 8 HD
+http://45.5.8.78:8000/play/a04t
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telesistema SD
+http://45.5.8.78:8000/play/a00a
+#EXTINF:-1 group-title = "CANALES HD Y SD", Teleunion HD
+http://45.5.8.78:8000/play/a04y
+#EXTINF:-1 group-title = "CANALES HD Y SD",Teleuniverso HD
+http://45.5.8.78:8000/play/a022
+#EXTINF:-1 group-title = "CANALES HD Y SD", Telever 
+http://45.5.8.78:8000/play/a04q
+#EXTINF:-1 group-title = "CANALES HD Y SD", Televiaducto HD
+http://45.5.8.78:8000/play/a05e
+#EXTINF:-1 group-title = "CANALES HD Y SD", Televida 
+http://45.5.8.78:8000/play/a059
+#EXTINF:-1 group-title = "CANALES HD Y SD",Toon Cast 
+http://45.5.8.78:8000/play/a03q
+#EXTINF:-1 group-title = "CANALES HD Y SD", Travel HD
+http://45.5.8.78:8000/play/015
+#EXTINF:-1 group-title = "CANALES HD Y SD", UNIMAS SD
+http://45.5.8.78:8000/play/a02y
+#EXTINF:-1 group-title = "CANALES HD Y SD", UNIVERSAL CHANNEL SD
+http://45.5.8.78:8000/play/a037
+#EXTINF:-1 group-title = "CANALES HD Y SD", USA SD
+http://45.5.8.78:8000/play/a03v
+#EXTINF:-1, group-title = "CANALES HD Y SD", Universal HD
+http://45.5.8.78:8000/play/a00p
+#EXTINF:-1 group-title = "CANALES HD Y SD", VENUS
+http://45.5.8.78:8000/play/a03c
+#EXTINF:-1 group-title = "CANALES HD Y SD", VIENDO MOVIES HD
+http://45.5.8.78:8000/play/a05r
+#EXTINF:-1 group-title = "CANALES HD Y SD", VIENDO MOVIES SD
+http://45.5.8.78:8000/play/a03n
+#EXTINF:-1 group-title = "CANALES HD Y SD", VTV
+http://45.5.8.78:8000/play/a06t
+#EXTINF:-1 group-title = "CANALES HD Y SD", Vallevision HD
+http://45.5.8.78:8000/play/a04o
+#EXTINF:-1 group-title = "CANALES HD Y SD", Vallevision SD
+http://45.5.8.78:8000/play/a06h
+#EXTINF:-1 group-title = "CANALES HD Y SD", Ve Plus SD
+http://45.5.8.78:8000/play/a01i
+#EXTINF:-1 group-title = "CANALES HD Y SD", Venevision
+http://45.5.8.78:8000/play/a04l
+#EXTINF:-1 group-title = "CANALES HD Y SD", Vm Kids SD
+http://45.5.8.78:8000/play/a00u
+#EXTINF:-1 group-title = "CANALES HD Y SD", WOOHOO SD
+http://45.5.8.78:8000/play/a03k
+#EXTINF:-1 group-title = "CANALES HD Y SD", Warner
+http://45.5.8.78:8000/play/a06u
+#EXTINF:-1 group-title = "CANALES HD Y SD", Wobi sd
+http://45.5.8.78:8000/play/a02b
+#EXTINF:-1 group-title = "CANALES HD Y SD", YUNA VISION HD
+http://45.5.8.78:8000/play/a049
+#EXTINF:-1 group-title = "CANALES HD Y SD", ZOO MO SD
+http://45.5.8.78:8000/play/a05z
+#EXTINF:-1 group-title = "CANALES HD Y SD", Zoo Moo HD
+http://45.5.8.78:8000/play/a05o
+#EXTINF:-1 group-title = "CANALES HD Y SD",a grotendencia tv sd
+http://45.5.8.78:8000/play/a03w
 
