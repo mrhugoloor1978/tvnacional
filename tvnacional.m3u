@@ -187,162 +187,738 @@ https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
-
-
 #EXTINF:-1 group-title="TVSATELITE1", A&E
-http://181.37.235.10:8081/play/a0gf/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", AMC
-http://181.37.235.10:8081/play/a0dx/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", HBO 2
-http://181.37.235.10:8081/play/a0hg/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Hbo-Signature
-https://blackghost.live/play/teleclub-505.php?c=HBO-SIGNATURE-HD&f=.m3u8
+http://45.5.8.78:8000/play/a00j
+#EXTINF:-1 group-title="TVSATELITE1", AME 47 
+http://45.5.8.78:8000/play/a05i
+#EXTINF:-1 group-title="TVSATELITE1", AUTOMOTIVE TV
+http://45.5.8.78:8000/play/a06i
 #EXTINF:-1 group-title="TVSATELITE1", AXN
-http://181.37.235.10:8081/play/a0dv/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1",Tnt-Series
-https://blackghost.live/play/teleclub-505.php?c=la-tnt-series-hd&f=.m3u8
-#EXTINF:-1 group-title ="TVSATELITE1", TNT
-http://181.37.235.10:8081/play/a0dw/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Multipremier
-http://181.37.235.10:8081/play/a0h9/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Cine Latino
-http://181.37.235.10:8081/play/a0ha/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", CineCanal
-http://181.37.235.10:8081/play/a0he/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Cinemax
-http://181.37.235.10:8081/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Sony
-http://181.37.235.10:8081/play/a0gc/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Space
-http://181.37.235.10:8081/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Studio Universal
-http://181.37.235.10:8081/play/a0hc/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", SyFy
-http://181.37.235.10:8081/play/a0gg/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", TCM
-http://181.37.235.10:8081/play/a0fc/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Universal
-http://181.37.235.10:8081/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Paramount
-http://181.37.235.10:8081/play/a0i8/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1",TLC
-http://181.37.235.10:8081/play/a0gk/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", El Gourmet
-http://181.37.235.10:8081/play/a0i4/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", DHE
-http://181.37.235.10:8081/play/a0i7/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Cinema Dinamita
-http://181.37.235.10:8081/play/a0hd/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", az CINEVISION 
-http://181.37.235.10:8081/play/a0os/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", CLARO CINEMA
-http://181.37.235.10:8081/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Canal Claro
-http://181.37.235.10:8081/play/a0d4/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Baby TV
-http://181.37.235.10:8081/play/a0hq/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Boomerang
-http://181.37.235.10:8081/play/a0dg/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Disney
-http://181.37.235.10:8081/play/a0gy/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Cartoon Network
-http://181.37.235.10:8081/play/a0de/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Disney Junior 
-http://181.37.235.10:8081/play/a0f8/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Discovery Kids
-http://181.37.235.10:8081/play/a0gw/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Nick Junior 
-http://181.37.235.10:8081/play/a0df/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Nickelodeon
-http://181.37.235.10:8081/play/a0gx/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Nat Geo Kids
-http://181.37.235.10:8081/play/a0f1/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Nat Geo Wild
-http://181.37.235.10:8081/play/a0f5/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Nat Geo 
-http://181.37.235.10:8081/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Animal Planet
-http://181.37.235.10:8081/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", History Channel
-http://181.37.235.10:8081/play/a0gj/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Mtv
-http://181.37.235.10:8081/play/a0h5/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", DISCOVERY THEATHER
-http://181.37.235.10:8081/play/a0ki/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Discovery Channel
-http://181.37.235.10:8081/play/a0gh/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1",Discovery Civilization
-http://181.37.235.10:8081/play/a0hu/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Discovery Home & Health
-http://181.37.235.10:8081/play/a0h1/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", ID
-http://181.37.235.10:8081/play/a0h2/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Discovery Science
-http://181.37.235.10:8081/play/a0hv/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Discovery Turbo
-http://181.37.235.10:8081/play/a0h0/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", CNN Internacional
-http://181.37.235.10:8081/play/a0i1/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", CNN Español
-http://181.37.235.10:8081/play/a0dy/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", BBC World
-http://181.37.235.10:8081/play/a0dz/index.m3u8
+http://45.5.8.78:8000/play/a00x
+#EXTINF:-1 group-title="TVSATELITE1", AZCorazon
+http://45.5.8.78:8000/play/a06s
+#EXTINF:-1 group-title="TVSATELITE1", Alegrando Tv
+http://45.5.8.78:8000/play/a02t
+#EXTINF:-1 group-title="TVSATELITE1", Aliento Vision
+http://45.5.8.78:8000/play/a05c
+#EXTINF:-1 group-title="TVSATELITE1", AmericanSports 
+http://45.5.8.78:8000/play/a00g
+#EXTINF:-1 group-title="TVSATELITE1", Antena 21
+http://45.5.8.78:8000/play/a001
+#EXTINF:-1 group-title="TVSATELITE1", Antena 3 
+http://45.5.8.78:8000/play/a031
 #EXTINF:-1 group-title="TVSATELITE1", Antena 7
-http://181.37.235.10:8081/play/a0d8/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1",CLARO SPORTS
-http://181.37.235.10:8081/play/a0f7/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1",CLARO SPORTS
-http://181.37.235.10:8081/play/a0cd/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", SPORT VISION 35
-http://181.37.235.10:8081/play/a0ow/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Digital 15
-http://181.37.235.10:8081/play/a01c/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", ESPN2
-http://181.37.235.10:8081/play/a0gm/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", EURO Channel
-http://181.37.235.10:8081/play/a0f4/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", EWTN
-http://181.37.235.10:8081/play/a0e2/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Exa TV
-http://181.37.235.10:8081/play/a0gn/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", PXTV
-http://181.37.235.10:8081/play/a0hz/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Fox Sports 3
-http://181.37.235.10:8081/play/a0ds/index.m3u8
+http://45.5.8.78:8000/play/a04h
+#EXTINF:-1 group-title="TVSATELITE1", Azmundo
+http://45.5.8.78:8000/play/a03z
+#EXTINF:-1 group-title="TVSATELITE1", Azteca Uno 
+http://45.5.8.78:8000/play/a06y
+#EXTINF:-1 group-title="TVSATELITE1", BONAO TV CANAL 12
+http://45.5.8.78:8000/play/a04b
+#EXTINF:-1 group-title="TVSATELITE1", BRAZZERS
+http://45.5.8.78:8000/play/a029
+#EXTINF:-1 group-title="TVSATELITE1", BabyTv
+http://45.5.8.78:8000/play/a02j
+#EXTINF:-1 group-title="TVSATELITE1", Boomerang
+http://45.5.8.78:8000/play/a00i
+#EXTINF:-1 group-title="TVSATELITE1", CANAL 13
+http://45.5.8.78:8000/play/a01c
+#EXTINF:-1 group-title="TVSATELITE1", CANAL 49
+http://45.5.8.78:8000/play/a06n
+#EXTINF:-1 group-title="TVSATELITE1", CANAL CAPITAL
+http://45.5.8.78:8000/play/a01b
+#EXTINF:-1 group-title="TVSATELITE1", CANAL UNO
+http://45.5.8.78:8000/play/a01a
+#EXTINF:-1 group-title="TVSATELITE1", CATV 
+http://45.5.8.78:8000/play/a033
+#EXTINF:-1 group-title="TVSATELITE1", CDN Sportmax
+http://45.5.8.78:8000/play/a04k
+#EXTINF:-1 group-title="TVSATELITE1", CDN
+http://45.5.8.78:8000/play/a00b
+#EXTINF:-1 group-title="TVSATELITE1", CERTV
+http://45.5.8.78:8000/play/a06z
+#EXTINF:-1 group-title="TVSATELITE1", CGTN Documentary
+http://45.5.8.78:8000/play/a019
+#EXTINF:-1 group-title="TVSATELITE1", CHINOLA TV
+http://45.5.8.78:8000/play/a06o
+
+#EXTINF:-1 group-title="TVSATELITE1", Cartoon Network sd
+http://45.5.8.78:8000/play/a02o
+#EXTINF:-1 group-title="TVSATELITE1", Cielo TV
+http://45.5.8.78:8000/play/a05a
+#EXTINF:-1 group-title="TVSATELITE1", Cinecanal 
+http://45.5.8.78:8000/play/a038
+#EXTINF:-1 group-title="TVSATELITE1", Cinema Premier A 
+http://45.5.8.78:8000/play/a00m
+#EXTINF:-1 group-title="TVSATELITE1", Cinema Premier C
+http://45.5.8.78:8000/play/a00n
+#EXTINF:-1 group-title="TVSATELITE1", Cinema Premier F 
+http://45.5.8.78:8000/play/a00k
+#EXTINF:-1 group-title="TVSATELITE1", Cinema Premier
+http://45.5.8.78:8000/play/a00l
+#EXTINF:-1 group-title="TVSATELITE1", Cinevision
+http://45.5.8.78:8000/play/a005
+#EXTINF:-1 group-title="TVSATELITE1", Conciencia TV
+http://45.5.8.78:8000/play/a05m
+#EXTINF:-1 group-title="TVSATELITE1", Coral 39 
+http://45.5.8.78:8000/play/a044
+#EXTINF:-1 group-title="TVSATELITE1", DELTA TV
+http://45.5.8.78:8000/play/a06l
+#EXTINF:-1 group-title="TVSATELITE1", Disney 
+http://45.5.8.78:8000/play/a060
+#EXTINF:-1 group-title="TVSATELITE1", E!
+http://45.5.8.78:8000/play/a024
+#EXTINF:-1 group-title="TVSATELITE1", E!
+http://45.5.8.78:8000/play/a00v
+#EXTINF:-1 group-title="TVSATELITE1", ESPN News
+http://45.5.8.78:8000/play/a03u
+#EXTINF:-1 group-title="TVSATELITE1", ESPN + 
+http://45.5.8.78:8000/play/a03d
+#EXTINF:-1 group-title="TVSATELITE1", Ecovision 
+http://45.5.8.78:8000/play/a006
+#EXTINF:-1 group-title="TVSATELITE1", En Television
+http://45.5.8.78:8000/play/a003
+#EXTINF:-1 group-title="TVSATELITE1", Enlace
+http://45.5.8.78:8000/play/a009
+#EXTINF:-1 group-title="TVSATELITE1", Espiga TV
+http://45.5.8.78:8000/play/a04d
+#EXTINF:-1 group-title="TVSATELITE1", F1 SPORT
+http://45.5.8.78:8000/play/a02z
+#EXTINF:-1 group-title="TVSATELITE1", FOX CHANNEL
+http://45.5.8.78:8000/play/a03f
+#EXTINF:-1 group-title="TVSATELITE1", FX Latino 
+http://45.5.8.78:8000/play/a00f
+#EXTINF:-1 group-title="TVSATELITE1", FXM
+http://45.5.8.78:8000/play/a03a
 #EXTINF:-1 group-title="TVSATELITE1", Fox Sports
-http://181.37.235.10:8081/play/a0h4/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", RCN Novelas
-http://181.37.235.10:8081/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", RNN CH27
-http://181.37.235.10:8081/play/a0ou/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", SEMILLITAS
-http://181.37.235.10:8081/play/a0dj/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", SERVICE 8
-http://181.37.235.10:8081/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", TBN Enlace
-http://181.37.235.10:8081/play/a0e1/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", TBS
-http://181.37.235.10:8081/play/a0dp/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", TELECENTRO 13
-http://181.37.235.10:8081/play/a0ez/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", TELEMEDIOS 25
-http://181.37.235.10:8081/play/a0ot/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", TELEMICRO
-http://181.37.235.10:8081/play/a01a/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", TELEUNION CH45
-http://181.37.235.10:8081/play/a0oy/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Telesistema
-http://181.37.235.10:8081/play/a0d9/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Teleunion 
-http://181.37.235.10:8081/play/a011/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", Teleuniverso 
-http://181.37.235.10:8081/play/a0ey/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", VH1
-http://181.37.235.10:8081/play/a0fa/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", VH1 Classic
-http://181.37.235.10:8081/play/a0du/index.m3u8
-#EXTINF:-1 group-title="TVSATELITE1", VH1 HD
-http://181.37.235.10:8081/play/a0kn/index.m3u8
+http://45.5.8.78:8000/play/a01g
+#EXTINF:-1 group-title="TVSATELITE1", Fox Life 
+http://45.5.8.78:8000/play/a03j
+#EXTINF:-1 group-title="TVSATELITE1", Fox Sports 2
+http://45.5.8.78:8000/play/a03h
+#EXTINF:-1 group-title="TVSATELITE1", Fox Sports 3
+http://45.5.8.78:8000/play/a03i
+#EXTINF:-1 group-title="TVSATELITE1", Fox Sports
+http://45.5.8.78:8000/play/a03g
+#EXTINF:-1 group-title="TVSATELITE1", Fuego TV 
+http://45.5.8.78:8000/play/a02u
+#EXTINF:-1 group-title="TVSATELITE1", GLITZ 
+http://45.5.8.78:8000/play/a03m
+#EXTINF:-1 group-title="TVSATELITE1", Headlines News 
+http://45.5.8.78:8000/play/a03r
+#EXTINF:-1 group-title="TVSATELITE1", Hilando Fino 
+http://45.5.8.78:8000/play/a069
+#EXTINF:-1 group-title="TVSATELITE1", History Latino
+http://45.5.8.78:8000/play/a00h
+#EXTINF:-1 group-title="TVSATELITE1", La Voz de Maria
+http://45.5.8.78:8000/play/a058
+#EXTINF:-1 group-title="TVSATELITE1", Lifetime 
+http://45.5.8.78:8000/play/a00w
+#EXTINF:-1 group-title="TVSATELITE1", Luna TV 
+http://45.5.8.78:8000/play/a04x
+#EXTINF:-1 group-title="TVSATELITE1", MICROVISION
+http://45.5.8.78:8000/play/a02s
+#EXTINF:-1 group-title="TVSATELITE1", MLB
+http://45.5.8.78:8000/play/06q
+#EXTINF:-1 group-title="TVSATELITE1", MOVIE ROOM ADVEN 
+http://45.5.8.78:8000/play/a00s
+#EXTINF:-1 group-title="TVSATELITE1", MOVIE ROOM COMED 
+http://45.5.8.78:8000/play/a00r
+#EXTINF:-1 group-title="TVSATELITE1", MOVIE ROOM DRAMA 
+http://45.5.8.78:8000/play/a00t
+#EXTINF:-1 group-title="TVSATELITE1",MOVIE ROOM 
+http://45.5.8.78:8000/play/a00q
+#EXTINF:-1 group-title="TVSATELITE1", MTV
+http://45.5.8.78:8000/play/a016
+#EXTINF:-1 group-title="TVSATELITE1", Maimon TV
+http://45.5.8.78:8000/play/a048
+#EXTINF:-1 group-title="TVSATELITE1", MariaVision
+http://45.5.8.78:8000/play/a01x
+#EXTINF:-1 group-title="TVSATELITE1", Mega
+http://45.5.8.78:8000/play/a02r
+#EXTINF:-1 group-title="TVSATELITE1", Movie Room
+http://45.5.8.78:8000/play/a01k
+#EXTINF:-1 group-title="TVSATELITE1", NATGEO WILD 
+http://45.5.8.78:8000/play/a06f
+#EXTINF:-1 group-title="TVSATELITE1", NBA TV
+http://45.5.8.78:8000/play/a06r
+#EXTINF:-1 group-title="TVSATELITE1", NBC UNIVERSO
+http://45.5.8.78:8000/play/a030
+#EXTINF:-1 group-title="TVSATELITE1", NTN24
+http://45.5.8.78:8000/play/a01s
+#EXTINF:-1 group-title="TVSATELITE1", Nat Geo Kids
+http://45.5.8.78:8000/play/a036
+#EXTINF:-1 group-title="TVSATELITE1", Nat Geo Love Nature HD
+http://45.5.8.78:8000/play/a05l
+#EXTINF:-1 group-title="TVSATELITE1", Nexxo SD
+http://45.5.8.78:8000/play/a04g
+#EXTINF:-1 group-title="TVSATELITE1", PLAYBOY 
+http://45.5.8.78:8000/play/a03b
+#EXTINF:-1 group-title="TVSATELITE1", Pasiones
+http://45.5.8.78:8000/play/a054
+#EXTINF:-1 group-title="TVSATELITE1", PenHouse Wold 
+http://45.5.8.78:8000/play/a02n
+#EXTINF:-1 group-title="TVSATELITE1", Prime
+http://45.5.8.78:8000/play/a013
+#EXTINF:-1 group-title="TVSATELITE1", RATIMBU
+http://45.5.8.78:8000/play/a06a
+#EXTINF:-1 group-title="TVSATELITE1", RCN Internacional 
+http://45.5.8.78:8000/play/a01r
+#EXTINF:-1 group-title="TVSATELITE1", READY TV
+http://45.5.8.78:8000/play/a02v
+#EXTINF:-1 group-title="TVSATELITE1", RNN 
+http://45.5.8.78:8000/play/a004
+#EXTINF:-1 group-title="TVSATELITE1", RT ESP 
+http://45.5.8.78:8000/play/a042
+#EXTINF:-1 group-title="TVSATELITE1", RT
+http://45.5.8.78:8000/play/a06g
+#EXTINF:-1 group-title="TVSATELITE1", RTVE 24
+http://45.5.8.78:8000/play/a062
+#EXTINF:-1 group-title="TVSATELITE1", Real TV 
+http://45.5.8.78:8000/play/a05d
+#EXTINF:-1 group-title="TVSATELITE1", Red Advenir Internacional
+http://45.5.8.78:8000/play/a068
+#EXTINF:-1 group-title="TVSATELITE1", Renacer en el espiritu
+http://45.5.8.78:8000/play/a046
+#EXTINF:-1 group-title="TVSATELITE1", SONY
+http://45.5.8.78:8000/play/a039
+#EXTINF:-1 group-title="TVSATELITE1", SPACE
+http://45.5.8.78:8000/play/a02p
+#EXTINF:-1 group-title="TVSATELITE1", SUPER TV 8
+http://45.5.8.78:8000/play/a047
+#EXTINF:-1 group-title="TVSATELITE1", SYFY
+http://45.5.8.78:8000/play/a02w
+#EXTINF:-1 group-title="TVSATELITE1", Santiago TV
+http://45.5.8.78:8000/play/a01h
+#EXTINF:-1 group-title="TVSATELITE1", Senal Colombia SD
+http://45.5.8.78:8000/play/a01y
+#EXTINF:-1 group-title="TVSATELITE1", SexTreme
+http://45.5.8.78:8000/play/a01u
+#EXTINF:-1 group-title="TVSATELITE1", Studio Universal
+http://45.5.8.78:8000/play/a040
+#EXTINF:-1  group-title="TVSATELITE1", Super Canal 33 
+http://45.5.8.78:8000/play/a06b
+#EXTINF:-1 group-title="TVSATELITE1", Supertv55
+http://45.5.8.78:8000/play/a04z
+#EXTINF:-1 group-title="TVSATELITE1",TBS Very Funny
+http://45.5.8.78:8000/play/a03s
+#EXTINF:-1 group-title="TVSATELITE1",TCM
+http://45.5.8.78:8000/play/a03p
+#EXTINF:-1 group-title="TVSATELITE1", TELECAFE 
+http://45.5.8.78:8000/play/a01e
+#EXTINF:-1 group-title= "TVSATELITE1", TELEMILENIO
+http://45.5.8.78:8000/play/a06k
+#EXTINF:-1 group-title= "TVSATELITE1", TELEPACIFICO 
+http://45.5.8.78:8000/play/a01d
+#EXTINF:-1 group-title= "TVSATELITE1", TENNIS
+http://45.5.8.78:8000/play/a02x
+#EXTINF:-1 group-title= "TVSATELITE1", TERRENA TV
+http://45.5.8.78:8000/play/a03l
+#EXTINF:-1 group-title= "TVSATELITE1", TL Novelas
+http://45.5.8.78:8000/play/a01j
+#EXTINF:-1 group-title= "TVSATELITE1", TNT Series
+http://45.5.8.78:8000/play/a00y
+#EXTINF:-1 group-title= "TVSATELITE1", TRA 
+http://45.5.8.78:8000/play/a05h
+#EXTINF:-1 group-title= "TVSATELITE1", TRO 
+http://45.5.8.78:8000/play/a01f
+#EXTINF:-1 group-title= "TVSATELITE1", TRT World
+http://45.5.8.78:8000/play/a00z
+#EXTINF:-1 group-title= "TVSATELITE1", TV DOMINICANA
+http://45.5.8.78:8000/play/a04i
+#EXTINF:-1 group-title= "TVSATELITE1", TVE
+http://45.5.8.78:8000/play/a061
+#EXTINF:-1 group-title= "TVSATELITE1", TYC SPORTS
+http://45.5.8.78:8000/play/a011
+#EXTINF:-1 group-title= "TVSATELITE1", TYC SPORTS 
+http://45.5.8.78:8000/play/a034
+#EXTINF:-1 group-title= "TVSATELITE1", TeleCinema
+http://45.5.8.78:8000/play/a053
+#EXTINF:-1 group-title= "TVSATELITE1", Teleantillas
+http://45.5.8.78:8000/play/a045
+#EXTINF:-1 group-title= "TVSATELITE1", Teleantioquia
+http://45.5.8.78:8000/play/a05k
+#EXTINF:-1 group-title= "TVSATELITE1", Teleazul
+http://45.5.8.78:8000/play/a06m
+#EXTINF:-1 group-title= "TVSATELITE1", Telecaribe
+http://45.5.8.78:8000/play/a055
+#EXTINF:-1 group-title= "TVSATELITE1", Telecentro
+http://45.5.8.78:8000/play/a04f
+#EXTINF:-1 group-title= "TVSATELITE1", Telecotui TV 
+http://45.5.8.78:8000/play/a01v
+#EXTINF:-1 group-title= "TVSATELITE1", Telefuturo
+http://45.5.8.78:8000/play/a05g
+#EXTINF:-1 group-title= "TVSATELITE1", Telemedios 25 
+http://45.5.8.78:8000/play/a002
+#EXTINF:-1 group-title= "TVSATELITE1", Telemundo Int
+http://45.5.8.78:8000/play/a03x
+#EXTINF:-1 group-title= "TVSATELITE1", Telemundo 
+http://45.5.8.78:8000/play/a035
+#EXTINF:-1 group-title= "TVSATELITE1", Telenord 14
+http://45.5.8.78:8000/play/a04v
+#EXTINF:-1 group-title= "TVSATELITE1", Telesistema
+http://45.5.8.78:8000/play/a00a
+#EXTINF:-1 group-title= "TVSATELITE1", Telever 
+http://45.5.8.78:8000/play/a04q
+#EXTINF:-1 group-title= "TVSATELITE1", Televida 
+http://45.5.8.78:8000/play/a059
+#EXTINF:-1 group-title= "TVSATELITE1", TOONCAST 
+http://45.5.8.78:8000/play/a03q
+#EXTINF:-1 group-title= "TVSATELITE1", UNIMAS
+http://45.5.8.78:8000/play/a02y
+#EXTINF:-1 group-title= "TVSATELITE1", UNIVERSAL CHANNEL 
+http://45.5.8.78:8000/play/a037
+#EXTINF:-1 group-title= "TVSATELITE1", USA 
+http://45.5.8.78:8000/play/a03v
+#EXTINF:-1,VENUS 
+http://45.5.8.78:8000/play/a03c
+#EXTINF:-1 group-title= "TVSATELITE1", VIENDO MOVIES
+http://45.5.8.78:8000/play/a03n
+#EXTINF:-1 group-title= "TVSATELITE1", VTV
+http://45.5.8.78:8000/play/a06t
+#EXTINF:-1 group-title= "TVSATELITE1", Vallevision 
+http://45.5.8.78:8000/play/a06h
+#EXTINF:-1 group-title= "TVSATELITE1", Ve Plus
+http://45.5.8.78:8000/play/a01i
+#EXTINF:-1 group-title= "TVSATELITE1", Venevision
+http://45.5.8.78:8000/play/a04l
+#EXTINF:-1 group-title= "TVSATELITE1", Vm Kids
+http://45.5.8.78:8000/play/a00u
+#EXTINF:-1 group-title= "TVSATELITE1", WOOHOO
+http://45.5.8.78:8000/play/a03k
+#EXTINF:-1 group-title= "TVSATELITE1", Warner
+http://45.5.8.78:8000/play/a06u
+#EXTINF:-1 group-title= "TVSATELITE1", Wobi 
+http://45.5.8.78:8000/play/a02b
+#EXTINF:-1 group-title= "TVSATELITE1", YUNA VISION HD
+http://45.5.8.78:8000/play/a049
+#EXTINF:-1 group-title= "TVSATELITE1", YUNA VISION
+http://45.5.8.78:8000/play/a05z
+#EXTINF:-1 group-title= "TVSATELITE1", agrotendencia tv 
+http://45.5.8.78:8000/play/a03w
+
+==============================================
+
+#EXTINF : -1 group-title= "TVSATELITE1", 3ABN 
+http://45.5.8.78:8000/play/a026
+#EXTINF : -1 group-title= "TVSATELITE1", A&E 
+http://45.5.8.78:8000/play/a00j
+#EXTINF : -1 group-title= "TVSATELITE1", AME 47 
+http://45.5.8.78:8000/play/a05i
+#EXTINF : -1 group-title= "TVSATELITE1", AUTOMOTIVE TV
+http://45.5.8.78:8000/play/a06i
+#EXTINF : -1 group-title= "TVSATELITE1", AXN 
+http://45.5.8.78:8000/play/a00x
+#EXTINF : -1 group-title= "TVSATELITE1", AZCorazon
+http://45.5.8.78:8000/play/a06s
+#EXTINF : -1 group-title= "TVSATELITE1", Alegrando Tv 
+http://45.5.8.78:8000/play/a02t
+#EXTINF : -1 group-title= "TVSATELITE1", Aliento Vision 
+http://45.5.8.78:8000/play/a05c
+#EXTINF: -1 group-title= "TVSATELITE1", American Sports 
+http://45.5.8.78:8000/play/a00g
+#EXTINF : -1 group-title= "TVSATELITE1", Antena 21 
+http://45.5.8.78:8000/play/a001
+#EXTINF : -1 group-title= "TVSATELITE1", Antena 3
+http://45.5.8.78:8000/play/a031
+#EXTINF : -1 group-title= "TVSATELITE1", Antena 7 
+http: //45.5. 8.78: 8000 / play / a04h
+#EXTINF : -1 group-title= "TVSATELITE1", Azmundo 
+http://45.5.8.78:8000/play/a03z
+#EXTINF: -1, BONAO TV CANAL 12
+http://45.5.8.78:8000/play/a04b
+#EXTINF : -1 group-title= "TVSATELITE1", BRAZZERS
+http://45.5.8.78:8000/play/a029
+#EXTINF : -1 group-title= "TVSATELITE1", BabyTv
+http://45.5.8.78:8000/play/a02j
+#EXTINF : -1 group-title= "TVSATELITE1", Boomerang 
+http://45.5.8.78:8000/play/a00i
+#EXTINF : -1 group-title= "TVSATELITE1", CANAL 13 
+http://45.5.8.78:8000/play/a01c
+#EXTINF: -1 group-title= "TVSATELITE1", CANAL 49
+http://45.5.8.78:8000/play/a06n
+#EXTINF : -1 group-title= "TVSATELITE1", CANAL CAPITAL 
+http://45.5.8.78:8000/play/a01b
+#EXTINF : -1 group-title= "TVSATELITE1", CANAL UNO
+http://45.5.8.78:8000/play/a01a
+#EXTINF : -1 group-title= "TVSATELITE1", CATV 
+http://45.5.8.78:8000/play/a033
+#EXTINF : -1 group-title= "TVSATELITE1", CDN Sportmax
+http://45.5.8.78:8000/play/a04k
+#EXTINF : -1 group-title= "TVSATELITE1", CDN 
+http://45.5.8.78:8000/play/a00b
+#EXTINF : -1 group-title= "TVSATELITE1", CERTV
+http://45.5.8.78:8000/play/a06z
+#EXTINF : -1 group-title= "TVSATELITE1", CGTN Documental
+http://45.5.8.78:8000/play/a019
+#EXTINF : -1 group-title= "TVSATELITE1", CHINOLA TV
+http://45.5.8.78:8000/play/a06o
+#EXTINF : -1 group-title= "TVSATELITE1", DISCOVERY CIVILIZATION 
+http://45.5.8.78:8000/play/a02e
+#EXTINF : -1 group-title= "TVSATELITE1", CNN Español
+http://45.5.8.78:8000/play/a02q
+#EXTINF : -1 group-title= "TVSATELITE1", CNN Inges
+http://45.5.8.78:8000/play/a03e
+#EXTINF : -1 group-title= "TVSATELITE1", CNN internacional
+http://45.5.8.78:8000/play/a06p
+#EXTINF : -1 group-title= "TVSATELITE1", CRTV
+http://45.5.8.78:8000 / play / a05f
+#EXTINF : -1 group-title= "TVSATELITE1", Cala Weather
+http://45.5.8.78:8000/play/a06c
+#EXTINF : -1 group-title= "TVSATELITE1", Canal 56
+http://45.5.8.78:8000/play/a052
+#EXTINF : - 1 group-title= "TVSATELITE1", Canal del Sol
+http://45.5.8.78:8000/play/a06j
+#EXTINF : -1 group-title= "TVSATELITE1", Canal las Estrellas
+http://45.5.8.78:8000/play/a03y
+#EXTINF: -1 group-title= "TVSATELITE1", Cartoon Network 
+http://45.5.8.78:8000/play/a02o
+#EXTINF : -1 group-title= "TVSATELITE1", Cielo TV
+http://45.5.8.78:8000/play/a05a
+#EXTINF : -1 group-title= "TVSATELITE1", Cinecanal
+http : //45.5.8.78: 8000 / play / a038
+#EXTINF : -1 group-title= "TVSATELITE1", Cinema Premier A 
+http://45.5.8.78:8000/play/a00m
+#EXTINF : -1 group-title= "TVSATELITE1", Cinema Premier C 
+http://45.5.8.78:8000/play/a00n
+#EXTINF : -1 group-title= "TVSATELITE1", Cinema Premier F 
+http://45.5.8.78:8000/play/a00k
+#EXTINF : -1 group-title= "TVSATELITE1", Golden Premier
+http://45.5.8.78:8000/play/a00l
+#EXTINF : -1 group-title= "TVSATELITE1", Cinevision
+http://45.5.8.78:8000/play/a005
+#EXTINF : -1 group-title= "TVSATELITE1", Conciencia TV
+http://45.5.8.78:8000/play/a05m
+#EXTINF : -1 group-title= "TVSATELITE1", Coral 39 
+http://45.5.8.78:8000/play/a044
+#EXTINF : -1 group-title= "TVSATELITE1", DELTA TV
+http://45.5.8.78:8000/play/a06l
+#EXTINF : -1 group-title= "TVSATELITE1", DISCOVERY SCIENCE
+http://45.5.8.78:8000/play/a02f
+#EXTINF : -1 group-title= "TVSATELITE1", DISCOVERY TURBO
+http://45.5.8.78:8000/play/a02d
+#EXTINF : -1 group-title= "TVSATELITE1", DW Alemán
+http://45.5.8.78:8000/play/a065
+#EXTINF : -1 group-title= "TVSATELITE1", DW 
+http://45.5.8.78:8000/play/a064
+# EXTINF : -1 group-title= "TVSATELITE1", De Pelicula
+http://45.5.8.78:8000/play/a01w
+#EXTINF : -1 group-title= "TVSATELITE1", Digital 15 
+http://45.5.8.78:8000/play/a00d
+...............................................
+
+#EXTINF : -1 group-title= "TVSATELITE1", Disney
+http://45.5.8.78:8000/play/a060
+#EXTINF : -1 group-title= "TVSATELITE1", E!
+http://45.5.8.78:8000/play/a024
+#EXTINF : -1 group-title= "TVSATELITE1", E! 
+http://45.5.8.78:8000/play/a00v
+#EXTINF : -1 group-title= "TVSATELITE1", ESPN News
+http://45.5.8.78:8000/play/a03u
+#EXTINF : -1 group-title= "TVSATELITE1", Ecovision 
+http://45.5.8.78:8000/play/a006
+#EXTINF : -1 group-title= "TVSATELITE1", En Televisión 
+http://45.5.8.78:8000/play/a003
+#EXTINF : -1 group-title= "TVSATELITE1", Enlace
+http://45.5.8.78:8000/play/a009
+#EXTINF : -1 group-title= "TVSATELITE1", Espiga TV
+http://45.5.8.78:8000/play/a04d
+#EXTINF : -1 group-title= "TVSATELITE1", FOX
+http://45.5.8.78:8000/play/a03f
+#EXTINF: -1 group-title= "TVSATELITE1", FX Latino
+http://45.5.8.78:8000/play/a00f
+#EXTINF : -1 group-title= "TVSATELITE1", FXM 
+http://45.5.8.78:8000/play/a03a
+#EXTINF : -1 group-title= "TVSATELITE1", Fox Deportes
+http://45.5.8.78:8000/play/a01g
+#EXTINF : -1 group-title= "TVSATELITE1", Fox Life
+http://45.5.8.78:8000/play/a03j
+#EXTINF : -1 group-title= "TVSATELITE1", Fox Sports 2 
+http://45.5.8.78:8000/play/a03h
+#EXTINF: -1 group-title= "TVSATELITE1", Fox Sports 3 
+http://45.5.8.78:8000/play/a03i
+#EXTINF : -1 group-title= "TVSATELITE1", Fox Sports
+http://45.5.8.78:8000/play/a03g
+#EXTINF : -1 group-title= "TVSATELITE1", Fuego TV
+http: //45.5.8.78:8000/play/a02u
+#EXTINF : -1 group-title= "TVSATELITE1", GLITZ 
+http://45.5.8.78:8000/play/a03m
+#EXTINF : -1 group-title= "TVSATELITE1", Titulares de noticias
+http://45.5.8.78:8000/play/a03r
+#EXTINF : -1 group-title= "TVSATELITE1", Hilando Fino
+http://45.5.8.78 : 8000 / play / a069
+#EXTINF : -1 group-title= "TVSATELITE1", History
+http://45.5.8.78:8000/play/a00h
+#EXTINF : -1 group-title= "TVSATELITE1", de por vida
+http://45.5.8.78:8000/play/a00w
+#EXTINF : -1 group-title= "TVSATELITE1", Luna TV 
+http://45.5.8.78:8000/play/a04x
+#EXTINF : -1 group-title= "TVSATELITE1", METV HD
+http://45.5.8.78:8000/play/a05y
+#EXTINF : -1 group-title= "TVSATELITE1", MICROVISION 
+http: //45.5. 8.78: 8000 / play / a02s
+#EXTINF : -1 group-title= "TVSATELITE1", MLB
+http://45.5.8.78:8000/play/06q
+#EXTINF : -1 group-title= "TVSATELITE1", SALA DE PELÍCULAS ADVEN 
+http://45.5.8.78:8000/play/a00s
+#EXTINF : -1 group-title= "TVSATELITE1", SALA DE PELÍCULAS COMED
+http://45.5.8.78:8000/play/a00r
+#EXTINF : -1 group-title= "TVSATELITE1", DRAMA DE SALA DE PELÍCULAS
+http://45.5.8.78:8000/play/a00t
+#EXTINF: -1 group-title= "TVSATELITE1", SALA DE PELÍCULAS 
+http://45.5.8.78:8000/play/a00q
+#EXTINF : -1 group-title= "TVSATELITE1", MTV 
+http://45.5.8.78:8000/play/a016
+#EXTINF : -1 group-title= "TVSATELITE1", Maimon TV 
+http://45.5.8.78:8000/play/a048
+#EXTINF : -1 group-title= "TVSATELITE1", MariaVision 
+http://45.5.8.78:8000/play/a01x
+#EXTINF : -1 group-title= "TVSATELITE1", Mega
+http://45.5.8.78:8000/play/a02r
+#EXTINF : -1 group-title= "TVSATELITE1", Película Sala 
+http://45.5.8.78:8000/play/a01k
+#EXTINF : -1 group-title= "TVSATELITE1", NATGEO WILD
+http://45.5.8.78:8000/play/a06f
+#EXTINF : -1 group-title= "TVSATELITE1", NBA TV
+http://45.5.8.78:8000/play/a06r
+#EXTINF : -1 group-title= "TVSATELITE1", NBC UNIVERSO
+http://45.5.8.78:8000/play/a030
+#EXTINF : -1 group-title= "TVSATELITE1", NTN24
+http://45.5.8.78:8000/play/a01s
+#EXTINF : -1 group-title= "TVSATELITE1", Nat Geo Kids
+http://45.5.8.78:8000/play/a036
+#EXTINF : -1 group-title= "TVSATELITE1", Nat Geo Love Nature HD
+http://45.5.8.78:8000/play/a05l
+#EXTINF : -1 group-title= "TVSATELITE1", Nexxo 
+http://45.5.8.78:8000/play/a04g
+#EXTINF : -1 group-title= "TVSATELITE1", PLAYBOY
+http://45.5.8.78:8000/play/a03b
+#EXTINF : -1 group-title= "TVSATELITE1", Pasiones
+http://45.5.8.78:8000/play/a054
+#EXTINF : -1 group-title= "TVSATELITE1", PenHouse World
+http://45.5.8.78:8000 / play / a02n
+#EXTINF : -1 group-title= "TVSATELITE1", Prime 
+http://45.5.8.78:8000/play/a013
+#EXTINF : -1 group-title= "TVSATELITE1", RATIMBU
+http://45.5.8.78:8000/play/a06a
+#EXTINF : -1 group-title= "TVSATELITE1", RCN Internacional
+http://45.5.8.78:8000/play/a01r
+#EXTINF: -1 group-title= "TVSATELITE1", READY TV 
+http://45.5.8.78:8000/play/a02v
+#EXTINF : -1 group-title= "TVSATELITE1", RNN
+http://45.5.8.78:8000/play/a004
+#EXTINF : -1 group-title= "TVSATELITE1", RT ESP
+http://45.5.8.78:8000/play/a042
+#EXTINF : -1 group-title= "TVSATELITE1", RT
+http://45.5.8.78:8000/play/a06g
+#EXTINF : -1 group-title= "TVSATELITE1", RTVE 24
+http://45.5.8.78:8000/play/a062
+# EXTINF : -1 group-title= "TVSATELITE1", Real TV 
+http://45.5.8.78:8000/play/a05d
+#EXTINF : -1 group-title= "TVSATELITE1", Red Advenir Internacional 
+http://45.5.8.78:8000/play/a068
+#EXTINF: -1 group-title= "TVSATELITE1", Renacer en el espiritu 
+http://45.5.8.78:8000/play/a046
+#EXTINF: -1 group-title= "TVSATELITE1", SONY
+http://45.5.8.78:8000/play/a039
+#EXTINF : -1 group-title= "TVSATELITE1", SPACE
+http://45.5.8.78:8000/play/a02p
+#EXTINF : -1 group-title= "TVSATELITE1", SUPER TV 8
+http://45.5.8.78: 8000 / play / a047
+#EXTINF : -1 group-title= "TVSATELITE1", SYFY
+http://45.5.8.78:8000/play/a02w
+#EXTINF : -1 group-title= "TVSATELITE1", Santiago TV
+http://45.5.8.78:8000/play/a01h
+#EXTINF : -1 group-title= "TVSATELITE1", Senal Colombia
+http://45.5.8.78:8000/play/a01y
+#EXTINF : -1 group-title= "TVSATELITE1", SexTreme
+http://45.5.8.78:8000/play/a01u
+#EXTINF : -1 group-title= "TVSATELITE1", Studio Universal
+http://45.5.8.78:8000/play/a040
+#EXTINF : -1 group-title= "TVSATELITE1", Super Canal 33
+http: //45.5 .8.78: 8000 / play / a06b
+#EXTINF : -1 group-title= "TVSATELITE1", Supertv55 
+http://45.5.8.78:8000/play/a04z
+#EXTINF : -1 group-title= "TVSATELITE1", TBS Very Funny
+http://45.5.8.78:8000/play/a03s
+#EXTINF : -1 group-title= "TVSATELITE1", TCM 
+http://45.5.8.78:8000/play/a03p
+#EXTINF : -1 group-title= "TVSATELITE1", TELECAFE 
+http://45.5.8.78:8000/play/a01e
+
+..........................................
+
+#EXTINF : -1 group-title= "TVSATELITE1", TELEPACIFICO 
+http://45.5.8.78:8000/play/a01d
+#EXTINF : -1 group-title= "TVSATELITE1", TENIS
+http://45.5.8.78:8000/play/a02x
+#EXTINF : -1 group-title= "TVSATELITE1", TERRENA TV
+http://45.5.8.78:8000/play/a03l
+#EXTINF : -1 group-title= "TVSATELITE1", TL Novelas
+http://45.5.8.78:8000/play/a01j
+#EXTINF : -1 group-title= "TVSATELITE1", TNT Series 
+http://45.5.8.78:8000/play/a00y
+#EXTINF: -1 group-title= "TVSATELITE1", TRA
+http://45.5.8.78:8000/play/a070
+#EXTINF : -1 group-title= "TVSATELITE1", TRA 
+http://45.5.8.78:8000/play/a05h
+#EXTINF : -1 group-title= "TVSATELITE1", TRO 
+http://45.5.8.78:8000/play/a01f
+#EXTINF : -1 group-title= "TVSATELITE1", TRT World 
+http://45.5.8.78:8000/play/a00z
+#EXTINF : -1 group-title= "TVSATELITE1", TV DOMINICANA
+http: // 45.5.8.78:8000/play/a04i
+#EXTINF : -1 group-title= "TVSATELITE1", TVE
+http://45.5.8.78:8000/play/ a061
+#EXTINF: -1 group-title= "TVSATELITE1", TYC SPORTS
+http://45.5.8.78:8000/play/a011
+#EXTINF : -1 group-title= "TVSATELITE1", TYC SPORTS 
+http://45.5.8.78:8000/play/a034
+#EXTINF : -1 group-title= "TVSATELITE1", TeleCinema
+http://45.5.8.78:8000/play/a053
+#EXTINF : -1 group-title= "TVSATELITE1", Teleantillas
+http://45.5.8.78:8000/play/a045
+#EXTINF : -1 group-title= "TVSATELITE1", Teleantioquia
+http://45.5.8.78:8000/play/a05k
+#EXTINF : -1 group-title= "TVSATELITE1", Teleazul
+http://45.5.8.78:8000/play/a06m
+#EXTINF : -1 group-title= "TVSATELITE1", Telecaribe
+http://45.5.8.78:8000/play/a055
+#EXTINF : -1 group-title= "TVSATELITE1", Telecentro
+http://45.5.8.78:8000/play/a04f
+#EXTINF #EXTINF: -1 group-title= "TVSATELITE1", Telecotui TV 
+http://45.5.8.78:8000/play/a01v
+#EXTINF : -1 group-title= "TVSATELITE1", Telefuturo
+http://45.5.8.78:8000/play/a05g
+#EXTINF : -1 group-title= "TVSATELITE1", Telemedios 25 
+http://45.5.8.78:8000/play/a002
+#EXTINF : -1 group-title= "TVSATELITE1", Telemundo Int 
+http://45.5.8.78:8000/play/a03x
+#EXTINF : -1 group-title= "TVSATELITE1", Telemundo 
+http://45.5.8.78:8000/play/a035
+#EXTINF : -1 group-title= "TVSATELITE1", Telenord 14
+http://45.5.8.78:8000/play/a04v
+#EXTINF : -1 group-title= "TVSATELITE1", Telesistema
+http://45.5.8.78:8000/play/a00a
+#EXTINF : -1 group-title= "TVSATELITE1", Telever 
+http://45.5.8.78:8000/play/a04q
+#EXTINF : -1 group-title= "TVSATELITE1", Televida 
+http://45.5.8.78:8000/play/a059
+#EXTINF : -1 group-title= "TVSATELITE1", Toon Cast
+http://45.5.8.78:8000/play/a03q
+#EXTINF : -1 group-title= "TVSATELITE1", UNIMAS 
+http://45.5.8.78:8000/play/a02y
+#EXTINF : -1 group-title= "TVSATELITE1", UNIVERSAL CHANNEL 
+http://45.5.8.78:8000/play/a037
+#EXTINF : -1 group-title= "TVSATELITE1", USA 
+http://45.5.8.78:8000/play/a03v
+#EXTINF : -1, VENUS
+http://45.5.8.78:8000/play/a03c
+#EXTINF : -1 group-title= "TVSATELITE1", VIENDO MOVIES
+http://45.5.8.78:8000/play/a03n
+#EXTINF : -1 group-title= "TVSATELITE1", VTV
+http://45.5.8.78:8000/play/a06t
+#EXTINF : -1 group-title= "TVSATELITE1", Vallevision
+http://45.5.8.78:8000/play/a06h
+#EXTINF: -1 group-title= "TVSATELITE1", Ve Plus 
+http://45.5.8.78:8000/play/a01i
+#EXTINF : -1 group-title= "TVSATELITE1", Venevision
+http://45.5.8.78:8000/play/a04l
+#EXTINF : -1 group-title= "TVSATELITE1", Vm Kids 
+http : //45.5.8.78: 8000 / play / a00u
+#EXTINF : -1 group-title= "TVSATELITE1", WOOHOO
+http://45.5.8.78:8000/play/a03k
+#EXTINF : -1 group-title= "TVSATELITE1", Warner
+http://45.5.8.78:8000/ play / a06u
+#EXTINF : -1 group-title= "TVSATELITE1", Wobi 
+http://45.5.8.78:8000/play/a02b
+#EXTINF : -1 group-title= "TVSATELITE1", ZOO MOO
+http: //45.5.8.78:8000/play/a05z
+#EXTINF : -1 group-title= "TVSATELITE1", agrotendencia tv sd
+http://45.5.8.78:8000/play/a03w
+
+..................................................................
+#EXTINF:-1 group-title = "TVSATELITE", Azcorazon
+http://45.182.23.211:2000/play/a0dr/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", BBC World
+http://45.182.23.211:2000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Boomerang
+http://45.182.23.211:2000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", CCN
+http://45.182.23.211:2000/play/a0b7/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", CERTV
+http://45.182.23.211:2000/play/a0c0/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", CNN Español
+http://45.182.23.211:2000/play/a0bf/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Canal 3 - GUA
+http://45.182.23.211:2000/play/a0ea/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Canal 4 - PAN
+http://45.182.23.211:2000/play/a0ee/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Cine Latino
+http://45.182.23.211:2000/play/a0ck/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Cine Latino
+http://45.182.23.211:2000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", CineMax
+http://45.182.23.211:2000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Concert Channel
+http://45.182.23.211:2000/play/a0cg/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", DISCOVERY THEATHER HD
+http://45.182.23.211:2000/play/a0da/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Discovery Channel HD
+http://45.182.23.211:2000/play/a0cz/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Discovery Home & Health
+http://45.182.23.211:2000/play/a0el/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Discovery ID HD
+http://45.182.23.211:2000/play/a0d4/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Discovery Kids HD
+http://45.182.23.211:2000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Discovery Turbo
+http://45.182.23.211:2000/play/a0ek/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Discovery World HD
+http://45.182.23.211:2000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Disney
+http://45.182.23.211:2000/play/a0c8/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Disney Junior
+http://45.182.23.211:2000/play/a0do/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", EWTN
+http://45.182.23.211:2000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", El Gourmet
+http://45.182.23.211:2000/play/a0ak/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Europa HD
+http://45.182.23.211:2000/play/a0bs/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE",FOX
+http://45.182.23.211:2000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", FOX LIFE
+http://45.182.23.211:2000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", MTV Hits
+http://45.182.23.211:2000/play/a0bd/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Multipremier
+http://45.182.23.211:2000/play/a0eo/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Nat Geo
+http://45.182.23.211:2000/play/a0dt/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Nick Junior
+http://45.182.23.211:2000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Nickelodeon
+http://45.182.23.211:2000/play/a0eh/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", RHEMA TV
+http://45.182.23.211:2000/play/a0eu/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", SEMILLITAS
+http://45.182.23.211:2000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", TBN Enlace
+http://45.182.23.211:2000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", TBS
+http://45.182.23.211:2000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", TV Max - PAN
+http://45.182.23.211:2000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", TV Max - PAN
+http://45.182.23.211:2000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", Universal
+http://45.182.23.211:2000/play/a0ch/index.m3u8
+#EXTINF:-1 group-title = "TVSATELITE", VH1 Classic
+http://45.182.23.211:2000/play/a0be/index.m3u8
+
+
+
 
 
 
