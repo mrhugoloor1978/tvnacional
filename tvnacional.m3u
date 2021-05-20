@@ -901,7 +901,7 @@ http://45.5.8.78:8000/play/a039
 #EXTINF : -1 group-title= "TVSATELITE1", SPACE
 http://45.5.8.78:8000/play/a02p
 #EXTINF : -1 group-title= "TVSATELITE1", SUPER TV 8
-http://45.5.8.78: 8000 / play / a047
+http://45.5.8.78:8000/play/a047
 #EXTINF : -1 group-title= "TVSATELITE1", SYFY
 http://45.5.8.78:8000/play/a02w
 #EXTINF : -1 group-title= "TVSATELITE1", Santiago TV
@@ -2384,7 +2384,7 @@ http://ipeteve.com/php/SR_REGIO_381/regio22.php?c=tudnus&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_381/regio22.php?c=tvcdep&f=.m3u8
 #EXTINF:-1  group-title="TVSATELITE1", BABYTV
 http://ipeteve.com/php/SR_REGIO_381/regio22.php?c=babytv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", BABY FIRST
+#EXTINF:-1  group-title="TVSATELITE1", BABY FIRST
 http://ipeteve.com/php/SR_REGIO_381/regio22.php?c=babyfirts&f=.m3u8
 #EXTINF:-1  group-title="TVSATELITE1", BITME
 http://ipeteve.com/php/SR_REGIO_381/regio22.php?c=bitme&f=.m3u8
