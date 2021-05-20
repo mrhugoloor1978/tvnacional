@@ -59,6 +59,19 @@ http://200.24.132.99:8000/play/a00k
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
 
+#EXTINF:-1 group-title="ECUADOR",Ecuavisa 720
+http://45.71.202.210:50000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="ECUADOR", GOL TV 720
+http://45.71.202.210:50000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="ECUADOR", GamaTV 720
+http://45.71.202.210:50000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="ECUADOR", TC Television 720
+http://45.71.202.210:50000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="ECUADOR",Teleamazonas 720
+http://45.71.202.210:50000/play/a08q/index.m3u8
+
+
+
 #EXTINF:-1 group-title= "DEPORTES",Claro Sports
 http://45.71.202.210:50000/play/a01w/index.m3u8
 #EXTINF:-1 group-title= "DEPORTES",ESPN 2 CO
@@ -577,7 +590,7 @@ http://45.5.8.78:8000/play/a040
 http://45.5.8.78:8000/play/a06b
 #EXTINF:-1 group-title="TVSATELITE1", Supertv55
 http://45.5.8.78:8000/play/a04z
-#EXTINF:-1 group-title="TVSATELITE1",TBS Very Funny
+#EXTINF:-1 group-title="TVSATELITE1", TBS Very Funny
 http://45.5.8.78:8000/play/a03s
 #EXTINF:-1 group-title="TVSATELITE1",TCM
 http://45.5.8.78:8000/play/a03p
@@ -699,7 +712,7 @@ http://45.5.8.78:8000/play/a001
 #EXTINF : -1 group-title= "TVSATELITE1", Antena 3
 http://45.5.8.78:8000/play/a031
 #EXTINF : -1 group-title= "TVSATELITE1", Antena 7 
-http: //45.5. 8.78: 8000 / play / a04h
+http://45.5.8.78:8000/play/a04h
 #EXTINF : -1 group-title= "TVSATELITE1", Azmundo 
 http://45.5.8.78:8000/play/a03z
 #EXTINF: -1 group-title= "TVSATELITE1" , BONAO TV CANAL 12
@@ -963,7 +976,7 @@ http://45.5.8.78:8000/play/a06m
 http://45.5.8.78:8000/play/a055
 #EXTINF : -1 group-title= "TVSATELITE1", Telecentro
 http://45.5.8.78:8000/play/a04f
-#EXTINF #EXTINF: -1 group-title= "TVSATELITE1", Telecotui TV 
+#EXTINF: -1 group-title= "TVSATELITE1", Telecotui TV 
 http://45.5.8.78:8000/play/a01v
 #EXTINF : -1 group-title= "TVSATELITE1", Telefuturo
 http://45.5.8.78:8000/play/a05g
@@ -2011,7 +2024,7 @@ https://blackghost.live/play/teleclub-518.php?c=la-fox-comedy-hd&f=.m3u8
 #EXTINF:-1   group-title="TVSATELITE2", Fox-Family
 https://blackghost.live/play/teleclub-518.php?c=la-fox-family-hd&f=.m3u8
 
-#EXTINF:-1   group-title="LTVSATELITE2", Fox-Life
+#EXTINF:-1   group-title="TVSATELITE2", Fox-Life
 https://blackghost.live/play/teleclub-518.php?c=la-fox-life-hd&f=.m3u8
 
 #EXTINF:-1   group-title="TVSATELITE2", Fox-Movies
