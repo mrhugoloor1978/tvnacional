@@ -41,6 +41,9 @@ http://45.71.202.210:50000/play/a07i/index.m3u8
 #EXTINF:-1 group-title="ECUADOR",Ecuador TV 
 http://45.71.202.210:50000/play/a02i/index.m3u8
 
+
+
+
 #EXTINF : -1 group-title="ECUADOR", Tc Televisión SD
 http://200.24.132.99:8000/play/a00m
 #EXTINF : -1 group-title="ECUADOR", Teleamazonas SD
@@ -48,7 +51,7 @@ http://200.24.132.99:8000/play/a00n
 #EXTINF : -1 group-title="ECUADOR", Oromar SD
 http://200.24.132.99:8000/play/a00h
 #EXTINF : -1 group-title="ECUADOR", Ecuavisa SD
-http://200.24.132.99:8000/play/a00g
+http://45.71.202.210:50000/play/a08p/index.m3u8
 #EXTINF : -1 group-title="ECUADOR", CANAL UNO SD
 http://200.24.132.99:8000/play/a00k
 
