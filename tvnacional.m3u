@@ -135,6 +135,18 @@ http://vod.tuxchannel.tv:80/peliculas/720/zack%20snyders%20justice%20league%2020
 http://tux-vod.dynu.com:80/peliculas/720/joker%202019.mkv
 
 ----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/M7rXn75/mini-6010556185be1.jpg" group-title="PELICULAS", Raya y El Ultimo Dragon
+https://ikal.me/wl/?id=iIJQHhnAS8NuMzWW3pr6rwJ0w6jPfXUp
+#EXTINF: -1 tvg-logo = "http://archive.org/download/images-4_202103/images%20%284%29.jpeg", ESPIAS A ESCONDIDAS
+http://archive.org/download/spymp4/spymp4.mp4
+#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/cv0tnajw2c6turq/soul.jpg" group-title="PELICULAS", Alma
+https://archive.org/download/soul.-2020/Soul.2020.mkv
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/khwF7r1/Unidos-2020.jpg" group-title="PELICULAS", Unidos (2020)
+https://dl.dropbox.com/s/t1a3k747pq93w3b/Unidos.2020.mp4
+#EXTINF: -1 group-title="PELICULAS", Abominable (2019)
+http://compitv.info:8080/movie/LuisW01/Q3gTdLqACY/153213.mp4
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="PELICULAS", El Ejército de los Muertos
 https://908480990.tapecontent.net/radosgw/e2Rlpq7kaVtY1zQ/176fuBnFZOag6z9_o3Bff2yt_U7KUZM9OykNEfyTWvjqOw6g2vjeFMgHZKfYhWyETuL-omaPpuLjnYmRuvuQ7Ut5pEJig1qeGP-M4lvAYc2KGO-8pNc-RsCKT6D6TqQhv2TYxAMcb7-Xwyq_eal5tqLhjlp87vylDOzgRQmhz_vHLDzEUZhXxQKS8Rly7ZWalwUkRwMwumPiEstKTBAqh1c3BZk3WLKjXJJjSRSODGilCv5LW_bCkYb2blp4RKVoLSAmZ7bg1y2ZuEc9cDFpbFANMy5gN-QenYIvIl_f5cfPJIcZsnxZqXKipI8/Ejercito+de+los+muertos+2021+HD+LAT.mp4?stream=1
@@ -245,384 +257,317 @@ https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
 ..................................................................
-#EXTINF:-1 group-title = "TVSATELITE1", Azcorazon
-http://45.182.23.211:2000/play/a0dr/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", BBC World
-http://45.182.23.211:2000/play/a0dv/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Boomerang
-http://45.182.23.211:2000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", CCN
-http://45.182.23.211:2000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", CERTV
-http://45.182.23.211:2000/play/a0c0/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", CNN Español
-http://45.182.23.211:2000/play/a0bf/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Canal 3 - GUA
-http://45.182.23.211:2000/play/a0ea/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Canal 4 - PAN
-http://45.182.23.211:2000/play/a0ee/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Cine Latino
-http://45.182.23.211:2000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Cine Latino
-http://45.182.23.211:2000/play/a0ep/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", CineMax
-http://45.182.23.211:2000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Concert Channel
-http://45.182.23.211:2000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", DISCOVERY THEATHER HD
-http://45.182.23.211:2000/play/a0da/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Discovery Channel HD
-http://45.182.23.211:2000/play/a0cz/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Discovery Home & Health
-http://45.182.23.211:2000/play/a0el/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Discovery ID HD
-http://45.182.23.211:2000/play/a0d4/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Discovery Kids HD
-http://45.182.23.211:2000/play/a0d0/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Discovery Turbo
-http://45.182.23.211:2000/play/a0ek/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Discovery World HD
-http://45.182.23.211:2000/play/a0d1/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Disney
-http://45.182.23.211:2000/play/a0c8/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Disney Junior
-http://45.182.23.211:2000/play/a0do/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", EWTN
-http://45.182.23.211:2000/play/a0bh/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", El Gourmet
-http://45.182.23.211:2000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Europa HD
-http://45.182.23.211:2000/play/a0bs/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1",FOX
-http://45.182.23.211:2000/play/a0c9/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", FOX LIFE
-http://45.182.23.211:2000/play/a0b9/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", MTV Hits
-http://45.182.23.211:2000/play/a0bd/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Multipremier
-http://45.182.23.211:2000/play/a0eo/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Nat Geo
-http://45.182.23.211:2000/play/a0dt/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Nick Junior
-http://45.182.23.211:2000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Nickelodeon
-http://45.182.23.211:2000/play/a0eh/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", RHEMA TV
-http://45.182.23.211:2000/play/a0eu/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", SEMILLITAS
-http://45.182.23.211:2000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", TBN Enlace
-http://45.182.23.211:2000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", TBS
-http://45.182.23.211:2000/play/a0ds/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", TV Max - PAN
-http://45.182.23.211:2000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", TV Max - PAN
-http://45.182.23.211:2000/play/a0ed/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", Universal
-http://45.182.23.211:2000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title = "TVSATELITE1", VH1 Classic
-http://45.182.23.211:2000/play/a0be/index.m3u8
 
 ===================================================
-#EXTINF:-1 group-title = "TVSATELITE1" Latino | A&E
+#EXTINF:-1 group-title = "TVSATELITE1"  A&E
 http://serviceinput.online:2999/universidad/universidad/20
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | A3S
+#EXTINF:-1 group-title = "TVSATELITE1",  A3S
 http://serviceinput.online:2999/universidad/universidad/565
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | ADN40
+#EXTINF:-1 group-title = "TVSATELITE1",  ADN40
 http://serviceinput.online:2999/universidad/universidad/9
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | AMC
+#EXTINF:-1 group-title = "TVSATELITE1", AMC
 http://serviceinput.online:2999/universidad/universidad/78
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Animal Planet
+#EXTINF:-1 group-title = "TVSATELITE1",  Animal Planet
 http://serviceinput.online:2999/universidad/universidad/61
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Antena 3
+#EXTINF:-1 group-title = "TVSATELITE1",  Antena 3
 http://serviceinput.online:2999/universidad/universidad/564
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | AXN
+#EXTINF:-1 group-title = "TVSATELITE1",  AXN
 http://serviceinput.online:2999/universidad/universidad/21
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | AXN White
+#EXTINF:-1 group-title = "TVSATELITE1",  AXN White
 http://serviceinput.online:2999/universidad/universidad/609
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | AZ Cinema
+#EXTINF:-1 group-title = "TVSATELITE1",  AZ Cinema
 http://serviceinput.online:2999/universidad/universidad/72
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | AZ Corazon
+#EXTINF:-1 group-title = "TVSATELITE1",  AZ Corazon
 http://serviceinput.online:2999/universidad/universidad/29
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | AZ Mundo
+#EXTINF:-1 group-title = "TVSATELITE1",  AZ Mundo
 http://serviceinput.online:2999/universidad/universidad/41
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Azteca 1
+#EXTINF:-1 group-title = "TVSATELITE1",  Azteca 1
 http://serviceinput.online:2999/universidad/universidad/458
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Azteca 7
+#EXTINF:-1 group-title = "TVSATELITE1",  Azteca 7
 http://serviceinput.online:2999/universidad/universidad/6
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | beIN Sports
+#EXTINF:-1 group-title = "TVSATELITE1",  beIN Sports
 http://serviceinput.online:2999/universidad/universidad/381
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | beIN Sports La Liga
+#EXTINF:-1 group-title = "TVSATELITE1",  beIN Sports La Liga
 http://serviceinput.online:2999/universidad/universidad/626
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Boomerang
+#EXTINF:-1 group-title = "TVSATELITE1",  Boomerang
 http://serviceinput.online:2999/universidad/universidad/52
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Canal 11
+#EXTINF:-1 group-title = "TVSATELITE1",  Canal 11
 http://serviceinput.online:2999/universidad/universidad/467
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Canal 5
+#EXTINF:-1 group-title = "TVSATELITE1",  Canal 5
 http://serviceinput.online:2999/universidad/universidad/4
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Canal De Las Estrellas
+#EXTINF:-1 group-title = "TVSATELITE1",  Canal De Las Estrellas
 http://serviceinput.online:2999/universidad/universidad/3
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Caracol
+#EXTINF:-1 group-title = "TVSATELITE1",  Caracol
 http://serviceinput.online:2999/universidad/universidad/284
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Cartoon Network
+#EXTINF:-1 group-title = "TVSATELITE1",  Cartoon Network
 http://serviceinput.online:2999/universidad/universidad/50
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Cinecanal
+#EXTINF:-1 group-title = "TVSATELITE1",  Cinecanal
 http://serviceinput.online:2999/universidad/universidad/73
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | CineLatino
+#EXTINF:-1 group-title = "TVSATELITE1",  CineLatino
 http://serviceinput.online:2999/universidad/universidad/303
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Cinemax
+#EXTINF:-1 group-title = "TVSATELITE1",  Cinemax
 http://serviceinput.online:2999/universidad/universidad/82
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | CNN en Espanol
+#EXTINF:-1 group-title = "TVSATELITE1",  CNN en Espanol
 http://serviceinput.online:2999/universidad/universidad/105
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Comedy Central
+#EXTINF:-1 group-title = "TVSATELITE1",  Comedy Central
 http://serviceinput.online:2999/universidad/universidad/23
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | De Pelicula
+#EXTINF:-1 group-title = "TVSATELITE1",  De Pelicula
 http://serviceinput.online:2999/universidad/universidad/85
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery Channel
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Channel
 http://serviceinput.online:2999/universidad/universidad/60
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery en Espanol
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery en Espanol
 http://serviceinput.online:2999/universidad/universidad/567
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery Civilization
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Civilization
 http://serviceinput.online:2999/universidad/universidad/111
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery Familia
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Familia
 http://serviceinput.online:2999/universidad/universidad/253
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery H&H
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery H&H
 http://serviceinput.online:2999/universidad/universidad/62
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery ID
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery ID
 http://serviceinput.online:2999/universidad/universidad/32
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery Kids
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Kids
 http://serviceinput.online:2999/universidad/universidad/43
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery Science
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Science
 http://serviceinput.online:2999/universidad/universidad/110
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery Theater
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Theater
 http://serviceinput.online:2999/universidad/universidad/56
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery TLC
+#EXTINF:-1 group-title = "TVSATELITE1", Discovery TLC
 http://serviceinput.online:2999/universidad/universidad/65
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery Turbo
+#EXTINF:-1 group-title = "TVSATELITE1", Discovery Turbo
 http://serviceinput.online:2999/universidad/universidad/285
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Discovery World
+#EXTINF:-1 group-title = "TVSATELITE1",  Discovery World
 http://serviceinput.online:2999/universidad/universidad/59
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Disney Channel
+#EXTINF:-1 group-title = "TVSATELITE1",  Disney Channel
 http://serviceinput.online:2999/universidad/universidad/46
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Disney JR
+#EXTINF:-1 group-title = "TVSATELITE1",  Disney Junior
 http://serviceinput.online:2999/universidad/universidad/44
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Disney XD
+#EXTINF:-1 group-title = "TVSATELITE1",  Disney XD
 http://serviceinput.online:2999/universidad/universidad/51
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Distrito Comedia
+#EXTINF:-1 group-title = "TVSATELITE1",  Distrito Comedia
 http://serviceinput.online:2999/universidad/universidad/38
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | E!
+#EXTINF:-1 group-title = "TVSATELITE1",  E!
 http://serviceinput.online:2999/universidad/universidad/30
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | El Garage
+#EXTINF:-1 group-title = "TVSATELITE1",  El Garage
 http://serviceinput.online:2999/universidad/universidad/475
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | El Gourmet
+#EXTINF:-1 group-title = "TVSATELITE1",  El Gourmet
 http://serviceinput.online:2999/universidad/universidad/34
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | ESPN
+#EXTINF:-1 group-title = "TVSATELITE1",  ESPN
 http://serviceinput.online:2999/universidad/universidad/97
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | ESPN 2
+#EXTINF:-1 group-title = "TVSATELITE1",  ESPN 2
 http://serviceinput.online:2999/universidad/universidad/98
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | ESPN 3
+#EXTINF:-1 group-title = "TVSATELITE1",  ESPN 3
 http://serviceinput.online:2999/universidad/universidad/91
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | ESPN Deportes
+#EXTINF:-1 group-title = "TVSATELITE1",  ESPN Deportes
 http://serviceinput.online:2999/universidad/universidad/528
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | ESPN Plus
+#EXTINF:-1 group-title = "TVSATELITE1",  ESPN Plus
 http://serviceinput.online:2999/universidad/universidad/90
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Estrella TV
+#EXTINF:-1 group-title = "TVSATELITE1",  Estrella TV
 http://serviceinput.online:2999/universidad/universidad/418
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Food Network
+#EXTINF:-1 group-title = "TVSATELITE1",  Food Network
 http://serviceinput.online:2999/universidad/universidad/27
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox
 http://serviceinput.online:2999/universidad/universidad/15
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Action
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Action
 http://serviceinput.online:2999/universidad/universidad/68
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Cinema
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Cinema
 http://serviceinput.online:2999/universidad/universidad/70
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Classics
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Classics
 http://serviceinput.online:2999/universidad/universidad/71
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Comedy
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Comedy
 http://serviceinput.online:2999/universidad/universidad/1038
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Star Fun
+#EXTINF:-1 group-title = "TVSATELITE1",  Star Fun
 http://serviceinput.online:2999/universidad/universidad/109
-#EXTINF:-1 group-title = "TVSATELITE1"", Latino | Fox Life
+#EXTINF:-1 group-title = "TVSATELITE1"",  Fox Life
 http://serviceinput.online:2999/universidad/universidad/37
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Star Hits
+#EXTINF:-1 group-title = "TVSATELITE1",  Star Hits
 http://serviceinput.online:2999/universidad/universidad/69
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Series
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Series
 http://serviceinput.online:2999/universidad/universidad/67
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Sports
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Sports
 http://serviceinput.online:2999/universidad/universidad/92
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Sports 2
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Sports 2
 http://serviceinput.online:2999/universidad/universidad/93
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Sports 3
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Sports 3
 http://serviceinput.online:2999/universidad/universidad/100
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Fox Sports Premium
+#EXTINF:-1 group-title = "TVSATELITE1",  Fox Sports Premium
 http://serviceinput.online:2999/universidad/universidad/992
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | FX
+#EXTINF:-1 group-title = "TVSATELITE1",  FX
 http://serviceinput.online:2999/universidad/universidad/19
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | FXM
+#EXTINF:-1 group-title = "TVSATELITE1",  FXM
 http://serviceinput.online:2999/universidad/universidad/76
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Gala TV
+#EXTINF:-1 group-title = "TVSATELITE1",  Gala TV
 http://serviceinput.online:2999/universidad/universidad/7
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Glitz
+#EXTINF:-1 group-title = "TVSATELITE1",  Glitz
 http://serviceinput.online:2999/universidad/universidad/36
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Gol TV
+#EXTINF:-1 group-title = "TVSATELITE1",  Gol TV
 http://serviceinput.online:2999/universidad/universidad/293
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Golden Edge
+#EXTINF:-1 group-title = "TVSATELITE1",  Golden Edge
 http://serviceinput.online:2999/universidad/universidad/84
-#EXTINF:-1 group-title = "TVSATELITE1",Latino | Golden Plus
+#EXTINF:-1 group-title = "TVSATELITE1", Golden Plus
 http://serviceinput.online:2999/universidad/universidad/75
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Golden Premier
+#EXTINF:-1 group-title = "TVSATELITE1", Golden Premier
 http://serviceinput.online:2999/universidad/universidad/83
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Golf Channel
+#EXTINF:-1 group-title = "TVSATELITE1",  Golf Channel
 http://serviceinput.online:2999/universidad/universidad/89
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | HBO
+#EXTINF:-1 group-title = "TVSATELITE1",  HBO
 http://serviceinput.online:2999/universidad/universidad/120
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | HBO 2
+#EXTINF:-1 group-title = "TVSATELITE1",  HBO 2
 http://serviceinput.online:2999/universidad/universidad/121
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | HBO Family
+#EXTINF:-1 group-title = "TVSATELITE1",  HBO Family
 http://serviceinput.online:2999/universidad/universidad/119
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | HBO Plus
+#EXTINF:-1 group-title = "TVSATELITE1",  HBO Plus
 http://serviceinput.online:2999/universidad/universidad/610
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | HBO PoP
+#EXTINF:-1 group-title = "TVSATELITE1",  HBO PoP
 http://serviceinput.online:2999/universidad/universidad/117
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | HBO Signature
+#EXTINF:-1 group-title = "TVSATELITE1",  HBO Signature
 http://serviceinput.online:2999/universidad/universidad/118
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | HBO Xtreme
+#EXTINF:-1 group-title = "TVSATELITE1",  HBO Xtreme
 http://serviceinput.online:2999/universidad/universidad/298
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | History 2
+#EXTINF:-1 group-title = "TVSATELITE1",  History 2
 http://serviceinput.online:2999/universidad/universidad/289
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | History Channel
+#EXTINF:-1 group-title = "TVSATELITE1",  History Channel
 http://serviceinput.online:2999/universidad/universidad/57
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Lifetime
+#EXTINF:-1 group-title = "TVSATELITE1", Lifetime
 http://serviceinput.online:2999/universidad/universidad/64
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | MTV
+#EXTINF:-1 group-title = "TVSATELITE1",  MTV
 http://serviceinput.online:2999/universidad/universidad/620
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Multimedios
+#EXTINF:-1 group-title = "TVSATELITE1",  Multimedios
 http://serviceinput.online:2999/universidad/universidad/14
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Nat Geo Wild
+#EXTINF:-1 group-title = "TVSATELITE1",  Nat Geo Wild
 http://serviceinput.online:2999/universidad/universidad/58
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | NatGeo Kids
+#EXTINF:-1 group-title = "TVSATELITE1",  Nat Geo Kids
 http://serviceinput.online:2999/universidad/universidad/622
-#EXTINF:-1 group-title = "TVSATELITE1",Latino | National Geographic
+#EXTINF:-1 group-title = "TVSATELITE1", National Geographic
 http://serviceinput.online:2999/universidad/universidad/63
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Nick
+#EXTINF:-1 group-title = "TVSATELITE1",  Nick
 http://serviceinput.online:2999/universidad/universidad/48
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Nick Jr
+#EXTINF:-1 group-title = "TVSATELITE1",  Nick Jr
 http://serviceinput.online:2999/universidad/universidad/45
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Nicktoons
+#EXTINF:-1 group-title = "TVSATELITE1",  Nicktoons
 http://serviceinput.online:2999/universidad/universidad/47
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Paramount
+#EXTINF:-1 group-title = "TVSATELITE1",  Paramount
 http://serviceinput.online:2999/universidad/universidad/1166
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Pasiones
+#EXTINF:-1 group-title = "TVSATELITE1",  Pasiones
 http://serviceinput.online:2999/universidad/universidad/305
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | RCN
+#EXTINF:-1 group-title = "TVSATELITE1",  RCN
 http://serviceinput.online:2999/universidad/universidad/302
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Showtime
+#EXTINF:-1 group-title = "TVSATELITE1",  Showtime
 http://serviceinput.online:2999/universidad/universidad/652
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Sony
+#EXTINF:-1 group-title = "TVSATELITE1",  Sony
 http://serviceinput.online:2999/universidad/universidad/16
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Space
+#EXTINF:-1 group-title = "TVSATELITE1",  Space
 http://serviceinput.online:2999/universidad/universidad/79
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Starz Encore
+#EXTINF:-1 group-title = "TVSATELITE1",  Starz Encore
 http://serviceinput.online:2999/universidad/universidad/651
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Starz Kids & Family
+#EXTINF:-1 group-title = "TVSATELITE1",  Starz Kids & Family
 http://serviceinput.online:2999/universidad/universidad/1047
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Studio Universal
+#EXTINF:-1 group-title = "TVSATELITE1",  Studio Universal
 http://serviceinput.online:2999/universidad/universidad/86
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | SyFy
+#EXTINF:-1 group-title = "TVSATELITE1",  SyFy
 http://serviceinput.online:2999/universidad/universidad/31
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TBS
+#EXTINF:-1 group-title = "TVSATELITE1", TBS
 http://serviceinput.online:2999/universidad/universidad/39
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TCM
+#EXTINF:-1 group-title = "TVSATELITE1",  TCM
 http://serviceinput.online:2999/universidad/universidad/88
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Telehit Plus
+#EXTINF:-1 group-title = "TVSATELITE1",  Telehit Plus
 http://serviceinput.online:2999/universidad/universidad/422
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Telemundo Int
+#EXTINF:-1 group-title = "TVSATELITE1",  Telemundo Int
 http://serviceinput.online:2999/universidad/universidad/54
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TLnovelas
+#EXTINF:-1 group-title = "TVSATELITE1",  TLnovelas
 http://serviceinput.online:2999/universidad/universidad/40
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TNT
+#EXTINF:-1 group-title = "TVSATELITE1",  TNT
 http://serviceinput.online:2999/universidad/universidad/74
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TNT Series
+#EXTINF:-1 group-title = "TVSATELITE1",  TNT Series
 http://serviceinput.online:2999/universidad/universidad/33
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Tooncast
+#EXTINF:-1 group-title = "TVSATELITE1",  Tooncast
 http://serviceinput.online:2999/universidad/universidad/55
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TruTV
+#EXTINF:-1 group-title = "TVSATELITE1",  TruTV
 http://serviceinput.online:2999/universidad/universidad/22
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TVC
+#EXTINF:-1 group-title = "TVSATELITE1",  TVC
 http://serviceinput.online:2999/universidad/universidad/28
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TVC Deportes
+#EXTINF:-1 group-title = "TVSATELITE1",  TVC Deportes
 http://serviceinput.online:2999/universidad/universidad/306
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | TyC Sports
+#EXTINF:-1 group-title = "TVSATELITE1",  TyC Sports
 http://serviceinput.online:2999/universidad/universidad/288
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Unicable
+#EXTINF:-1 group-title = "TVSATELITE1",  Unicable
 http://serviceinput.online:2999/universidad/universidad/24
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Unimas
+#EXTINF:-1 group-title = "TVSATELITE1",  Unimas
 http://serviceinput.online:2999/universidad/universidad/286
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Universal Channel
+#EXTINF:-1 group-title = "TVSATELITE1",  Universal Channel
 http://serviceinput.online:2999/universidad/universidad/18
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | VH1
+#EXTINF:-1 group-title = "TVSATELITE1",  VH1
 http://serviceinput.online:2999/universidad/universidad/625
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | VH1 Classics
+#EXTINF:-1 group-title = "TVSATELITE1",  VH1 Classics
 http://serviceinput.online:2999/universidad/universidad/624
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Warner
+#EXTINF:-1 group-title = "TVSATELITE1",  Warner
 http://serviceinput.online:2999/universidad/universidad/17
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Win Sports
+#EXTINF:-1 group-title = "TVSATELITE1",  Win Sports
 http://serviceinput.online:2999/universidad/universidad/297
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Caza y Pezca
+#EXTINF:-1 group-title = "TVSATELITE1",  Caza y Pezca
 http://serviceinput.online:2999/universidad/universidad/1228
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | America TV
+#EXTINF:-1 group-title = "TVSATELITE1",  America TV
 http://serviceinput.online:2999/universidad/universidad/1237
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Caracol Int
+#EXTINF:-1 group-title = "TVSATELITE1",  Caracol Int
 http://serviceinput.online:2999/universidad/universidad/1243
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Gol TV (Peru)
+#EXTINF:-1 group-title = "TVSATELITE1",  Gol TV (Peru)
 http://serviceinput.online:2999/universidad/universidad/1262
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Adrenalina Sports Network
+#EXTINF:-1 group-title = "TVSATELITE1",  Adrenalina Sports Network
 http://serviceinput.online:2999/universidad/universidad/1301
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | Win Sports +
+#EXTINF:-1 group-title = "TVSATELITE1",  Win Sports +
 http://serviceinput.online:2999/universidad/universidad/1417
-#EXTINF:-1 group-title = "TVSATELITE1", Latino | HGTV
+#EXTINF:-1 group-title = "TVSATELITE1",  HGTV
 http://serviceinput.online:2999/universidad/universidad/1425
-#EXTINF:-1 group-title = "TVSATELITE1", PR | Mega TV
+#EXTINF:-1 group-title = "TVSATELITE1", Mega TV
 http://serviceinput.online:2999/universidad/universidad/124
-#EXTINF:-1 group-title = "TVSATELITE1", PR | Punto 2
+#EXTINF:-1 group-title = "TVSATELITE1",  Punto 2
 http://serviceinput.online:2999/universidad/universidad/262
-#EXTINF:-1 group-title = "TVSATELITE1", PR | Telemundo
+#EXTINF:-1 group-title = "TVSATELITE1",  Telemundo
 http://serviceinput.online:2999/universidad/universidad/125
-#EXTINF:-1 group-title = "TVSATELITE1", PR | WAPA
+#EXTINF:-1 group-title = "TVSATELITE1",  WAPA
 http://serviceinput.online:2999/universidad/universidad/127
-#EXTINF:-1 group-title = "TVSATELITE1", PR | WAPA 2
+#EXTINF:-1 group-title = "TVSATELITE1",  WAPA 2
 http://serviceinput.online:2999/universidad/universidad/128
-#EXTINF:-1 group-title = "TVSATELITE1", PR | WIPR
+#EXTINF:-1 group-title = "TVSATELITE1", WIPR
 http://serviceinput.online:2999/universidad/universidad/653
-#EXTINF:-1 group-title = "TVSATELITE1", PR | TeleOnce
+#EXTINF:-1 group-title = "TVSATELITE1",  TeleOnce
 http://serviceinput.online:2999/universidad/universidad/126
-#EXTINF:-1 group-title = "TVSATELITE1", PR | La X 100.7 FM 
+#EXTINF:-1 group-title = "TVSATELITE1",  La X 100.7 FM 
 http://serviceinput.online:2999/universidad/universidad/1268
-#EXTINF:-1 group-title = "TVSATELITE1", PR | WAPA SD
+#EXTINF:-1 group-title = "TVSATELITE1",  WAPA SD
 http://serviceinput.online:2999/universidad/universidad/1334
 
+-------------------------------------------------------------------
 
-#EXTINF:-1 group-title = "ADULTOS",Adult 01
-http://serviceinput.online:2999/universidad/universidad/750
-#EXTINF:-1 group-title = "ADULTOS", Adult 02
-http://serviceinput.online:2999/universidad/universidad/1035
-#EXTINF:-1 group-title = "ADULTOS", Adult 03
-http://serviceinput.online:2999/universidad/universidad/1036
-#EXTINF:-1 group-title = "ADULTOS", Adult 04
-http://serviceinput.online:2999/universidad/universidad/276
-#EXTINF:-1 group-title = "ADULTOS", Adult 05
-http://serviceinput.online:2999/universidad/universidad/1037
-#EXTINF:-1 group-title = "ADULTOS", Adult 06
-http://serviceinput.online:2999/universidad/universidad/751
-#EXTINF:-1 group-title = "ADULTOS", Adult 07
-http://serviceinput.online:2999/universidad/universidad/479
-#EXTINF:-1 group-title = "ADULTOS", Adult 08
-http://serviceinput.online:2999/universidad/universidad/468
-#EXTINF:-1 group-title = "ADULTOS", Adult 09
-http://serviceinput.online:2999/universidad/universidad/1297
-#EXTINF:-1 group-title = "ADULTOS", Adult 10
-http://serviceinput.online:2999/universidad/universidad/1298
+
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 039 www.achoAPPS.com
+http://static.brazzers.com/scenes/3485/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 040 www.achoAPPS.com
+http://static.brazzers.com/scenes/3389/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 041 www.achoAPPS.com
+http://static.brazzers.com/scenes/3390/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 042 www.achoAPPS.com
+http://static.brazzers.com/scenes/3391/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 043 www.achoAPPS.com
+http://static.brazzers.com/scenes/3392/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 044 www.achoAPPS.com
+http://static.brazzers.com/scenes/3393/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS" , ADULTBrazzers - VOD 045 www.achoAPPS.com
+http://static.brazzers.com/scenes/3394/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 046 www.achoAPPS.com
+http://static.brazzers.com/scenes/3395/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS" , ADULTBrazzers - VOD 047 www.achoAPPS.com
+http://static.brazzers.com/scenes/3396/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 048 www.achoAPPS.com
+http://static.brazzers.com/scenes/3397/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 049 www.achoAPPS.com
+http://static.brazzers.com/scenes/3398/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 050 www.achoAPPS.com
+http://static.brazzers.com/scenes/3483/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 051 www.achoAPPS.com
+http://static.brazzers.com/scenes/3400/180sec.flv
+#EXTINF: -1 group-title = "ADULTOS", ADULTOther - Diecisiete Video 01 www.achoAPPS.com
+http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
+
 
 
 ----------------------------------------------------------------
