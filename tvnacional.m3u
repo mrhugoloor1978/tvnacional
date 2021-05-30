@@ -250,7 +250,7 @@ https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title = "TVSATELITE1",A&E Mundo
+#EXTINF:-1 group-title = "TVSATELITE1",A&E
 http://45.71.202.210:50000/play/a00x/index.m3u8
 #EXTINF:-1 group-title = "TVSATELITE1", Animal Planet
 http://45.71.202.210:50000/play/a00o/index.m3u8
@@ -371,317 +371,313 @@ http://45.71.202.210:50000/play/a00p/index.m3u8
 ..................................................................
 
 ===================================================
-#EXTINF:-1 group-title = "TVSATELITE1",  A&E
-http://serviceinput.online:2999/universidad/universidad/20
-#EXTINF:-1 group-title = "TVSATELITE1",  A3S
-http://serviceinput.online:2999/universidad/universidad/565
-#EXTINF:-1 group-title = "TVSATELITE1",  ADN40
-http://serviceinput.online:2999/universidad/universidad/9
-#EXTINF:-1 group-title = "TVSATELITE1", AMC
-http://serviceinput.online:2999/universidad/universidad/78
-#EXTINF:-1 group-title = "TVSATELITE1",  Animal Planet
-http://serviceinput.online:2999/universidad/universidad/61
-#EXTINF:-1 group-title = "TVSATELITE1",  Antena 3
-http://serviceinput.online:2999/universidad/universidad/564
-#EXTINF:-1 group-title = "TVSATELITE1",  AXN
-http://serviceinput.online:2999/universidad/universidad/21
-#EXTINF:-1 group-title = "TVSATELITE1",  AXN White
-http://serviceinput.online:2999/universidad/universidad/609
-#EXTINF:-1 group-title = "TVSATELITE1",  AZ Cinema
-http://serviceinput.online:2999/universidad/universidad/72
-#EXTINF:-1 group-title = "TVSATELITE1",  AZ Corazon
-http://serviceinput.online:2999/universidad/universidad/29
-#EXTINF:-1 group-title = "TVSATELITE1",  AZ Mundo
-http://serviceinput.online:2999/universidad/universidad/41
-#EXTINF:-1 group-title = "TVSATELITE1",  Azteca 1
-http://serviceinput.online:2999/universidad/universidad/458
-#EXTINF:-1 group-title = "TVSATELITE1",  Azteca 7
-http://serviceinput.online:2999/universidad/universidad/6
-#EXTINF:-1 group-title = "TVSATELITE1",  beIN Sports
-http://serviceinput.online:2999/universidad/universidad/381
-#EXTINF:-1 group-title = "TVSATELITE1",  beIN Sports La Liga
-http://serviceinput.online:2999/universidad/universidad/626
-#EXTINF:-1 group-title = "TVSATELITE1",  Boomerang
-http://serviceinput.online:2999/universidad/universidad/52
-#EXTINF:-1 group-title = "TVSATELITE1",  Canal 11
-http://serviceinput.online:2999/universidad/universidad/467
-#EXTINF:-1 group-title = "TVSATELITE1",  Canal 5
-http://serviceinput.online:2999/universidad/universidad/4
-#EXTINF:-1 group-title = "TVSATELITE1",  Canal De Las Estrellas
-http://serviceinput.online:2999/universidad/universidad/3
-#EXTINF:-1 group-title = "TVSATELITE1",  Caracol
-http://serviceinput.online:2999/universidad/universidad/284
-#EXTINF:-1 group-title = "TVSATELITE1",  Cartoon Network
-http://serviceinput.online:2999/universidad/universidad/50
-#EXTINF:-1 group-title = "TVSATELITE1",  Cinecanal
-http://serviceinput.online:2999/universidad/universidad/73
-#EXTINF:-1 group-title = "TVSATELITE1",  CineLatino
-http://serviceinput.online:2999/universidad/universidad/303
-#EXTINF:-1 group-title = "TVSATELITE1",  Cinemax
-http://serviceinput.online:2999/universidad/universidad/82
-#EXTINF:-1 group-title = "TVSATELITE1",  CNN en Espanol
-http://serviceinput.online:2999/universidad/universidad/105
-#EXTINF:-1 group-title = "TVSATELITE1",  Comedy Central
-http://serviceinput.online:2999/universidad/universidad/23
-#EXTINF:-1 group-title = "TVSATELITE1",  De Pelicula
-http://serviceinput.online:2999/universidad/universidad/85
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Channel
-http://serviceinput.online:2999/universidad/universidad/60
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery en Espanol
-http://serviceinput.online:2999/universidad/universidad/567
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Civilization
-http://serviceinput.online:2999/universidad/universidad/111
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Familia
-http://serviceinput.online:2999/universidad/universidad/253
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery H&H
-http://serviceinput.online:2999/universidad/universidad/62
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery ID
-http://serviceinput.online:2999/universidad/universidad/32
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Kids
-http://serviceinput.online:2999/universidad/universidad/43
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Science
-http://serviceinput.online:2999/universidad/universidad/110
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery Theater
-http://serviceinput.online:2999/universidad/universidad/56
-#EXTINF:-1 group-title = "TVSATELITE1", Discovery TLC
-http://serviceinput.online:2999/universidad/universidad/65
-#EXTINF:-1 group-title = "TVSATELITE1", Discovery Turbo
-http://serviceinput.online:2999/universidad/universidad/285
-#EXTINF:-1 group-title = "TVSATELITE1",  Discovery World
-http://serviceinput.online:2999/universidad/universidad/59
-#EXTINF:-1 group-title = "TVSATELITE1",  Disney Channel
-http://serviceinput.online:2999/universidad/universidad/46
-#EXTINF:-1 group-title = "TVSATELITE1",  Disney Junior
-http://serviceinput.online:2999/universidad/universidad/44
-#EXTINF:-1 group-title = "TVSATELITE1",  Disney XD
-http://serviceinput.online:2999/universidad/universidad/51
-#EXTINF:-1 group-title = "TVSATELITE1",  Distrito Comedia
-http://serviceinput.online:2999/universidad/universidad/38
-#EXTINF:-1 group-title = "TVSATELITE1",  E!
-http://serviceinput.online:2999/universidad/universidad/30
-#EXTINF:-1 group-title = "TVSATELITE1",  El Garage
-http://serviceinput.online:2999/universidad/universidad/475
-#EXTINF:-1 group-title = "TVSATELITE1",  El Gourmet
-http://serviceinput.online:2999/universidad/universidad/34
-#EXTINF:-1 group-title = "TVSATELITE1",  ESPN
-http://serviceinput.online:2999/universidad/universidad/97
-#EXTINF:-1 group-title = "TVSATELITE1",  ESPN 2
-http://serviceinput.online:2999/universidad/universidad/98
-#EXTINF:-1 group-title = "TVSATELITE1",  ESPN 3
-http://serviceinput.online:2999/universidad/universidad/91
-#EXTINF:-1 group-title = "TVSATELITE1",  ESPN Deportes
-http://serviceinput.online:2999/universidad/universidad/528
-#EXTINF:-1 group-title = "TVSATELITE1",  ESPN Plus
-http://serviceinput.online:2999/universidad/universidad/90
-#EXTINF:-1 group-title = "TVSATELITE1",  Estrella TV
-http://serviceinput.online:2999/universidad/universidad/418
-#EXTINF:-1 group-title = "TVSATELITE1",  Food Network
-http://serviceinput.online:2999/universidad/universidad/27
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox
-http://serviceinput.online:2999/universidad/universidad/15
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Action
-http://serviceinput.online:2999/universidad/universidad/68
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Cinema
-http://serviceinput.online:2999/universidad/universidad/70
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Classics
-http://serviceinput.online:2999/universidad/universidad/71
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Comedy
-http://serviceinput.online:2999/universidad/universidad/1038
-#EXTINF:-1 group-title = "TVSATELITE1",  Star Fun
-http://serviceinput.online:2999/universidad/universidad/109
-#EXTINF:-1 group-title = "TVSATELITE1"",  Fox Life
-http://serviceinput.online:2999/universidad/universidad/37
-#EXTINF:-1 group-title = "TVSATELITE1",  Star Hits
-http://serviceinput.online:2999/universidad/universidad/69
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Series
-http://serviceinput.online:2999/universidad/universidad/67
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Sports
-http://serviceinput.online:2999/universidad/universidad/92
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Sports 2
-http://serviceinput.online:2999/universidad/universidad/93
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Sports 3
-http://serviceinput.online:2999/universidad/universidad/100
-#EXTINF:-1 group-title = "TVSATELITE1",  Fox Sports Premium
-http://serviceinput.online:2999/universidad/universidad/992
-#EXTINF:-1 group-title = "TVSATELITE1",  FX
-http://serviceinput.online:2999/universidad/universidad/19
-#EXTINF:-1 group-title = "TVSATELITE1",  FXM
-http://serviceinput.online:2999/universidad/universidad/76
-#EXTINF:-1 group-title = "TVSATELITE1",  Gala TV
-http://serviceinput.online:2999/universidad/universidad/7
-#EXTINF:-1 group-title = "TVSATELITE1",  Glitz
-http://serviceinput.online:2999/universidad/universidad/36
-#EXTINF:-1 group-title = "TVSATELITE1",  Gol TV
-http://serviceinput.online:2999/universidad/universidad/293
-#EXTINF:-1 group-title = "TVSATELITE1",  Golden Edge
-http://serviceinput.online:2999/universidad/universidad/84
-#EXTINF:-1 group-title = "TVSATELITE1", Golden Plus
-http://serviceinput.online:2999/universidad/universidad/75
-#EXTINF:-1 group-title = "TVSATELITE1", Golden Premier
-http://serviceinput.online:2999/universidad/universidad/83
-#EXTINF:-1 group-title = "TVSATELITE1",  Golf Channel
-http://serviceinput.online:2999/universidad/universidad/89
-#EXTINF:-1 group-title = "TVSATELITE1",  HBO
-http://serviceinput.online:2999/universidad/universidad/120
-#EXTINF:-1 group-title = "TVSATELITE1",  HBO 2
-http://serviceinput.online:2999/universidad/universidad/121
-#EXTINF:-1 group-title = "TVSATELITE1",  HBO Family
-http://serviceinput.online:2999/universidad/universidad/119
-#EXTINF:-1 group-title = "TVSATELITE1",  HBO Plus
-http://serviceinput.online:2999/universidad/universidad/610
-#EXTINF:-1 group-title = "TVSATELITE1",  HBO PoP
-http://serviceinput.online:2999/universidad/universidad/117
-#EXTINF:-1 group-title = "TVSATELITE1",  HBO Signature
-http://serviceinput.online:2999/universidad/universidad/118
-#EXTINF:-1 group-title = "TVSATELITE1",  HBO Xtreme
-http://serviceinput.online:2999/universidad/universidad/298
-#EXTINF:-1 group-title = "TVSATELITE1",  History 2
-http://serviceinput.online:2999/universidad/universidad/289
-#EXTINF:-1 group-title = "TVSATELITE1",  History Channel
-http://serviceinput.online:2999/universidad/universidad/57
-#EXTINF:-1 group-title = "TVSATELITE1", Lifetime
-http://serviceinput.online:2999/universidad/universidad/64
-#EXTINF:-1 group-title = "TVSATELITE1",  MTV
-http://serviceinput.online:2999/universidad/universidad/620
-#EXTINF:-1 group-title = "TVSATELITE1",  Multimedios
-http://serviceinput.online:2999/universidad/universidad/14
-#EXTINF:-1 group-title = "TVSATELITE1",  Nat Geo Wild
-http://serviceinput.online:2999/universidad/universidad/58
-#EXTINF:-1 group-title = "TVSATELITE1",  Nat Geo Kids
-http://serviceinput.online:2999/universidad/universidad/622
-#EXTINF:-1 group-title = "TVSATELITE1", National Geographic
-http://serviceinput.online:2999/universidad/universidad/63
-#EXTINF:-1 group-title = "TVSATELITE1",  Nick
-http://serviceinput.online:2999/universidad/universidad/48
-#EXTINF:-1 group-title = "TVSATELITE1",  Nick Jr
-http://serviceinput.online:2999/universidad/universidad/45
-#EXTINF:-1 group-title = "TVSATELITE1",  Nicktoons
-http://serviceinput.online:2999/universidad/universidad/47
-#EXTINF:-1 group-title = "TVSATELITE1",  Paramount
-http://serviceinput.online:2999/universidad/universidad/1166
-#EXTINF:-1 group-title = "TVSATELITE1",  Pasiones
-http://serviceinput.online:2999/universidad/universidad/305
-#EXTINF:-1 group-title = "TVSATELITE1",  RCN
-http://serviceinput.online:2999/universidad/universidad/302
-#EXTINF:-1 group-title = "TVSATELITE1",  Showtime
-http://serviceinput.online:2999/universidad/universidad/652
-#EXTINF:-1 group-title = "TVSATELITE1",  Sony
-http://serviceinput.online:2999/universidad/universidad/16
-#EXTINF:-1 group-title = "TVSATELITE1",  Space
-http://serviceinput.online:2999/universidad/universidad/79
-#EXTINF:-1 group-title = "TVSATELITE1",  Starz Encore
-http://serviceinput.online:2999/universidad/universidad/651
-#EXTINF:-1 group-title = "TVSATELITE1",  Starz Kids & Family
-http://serviceinput.online:2999/universidad/universidad/1047
-#EXTINF:-1 group-title = "TVSATELITE1",  Studio Universal
-http://serviceinput.online:2999/universidad/universidad/86
-#EXTINF:-1 group-title = "TVSATELITE1",  SyFy
-http://serviceinput.online:2999/universidad/universidad/31
-#EXTINF:-1 group-title = "TVSATELITE1", TBS
-http://serviceinput.online:2999/universidad/universidad/39
-#EXTINF:-1 group-title = "TVSATELITE1",  TCM
-http://serviceinput.online:2999/universidad/universidad/88
-#EXTINF:-1 group-title = "TVSATELITE1",  Telehit Plus
-http://serviceinput.online:2999/universidad/universidad/422
-#EXTINF:-1 group-title = "TVSATELITE1",  Telemundo Int
-http://serviceinput.online:2999/universidad/universidad/54
-#EXTINF:-1 group-title = "TVSATELITE1",  TLnovelas
-http://serviceinput.online:2999/universidad/universidad/40
-#EXTINF:-1 group-title = "TVSATELITE1",  TNT
-http://serviceinput.online:2999/universidad/universidad/74
-#EXTINF:-1 group-title = "TVSATELITE1",  TNT Series
-http://serviceinput.online:2999/universidad/universidad/33
-#EXTINF:-1 group-title = "TVSATELITE1",  Tooncast
-http://serviceinput.online:2999/universidad/universidad/55
-#EXTINF:-1 group-title = "TVSATELITE1",  TruTV
-http://serviceinput.online:2999/universidad/universidad/22
-#EXTINF:-1 group-title = "TVSATELITE1",  TVC
-http://serviceinput.online:2999/universidad/universidad/28
-#EXTINF:-1 group-title = "TVSATELITE1",  TVC Deportes
-http://serviceinput.online:2999/universidad/universidad/306
-#EXTINF:-1 group-title = "TVSATELITE1",  TyC Sports
-http://serviceinput.online:2999/universidad/universidad/288
-#EXTINF:-1 group-title = "TVSATELITE1",  Unicable
-http://serviceinput.online:2999/universidad/universidad/24
-#EXTINF:-1 group-title = "TVSATELITE1",  Unimas
-http://serviceinput.online:2999/universidad/universidad/286
-#EXTINF:-1 group-title = "TVSATELITE1",  Universal Channel
-http://serviceinput.online:2999/universidad/universidad/18
-#EXTINF:-1 group-title = "TVSATELITE1",  VH1
-http://serviceinput.online:2999/universidad/universidad/625
-#EXTINF:-1 group-title = "TVSATELITE1",  VH1 Classics
-http://serviceinput.online:2999/universidad/universidad/624
-#EXTINF:-1 group-title = "TVSATELITE1",  Warner
-http://serviceinput.online:2999/universidad/universidad/17
-#EXTINF:-1 group-title = "TVSATELITE1",  Win Sports
-http://serviceinput.online:2999/universidad/universidad/297
-#EXTINF:-1 group-title = "TVSATELITE1",  Caza y Pezca
-http://serviceinput.online:2999/universidad/universidad/1228
-#EXTINF:-1 group-title = "TVSATELITE1",  America TV
-http://serviceinput.online:2999/universidad/universidad/1237
-#EXTINF:-1 group-title = "TVSATELITE1",  Caracol Int
-http://serviceinput.online:2999/universidad/universidad/1243
-#EXTINF:-1 group-title = "TVSATELITE1",  Gol TV (Peru)
-http://serviceinput.online:2999/universidad/universidad/1262
-#EXTINF:-1 group-title = "TVSATELITE1",  Adrenalina Sports Network
-http://serviceinput.online:2999/universidad/universidad/1301
-#EXTINF:-1 group-title = "TVSATELITE1",  Win Sports +
-http://serviceinput.online:2999/universidad/universidad/1417
-#EXTINF:-1 group-title = "TVSATELITE1",  HGTV
-http://serviceinput.online:2999/universidad/universidad/1425
-#EXTINF:-1 group-title = "TVSATELITE1", Mega TV
-http://serviceinput.online:2999/universidad/universidad/124
-#EXTINF:-1 group-title = "TVSATELITE1",  Punto 2
-http://serviceinput.online:2999/universidad/universidad/262
-#EXTINF:-1 group-title = "TVSATELITE1",  Telemundo
-http://serviceinput.online:2999/universidad/universidad/125
-#EXTINF:-1 group-title = "TVSATELITE1",  WAPA
-http://serviceinput.online:2999/universidad/universidad/127
-#EXTINF:-1 group-title = "TVSATELITE1",  WAPA 2
-http://serviceinput.online:2999/universidad/universidad/128
-#EXTINF:-1 group-title = "TVSATELITE1", WIPR
-http://serviceinput.online:2999/universidad/universidad/653
-#EXTINF:-1 group-title = "TVSATELITE1",  TeleOnce
-http://serviceinput.online:2999/universidad/universidad/126
-#EXTINF:-1 group-title = "TVSATELITE1",  La X 100.7 FM 
-http://serviceinput.online:2999/universidad/universidad/1268
-#EXTINF:-1 group-title = "TVSATELITE1",  WAPA SD
-http://serviceinput.online:2999/universidad/universidad/1334
+#EXTINF : -1 group-title = "TVSATELITE1",24 Horas
+http://186.101.216.211:8000/play/a0e8
+#EXTINF : -1 group-title = "TVSATELITE1", A & E
+http://186.101.216.211:8000/play/a0dr
+#EXTINF : -1 group-title = "TVSATELITE1", AE Mundo 
+http://186.101.216.211:8000/play/a02p
+#EXTINF : -1 group-title = "TVSATELITE1", SERIE ATRES
+http://186.101.216.211:8000/play/a0dv
+#EXTINF : -1 group-title = "TVSATELITE1", ATV 
+http://186.101.216.211:8000/play/a073
+#EXTINF : -1 group-title = "TVSATELITE1", AXN
+http://186.101.216.211:8000/play/a0cm
+#EXTINF : -1 group-title = "TVSATELITE1", America TV AR Conax
+http://186.101.216.211:8000/play/a079
+#EXTINF : -1 group-title = "TVSATELITE1", AmericaTV P
+http://186.101.216.211:8000/play/a071
+#EXTINF : -1 group-title = "TVSATELITE1", Animal Planet 
+http://186.101.216.211:8000/play/a02g
+#EXTINF : -1 group-title = "TVSATELITE1", BBC World
+http://186.101.216.211:8000/play/a0dj
+#EXTINF : -1 group-title = "TVSATELITE1", Baby TV
+http://186.101.216.211:8000/play/a0dc
+#EXTINF : -1 group-title = "TVSATELITE1", C9N
+http://186.101.216.211:8000/play/a097
+#EXTINF : -1 group-title = "TVSATELITE1", CHV
+http://186.101.216.211:8000/ play / a0eb
+#EXTINF : -1 group-title = "TVSATELITE1", CMD Na
+http://186.101.216.211:8000/play/a0am
+#EXTINF : -1 group-title = "TVSATELITE1", CNN Chile
+http://186.101.216.211:8000/play/a0ec
+#EXTINF : -1 group-title = "TVSATELITE1", CNN Español co
+http://186.101.216.211:8000/play/a01u
+#EXTINF : -1 group-title = "TVSATELITE1", CNN International
+http://186.101.216.211:8000/play/a0dk
+#EXTINF : -1 group-title = "TVSATELITE1", Canal Caracol
+http: // 186.101.216.211:8000/play/a08z
+#EXTINF : -1 group-title = "TVSATELITE1", Canal Claro 
+http://186.101.216.211:8000/play/a08e
+#EXTINF: -1 group-title = "TVSATELITE1", Canal Institucional
+http://186.101.216.211:8000/play/a093
+#EXTINF : -1 tvg-id = "" CANAL N (Canal N) "" group-title = "TVSATELITE1", Canal N Na
+http://186.101.216.211: 8000 / play / a05i
+#EXTINF : -1 group-title = "TVSATELITE1", Canal RCN
+http://186.101.216.211:8000/play/a09k
+#EXTINF : -1 group-title = "TVSATELITE1", Canal de Las estrellas
+http://186.101.216.211:8000/play/a02y
+#EXTINF : -1 group-title = "TVSATELITE1", Cartoon Network 
+http://186.101.216.211:8000/play/a06o
+#EXTINF: -1 group-title = "TVSATELITE1", Cinecanal 
+http://186.101.216.211:8000/play/a06e
+#EXTINF : -1 group-title = "TVSATELITE1", Cinemax
+http://186.101.216.211:8000/play/a0ck
+#EXTINF : -1 group-title = "TVSATELITE1", City TV
+http: / /186.101.216.211:8000/play/a09e
+#EXTINF : -1 group-title = "TVSATELITE1", Claro Cinema
+http://186.101.216.211:8000/play/a0cv
+#EXTINF : -1 group-title = "TVSATELITE1", Claro Sports
+http://186.101.216.211:8000/play / a06q
+#EXTINF : -1 group-title = "TVSATELITE1", Rock clásico
+http://186.101.216.211:8000/play/a02u
+#EXTINF : -1 group-title = "TVSATELITE1", RockRoll clásico
+http://186.101.216.211:8000/play/a03q
+#EXTINF : -1 group-title = "TVSATELITE1", Directv
+http://186.101.216.211:8000/play/dtsp
+#EXTINF : -1 group-title = "TVSATELITE1", Discovery Channel
+http://186.101.216.211:8000/play/a02f
+#EXTINF : -1 group-title = "TVSATELITE1", Discovery ID
+http://186.101.216.211:8000/play/a07s
+#EXTINF : -1 group-title = "TVSATELITE1", Discovery Kids 
+http://186.101.216.211:8000/play/a01t
+#EXTINF : -1 group-title = "TVSATELITE1", Discovery Turbo
+http://186.101.216.211:8000/play/a0cx
+# EXTINF : -1 group-title = "TVSATELITE1", Disney Channel 
+http://186.101.216.211:8000/play/a02e
+#EXTINF : -1 group-title = "TVSATELITE1", Disney Junior
+http://186.101.216.211:8000/play/a02a
+#EXTINF : -1 group-title = "TVSATELITE1", Disney 
+http : //186.101.216.211: 8000 / play / a06b
+#EXTINF : -1 group-title = "TVSATELITE1", E¡ Entertainment
+http://186.101.216.211:8000/play/a02i
+#EXTINF : -1 group-title = "TVSATELITE1", ESPN 2
+http://186.101.216.211:8000/play/a02k
+#EXTINF : -1 group-title = "TVSATELITE1", ESPN 3 
+http://186.101.216.211:8000/play/a0cz
+#EXTINF : -1 group-title = "TVSATELITE1", ESPN 
+http://186.101.216.211:8000/play/a02l
+#EXTINF : -1 group-title = "TVSATELITE1", ESPN MOV
+http://186.101.216.211:8000/play/espn
+#EXTINF : -1 group-title = "TVSATELITE1", ESPN
+http://186.101.216.211:8000/play/a0e4
+#EXTINF : -1 group-title = "TVSATELITE1", ESPN
+http://186.101.216.211:8000/play/a0e3
+#EXTINF : -1 group-title = "TVSATELITE1", ETC TV
+http: //186.101.216.211:8000/play/etct
+#EXTINF : -1 group-title = "TVSATELITE1", El Trece 
+http://186.101.216.211:8000/play/a0aj
+#EXTINF : -1 group-title = "TVSATELITE1", Eurochannel
+http://186.101.216.211:8000/play/a0dl
+#EXTINF : -1 group-title = "TVSATELITE1", FOX SPORT 
+http://186.101.216.211:8000/play/foxm
+#EXTINF : -1 group-title = "TVSATELITE1", FX
+http://186.101.216.211:8000/play/a0co
+#EXTINF: -1 group-title = "TVSATELITE1", FX Movies
+http://186.101.216.211:8000/play/a0ea
+#EXTINF : -1 group-title = "TVSATELITE1", Fox Sport Chile
+http://186.101.216.211:8000/play/fosc
+#EXTINF : -1 group-title = "TVSATELITE1", Fox Sports 1
+http://186.101.216.211:8000/play/a08m
+#EXTINF : -1 group-title = "TVSATELITE1", Fox Sports 2 
+http://186.101.216.211:8000/play/a02z
+#EXTINF : -1 group-title = "TVSATELITE1", Fox Sports 3
+http: // 186.101.216.211:8000/play/a0dq
+#EXTINF : -1 group-title = "TVSATELITE1", Fox Sports 3 
+http://186.101.216.211:8000/play/a030
+#EXTINF : -1 group-title = "TVSATELITE1", Fox Sports 
+http://186.101.216.211:8000 / play / a02j
+#EXTINF : -1 group-title = "TVSATELITE1", Francia 24
+http://186.101.216.211:8000/play/a08d
+#EXTINF : -1 group-title = "TVSATELITE1", GLOBAL
+http://186.101.216.211:8000/play/a0a1
+#EXTINF : -1 group-title = "TVSATELITE1", GOL TV 
+http://186.101.216.211:8000/play/a02m
+#EXTINF : -1 group-title = "TVSATELITE1", GOLPERU
+http://186.101.216.211: 8000 / play / a0d6
+#EXTINF : -1 group-title = "TVSATELITE1", GOLTVEC 
+http://186.101.216.211:8000/play/a032
+#EXTINF : -1 group-title = "TVSATELITE1", Gol TV
+http://186.101.216.211:8000/play/a0dp
+#EXTINF : -1 group-title = "TVSATELITE1", HBO family
+http://186.101.216.211:8000/play/a0dw
+#EXTINF : -1 group-title = "TVSATELITE1", HBO
+http: / /186.101.216.211:8000/play/a0ad
+#EXTINF : -1 group-title = "TVSATELITE1", HBO POP
+http://186.101.216.211:8000/play/a0e2
+#EXTINF : -1 group-title = "TVSATELITE1", HBO Plus
+http://186.101.216.211:8000/play/a0dy
+#EXTINF : -1 group-title = "TVSATELITE1", HBO Plus west
+http://186.101.216.211:8000/play/a0e0
+#EXTINF : -1 group-title = "TVSATELITE1", HBO Signature
+http://186.101.216.211:8000/play/a0dz
+#EXTINF : -1 group-title = "TVSATELITE1", HBO XTREME
+http://186.101.216.211:8000/play/a0dx
+#EXTINF : -1 group-title = "TVSATELITE1", HBO2 
+http://186.101.216.211:8000/play/a0ae
+#EXTINF : -1 group-title = "TVSATELITE1", History Channel
+http://186.101.216.211:8000/play/a06d
+#EXTINF : -1 group-title = "TVSATELITE1", Home and health
+http://186.101.216.211:8000/play/a08g
+#EXTINF : -1 group-title = "TVSATELITE1", I- Sáb
+http://186.101.216.211:8000/play/a06g
+#EXTINF : -1 group-title = "TVSATELITE1", La Red
+http://186.101.216.211:8000/play/a01v
+#EXTINF: -1 group-title = "TVSATELITE1", La Tele 
+http://186.101.216.211:8000/play/a074
+#EXTINF : -1 group-title = "TVSATELITE1", Latina
+http://186.101.216.211:8000/play/a0ef
+#EXTINF : -1 group-title = "TVSATELITE1", Me encanta la música
+http: //186.101.216.211:8000/play/a02t
+#EXTINF : -1 group-title = "TVSATELITE1", MTV
+http://186.101.216.211:8000/play/a0dh
+#EXTINF : -1 group-title = "TVSATELITE1", Mega
+http://186.101.216.211:8000/play/ a01x
+#EXTINF : -1 group-title = "TVSATELITE1", Mis Peliculas
+http://186.101.216.211:8000/play/a069
+#EXTINF : -1 group-title = "TVSATELITE1", Mis Peliculas
+http://186.101.216.211:8000/play/a0aq
+#EXTINF : -1 group-title = "TVSATELITE1", Movistar Plus
+http://186.101.216.211:8000/play/a0eg
+#EXTINF : -1 group-title = "TVSATELITE1", NPY
+http://186.101.216.211:8000/play/a099
+#EXTINF : -1 group-title = "TVSATELITE1", Nat Geo 
+http://186.101.216.211:8000/play/a06c
+#EXTINF : -1 group-title = "TVSATELITE1", NatGeo Kids
+http://186.101.216.211:8000/play/a0e6
+#EXTINF : -1 group-title = "TVSATELITE1", Nick Junior 
+http://186.101.216.211:8000/play/a0ai
+#EXTINF : -1 group-title = "TVSATELITE1", Nickelodeon
+http://186.101.216.211:8000/play/a06a
+#EXTINF : -1 group-title = "TVSATELITE1", Oglobo
+http://186.101.216.211:8000/play/a08u
+#EXTINF : -1 group-title = "TVSATELITE1", Panamericana TV Conax
+http://186.101.216.211:8000/play/a072
+#EXTINF : -1 group-title = "TVSATELITE1", Paraguay TV
+http://186.101.216.211:8000/play/a08t
+#EXTINF : -1 group-title = "TVSATELITE1", Paravisión
+http://186.101.216.211:8000/play/a03d
+#EXTINF : -1 group-title = "TVSATELITE1", Peru Magico 
+http://186.101.216.211:8000/play/a0a8
+#EXTINF : -1 group-title = "TVSATELITE1", RAI
+http://186.101.216.211:8000/play/a0dm
+#EXTINF : -1 group-title = "TVSATELITE1", RCN Novelas 
+http://186.101.216.211:8000/play/a08b
+#EXTINF : -1 group-title = "TVSATELITE1", RTS
+http://186.101.216.211:8000/play/a0ee
+#EXTINF : -1 group-title = "TVSATELITE1", fox premium ACTION
+http://186.101.216.211:8000/play/a0af
+#EXTINF : -1 group-title = "TVSATELITE1", fox CHANNEL
+http: / /186.101.216.211:8000/play/a06l
+#EXTINF : -1 group-title = "TVSATELITE1", fox premium CINEMA Na
+http://186.101.216.211:8000/play/a0ag
+#EXTINF: -1 group-title = "TVSATELITE1", fox COMEDY
+http://186.101.216.211:8000/play/a0ah
+#EXTINF : -1 group-title = "TVSATELITE1", fox HITS
+http://186.101.216.211:8000/play/a0e7
+#EXTINF : -1 group-title = "TVSATELITE1", fox LIFE 
+http://186.101.216.211:8000/play/a06j
+#EXTINF : -1 group-title = "TVSATELITE1", Sin Limites 
+http://186.101.216.211 : 8000 / play / a08p
+#EXTINF : -1 group-title = "TVSATELITE1", Sony
+http://186.101.216.211:8000/play/a0cl
+#EXTINF : -1 group-title = "TVSATELITE1", space
+http://186.101.216.211:8000/play/a0d5
+#EXTINF : - 1 group-title = "TVSATELITE1", Sun Channel
+http://186.101.216.211:8000/play/a0dg
+#EXTINF : -1 group-title = "TVSATELITE1", Sur TV
+http://186.101.216.211:8000/play/a03h
+#EXTINF : -1 group-title = "TVSATELITE1", Sinfónico
+http://186.101.216.211:8000/play/a02r
+#EXTINF : -1 group-title = "TVSATELITE1", TBS 
+http://186.101.216.211:8000/play/a08f
+#EXTINF : -1 group-title = "TVSATELITE1", TCM
+http://186.101.216.211:8000 / play / a0e9
+#EXTINF : -1 group-title = "TVSATELITE1", TLC Co
+http://186.101.216.211:8000/play/a02x
+#EXTINF : -1 group-title = "TVSATELITE1", TNT Co
+http://186.101.216.211:8000/play/a06p
+#EXTINF : -1 group-title = "TVSATELITE1", TNT SPORTS 2
+http://186.101.216.211:8000/play/a021
+#EXTINF : -1 group-title = "TVSATELITE1", TNT SPORTS 3
+http://186.101.216.211:8000/play/a02o
+#EXTINF : -1 group-title = "TVSATELITE1", TNTseries
+http://186.101.216.211:8000/play/a0du
+#EXTINF : -1 group-title = "TVSATELITE1", TRO
+http://186.101.216.211:8000/play/a09c
+#EXTINF : -1 group-title = "TVSATELITE1", CÁMARA DE TV
+http://186.101.216.211:8000/play/a0d4
+#EXTINF : -1 group-title = "TVSATELITE1", TV PERÚ
+http://186.101.216.211: 8000 / play / a09y
+#EXTINF : - 1 group-title = "TVSATELITE1", Teleantioquia
+http://186.101.216.211:8000/play/a0cp
+#EXTINF : -1 group-title = "TVSATELITE1", Telecafe
+http://186.101.216.211:8000/play/a0d2
+#EXTINF : -1 group-title = "TVSATELITE1", Telecaribe
+http://186.101.216.211:8000/play/a0d0
+#EXTINF : -1 group-title = "TVSATELITE1", Telefe
+http://186.101.216.211:8000/ play / a0ct
+#EXTINF : -1 group-title = "TVSATELITE1", Telefuturo
+http://186.101.216.211:8000/play/a06s
+#EXTINF : -1 group-title = "TVSATELITE1", Teleislas
+http://186.101.216.211:8000/play/a03k
+#EXTINF : -1 group-title = "TVSATELITE1", Telemundo1
+http://186.101.216.211:8000/play/a0a4
+#EXTINF : -1 group-title = "TVSATELITE1", Telepacifico
+http://186.101.216.211:8000/play/a0cr
+#EXTINF : -1 group-title = "TVSATELITE1", Telesur
+http://186.101.216.211:8000/ play / a0do
+#EXTINF : -1 group-title = "TVSATELITE1", Tooncast
+http://186.101.216.211:8000/play/a0dd
+#EXTINF: -1 group-title = "TVSATELITE1", Travel and Living Channel
+http://186.101.216.211:8000/play/a0df
+#EXTINF : -1 group-title = "TVSATELITE1", Trece
+http://186.101.216.211:8000/play/a0d3
+#EXTINF : -1 group-title = "TVSATELITE1", Tru TV
+http://186.101.216.211:8000/play/a0ds
+#EXTINF : -1 group-title = "TVSATELITE1", TyC Sports Na
+http://186.101.216.211:8000/play/a0al
+#EXTINF : -1 group-title = "TVSATELITE1", Unicanal
+http://186.101.216.211:8000 / play / a0cu
+#EXTINF : -1 group-title = "TVSATELITE1", Universal 
+http://186.101.216.211:8000/play/a06f
+#EXTINF : -1 group-title = "TVSATELITE1", Venevision Plus 
+http://186.101.216.211:8000/play/a0a3
+#EXTINF : -1 group-title = "TVSATELITE1", WOBI Na
+http://186.101.216.211:8000/play/a0ak
+#EXTINF : -1 tvg-id = "Canal Warner TV (México)", Warner Co
+http://186.101.216.211:8000/play/a02h
+#EXTINF : - 1 group-title = "TVSATELITE1", Win
+http://186.101.216.211:8000/play/a0cq
+#EXTINF : -1 group-title = "TVSATELITE1", Win Sport +
+http://186.101.216.211:8000/play/g07j
+#EXTINF : -1 group-title = "TVSATELITE1", Zona Latina co
+http: // 186.101.216.211:8000/play/a06i
+#EXTINF : -1 tvg-id = "Canal ZOOM (Colombia)" group-title = "TVSATELITE1", Zoom
+http://186.101.216.211:8000/play/a09b
 
 -------------------------------------------------------------------
 
-
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 039 www.achoAPPS.com
-http://static.brazzers.com/scenes/3485/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 040 www.achoAPPS.com
-http://static.brazzers.com/scenes/3389/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 041 www.achoAPPS.com
-http://static.brazzers.com/scenes/3390/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 042 www.achoAPPS.com
-http://static.brazzers.com/scenes/3391/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 043 www.achoAPPS.com
-http://static.brazzers.com/scenes/3392/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 044 www.achoAPPS.com
-http://static.brazzers.com/scenes/3393/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS" , ADULTBrazzers - VOD 045 www.achoAPPS.com
-http://static.brazzers.com/scenes/3394/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 046 www.achoAPPS.com
-http://static.brazzers.com/scenes/3395/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS" , ADULTBrazzers - VOD 047 www.achoAPPS.com
-http://static.brazzers.com/scenes/3396/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 048 www.achoAPPS.com
-http://static.brazzers.com/scenes/3397/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 049 www.achoAPPS.com
-http://static.brazzers.com/scenes/3398/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 050 www.achoAPPS.com
-http://static.brazzers.com/scenes/3483/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTBrazzers - VOD 051 www.achoAPPS.com
-http://static.brazzers.com/scenes/3400/180sec.flv
-#EXTINF: -1 group-title = "ADULTOS", ADULTOther - Diecisiete Video 01 www.achoAPPS.com
-http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
-
-
-
+#EXTINF : -1 group-title = "ADULTOS", Venus
+http://186.101.216.211:8000/play/a02q
+#EXTINF : -1 group-title = "ADULTOS", Playboy
+http://186.101.216.211:8000/play/a070
+# EXTINF : -1 group-title = "ADULTOS, SEXTREM
+http://200.115.190.213:8000/play/5NF6H3EAyctLSrEz/index.m3u8
+#EXTINF : -1 group-title = "ADULTOS", VENUS
+http://190.92.40.234:8000/play/a0ex/index.m3u8
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/0tdx46y/18.png" group-title = "ADULTOS", Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/0tdx46y/18.png" group-title = "ADULTOS", punto de vista
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/0tdx46y/18.png" group-title = "ADULTOS", Mamadas
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/0tdx46y/18.png" group-title = "ADULTOS", Adolescente
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/0tdx46y/18.png" group-title = "ADULTOS", Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/0tdx46y/18.png" group-title = "ADULTOS", Cornudo
+http://live.redtraffic.xyz/cuckold.m3u8
 ----------------------------------------------------------------
 
 #EXTINF:-1 group-title = "TVSATELITE3", A&E Mundo
