@@ -1225,180 +1225,85 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007f
 
 ...................................................................................................
 
+#EXTINF:-1 group-title="TVSATELITE2",AZMUNDO
+https://blackghost.live/play/codeplus1-601.php?c=a01n
+#EXTINF:-1 group-title="TVSATELITE2",Azteca 1
+https://blackghost.live/play/codeplus1-601.php?c=a00f
+#EXTINF:-1 group-title="TVSATELITE2",Canal E
+https://blackghost.live/play/codeplus1-601.php?c=a01t
+#EXTINF:-1 group-title="TVSATELITE2",Canal de las estrellas
+https://blackghost.live/play/codeplus1-601.php?c=a01g
+#EXTINF:-1 group-title="TVSATELITE2",Cinecanal
+https://blackghost.live/play/codeplus1-601.php?c=a00r
+#EXTINF:-1 group-title="TVSATELITE2",DISNEY JR
+https://blackghost.live/play/codeplus1-601.php?c=a01i
+#EXTINF:-1 group-title="TVSATELITE2",Discovery Channel
+https://blackghost.live/play/codeplus1-601.php?c=a008
+#EXTINF:-1 group-title="TVSATELITE2",Discovery Civilization
+https://blackghost.live/play/codeplus1-601.php?c=a01f
+#EXTINF:-1 group-title="TVSATELITE2",Discovery HH
+https://blackghost.live/play/codeplus1-601.php?c=a002
+#EXTINF:-1 group-title="TVSATELITE2",Distrito Comedia
+https://blackghost.live/play/codeplus1-601.php?c=a01m
+#EXTINF:-1 group-title="TVSATELITE2",ESPN +
+https://blackghost.live/play/codeplus1-601.php?c=a00bb
+#EXTINF:-1 group-title="TVSATELITE2",ESPN 2 HD
+https://blackghost.live/play/codeplus1-601.php?c=a00c
+#EXTINF:-1 group-title="TVSATELITE2",ESPN 3 HD
+https://blackghost.live/play/codeplus1-601.php?c=a00v
+#EXTINF:-1 group-title="TVSATELITE2",ESPN DEPORTES
+https://blackghost.live/play/codeplus1-601.php?c=a02g
+#EXTINF:-1 group-title="TVSATELITE2",ESPN HD eth1
+https://blackghost.live/play/codeplus1-601.php?c=a00b
+#EXTINF:-1 group-title="TVSATELITE2",EWNTV
+https://blackghost.live/play/codeplus1-601.php?c=a00y
+#EXTINF:-1 group-title="TVSATELITE2",FOX FAMILy
+https://blackghost.live/play/codeplus1-601.php?c=a026
+#EXTINF:-1 group-title="TVSATELITE2",FX
+https://blackghost.live/play/codeplus1-601.php?c=a029
+#EXTINF:-1 group-title="TVSATELITE2",FoodNetwork ether1
+https://blackghost.live/play/codeplus1-601.php?c=a01p
+#EXTINF:-1 group-title="TVSATELITE2",Fox Cinema
+https://blackghost.live/play/codeplus1-601.php?c=a028
+#EXTINF:-1 group-title="TVSATELITE2",Fox MX HD
+https://blackghost.live/play/codeplus1-601.php?c=a02b
+#EXTINF:-1 group-title="TVSATELITE2",Fox Movies
+https://blackghost.live/play/codeplus1-601.php?c=a027
+#EXTINF:-1 group-title="TVSATELITE2",Fox Sports 2
+https://blackghost.live/play/codeplus1-601.php?c=a00h
+#EXTINF:-1 group-title="TVSATELITE2",Fox Sports 3
+https://blackghost.live/play/codeplus1-601.php?c=a00j
+#EXTINF:-1 group-title="TVSATELITE2",Glizt
+https://blackghost.live/play/codeplus1-601.php?c=a011
+#EXTINF:-1 group-title="TVSATELITE2",HBO PLUS HD
+https://blackghost.live/play/codeplus1-601.php?c=a01b
+#EXTINF:-1 group-title="TVSATELITE2",HBO Plus
+https://blackghost.live/play/codeplus1-601.php?c=a02e
+#EXTINF:-1 group-title="TVSATELITE2",HTV
+https://blackghost.live/play/codeplus1-601.php?c=a01j
+#EXTINF:-1 group-title="TVSATELITE2",LifeTime
+https://blackghost.live/play/codeplus1-601.php?c=a025
+#EXTINF:-1 group-title="TVSATELITE2",Natgeo
+https://blackghost.live/play/codeplus1-601.php?c=a015
+#EXTINF:-1 group-title="TVSATELITE2",Paramount
+https://blackghost.live/play/codeplus1-601.php?c=a02d
+#EXTINF:-1 group-title="TVSATELITE2",Rai Italia
+https://blackghost.live/play/codeplus1-601.php?c=a00u
+#EXTINF:-1 group-title="TVSATELITE2",SONYHD
+https://blackghost.live/play/codeplus1-601.php?c=a01o
+#EXTINF:-1 group-title="TVSATELITE2",TLNOVELAS
+https://blackghost.live/play/codeplus1-601.php?c=a02h
+#EXTINF:-1 group-title="TVSATELITE2",TUDN
+https://blackghost.live/play/codeplus1-601.php?c=a00k
+#EXTINF:-1 group-title="TVSATELITE2",TVE
+https://blackghost.live/play/codeplus1-601.php?c=a00x
+#EXTINF:-1 group-title="TVSATELITE2",Unan
+https://blackghost.live/play/codeplus1-601.php?c=a010
+#EXTINF:-1 group-title="TVSATELITE2",Unicable
+https://blackghost.live/play/codeplus1-601.php?c=a01h
+#EXTINF:-1 group-title="TVSATELITE2",VH1 HD
+https://blackghost.live/play/codeplus1-601.php?c=a02i
 
-#EXTINF:-1  group-title="TVSATELITE2", A&e
-https://blackghost.live/play/teleclub-522.php?c=la-ae-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Amc
-https://blackghost.live/play/teleclub-522.php?c=la-AMC&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Animal-Planet
-https://blackghost.live/play/teleclub-522.php?c=la-animal-planet-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Aztecauno
-https://blackghost.live/play/teleclub-522.php?c=aztecauno&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Bitme
-https://blackghost.live/play/teleclub-522.php?c=bitme&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Bloomberg
-https://blackghost.live/play/teleclub-522.php?c=bloomberg&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Boomerang
-https://blackghost.live/play/teleclub-522.php?c=la-boomerang-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Canal 5
-https://blackghost.live/play/teleclub-522.php?c=CANAL-5&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Canal De Las Estrellas 
-https://blackghost.live/play/teleclub-522.php?c=Canal-de-las-Estrellas-HD&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Cartoon-Network
-https://blackghost.live/play/teleclub-522.php?c=la-cartoon-network-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Cinemax
-https://blackghost.live/play/teleclub-522.php?c=la-cinemax&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Comedy-Central
-https://blackghost.live/play/teleclub-522.php?c=la-comedy-central-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-Channel
-https://blackghost.live/play/teleclub-522.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-Civilization
-https://blackghost.live/play/teleclub-522.php?c=la-discovery-civilization&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-Home-Health
-https://blackghost.live/play/teleclub-522.php?c=la-discovery-home-health&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-Id
-https://blackghost.live/play/teleclub-522.php?c=new-discovery-id&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-Kids
-https://blackghost.live/play/teleclub-522.php?c=la-discovery-kids-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-Science
-https://blackghost.live/play/teleclub-522.php?c=DISCOVERY-SCIENCE&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-Theater
-https://blackghost.live/play/teleclub-522.php?c=DISCOVERY-THEATER-HD&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-Tlc
-https://blackghost.live/play/teleclub-522.php?c=la-discovery-tlc&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Discovery-World
-https://blackghost.live/play/teleclub-522.php?c=DISCOVERY-WORLD-HD&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Disney-Channel
-https://blackghost.live/play/teleclub-522.php?c=la-disney-channel-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Disney-Junior
-https://blackghost.live/play/teleclub-522.php?c=la-disney-junior&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Disney-Xd
-https://blackghost.live/play/teleclub-522.php?c=la-disney-xd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", E!-Entertainment
-https://blackghost.live/play/teleclub-522.php?c=la-e-entertainment-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", El-Gourmet
-https://blackghost.live/play/teleclub-522.php?c=la-el-gourmet&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Food-Network
-https://blackghost.live/play/teleclub-522.php?c=la-food-network-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Foxchannel
-https://blackghost.live/play/teleclub-522.php?c=foxchannel/index.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Fox-Cinema
-https://blackghost.live/play/teleclub-522.php?c=la-fox-cinema-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Fox-Classics
-https://blackghost.live/play/teleclub-522.php?c=la-fox-classics&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Fox-Comedy
-https://blackghost.live/play/teleclub-522.php?c=la-fox-comedy-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Fox-Family
-https://blackghost.live/play/teleclub-522.php?c=la-fox-family-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Fox-Life
-https://blackghost.live/play/teleclub-522.php?c=la-fox-life-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Fox-Movies
-https://blackghost.live/play/teleclub-522.php?c=Fox-Movies-HD&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Fox-Series
-https://blackghost.live/play/teleclub-522.php?c=FOX-SERIES&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Fx
-https://blackghost.live/play/teleclub-522.php?c=la-fx-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Golden
-https://blackghost.live/play/teleclub-522.php?c=GOLDEN-HD&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Hbo-2
-https://blackghost.live/play/teleclub-522.php?c=la-HBO-2&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Hbo-Signature
-https://blackghost.live/play/teleclub-522.php?c=HBO-SIGNATURE-HD&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", History-Channel
-https://blackghost.live/play/teleclub-522.php?c=la-history-channel-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Lifetime
-https://blackghost.live/play/teleclub-522.php?c=la-lifetime-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Max-Prime
-https://blackghost.live/play/teleclub-522.php?c=MAX-PRIME-HD&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Mtv
-https://blackghost.live/play/teleclub-522.php?c=la-mtv-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Multimedios 
-https://blackghost.live/play/teleclub-522.php?c=multimediossd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Nat-Geo-Kids
-https://blackghost.live/play/teleclub-522.php?c=la-nat-geo-kids-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Nat-Geo-Wild
-https://blackghost.live/play/teleclub-522.php?c=la-nat-geo-wild-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Nick-2
-https://blackghost.live/play/teleclub-522.php?c=la-nick-2-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2",Nick-Junior
-https://blackghost.live/play/teleclub-522.php?c=nick-jr&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Nicktoons
-https://blackghost.live/play/teleclub-522.php?c=la-nicktoons&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Paramount-Channel
-https://blackghost.live/play/teleclub-522.php?c=la-paramount-channel-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Sony
-https://blackghost.live/play/teleclub-522.php?c=la-sony-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Space
-https://blackghost.live/play/teleclub-522.php?c=la-space-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Telenovelas
-https://blackghost.live/play/teleclub-522.php?c=la-telenovelas&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Tnt-Series
-https://blackghost.live/play/teleclub-522.php?c=la-tnt-series-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Tooncast
-https://blackghost.live/play/teleclub-522.php?c=la-tooncast-hd&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Unicable
-https://blackghost.live/play/teleclub-522.php?c=la-unicable&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Universal-Channel
-https://blackghost.live/play/teleclub-522.php?c=la-universal-channel&f=.m3u8
-
-#EXTINF:-1   group-title="TVSATELITE2", Warner
-https://blackghost.live/play/teleclub-522.php?c=la-warner-hd&f=.m3u8
 
 .......................................................................................
 #EXTINF:-1  group-title="TVSATELITE2", DREIKOTV CANAL 24/7
