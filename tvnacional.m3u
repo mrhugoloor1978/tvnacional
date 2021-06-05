@@ -866,7 +866,7 @@ http://45.71.202.210:50000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: RCN TELENOVELAS" tvg-logo="http://xtream-coders.com/x0/latino/rcn_telenovelas.png" group-title="COLOMBIA", RCN TELENOVELAS
 http://011011011.com:8080/vuemedia/587yt65r/92035
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: Caracol " tvg-logo="http://xtream-coders.com/x0/latino/caracol.png" group-title="COLOMBIA", Caracol 
-http://011011011.com:8080/vuemedia/587yt65r/47837
+http://186.101.216.211:8000/play/a08z
 #EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg" group-title="COLOMBIA", Cali TV 
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="115" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/115_Canal_Capital.png" group-title="COLOMBIA", Canal Capital  | CO
