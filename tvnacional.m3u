@@ -1628,204 +1628,622 @@ http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=teennick&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tooncast&f=.m3u8
 
 .....................................................................
+#EXTINF:-1 group-title="Lista CNT PLAY", 24 Horas
+http://186.101.216.211:8000/play/a0e8
+#EXTINF:-1 group-title="Lista CNT PLAY", A&E
+http://186.101.216.211:8000/play/a0dr
+#EXTINF:-1 group-title="Lista CNT PLAY", A E Mundo
+http://186.101.216.211:8000/play/a02p
+#EXTINF:-1 group-title="Lista CNT PLAY", ATRES SERIES
+http://186.101.216.211:8000/play/a0dv
+#EXTINF:-1 group-title="Lista CNT PLAY", ATV 
+http://186.101.216.211:8000/play/a073
+#EXTINF:-1 group-title="Lista CNT PLAY", AXN
+http://186.101.216.211:8000/play/a0cm
+#EXTINF:-1 group-title="Lista CNT PLAY", America TV AR Conax
+http://186.101.216.211:8000/play/a079
+#EXTINF:-1 group-title="Lista CNT PLAY", AmericaTV P
+http://186.101.216.211:8000/play/a071
+#EXTINF:-1 group-title="Lista CNT PLAY", Animal Planet 
+http://186.101.216.211:8000/play/a02g
+#EXTINF:-1 group-title="Lista CNT PLAY", BBC World
+http://186.101.216.211:8000/play/a0dj
+#EXTINF:-1 group-title="Lista CNT PLAY", Baby TV
+http://186.101.216.211:8000/play/a0dc
+#EXTINF:-1 group-title="Lista CNT PLAY", C9N
+http://186.101.216.211:8000/play/a097
+#EXTINF:-1 group-title="Lista CNT PLAY", CHV
+http://186.101.216.211:8000/play/a0eb
+#EXTINF:-1 group-title="Lista CNT PLAY", CMD Na
+http://186.101.216.211:8000/play/a0am
+#EXTINF:-1 group-title="Lista CNT PLAY", CNN Chile
+http://186.101.216.211:8000/play/a0ec
+#EXTINF:-1 group-title="Lista CNT PLAY", CNN Espanol
+http://186.101.216.211:8000/play/a01u
+#EXTINF:-1 group-title="Lista CNT PLAY", CNN International
+http://186.101.216.211:8000/play/a0dk
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal Caracol
+http://186.101.216.211:8000/play/a08z
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal Claro
+http://186.101.216.211:8000/play/a08e
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal Institucional
+http://186.101.216.211:8000/play/a093
+#EXTINF:-1 tvg-id=""CANAL N (Canal N)"" group-title="Lista CNT PLAY", Canal N Na
+http://186.101.216.211:8000/play/a05i
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal RCN
+http://186.101.216.211:8000/play/a09k
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal Uno TV Ecu 
+http://186.101.216.211:8000/play/a033
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal de Las estrellas 
+http://186.101.216.211:8000/play/a02y
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal del Congreso
+http://186.101.216.211:8000/play/a03b
+#EXTINF:-1 group-title="Lista CNT PLAY", Capital
+http://186.101.216.211:8000/play/a03m
+#EXTINF:-1 group-title="Lista CNT PLAY", Cartoon Network 
+http://186.101.216.211:8000/play/a06o
+#EXTINF:-1 group-title="Lista CNT PLAY", Cinecanal 
+http://186.101.216.211:8000/play/a06e
+#EXTINF:-1 group-title="Lista CNT PLAY", Cinemax
+http://186.101.216.211:8000/play/a0ck
+#EXTINF:-1 group-title="Lista CNT PLAY", City TV
+http://186.101.216.211:8000/play/a09e
+#EXTINF:-1 group-title="Lista CNT PLAY", Claro Cinema
+http://186.101.216.211:8000/play/a0cv
+#EXTINF:-1 group-title="Lista CNT PLAY", Claro Sports
+http://186.101.216.211:8000/play/a06q
+#EXTINF:-1 group-title="Lista CNT PLAY", Classic Rock
+http://186.101.216.211:8000/play/a02u
+#EXTINF:-1 group-title="Lista CNT PLAY", Classic RockRoll
+http://186.101.216.211:8000/play/a03q
+#EXTINF:-1 group-title="Lista CNT PLAY", DW (Deutsch +)
+http://186.101.216.211:8000/play/a0dn
+#EXTINF:-1 group-title="Lista CNT PLAY", Directv
+http://186.101.216.211:8000/play/dtsp
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Channel 
+http://186.101.216.211:8000/play/a02f
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery ID
+http://186.101.216.211:8000/play/a07s
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Kids 
+http://186.101.216.211:8000/play/a01t
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Turbo
+http://186.101.216.211:8000/play/a0cx
+#EXTINF:-1 group-title="Lista CNT PLAY", Disney Channel Conax
+http://186.101.216.211:8000/play/a02e
+#EXTINF:-1 group-title="Lista CNT PLAY", Disney Junior
+http://186.101.216.211:8000/play/a02a
+#EXTINF:-1 group-title="Lista CNT PLAY", Disney 
+http://186.101.216.211:8000/play/a06b
+#EXTINF:-1 group-title="Lista CNT PLAY", E¡ Entertainment
+http://186.101.216.211:8000/play/a02i
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 2 Latin
+http://186.101.216.211:8000/play/a02k
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 3 
+http://186.101.216.211:8000/play/a0cz
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 
+http://186.101.216.211:8000/play/a02l
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN MOV
+http://186.101.216.211:8000/play/espn
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPNe
+http://186.101.216.211:8000/play/a0e4
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPn
+http://186.101.216.211:8000/play/a0e3
+#EXTINF:-1 group-title="Lista CNT PLAY", ETC TV
+http://186.101.216.211:8000/play/etct
+#EXTINF:-1 group-title="Lista CNT PLAY", Ecuador TV
+http://186.101.216.211:8000/play/a06u
+#EXTINF:-1 group-title="Lista CNT PLAY", Ecuador TV Co
+http://186.101.216.211:8000/play/a04c
+#EXTINF:-1 tvg-id="a038" group-title="Lista CNT PLAY", Ecuavisa
+http://186.101.216.211:8000/play/a038
+#EXTINF:-1 group-title="Lista CNT PLAY", El Trece na
+http://186.101.216.211:8000/play/a0aj
+#EXTINF:-1 group-title="Lista CNT PLAY", Enlace
+http://186.101.216.211:8000/play/a0ed
+#EXTINF:-1 group-title="Lista CNT PLAY", Epoca
+http://186.101.216.211:8000/play/a0db
+#EXTINF:-1 group-title="Lista CNT PLAY", Esne TV
+http://186.101.216.211:8000/play/a0cy
+#EXTINF:-1 group-title="Lista CNT PLAY", Eurochannel
+http://186.101.216.211:8000/play/a0dl
+#EXTINF:-1 group-title="Lista CNT PLAY", FOX SPORT MOV
+http://186.101.216.211:8000/play/foxm
+#EXTINF:-1 group-title="Lista CNT PLAY", FX
+http://186.101.216.211:8000/play/a0co
+#EXTINF:-1 group-title="Lista CNT PLAY", FX Movies
+http://186.101.216.211:8000/play/a0ea
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sport Chile
+http://186.101.216.211:8000/play/fosc
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports 1
+http://186.101.216.211:8000/play/a08m
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports 2 
+http://186.101.216.211:8000/play/a02z
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports 3
+http://186.101.216.211:8000/play/a0dq
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports 3 
+http://186.101.216.211:8000/play/a030
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports 
+http://186.101.216.211:8000/play/a02j
+#EXTINF:-1 group-title="Lista CNT PLAY", France 24
+http://186.101.216.211:8000/play/a08d
+#EXTINF:-1 group-title="Lista CNT PLAY", GLOBAL Na
+http://186.101.216.211:8000/play/a0a1
+#EXTINF:-1 group-title="Lista CNT PLAY", GOL TV 
+http://186.101.216.211:8000/play/a02m
+#EXTINF:-1 group-title="Lista CNT PLAY", GOLPERU
+http://186.101.216.211:8000/play/a0d6
+#EXTINF:-1 group-title="Lista CNT PLAY", GOLTVEC 
+http://186.101.216.211:8000/play/a032
+#EXTINF:-1 group-title="Lista CNT PLAY", Gamavision 
+http://186.101.216.211:8000/play/a067
+#EXTINF:-1 group-title="Lista CNT PLAY", Gol TV
+http://186.101.216.211:8000/play/a0dp
+#EXTINF:-1 group-title="Lista CNT PLAY", HBO Family
+http://186.101.216.211:8000/play/a0dw
+#EXTINF:-1 group-title="Lista CNT PLAY", HBO
+http://186.101.216.211:8000/play/a0ad
+#EXTINF:-1 group-title="Lista CNT PLAY", HBO POP
+http://186.101.216.211:8000/play/a0e2
+#EXTINF:-1 group-title="Lista CNT PLAY", HBO Plus
+http://186.101.216.211:8000/play/a0dy
+#EXTINF:-1 group-title="Lista CNT PLAY", HBO Plus Oeste
+http://186.101.216.211:8000/play/a0e0
+#EXTINF:-1 group-title="Lista CNT PLAY", HBO Signature
+http://186.101.216.211:8000/play/a0dz
+#EXTINF:-1 group-title="Lista CNT PLAY", HBO XTREME
+http://186.101.216.211:8000/play/a0dx
+#EXTINF:-1 group-title="Lista CNT PLAY", HBO2 
+http://186.101.216.211:8000/play/a0ae
+#EXTINF:-1 group-title="Lista CNT PLAY", History Channel 
+http://186.101.216.211:8000/play/a06d
+#EXTINF:-1 group-title="Lista CNT PLAY", Home and Health
+http://186.101.216.211:8000/play/a08g
+#EXTINF:-1 group-title="Lista CNT PLAY", I-Sat
+http://186.101.216.211:8000/play/a06g
+#EXTINF:-1 group-title="Lista CNT PLAY", La Red
+http://186.101.216.211:8000/play/a01v
+#EXTINF:-1 group-title="Lista CNT PLAY", La Tele 
+http://186.101.216.211:8000/play/a074
+#EXTINF:-1 group-title="Lista CNT PLAY", Latina
+http://186.101.216.211:8000/play/a0ef
+#EXTINF:-1 group-title="Lista CNT PLAY", Love Music
+http://186.101.216.211:8000/play/a02t
+#EXTINF:-1 group-title="Lista CNT PLAY", MTV
+http://186.101.216.211:8000/play/a0dh
+#EXTINF:-1 group-title="Lista CNT PLAY", Mega
+http://186.101.216.211:8000/play/a01x
+#EXTINF:-1 group-title="Lista CNT PLAY", Mis Peliculas
+http://186.101.216.211:8000/play/a069
+#EXTINF:-1 group-title="Lista CNT PLAY", Mis Peliculas 
+http://186.101.216.211:8000/play/a0aq
+#EXTINF:-1 group-title="Lista CNT PLAY", Movistar Plus
+http://186.101.216.211:8000/play/a0eg
+#EXTINF:-1 group-title="Lista CNT PLAY", NPY
+http://186.101.216.211:8000/play/a099
+#EXTINF:-1 group-title="Lista CNT PLAY", Nat Geo 
+http://186.101.216.211:8000/play/a06c
+#EXTINF:-1 group-title="Lista CNT PLAY", NatGeo Kids
+http://186.101.216.211:8000/play/a0e6
+#EXTINF:-1 group-title="Lista CNT PLAY", Nick Junior 
+http://186.101.216.211:8000/play/a0ai
+#EXTINF:-1 group-title="Lista CNT PLAY", Nickelodeon 
+http://186.101.216.211:8000/play/a06a
+#EXTINF:-1 group-title="Lista CNT PLAY", OROMAR
+http://186.101.216.211:8000/play/a06r
+#EXTINF:-1 group-title="Lista CNT PLAY", Oglobo
+http://186.101.216.211:8000/play/a08u
+#EXTINF:-1 group-title="Lista CNT PLAY", Panamericana TV Conax
+http://186.101.216.211:8000/play/a072
+#EXTINF:-1 group-title="Lista CNT PLAY", Paraguay TV
+http://186.101.216.211:8000/play/a08t
+#EXTINF:-1 group-title="Lista CNT PLAY", Paravision
+http://186.101.216.211:8000/play/a03d
+#EXTINF:-1 group-title="Lista CNT PLAY", Peru Magico 
+http://186.101.216.211:8000/play/a0a8
+#EXTINF:-1 group-title="Lista CNT PLAY", Playboy
+http://186.101.216.211:8000/play/a070
+#EXTINF:-1 group-title="Lista CNT PLAY", RAI
+http://186.101.216.211:8000/play/a0dm
+#EXTINF:-1 group-title="Lista CNT PLAY", RCN Novelas
+http://186.101.216.211:8000/play/a08b
+#EXTINF:-1 group-title="Lista CNT PLAY", RTS
+http://186.101.216.211:8000/play/a0ee
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR ACTION
+http://186.101.216.211:8000/play/a0af
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR CHANNEL 
+http://186.101.216.211:8000/play/a06l
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR CINEMA 
+http://186.101.216.211:8000/play/a0ag
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR COMEDY 
+http://186.101.216.211:8000/play/a0ah
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR HITS
+http://186.101.216.211:8000/play/a0e7
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR LIFE 
+http://186.101.216.211:8000/play/a06j
+#EXTINF:-1 group-title="Lista CNT PLAY", Señal Colombia
+http://186.101.216.211:8000/play/a095
+#EXTINF:-1 group-title="Lista CNT PLAY", Sin Limites 
+http://186.101.216.211:8000/play/a08p
+#EXTINF:-1 group-title="Lista CNT PLAY", Sony
+http://186.101.216.211:8000/play/a0cl
+#EXTINF:-1 group-title="Lista CNT PLAY", Space
+http://186.101.216.211:8000/play/a0d5
+#EXTINF:-1 group-title="Lista CNT PLAY", Sun Channel
+http://186.101.216.211:8000/play/a0dg
+#EXTINF:-1 group-title="Lista CNT PLAY", Sur TV
+http://186.101.216.211:8000/play/a03h
+#EXTINF:-1 group-title="Lista CNT PLAY" ,Symphonic
+http://186.101.216.211:8000/play/a02r
+#EXTINF:-1 group-title="Lista CNT PLAY", TBS Co
+http://186.101.216.211:8000/play/a08f
+#EXTINF:-1 group-title="Lista CNT PLAY", TC TV
+http://186.101.216.211:8000/play/a06n
+#EXTINF:-1 group-title="Lista CNT PLAY", TC Television 
+http://186.101.216.211:8000/play/a035
+#EXTINF:-1 group-title="Lista CNT PLAY", TCM
+http://186.101.216.211:8000/play/a0e9
+#EXTINF:-1 group-title="Lista CNT PLAY", TLC 
+http://186.101.216.211:8000/play/a02x
+#EXTINF:-1 group-title="Lista CNT PLAY", TNT
+http://186.101.216.211:8000/play/a0dt
+#EXTINF:-1 group-title="Lista CNT PLAY", TNT 
+http://186.101.216.211:8000/play/a06p
+#EXTINF:-1 group-title="Lista CNT PLAY", TNT SPORTS 
+http://186.101.216.211:8000/play/a021
+#EXTINF:-1 group-title="Lista CNT PLAY", TNT SPORTS 3
+http://186.101.216.211:8000/play/a02o
+#EXTINF:-1 group-title="Lista CNT PLAY", TNT Series
+http://186.101.216.211:8000/play/a0du
+#EXTINF:-1 group-title="Lista CNT PLAY", TRO
+http://186.101.216.211:8000/play/a09c
+#EXTINF:-1 group-title="Lista CNT PLAY", TV CAMARA
+http://186.101.216.211:8000/play/a0d4
+#EXTINF:-1 group-title="Lista CNT PLAY", TV PERU
+http://186.101.216.211:8000/play/a09y
+#EXTINF:-1 group-title="Lista CNT PLAY", TVEDUCA
+http://186.101.216.211:8000/play/a02d
+#EXTINF:-1 group-title="Lista CNT PLAY", Teleamazonas 
+http://186.101.216.211:8000/play/a039
+#EXTINF:-1 group-title="Lista CNT PLAY", Teleantioquia
+http://186.101.216.211:8000/play/a0cp
+#EXTINF:-1 group-title="Lista CNT PLAY", Telecafe
+http://186.101.216.211:8000/play/a0d2
+#EXTINF:-1 group-title="Lista CNT PLAY", Telecaribe
+http://186.101.216.211:8000/play/a0d0
+#EXTINF:-1 group-title="Lista CNT PLAY", Telefe
+http://186.101.216.211:8000/play/a0ct
+#EXTINF:-1 group-title="Lista CNT PLAY", Telefuturo
+http://186.101.216.211:8000/play/a06s
+#EXTINF:-1 group-title="Lista CNT PLAY", Teleislas
+http://186.101.216.211:8000/play/a03k
+#EXTINF:-1 group-title="Lista CNT PLAY", Telemundo
+http://186.101.216.211:8000/play/a0a4
+#EXTINF:-1 group-title="Lista CNT PLAY", Telepacifico
+http://186.101.216.211:8000/play/a0cr
+#EXTINF:-1 group-title="Lista CNT PLAY", Telesur
+http://186.101.216.211:8000/play/a0do
+#EXTINF:-1 group-title="Lista CNT PLAY", Tooncast
+http://186.101.216.211:8000/play/a0dd
+#EXTINF:-1 group-title="Lista CNT PLAY", Travel and Living Channel
+http://186.101.216.211:8000/play/a0df
+#EXTINF:-1 group-title="Lista CNT PLAY", Trece
+http://186.101.216.211:8000/play/a0d3
+#EXTINF:-1 group-title="Lista CNT PLAY", Tru TV
+http://186.101.216.211:8000/play/a0ds
+#EXTINF:-1 group-title="Lista CNT PLAY", TyC Sports Na
+http://186.101.216.211:8000/play/a0al
+#EXTINF:-1 group-title="Lista CNT PLAY", Unicanal
+http://186.101.216.211:8000/play/a0cu
+#EXTINF:-1 group-title="Lista CNT PLAY", Universal
+http://186.101.216.211:8000/play/a06f
+#EXTINF:-1 group-title="Lista CNT PLAY", Venevision Plus 
+http://186.101.216.211:8000/play/a0a3
+#EXTINF:-1 group-title="Lista CNT PLAY", Venus
+http://186.101.216.211:8000/play/a02q
+#EXTINF:-1 group-title="Lista CNT PLAY", WOBI 
+http://186.101.216.211:8000/play/a0ak
+#EXTINF:-1 tvg-id="Canal Warner TV (México)" group-title="Lista CNT PLAY", Warner 
+http://186.101.216.211:8000/play/a02h
+#EXTINF:-1 group-title="Lista CNT PLAY", Win
+http://186.101.216.211:8000/play/a0cq
+#EXTINF:-1 group-title="Lista CNT PLAY", Win Sport+
+http://186.101.216.211:8000/play/g07j
+#EXTINF:-1 group-title="Lista CNT PLAY", Zona Latina co
+http://186.101.216.211:8000/play/a06i
+#EXTINF:-1 tvg-id="Canal ZOOM (Colombia)" group-title="Lista CNT PLAY", Zoom
+http://186.101.216.211:8000/play/a09b
 
+---------------------------------------------
+#EXTINF:-1 group-title="Lista CNT PLAY", CHV
+http://45.176.118.56:8088/play/a00b
+#EXTINF:-1 group-title="Lista CNT PLAY", 24 Horas
+http://45.176.118.56:8088/play/a00o
+#EXTINF:-1 group-title="Lista CNT PLAY", AE Mundo
+http://45.176.118.56:8088/play/a01p
+#EXTINF:-1 group-title="Lista CNT PLAY", AMC HD
+http://45.176.118.56:8088/play/a03n
+#EXTINF:-1 group-title="Lista CNT PLAY", AXN
+http://45.176.118.56:8088/play/a021
+#EXTINF:-1 group-title="Lista CNT PLAY", Animal Planet
+http://45.176.118.56:8088/play/a01g
+#EXTINF:-1 group-title="Lista CNT PLAY", CDF Basico
+http://45.176.118.56:8088/play/a01o
+#EXTINF:-1 group-title="Lista CNT PLAY", CHV HD
+http://45.176.118.56:8088/play/a04q
+#EXTINF:-1 group-title="Lista CNT PLAY", CNN Chile
+http://45.176.118.56:8088/play/a013
+#EXTINF:-1 group-title="Lista CNT PLAY", CNN Espanol
+http://45.176.118.56:8088/play/a007
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal 13
+http://45.176.118.56:8088/play/a00c
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal de Las estrellas
+http://45.176.118.56:8088/play/a01t
+#EXTINF:-1 group-title="Lista CNT PLAY", Cartoon Network
+http://45.176.118.56:8088/play/a016
+#EXTINF:-1 group-title="Lista CNT PLAY", Cinecanal
+http://45.176.118.56:8088/play/a00w
+#EXTINF:-1 group-title="Lista CNT PLAY", Cinemax
+http://45.176.118.56:8088/play/a01z
+#EXTINF:-1 group-title="Lista CNT PLAY", Claro Cinema
+http://45.176.118.56:8088/play/a025
+#EXTINF:-1 group-title="Lista CNT PLAY", DISCOVERY HD
+http://45.176.118.56:8088/play/a051
+#EXTINF:-1 group-title="Lista CNT PLAY", DISNEY HD
+http://45.176.118.56:8088/play/a04y
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Channel
+http://45.176.118.56:8088/play/a01f
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery H&H HD
+http://45.176.118.56:8088/play/a04f
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery ID
+http://45.176.118.56:8088/play/a02c
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Kids
+http://45.176.118.56:8088/play/a006
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Kids HD
+http://45.176.118.56:8088/play/a04e
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Theater HD
+http://45.176.118.56:8088/play/a04g
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Turbo
+http://45.176.118.56:8088/play/a027
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery World HD
+http://45.176.118.56:8088/play/a03l
+#EXTINF:-1 group-title="Lista CNT PLAY", Disney Channel
+http://45.176.118.56:8088/play/a01e
+#EXTINF:-1 group-title="Lista CNT PLAY", Disney Junior
+http://45.176.118.56:8088/play/a00n
+#EXTINF:-1 group-title="Lista CNT PLAY", Disney 
+http://45.176.118.56:8088/play/a00t
+#EXTINF:-1 group-title="Lista CNT PLAY", E¡ Entertainment
+http://45.176.118.56:8088/play/a01i
+#EXTINF:-1 group-title="Lista CNT PLAY", EL GOURMET HD
+http://45.176.118.56:8088/play/a052
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN
+http://45.176.118.56:8088/play/a00p
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN
+http://45.176.118.56:8088/play/a01k
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 2
+http://45.176.118.56:8088/play/a01l
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 3
+http://45.176.118.56:8088/play/a029
+-------------------------------------
+
+#EXTINF:-1 group-title="Lista CNT PLAY", AXN
+http://45.179.140.242:8000/play/a0hd
+#EXTINF:-1 group-title="Lista CNT PLAY", 70s Hits
+http://45.179.140.242:8000/play/a0ga
+#EXTINF:-1 group-title="Lista CNT PLAY", 80s Hits
+http://45.179.140.242:8000/play/a0gb
+#EXTINF:-1 group-title="Lista CNT PLAY", A&E HD
+http://45.179.140.242:8000/play/a0ap
+#EXTINF:-1 group-title="Lista CNT PLAY", AE Mundo
+http://45.179.140.242:8000/play/a0g7
+#EXTINF:-1 group-title="Lista CNT PLAY", AMC HD
+http://45.179.140.242:8000/play/a0aq
+#EXTINF:-1 group-title="Lista CNT PLAY", America TV
+http://45.179.140.242:8000/play/a0gz
+#EXTINF:-1 group-title="Lista CNT PLAY", Animal Planet
+http://45.179.140.242:8000/play/a0fy
+#EXTINF:-1 group-title="Lista CNT PLAY", CNN Español
+http://45.179.140.242:8000/play/a01c
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal Caracol
+http://45.179.140.242:8000/play/a0hn
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal Uno TV Ecu
+http://45.179.140.242:8000/play/a0hl
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal de Las estrellas
+http://45.179.140.242:8000/play/a0gc
+#EXTINF:-1 group-title="Lista CNT PLAY", Cartoon Network
+http://45.179.140.242:8000/play/a0h7
+#EXTINF:-1 group-title="Lista CNT PLAY", Cinemax
+http://45.179.140.242:8000/play/a0hb
+#EXTINF:-1 group-title="Lista CNT PLAY", Classic Rock
+http://45.179.140.242:8000/play/a0g9
+#EXTINF:-1 group-title="Lista CNT PLAY", DHE HD
+http://45.179.140.242:8000/play/a0au
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Channel
+http://45.179.140.242:8000/play/a0fx
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Channel HD
+http://45.179.140.242:8000/play/a05d
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery ID HD
+http://45.179.140.242:8000/play/a05i
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Kids
+http://45.179.140.242:8000/play/a01b
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Kids HD
+http://45.179.140.242:8000/play/a05e
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery Turbo
+http://45.179.140.242:8000/play/a0hi
+#EXTINF:-1 group-title="Lista CNT PLAY", Discovery World HD
+http://45.179.140.242:8000/play/a05f
+#EXTINF:-1 group-title="Lista CNT PLAY", Disney Channel
+http://45.179.140.242:8000/play/a0fw
+#EXTINF:-1 group-title="Lista CNT PLAY", Disney Junior
+http://45.179.140.242:8000/play/a01s
+#EXTINF:-1 group-title="Lista CNT PLAY", E¡ Entertainment
+http://45.179.140.242:8000/play/a0gh
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN
+http://45.179.140.242:8000/play/a0g3
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 2 Latin
+http://45.179.140.242:8000/play/a0g2
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 3
+http://45.179.140.242:8000/play/a0hk
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN CO
+http://45.179.140.242:8000/play/a0hq
+#EXTINF:-1 group-title="Lista CNT PLAY", Ecuador TV
+http://45.179.140.242:8000/play/a0h0
+#EXTINF:-1 group-title="Lista CNT PLAY", Ecuavisa
+http://45.179.140.242:8000/play/a0ho
+#EXTINF:-1 group-title="Lista CNT PLAY", Enlace
+http://45.179.140.242:8000/play/a0h9
+#EXTINF:-1 group-title="Lista CNT PLAY", Esne TV
+http://45.179.140.242:8000/play/a0hj
+#EXTINF:-1 group-title="Lista CNT PLAY", FOX Action HD
+http://45.179.140.242:8000/play/a07s
+#EXTINF:-1 group-title="Lista CNT PLAY", FOX Comedy HD
+http://45.179.140.242:8000/play/a05j
+#EXTINF:-1 group-title="Lista CNT PLAY", FOX Family HD
+http://45.179.140.242:8000/play/a07t
+#EXTINF:-1 group-title="Lista CNT PLAY", FOX SPORTS 2 HD
+http://45.179.140.242:8000/play/a07i
+#EXTINF:-1 group-title="Lista CNT PLAY", FOX SPORTS 3 HD
+http://45.179.140.242:8000/play/a059
+#EXTINF:-1 group-title="Lista CNT PLAY", FX
+http://45.179.140.242:8000/play/a0hf
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports
+http://45.179.140.242:8000/play/a0g1
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports 1
+http://45.179.140.242:8000/play/a0gx
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports 2
+http://45.179.140.242:8000/play/a0gd
+#EXTINF:-1 group-title="Lista CNT PLAY", Fox Sports 3
+http://45.179.140.242:8000/play/a0ge
+#EXTINF:-1 group-title="Lista CNT PLAY", France 24
+http://45.179.140.242:8000/play/a0gt
+#EXTINF:-1 group-title="Lista CNT PLAY", GOL TV
+http://45.179.140.242:8000/play/a0g4
+#EXTINF:-1 group-title="Lista CNT PLAY", GOLTVEC HD
+http://45.179.140.242:8000/play/a0fu
+#EXTINF:-1 group-title="Lista CNT PLAY", GamaTV
+http://45.179.140.242:8000/play/a050
+#EXTINF:-1 group-title="Lista CNT PLAY", Home and Health
+http://45.179.140.242:8000/play/a0gv
+#EXTINF:-1 group-title="Lista CNT PLAY", MTV
+http://45.179.140.242:8000/play/a0h3
+#EXTINF:-1 group-title="Lista CNT PLAY", Nat Geo
+http://45.179.140.242:8000/play/a0h2
+#EXTINF:-1 group-title="Lista CNT PLAY", NatGeo Kids
+http://45.179.140.242:8000/play/a0h6
+#EXTINF:-1 group-title="Lista CNT PLAY", Nick 2 HD
+http://45.179.140.242:8000/play/a07g
+#EXTINF:-1 group-title="Lista CNT PLAY", Nick Junior
+http://45.179.140.242:8000/play/a0hh
+#EXTINF:-1 group-title="Lista CNT PLAY", Nickelodeon
+http://45.179.140.242:8000/play/a0h1
+#EXTINF:-1 group-title="Lista CNT PLAY", Paramount HD
+http://45.179.140.242:8000/play/a05b
+#EXTINF:-1 group-title="Lista CNT PLAY", Pasiones HD
+http://45.179.140.242:8000/play/a05g
+#EXTINF:-1 group-title="Lista CNT PLAY", RTS
+http://45.179.140.242:8000/play/a0hg
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR CHANNEL
+http://45.179.140.242:8000/play/a0h5
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR LIFE
+http://45.179.140.242:8000/play/a0h4
+#EXTINF:-1 group-title="Lista CNT PLAY", Sony
+http://45.179.140.242:8000/play/a0hc
+#EXTINF:-1 group-title="Lista CNT PLAY", Space
+http://45.179.140.242:8000/play/a0he
+#EXTINF:-1 group-title="Lista CNT PLAY", Studio Universal HD
+http://45.179.140.242:8000/play/a0ak
+#EXTINF:-1 group-title="Lista CNT PLAY", TBS
+http://45.179.140.242:8000/play/a0gu
+#EXTINF:-1 group-title="Lista CNT PLAY", TC Television
+http://45.179.140.242:8000/play/a0hm
+#EXTINF:-1 group-title="Lista CNT PLAY", TNT
+http://45.179.140.242:8000/play/a0h8
+#EXTINF:-1 group-title="Lista CNT PLAY", TNT SPORTS 3
+http://45.179.140.242:8000/play/a0g6
+#EXTINF:-1 group-title="Lista CNT PLAY", TNT Series HD
+http://45.179.140.242:8000/play/a05c
+#EXTINF:-1 group-title="Lista CNT PLAY", TVE
+http://45.179.140.242:8000/play/a0ha
+#EXTINF:-1 group-title="Lista CNT PLAY", Teleamazonas
+http://45.179.140.242:8000/play/a0hp
+#EXTINF:-1 group-title="Lista CNT PLAY", Telemundo
+http://45.179.140.242:8000/play/a0gf
+#EXTINF:-1 group-title="Lista CNT PLAY", Televicentro
+http://45.179.140.242:8000/play/a0hs
+#EXTINF:-1 group-title="Lista CNT PLAY", TyC Sports
+http://45.179.140.242:8000/play/a0g5
+#EXTINF:-1 group-title="Lista CNT PLAY", Univision HD
+http://45.179.140.242:8000/play/a05h
+#EXTINF:-1 group-title="Lista CNT PLAY", VH1 HD
+http://45.179.140.242:8000/play/a07p
+#EXTINF:-1 group-title="Lista CNT PLAY", Venus
+http://45.179.140.242:8000/play/a0g8
+#EXTINF:-1 group-title="Lista CNT PLAY", Warner
+http://45.179.140.242:8000/play/a0fz
+--------------------------------------------------
+
+#EXTINF:-1 group-title="Lista CNT PLAY", MEGA HD
+http://45.176.118.56:8088/play/a04p
+#EXTINF:-1 group-title="Lista CNT PLAY", MTV
+http://45.176.118.56:8088/play/a010
+#EXTINF:-1 group-title="Lista CNT PLAY", Mega
+http://45.176.118.56:8088/play/a00a
+#EXTINF:-1 group-title="Lista CNT PLAY", NICK Junior HD
+http://45.176.118.56:8088/play/a04z
+#EXTINF:-1 group-title="Lista CNT PLAY", Nat Geo
+http://45.176.118.56:8088/play/a00u
+#EXTINF:-1 group-title="Lista CNT PLAY", Nat Geo HD
+http://45.176.118.56:8088/play/a03k
+#EXTINF:-1 group-title="Lista CNT PLAY", Nat Geo Wild HD
+http://45.176.118.56:8088/play/a04h
+#EXTINF:-1 group-title="Lista CNT PLAY", NatGeo Kids
+http://45.176.118.56:8088/play/a015
+#EXTINF:-1 group-title="Lista CNT PLAY" , Nick Jr
+http://45.176.118.56:8088/play/a026
+#EXTINF:-1 group-title="Lista CNT PLAY", Nickelodeon
+http://45.176.118.56:8088/play/a00s
+#EXTINF:-1 group-title="Lista CNT PLAY", Paramount HD
+http://45.176.118.56:8088/play/a03s
+#EXTINF:-1 group-title="Lista CNT PLAY", RCN Novelas
+http://45.176.118.56:8088/play/a02j
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR CHANNEL
+http://45.176.118.56:8088/play/a057
+#EXTINF:-1 group-title="Lista CNT PLAY", STAR CHANNEL HD
+http://45.176.118.56:8088/play/a058
+#EXTINF:-1 group-title="Lista CNT PLAY" , Sony
+http://45.176.118.56:8088/play/a020
+#EXTINF:-1 group-title="Lista CNT PLAY", Sony HD
+http://45.176.118.56:8088/play/a041
+#EXTINF:-1 group-title="Lista CNT PLAY", Space
+http://45.176.118.56:8088/play/a022
+#EXTINF:-1 group-title="Lista CNT PLAY", Space HD
+http://45.176.118.56:8088/play/a044
+#EXTINF:-1 group-title="Lista CNT PLAY", TVN
+http://45.176.118.56:8088/play/a009
+#EXTINF:-1 group-title="Lista CNT PLAY", TVN HD
+http://45.176.118.56:8088/play/a04r
+#EXTINF:-1 group-title="Lista CNT PLAY", Telemundo
+http://45.176.118.56:8088/play/a01w
+#EXTINF:-1 group-title="Lista CNT PLAY", Travel and Living
+http://45.176.118.56:8088/play/a01r
+#EXTINF:-1 group-title="Lista CNT PLAY", TyC Sports
+http://45.176.118.56:8088/play/a01n
+#EXTINF:-1 group-title="Lista CNT PLAY", Universal
+http://45.176.118.56:8088/play/a00x
+#EXTINF:-1 group-title="Lista CNT PLAY", ViaX
+http://45.176.118.56:8088/play/a01s
+#EXTINF:-1 group-title="Lista CNT PLAY", Warner
+http://45.176.118.56:8088/play/a01h
+#EXTINF:-1 group-title="Lista CNT PLAY", Warner Channel HD
+http://45.176.118.56:8088/play/a042
+#EXTINF:-1 group-title="Lista CNT PLAY", Zona Latina
+http://45.176.118.56:8088/play/a011
 
 
 
 =================================================================
 
-#EXTINF:-1 group-title="Lista CNT PLAY",A&E
-http://23.237.22.162:8081/live/la-ae-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",AMC
-http://23.237.22.162:8081/live/la-AMC/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Animal Planet
-http://23.237.22.162:8081/live/la-animal-planet-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Azteca UNO
-http://23.237.22.162:8081/live/aztecauno/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Bitme
-http://23.237.22.162:8081/live/bitme/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Bloomberg
-http://23.237.22.162:8081/live/bloomberg/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Boomerang
-http://23.237.22.162:8081/live/la-boomerang-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Canal 5 MX
-http://23.237.22.162:8081/live/CANAL-5/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Canal De Las Estrellas
-http://23.237.22.162:8081/live/Canal-de-las-Estrellas-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Cartoon Network
-http://23.237.22.162:8081/live/la-cartoon-network-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Cinemax
-http://23.237.22.162:8081/live/la-cinemax/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Comedy Central
-http://23.237.22.162:8081/live/la-comedy-central-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery Channel
-http://23.237.22.162:8081/live/DISCOVERY-CHANNEL-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery Civilization
-http://23.237.22.162:8081/live/la-discovery-civilization/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery Home & Health
-http://23.237.22.162:8081/live/la-discovery-home-health/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery ID
-http://23.237.22.162:8081/live/new-discovery-id/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery Kids
-http://23.237.22.162:8081/live/la-discovery-kids-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery Science
-http://23.237.22.162:8081/live/DISCOVERY-SCIENCE/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery Theater
-http://23.237.22.162:8081/live/DISCOVERY-THEATER-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery TLC
-http://23.237.22.162:8081/live/la-discovery-tlc/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Discovery World
-http://23.237.22.162:8081/live/DISCOVERY-WORLD-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Disney Channel
-http://23.237.22.162:8081/live/la-disney-channel-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Disney Junior
-http://23.237.22.162:8081/live/la-disney-junior/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Disney XD
-http://23.237.22.162:8081/live/la-disney-xd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",E! Entertainment
-http://23.237.22.162:8081/live/la-e-entertainment-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",El Gourmet
-http://23.237.22.162:8081/live/la-el-gourmet/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Food Network
-http://23.237.22.162:8081/live/la-food-network-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Star Channel
-http://23.237.22.162:8081/live/foxchannel/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Star Cinema
-http://23.237.22.162:8081/live/la-fox-cinema-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Star Classics
-http://23.237.22.162:8081/live/la-fox-classics/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Star Comedy
-http://23.237.22.162:8081/live/la-fox-comedy-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Star Fun
-http://23.237.22.162:8081/live/la-fox-family-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Star Life
-http://23.237.22.162:8081/live/la-fox-life-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Star Movies
-http://23.237.22.162:8081/live/Fox-Movies-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Star Series
-http://23.237.22.162:8081/live/FOX-SERIES/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",FX
-http://23.237.22.162:8081/live/la-fx-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Golden
-http://23.237.22.162:8081/live/GOLDEN-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",HBO 2
-http://23.237.22.162:8081/live/la-HBO-2/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",HBO Signature
-http://23.237.22.162:8081/live/HBO-SIGNATURE-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",HBO Xtreme
-http://23.237.22.162:8081/live/MAX-PRIME-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",History Channel
-http://23.237.22.162:8081/live/la-history-channel-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Lifetime
-http://23.237.22.162:8081/live/la-lifetime-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",MTV
-http://23.237.22.162:8081/live/la-mtv-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Multimedios
-http://23.237.22.162:8081/live/multimediossd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",NatGeo Kids
-http://23.237.22.162:8081/live/la-nat-geo-kids-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",NatGeo Wild
-http://23.237.22.162:8081/live/la-nat-geo-wild-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Teen Nick
-http://23.237.22.162:8081/live/la-nick-2-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Nick Junior
-http://23.237.22.162:8081/live/nick-jr/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Nicktoons
-http://23.237.22.162:8081/live/la-nicktoons/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Paramount Channel
-http://23.237.22.162:8081/live/la-paramount-channel-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Sony
-http://23.237.22.162:8081/live/la-sony-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Space
-http://23.237.22.162:8081/live/la-space-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Telenovelas
-http://23.237.22.162:8081/live/la-telenovelas/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",TNT Series
-http://23.237.22.162:8081/live/la-tnt-series-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Tooncast
-http://23.237.22.162:8081/live/la-tooncast-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Unicable
-http://23.237.22.162:8081/live/la-unicable/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Universal Channel
-http://23.237.22.162:8081/live/la-universal-channel/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
-#EXTINF:-1 group-title="Lista CNT PLAY",Warner
-http://23.237.22.162:8081/live/la-warner-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48
 
-
-
-
-#EXTINF:-1 group-title="Lista CNT PLAY",Cine Estelar
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Cine Accion
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Cine Comedia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Cine Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Cine Terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Cine Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Series
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Series Retro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Series Latinas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Novelas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Telefe Clasico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",MTV Vintage
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Teen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Degrassi
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Anime
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Competencias
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Relaty
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Investiga
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Naturaleza
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Minuto para Ganar
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",MasterChef
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Deportes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Futbol Fans
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Viajes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Cocina
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Hogar
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Junior
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Nick JR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Nick Clasico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 group-title="Lista CNT PLAY",Big Sky Conference
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e2fa8c57-e69a-430e-820c-3e2f18e42f4a&deviceId=76dde91c-b96d-4c0c-b515-be85328cad22&deviceVersion=79.0.3945.79&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1 group-title="Lista CNT PLAY",Impact Wrestling
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e2fa8c57-e69a-430e-820c-3e2f18e42f4a&deviceId=76dde91c-b96d-4c0c-b515-be85328cad22&deviceVersion=79.0.3945.79&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1 group-title="Lista CNT PLAY",KickBoxing
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e2fa8c57-e69a-430e-820c-3e2f18e42f4a&deviceId=76dde91c-b96d-4c0c-b515-be85328cad22&deviceVersion=79.0.3945.79&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1 group-title="Lista CNT PLAY",Lucha Libre AAA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=a2c874e1-deb2-457d-88dc-b5ae1b1ca845&deviceId=6c230e439e5c&deviceVersion=75.0.3770.142&appVersion=2.7.3-f002a080d17a7061ac73ac2e68de5e8ca0660c96&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 group-title="Lista CNT PLAY",MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=PlutoXML&deviceModel=PlutoXML&sid=thisisatest&deviceId=thisisatest&deviceVersion=1.0.0.0&appVersion=1.0.0.0&deviceDNT=1&userId=&advertisingId=&deviceLat=45.8934&deviceLon=-95.3971&app_name=&appName=&appStoreUrl=&architecture=
-#EXTINF:-1 group-title="Lista CNT PLAY",Poker Tour
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b07c928c-9a02-9a76-95be-4466d424cb07&deviceId=f5b115106f2e&deviceVersion=75.0.3770.142&appVersion=2.7.3-f002a080d17a7061ac73ac2e68de5e8ca0660c96&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 
 
