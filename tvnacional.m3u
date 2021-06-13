@@ -26,7 +26,7 @@ https://blackghost.live/play/zufree-609.php?c=314
 https://blackghost.live/play/zufree-609.php?c=315
 #EXTINF:-1 group-title="24/7",24/7 BARNY Y SUS AMIGOS
 https://blackghost.live/play/zufree-609.php?c=316
-#EXTINF:-1 group-title="Lista 03",24/7 BOB ESPONJA
+#EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
 https://blackghost.live/play/zufree-609.php?c=317
 #EXTINF:-1 group-title="24/7",24/7  CAILLOU
 https://blackghost.live/play/zufree-609.php?c=318
@@ -94,7 +94,7 @@ https://blackghost.live/play/zufree-609.php?c=349
 https://blackghost.live/play/zufree-609.php?c=350
 #EXTINF:-1 group-title="24/7",24/7 FUTURAMA 1999
 https://blackghost.live/play/zufree-609.php?c=351
-#EXTINF:-1 group-title="Lista 03",24/7 JUEGO DE TRONOS
+#EXTINF:-1 group-title="24/7",24/7 JUEGO DE TRONOS
 https://blackghost.live/play/zufree-609.php?c=352
 #EXTINF:-1 group-title="24/7",24/7 He-Man
 https://blackghost.live/play/zufree-609.php?c=353
@@ -670,7 +670,7 @@ http://45.179.140.242:8000/play/a0g7
 #EXTINF : -1 group-title = "TVSATELITE3", AMC HD
 http://45.179.140.242:8000/play/a0aq
 #EXTINF : -1 group-title = "TVSATELITE3", America TV
-http://45.179.140.242: 8000 / play / a0gz
+http://45.179.140.242: 8000/play/a0gz
 #EXTINF : -1 group-title = "TVSATELITE3", Animal Planet
 http://45.179.140.242:8000/play/a0fy
 #EXTINF : -1 group-title = "TVSATELITE3", Animal Planet HD
@@ -738,7 +738,7 @@ http: // 45.179.140.242:8000/play/a0hj
 #EXTINF : -1 group-title = "TVSATELITE3", FOX Action HD
 http://45.179.140.242:8000/play/a07s
 #EXTINF : -1 group-title = "TVSATELITE3", FOX Comedy HD
-http://45.179.140.242:8000/ play / a05j
+http://45.179.140.242:8000/play/a05j
 #EXTINF : -1 group-title = "TVSATELITE3", FOX Family HD
 http://45.179.140.242:8000/play/a07t
 #EXTINF : -1 group-title = "TVSATELITE3", FOX SPORTS 2 HD
@@ -786,7 +786,7 @@ http://45.179.140.242:8000/play/a0hh
 #EXTINF : -1 group-title = "TVSATELITE3", Nick SIM HD
 http://45.179.140.242:8000/play/a07h
 #EXTINF : -1 group-title = "TVSATELITE3", Nickelodeon
-http://45.179.140.242: 8000 / play / a0h1
+http://45.179.140.242:8000/play/a0h1
 #EXTINF : -1 group-title = "TVSATELITE3", Paramount HD
 http://45.179.140.242:8000/play/a05b
 #EXTINF : -1 group-title = "TVSATELITE3", Pasiones HD
@@ -1422,7 +1422,7 @@ http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starclassics&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starcomedy&f=.m3u8
 #EXTINF:-1  group-title="TVSATELITE2", STAR FUN
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starfun&f=.m3u8
-#EXTINF:-1  group-title="LTVSATELITE2", STAR HITS
+#EXTINF:-1  group-title="SATELITE2", STAR HITS
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starhits&f=.m3u8
 #EXTINF:-1  group-title="TVSATELITE2", STAR LIFE
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starlife&f=.m3u8
