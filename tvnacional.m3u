@@ -1204,486 +1204,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007f
 
 ...................................................................................................
 
-#EXTINF:-1 group-title="TVSATELITE2",AZMUNDO
-https://blackghost.live/play/codeplus1-609.php?c=a01n
-#EXTINF:-1 group-title="TVSATELITE2",Azteca 1
-https://blackghost.live/play/codeplus1-609.php?c=a00f
-#EXTINF:-1 group-title="TVSATELITE2",Canal E
-https://blackghost.live/play/codeplus1-609.php?c=a01t
-#EXTINF:-1 group-title="TVSATELITE2",Canal de las estrellas
-https://blackghost.live/play/codeplus1-609.php?c=a01g
-#EXTINF:-1 group-title="TVSATELITE2",Cinecanal
-https://blackghost.live/play/codeplus1-609.php?c=a00r
-#EXTINF:-1 group-title="TVSATELITE2",DISNEY JR
-https://blackghost.live/play/codeplus1-609.php?c=a01i
-#EXTINF:-1 group-title="TVSATELITE2",Discovery Channel
-https://blackghost.live/play/codeplus1-609.php?c=a008
-#EXTINF:-1 group-title="TVSATELITE2",Discovery Civilization
-https://blackghost.live/play/codeplus1-609.php?c=a01f
-#EXTINF:-1 group-title="TVSATELITE2",Discovery HH
-https://blackghost.live/play/codeplus1-609.php?c=a002
-#EXTINF:-1 group-title="TVSATELITE2",Distrito Comedia
-https://blackghost.live/play/codeplus1-609.php?c=a01m
-#EXTINF:-1 group-title="TVSATELITE2",ESPN +
-https://blackghost.live/play/codeplus1-609.php?c=a00bb
-#EXTINF:-1 group-title="TVSATELITE2",ESPN 2 HD
-https://blackghost.live/play/codeplus1-609.php?c=a00c
-#EXTINF:-1 group-title="TVSATELITE2",ESPN 3 HD
-https://blackghost.live/play/codeplus1-609.php?c=a00v
-#EXTINF:-1 group-title="TVSATELITE2",ESPN DEPORTES
-https://blackghost.live/play/codeplus1-609.php?c=a02g
-#EXTINF:-1 group-title="TVSATELITE2",ESPN HD eth1
-https://blackghost.live/play/codeplus1-609.php?c=a00b
-#EXTINF:-1 group-title="TVSATELITE2",EWNTV
-https://blackghost.live/play/codeplus1-609.php?c=a00y
-#EXTINF:-1 group-title="TVSATELITE2",FOX FAMILy
-https://blackghost.live/play/codeplus1-609.php?c=a026
-#EXTINF:-1 group-title="TVSATELITE2",FX
-https://blackghost.live/play/codeplus1-609.php?c=a029
-#EXTINF:-1 group-title="TVSATELITE2",FoodNetwork ether1
-https://blackghost.live/play/codeplus1-609.php?c=a01p
-#EXTINF:-1 group-title="TVSATELITE2",Fox Cinema
-https://blackghost.live/play/codeplus1-609.php?c=a028
-#EXTINF:-1 group-title="TVSATELITE2",Fox MX HD
-https://blackghost.live/play/codeplus1-609.php?c=a02b
-#EXTINF:-1 group-title="TVSATELITE2",Fox Movies
-https://blackghost.live/play/codeplus1-609.php?c=a027
-#EXTINF:-1 group-title="TVSATELITE2",Fox Sports 2
-https://blackghost.live/play/codeplus1-609.php?c=a00h
-#EXTINF:-1 group-title="TVSATELITE2",Fox Sports 3
-https://blackghost.live/play/codeplus1-609.php?c=a00j
-#EXTINF:-1 group-title="TVSATELITE2",Glizt
-https://blackghost.live/play/codeplus1-609.php?c=a011
-#EXTINF:-1 group-title="TVSATELITE2",HBO PLUS HD
-https://blackghost.live/play/codeplus1-609.php?c=a01b
-#EXTINF:-1 group-title="TVSATELITE2",HBO Plus
-https://blackghost.live/play/codeplus1-609.php?c=a02e
-#EXTINF:-1 group-title="TVSATELITE2",HTV
-https://blackghost.live/play/codeplus1-609.php?c=a01j
-#EXTINF:-1 group-title="TVSATELITE2",LifeTime
-https://blackghost.live/play/codeplus1-609.php?c=a025
-#EXTINF:-1 group-title="TVSATELITE2",Natgeo
-https://blackghost.live/play/codeplus1-609.php?c=a015
-#EXTINF:-1 group-title="TVSATELITE2",Paramount
-https://blackghost.live/play/codeplus1-609.php?c=a02d
-#EXTINF:-1 group-title="TVSATELITE2",Rai Italia
-https://blackghost.live/play/codeplus1-609.php?c=a00u
-#EXTINF:-1 group-title="TVSATELITE2",SONYHD
-https://blackghost.live/play/codeplus1-609.php?c=a01o
-#EXTINF:-1 group-title="TVSATELITE2",TLNOVELAS
-https://blackghost.live/play/codeplus1-609.php?c=a02h
-#EXTINF:-1 group-title="TVSATELITE2",TUDN
-https://blackghost.live/play/codeplus1-609.php?c=a00k
-#EXTINF:-1 group-title="TVSATELITE2",TVE
-https://blackghost.live/play/codeplus1-609.php?c=a00x
-#EXTINF:-1 group-title="TVSATELITE2",Unan
-https://blackghost.live/play/codeplus1-609.php?c=a010
-#EXTINF:-1 group-title="TVSATELITE2",Unicable
-https://blackghost.live/play/codeplus1-609.php?c=a01h
-#EXTINF:-1 group-title="TVSATELITE2",VH1 HD
-https://blackghost.live/play/codeplus1-609.php?c=a02i
 
-
-.......................................................................................
-#EXTINF:-1  group-title="TVSATELITE2", DREIKOTV CANAL 24/7
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", EIN SPORTS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=winhd&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", UNIVERSO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=universo&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", RCN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=rcn&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", LA LIGA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=laliga&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", NBC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nbcsn&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", GOLTV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=goltv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AFIZZIONADOS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=afizzionados&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", BEIN SPORTS N
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=beines&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DIRECTV SPORTS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=directv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DIRECTV SPORTS +
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=directvplus&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FOX SPORTS PREMIUM
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=foxsportp&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TELEMUNDO INTERNACIONAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=telemundoint&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AZCORAZON
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azcorazon&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", A&E
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=ae&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AXN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=axn&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", COMEDY CENTRAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=comedy&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", E!
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=e&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FX
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=fx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISCOVERY ID
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=id&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", LIFETIME
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=lifetime&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", PASIONES
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=pasiones&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", SONY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=sony&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TBS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tbs&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TLC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tlc&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TLNOVELAS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tlnovelas&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TNT SERIES
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tntseries&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TRUTV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=trutv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=universal&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", WARNER
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=warner&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AZ CINEMA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azcinema&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AMC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=amc&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CINECANAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinecanal&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CINEMAX
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinemax&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CINE LATINO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinelatino&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CINE LATINO HD
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinelatinohd&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CLARO CINEMA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=clarocinema&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DE PELICULA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dpelicula&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DE PELICULA PLUS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dpeliculaplus&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DHE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dhe&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", EUROPA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=europa&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", EURO CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=euroch&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FILMS & ARTS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=filmarts&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FXM
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=fxm&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", GOLDEN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=golden&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=edge&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", GOLDEN PLUS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=goldenplus&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=goldenp&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HBO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hboes&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HBO 2
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbo2&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HBO PLUS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hboplus&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HBO FAMILY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbofamily&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HBO MUNDI
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbomundi&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HBO POP
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbopop&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HBO SIGNATURE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbosignature&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HBO XTREME
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hboxtreme&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", I SAT
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=isat&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MORBIDO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=morbido&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MULTI CINEMA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mc&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MULTI PREMIER
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mp&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", PARAMOUNT CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=paramount&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", SPACE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=space&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FOX CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starch&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FOX ACTION
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=staraction&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", STAR CINEMA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starcinema&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", STAR CLASSICS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starclassics&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", STAR COMEDY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starcomedy&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", STAR FUN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starfun&f=.m3u8
-#EXTINF:-1  group-title="SATELITE2", STAR HITS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starhits&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", STAR LIFE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starlife&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", STAR SERIES
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starseries&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", STUDIO UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=studiou&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", SYFY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=syfy-1&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TCM
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tcm&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TNT
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tnt&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AZ MUNDO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azmundo&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", ANIMAL PLANET
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=animalp&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISCOVERY CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=discovery&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISCOVERY SCIENCE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dciencia&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISCOVERY CIVILIZATION
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dcivil&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISCOVERY THEATER
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dtheater&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISCOVERY TURBO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dturbo&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISCOVERY WORLD
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dworld&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FOOD NETWORK
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=food&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", GOURMET
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=gourmet&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HISTORY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=history&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", H2
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=history2&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", H&H
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hh&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HOLATV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=holatv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MAS CHIC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=maschic&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", NAT GEO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=natgeo&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", NAT GEO WILD
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=natgeowild&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AZ CLIC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azclic&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CONCERT
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=concert&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", BANDAMAX
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=bandamax&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", EUFORIA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=euforia&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", EXATV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=exatv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FOX MIX
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=foxmix-1&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", HTV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=htv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", LA MEJOR TV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=lamejor&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MTV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MTV TR3S
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtvtr3s&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MTV HITS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtvhits&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MTV LIVE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtvlive&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MTV 80S
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtv80s&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", NICK MUSIC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nickmusic&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TELEHIT
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=telehit&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TELEHIT PLUS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=telehitplus&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TELERITMO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=teleritmo&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TMTV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tmtv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", VH1
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=vh1&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", VIDEOROLA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=videorola&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", A+
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=amas&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AZTECA UNO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=aztecauno&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", EL DOS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=eldos&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CANAL 5
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=elcinco&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", AZTECA 7
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azteca7&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", NU9VE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nueve&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISTRITO COMEDIA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=distrito&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", IMAGEN TV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=imagentv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", UNICABLE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=unicable&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MEXIQUENSE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mexiquense&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MULTIMEDIOS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=multimedios&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MVS TV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mvstv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TV CUATRO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tvcuatro&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", ONCE TV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=oncetv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", ADN40
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=adn40&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CNN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cnnes&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FORO TV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=forotv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", MILENIO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=milenio&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", GALAVISION
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=galavision&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TELEMUNDO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=telemundo&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", UNIMAS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=unimas&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", UNIVISION
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=univisionhd&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CANAL CLARO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=claro&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", ESPN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espn1mx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", ESPN 2
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espn2mx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", ESPN 3
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espn3mx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espnextramx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espndep&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FOX SPORTS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=foxsport1mx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FOX SPORTS 2
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=foxsport2mx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", FOX SPORTS 3
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=foxsport3mx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TUDN MX
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tudnmx&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TUDN US
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tudnus&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tvcdep&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", BABYTV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=babytv&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", BABY FIRST
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=babyfirts&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", BITME
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=bitme&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", BOOMERANG
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=boomerang&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", CARTOON NETWORK
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cartoon&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISNEY CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=disneych&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISNEY JR
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=disneyjr&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISNEY XD
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=disneyxd&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dkids&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", NAT GEO KIDS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=natgeokids&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", NICK
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nick&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", NICK JR
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nickjr&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TEEN NICK
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=teennick&f=.m3u8
-#EXTINF:-1  group-title="TVSATELITE2", TOONCAST
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tooncast&f=.m3u8
-
-#EXTINF:-1 group-title="TVSATELITE2",AZMUNDO
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01n
-#EXTINF:-1 group-title="TVSATELITE2",Azteca 1
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00f
-#EXTINF:-1 group-title="TVSATELITE2",Canal E
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01t
-#EXTINF:-1 group-title="TVSATELITE2",Canal de las estrellas
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01g
-#EXTINF:-1 group-title="TVSATELITE2",Cinecanal
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00r
-#EXTINF:-1 group-title="TVSATELITE2",DISNEY JR
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01i
-#EXTINF:-1 group-title="TVSATELITE2",Discovery Channel
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a008
-#EXTINF:-1 group-title="TVSATELITE2",Discovery Civilization
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01f
-#EXTINF:-1 group-title="TVSATELITE2",Discovery HH
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a002
-#EXTINF:-1 group-title="TVSATELITE2",Distrito Comedia
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01m
-#EXTINF:-1 group-title="TVSATELITE2",ESPN +
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00bb
-#EXTINF:-1 group-title="TVSATELITE2",ESPN 2 HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00c
-#EXTINF:-1 group-title="TVSATELITE2",ESPN 3 HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00v
-#EXTINF:-1 group-title="TVSATELITE2",ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02g
-#EXTINF:-1 group-title="TVSATELITE2",ESPN HD eth1
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00b
-#EXTINF:-1 group-title="TVSATELITE2",EWNTV
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00y
-#EXTINF:-1 group-title="TVSATELITE2",FOX FAMILy
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a026
-#EXTINF:-1 group-title="TVSATELITE2",FX
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a029
-#EXTINF:-1 group-title="TVSATELITE2",FoodNetwork ether1
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01p
-#EXTINF:-1 group-title="TVSATELITE2",Fox Cinema
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a028
-#EXTINF:-1 group-title="TVSATELITE2",Fox MX HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02b
-#EXTINF:-1 group-title="TVSATELITE2",Fox Movies
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a027
-#EXTINF:-1 group-title="TVSATELITE2",Fox Sports 2
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00h
-#EXTINF:-1 group-title="TVSATELITE2",Fox Sports 3
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00j
-#EXTINF:-1 group-title="TVSATELITE2",Glizt
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a011
-#EXTINF:-1 group-title="TVSATELITE2",HBO PLUS HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01b
-#EXTINF:-1 group-title="TVSATELITE2",HBO Plus
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02e
-#EXTINF:-1 group-title="TVSATELITE2",HTV
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01j
-#EXTINF:-1 group-title="TVSATELITE2",LifeTime
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a025
-#EXTINF:-1 group-title="TVSATELITE2",Natgeo
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a015
-#EXTINF:-1 group-title="TVSATELITE2",Paramount
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02d
-#EXTINF:-1 group-title="TVSATELITE2",Rai Italia
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00u
-#EXTINF:-1 group-title="TVSATELITE2",SONYHD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01o
-#EXTINF:-1 group-title="TVSATELITE2",TLNOVELAS
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02h
-#EXTINF:-1 group-title="TVSATELITE2",TUDN
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00k
-#EXTINF:-1 group-title="TVSATELITE2",TVE
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00x
-#EXTINF:-1 group-title="TVSATELITE2",Unan
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a010
-#EXTINF:-1 group-title="TVSATELITE2",Unicable
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01h
-#EXTINF:-1 group-title="TVSATELITE2",VH1 HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02i
 .....................................................................
 #EXTINF:-1 group-title="Lista CNT PLAY", 24 Horas
 http://186.101.216.211:8000/play/a0e8
@@ -2300,10 +1821,6 @@ http://45.176.118.56:8088/play/a011
 
 =================================================================
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador2", Ecuavisa
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador2", Teleamazonas
@@ -2326,4 +1843,107 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_
 https://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador2", UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Canal del Futbol SD ( Solo Eventos )" tvg-logo="http://tv.iptv5latino.cl:8000/images/297f080dfda24ea8641eee3a451ac413.png" group-title="DEPORTES",Ecuador - Canal del Futbol SD ( Solo Eventos )
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63541
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE ECUADOR" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0/1519865005877?e=2159024400&v=beta&t=ztkAIkTsm7RcAsbUXkfXw32bAlR9IPjFmUQm2hagm-k" group-title="DEPORTES",LIGA DE ECUADOR
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/68864
+#EXTINF:-1 tvg-id="foxsports.las" tvg-name="FOX SPORTS 1 (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX SPORTS 1 (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54121
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="ESPN 2 MÉXICO (ꜱᴅ)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 MÉXICO (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53649
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 2 MÉXICO (ꜱᴅ)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 MÉXICO (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/27553
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Fox Sports 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55425
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3 ARGENTINA (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 ARGENTINA (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/41668
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 MÉXICO (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 MÉXICO (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55007
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES",FOX SPORTS PREMIUM (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/62490
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS (ecuador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES",DIRECTV SPORTS (ecuador)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/60863
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53362
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="DIRECTV SPORTS 1 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 1 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54128
+
+
+=========================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="COL: CARACOL (sd)" tvg-logo="http://144.217.91.146/Logos/Colombia/caracol-tv-co.png" group-title="COPA AMERICA",COL: CARACOL (sd)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/61828
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Canal del Futbol SD ( Solo Eventos )" tvg-logo="http://tv.iptv5latino.cl:8000/images/297f080dfda24ea8641eee3a451ac413.png" group-title="COPA AMERICA",Ecuador - Canal del Futbol SD ( Solo Eventos )
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63541
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS (ecuador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="COPA AMERICA",DIRECTV SPORTS (ecuador)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/60863
+
+==========================================================================================================================================================================
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="FX ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="TVCABLE",FX ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55427
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANELL (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/800px-Disney_Channel_logo_%282014%29.svg.png" group-title="TVCABLE",DISNEY CHANELL (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/15604
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.howdeniberia.com/wp-content/uploads/2018/05/Disney-logo-png-transparent-download.png" group-title="TVCABLE",DISNEY CHANNEL
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/33727
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR (ꜱᴅ)" tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="TVCABLE",DISNEY JUNIOR (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/723
+#EXTINF:-1 tvg-id="disneyjr.cl" tvg-name="Disney Junior ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" group-title="TVCABLE",Disney Junior ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55408
+#EXTINF:-1 tvg-id="disneyxd.cl" tvg-name="Disney XD ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="TVCABLE",Disney XD ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55409
+#EXTINF:-1 tvg-id="disneyxd.cl" tvg-name="DISNEY XD ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="TVCABLE",DISNEY XD ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/724
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Film & Arts ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="TVCABLE",Film & Arts ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/49468
+#EXTINF:-1 tvg-id="foxaction.la" tvg-name="Fox Action ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/W_A_l4RrwQr5kxRaVHyue-Kk4ibAwU5F5D3jv-74Bx7SDmrd2H2mO1QR4kSZC9I06pgMXGoDRm-njPh0KzoUUiXX3L4IWVIfNUbyMGEiXYkGSM3Ols6BWopqF8VQ_OJlDbl08_HPWcyTk7xyP6sRl26o" group-title="LATINOS SD",Fox Action ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55415
+#EXTINF:-1 tvg-id="foxchannel.mx" tvg-name="FOX CHANNEL (ᴍᴇxɪᴄᴏ)" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="TVCABLE",FOX CHANNEL
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53539
+#EXTINF:-1 tvg-id="foxaction.la" tvg-name="FOX CHANNEL SUR" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="TVCABLE",FOX CHANNEL SUR
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/1738
+#EXTINF:-1 tvg-id="foxaction.la" tvg-name="Fox Channel ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FOX_wordmark-black.svg/1200px-FOX_wordmark-black.svg.png" group-title="TVCABLE",Fox Channel
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55416
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Fox Cinema ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Fox_Premium_Cinema_1.png/revision/latest/scale-to-width-down/340?cb=20200109143105&path-prefix=es" group-title="LATINOS SD",Fox Cinema ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55417
+#EXTINF:-1 tvg-id="foxclassics.la" tvg-name="Fox Classics ⁽ˢᵈ⁾" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png" group-title="TVCABLE",Fox Classics
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55418
+#EXTINF:-1 tvg-id="foxfamily.la" tvg-name="Fox Family ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Fox_Premium_Family_2017.svg/revision/latest/scale-to-width-down/340?cb=20200510184117&path-prefix=es" group-title="TVCABLE",Fox Family ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55419
+#EXTINF:-1 tvg-id="foxlife.la" tvg-name="Fox Life ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="TVCABLE",Fox Life ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55420
+#EXTINF:-1 tvg-id="foxmovies.la" tvg-name="Fox Movies ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/LLzdVwulEgEhLA6y2TgLpw7gPsdffx-K0T-RR_wr3RCtx6-VkbRzJDtjIJOsrIMv8E_mUYA4aB3jP0eL33gYDdnTuZJn6AZOXDVVSUT7hTkZnYgBvAaI6nsXshTdgWdsrOUizUg2n-W8kUdKyCD7JLFc" group-title="TVCABLE",Fox Movies ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55421
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Fox Series ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/5MSNsf1I8LH3BSTgkiZnvXZOhhBOmI9ijyeBeXCriEgpfG8ezeDuPYaHCprm03dHwcF5ZKR2OfhA98LD_bam1wVnmSHgwFngsE7JT6GwwnQ3m3Wb25ULYW5JeNgQvf6_EmCCi5Hq0ScKFJsJJVN7FWn8" group-title="LATINOS SD",Fox Series ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55424
+#EXTINF:-1 tvg-id="history.co" tvg-name="H2 ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20191211180911&path-prefix=es" group-title="TVCABLE",H2 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55429
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-name="HBO 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TVCABLE",HBO 2 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55431
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO Family ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TVCABLE",HBO Family ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55432
+#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="TVCABLE",HBO ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55430
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Investigation Discovery ⁽ˢᵈ⁾" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="TVCABLE",Investigation Discovery ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55433
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TVCABLE",Las Estrellas ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55435
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="TVCABLE",NICK JR (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/726
+
+===========================================================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Ecuavisa [Gquil] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a3fff5343075870074dbe3092d16656b.png" group-title="ECUADORSD",Ecuador - Ecuavisa [Gquil] SD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63560
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Oromar TV SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/c295d286ede5d464463cbfea23a92938.png" group-title="ECUADORSD",Ecuador - Oromar TV SD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63571
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - RTS SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/243653d8062248c551885f2a80f2f571.jpg" group-title="ECUADORSD",Ecuador - RTS SD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63574
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - RTU SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/9c236d91351a53412856385c13fe16b9.jpg" group-title="ECUADORSD",Ecuador - RTU SD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63575
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Teleamazonas [Gquil] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="ECUADORSD",Ecuador - Teleamazonas [Gquil] SD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63582
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Teleamazonas [Quito] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="ECUADORSD",Ecuador - Teleamazonas [Quito] SD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63585
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Gamavision ⁽ˢᵈ⁾" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png" group-title="ECUADORSD",Gamavision ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55428
+
 
