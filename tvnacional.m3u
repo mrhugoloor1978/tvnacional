@@ -774,6 +774,8 @@ http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directv&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tudnmx&f=.m3u8
 #EXTINF : -1 group-title = "COPA AMERICA", Canal Caracol
 http://186.101.216.211:8000/play/a08z
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: TUDN MEXICO APOYANOS MRZUTV.NET BAJA NUESTRA APP" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",DEPORTES: TUDN MEXICO APOYANOS MRZUTV.NET BAJA NUESTRA APP
+http://gratuita.mrzutv.net:8080/asfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfga/asfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfga/40968
 
 ===================================================
 #EXTINF : -1 group-title = "TVSATELITE1",24 Horas
