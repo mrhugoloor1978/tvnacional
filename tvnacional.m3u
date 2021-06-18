@@ -2256,7 +2256,7 @@ https://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador2", UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Canal del Futbol SD ( Solo Eventos )" tvg-logo="http://tv.iptv5latino.cl:8000/images/297f080dfda24ea8641eee3a451ac413.png" group-title="DEPORTES",Ecuador - Canal del Futbol SD ( Solo Eventos )
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Canal del Futbol SD ( Solo Eventos )" tvg-logo="http://tv.iptv5latino.cl:8000/images/297f080dfda24ea8641eee3a451ac413.png" group-title="DEPORTES", Ecuador - Canal del Futbol SD ( Solo Eventos )
 http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63541
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE ECUADOR" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0/1519865005877?e=2159024400&v=beta&t=ztkAIkTsm7RcAsbUXkfXw32bAlR9IPjFmUQm2hagm-k" group-title="DEPORTES",LIGA DE ECUADOR
 http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/68864
