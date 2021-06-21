@@ -572,16 +572,6 @@ http://gratuita.mrzutv.net:8080/agagfaergfawergagagfaergfawergagagfaergfawergaga
 http://gratuita.mrzutv.net:8080/agagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawerg/agagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawergagagfaergfawerg/41506
 
 ..................................................................
-#EXTINF:-1  group-title="COPA AMERICA", DIRECTV SPORTS +
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directvplus&f=.m3u8
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="DIRECTV SPORTS 1 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="COPA AMERICA",DIRECTV SPORTS 1 ⁽ᴹ⁾
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directv&f=.m3u8
-#EXTINF:-1  group-title="COPA AMERICA", TUDN MX
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tudnmx&f=.m3u8
-#EXTINF : -1 group-title = "COPA AMERICA", Canal Caracol
-http://186.101.216.211:8000/play/a08z
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: TUDN MEXICO APOYANOS MRZUTV.NET BAJA NUESTRA APP" tvg-logo="" group-title="COPA AMERICA", TUDN
-http://gratuita.mrzutv.net:8080/asfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfga/asfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfga/40968
 
 ===================================================
 #EXTINF : -1 group-title = "TVSATELITE1",24 Horas
@@ -598,7 +588,7 @@ http://186.101.216.211:8000/play/a073
 http://186.101.216.211:8000/play/a0cm
 #EXTINF : -1 group-title = "TVSATELITE1", America TV AR Conax
 http://186.101.216.211:8000/play/a079
-#EXTINF : -1 group-title = "TVSATELITE1", AmericaTV P
+#EXTINF : -1 group-title = "TVSATELITE1", AmericaTV 
 http://186.101.216.211:8000/play/a071
 #EXTINF : -1 group-title = "TVSATELITE1", Animal Planet 
 http://186.101.216.211:8000/play/a02g
@@ -660,9 +650,9 @@ http://186.101.216.211:8000/play/a0cx
 http://186.101.216.211:8000/play/a02e
 #EXTINF : -1 group-title = "TVSATELITE1", Disney Junior
 http://186.101.216.211:8000/play/a02a
-#EXTINF : -1 group-title = "TVSATELITE1", Disney 
+#EXTINF : -1 group-title = "TVSATELITE1", Disney Channel 
 http://186.101.216.211:8000/play/a06b
-#EXTINF : -1 group-title = "TVSATELITE1", E¡ Entertainment
+#EXTINF : -1 group-title = "TVSATELITE1", E¡
 http://186.101.216.211:8000/play/a02i
 #EXTINF : -1 group-title = "TVSATELITE1", ESPN 2
 http://186.101.216.211:8000/play/a02k
@@ -720,7 +710,7 @@ http: / /186.101.216.211:8000/play/a0ad
 http://186.101.216.211:8000/play/a0e2
 #EXTINF : -1 group-title = "TVSATELITE1", HBO Plus
 http://186.101.216.211:8000/play/a0dy
-#EXTINF : -1 group-title = "TVSATELITE1", HBO Plus west
+#EXTINF : -1 group-title = "TVSATELITE1", HBO Plus 
 http://186.101.216.211:8000/play/a0e0
 #EXTINF : -1 group-title = "TVSATELITE1", HBO Signature
 http://186.101.216.211:8000/play/a0dz
@@ -730,9 +720,9 @@ http://186.101.216.211:8000/play/a0dx
 http://186.101.216.211:8000/play/a0ae
 #EXTINF : -1 group-title = "TVSATELITE1", History Channel
 http://186.101.216.211:8000/play/a06d
-#EXTINF : -1 group-title = "TVSATELITE1", Home and health
+#EXTINF : -1 group-title = "TVSATELITE1", discovery Home and health
 http://186.101.216.211:8000/play/a08g
-#EXTINF : -1 group-title = "TVSATELITE1", I- Sáb
+#EXTINF : -1 group-title = "TVSATELITE1", I-Sat
 http://186.101.216.211:8000/play/a06g
 #EXTINF : -1 group-title = "TVSATELITE1", La Red
 http://186.101.216.211:8000/play/a01v
@@ -764,7 +754,7 @@ http://186.101.216.211:8000/play/a0ai
 http://186.101.216.211:8000/play/a06a
 #EXTINF : -1 group-title = "TVSATELITE1", Oglobo
 http://186.101.216.211:8000/play/a08u
-#EXTINF : -1 group-title = "TVSATELITE1", Panamericana TV Conax
+#EXTINF : -1 group-title = "TVSATELITE1", Panamericana TV 
 http://186.101.216.211:8000/play/a072
 #EXTINF : -1 group-title = "TVSATELITE1", Paraguay TV
 http://186.101.216.211:8000/play/a08t
@@ -782,7 +772,7 @@ http://186.101.216.211:8000/play/a0ee
 http://186.101.216.211:8000/play/a0af
 #EXTINF : -1 group-title = "TVSATELITE1", fox CHANNEL
 http: / /186.101.216.211:8000/play/a06l
-#EXTINF : -1 group-title = "TVSATELITE1", fox premium CINEMA Na
+#EXTINF : -1 group-title = "TVSATELITE1", fox premium CINEMA
 http://186.101.216.211:8000/play/a0ag
 #EXTINF: -1 group-title = "TVSATELITE1", fox COMEDY
 http://186.101.216.211:8000/play/a0ah
@@ -814,7 +804,7 @@ http://186.101.216.211:8000/play/a06p
 http://186.101.216.211:8000/play/a021
 #EXTINF : -1 group-title = "TVSATELITE1", TNT SPORTS 3
 http://186.101.216.211:8000/play/a02o
-#EXTINF : -1 group-title = "TVSATELITE1", TNTseries
+#EXTINF : -1 group-title = "TVSATELITE1", TNT series
 http://186.101.216.211:8000/play/a0du
 #EXTINF : -1 group-title = "TVSATELITE1", TRO
 http://186.101.216.211:8000/play/a09c
@@ -851,7 +841,7 @@ http://186.101.216.211:8000/play/a0ds
 #EXTINF : -1 group-title = "TVSATELITE1", TyC Sports Na
 http://186.101.216.211:8000/play/a0al
 #EXTINF : -1 group-title = "TVSATELITE1", Unicanal
-http://186.101.216.211:8000 / play / a0cu
+http://186.101.216.211:8000/play/a0cu
 #EXTINF : -1 group-title = "TVSATELITE1", Universal 
 http://186.101.216.211:8000/play/a06f
 #EXTINF : -1 group-title = "TVSATELITE1", Venevision Plus 
@@ -915,7 +905,7 @@ http://45.179.140.242:8000/play/a05d
 http://45.179.140.242:8000/play/a05i
 #EXTINF : -1 group-title = "TVSATELITE3", Discovery Kids
 http://45.179.140.242:8000/play/a01b
-#EXTINF : -1 group-title = "TVSATELITE3", Discovery Niños HD
+#EXTINF : -1 group-title = "TVSATELITE3", Discovery kids HD
 http://45.179.140.242:8000/play/a05e
 #EXTINF : -1 group-title = "TVSATELITE3", Discovery Turbo
 http://45.179.140.242:8000/play/a0hi
@@ -927,12 +917,12 @@ http://45.179.140.242:8000/play/a0fw
 http://45.179.140.242:8000/play/a01s
 #EXTINF : -1 group-title = "TVSATELITE3", E¡ Entertainment
 http://45.179.140.242:8000/play/a0gh
-#EXTINF : -1 group-title = "TVSATELITE3", E! Entretenimiento HD
+#EXTINF : -1 group-title = "TVSATELITE3", E! Entertainment HD
 http://45.179.140.242:8000/play/a07z
 #EXTINF : -1 group-title = "TVSATELITE3", ESPN
 http://45.179.140.242:8000/play/a0g3
 #EXTINF : -1 group-title = "TVSATELITE3", ESPN HD
-http://45.179.140.242 : 8000 / play / a058
+http://45.179.140.242:8000/play/a058
 #EXTINF : -1 group-title = "TVSATELITE3", ESPN 2 HD
 http://45.179.140.242:8000/play/a056
 #EXTINF : -1 group-title = "TVSATELITE3", ESPN 2 Latin
@@ -965,9 +955,9 @@ http://45.179.140.242:8000/play/a059
 http://45.179.140.242:8000/play/a0hf
 #EXTINF : -1 group-title = "TVSATELITE3", FX HD
 http://45.179.140.242:8000/play/a084
-#EXTINF : -1 group-title = "TVSATELITE3", Películas FX HD
+#EXTINF : -1 group-title = "TVSATELITE3",  FX movies HD
 http://45.179.140.242:8000/play/a086
-#EXTINF : -1 group-title = "TVSATELITE3", Fox Deportes
+#EXTINF : -1 group-title = "TVSATELITE3", Fox sports
 http://45.179.140.242:8000/play/a0g1
 #EXTINF : -1 group-title = "TVSATELITE3", Fox Sports 1
 http://45.179.140.242:8000/play/a0gx
@@ -983,9 +973,9 @@ http://45.179.140.242:8000/play/a0g4
 http://45.179.140.242:8000/play/a0fu
 #EXTINF : -1 group-title = "TVSATELITE3", GamaTV
 http://45.179.140.242:8000/play/a050
-#EXTINF : -1 group-title = "TVSATELITE3", home and health HD
+#EXTINF : -1 group-title = "TVSATELITE3", discovery home and health HD
 http://45.179.140.242:8000/play/a07l
-#EXTINF : -1 group-title = "TVSATELITE3", home and health
+#EXTINF : -1 group-title = "TVSATELITE3", discovery home and health
 http://45.179.140.242:8000/play/a0gv
 #EXTINF : -1 group-title = "TVSATELITE3", MTV
 http://45.179.140.242:8000/play/a0h3
@@ -997,7 +987,7 @@ http://45.179.140.242:8000/play/a05a
 http://45.179.140.242:8000/play/a0h6
 #EXTINF : -1 group-title = "TVSATELITE3", Nick 2 HD
 http://45.179.140.242:8000/play/a07g
-#EXTINF : -1 group-title = "TVSATELITE3", Nick Jr
+#EXTINF : -1 group-title = "TVSATELITE3", Nick Junior
 http://45.179.140.242:8000/play/a0hh
 #EXTINF : -1 group-title = "TVSATELITE3", Nick SIM HD
 http://45.179.140.242:8000/play/a07h
@@ -1015,7 +1005,7 @@ http://45.179.140.242:8000/play/a0h5
 http://45.179.140.242:8000/play/a0h4
 #EXTINF : -1 group-title = "TVSATELITE3", Sony
 http://45.179.140.242:8000/play/a0hc
-#EXTINF : -1 group-title = "TVSATELITE3", Espacio
+#EXTINF : -1 group-title = "TVSATELITE3", Espace
 http://45.179.140.242:8000/play/a0he
 #EXTINF : -1 group-title = "TVSATELITE3", Studio Universal HD
 http://45.179.140.242:8000/play/a0ak
@@ -1029,7 +1019,7 @@ http://45.179.140.242:8000/play/a0h8
 http://45.179.140.242:8000/play/a07j
 #EXTINF : -1 group-title = "TVSATELITE3", TNT SPORTS 3
 http://45.179.140.242:8000/play/a0g6
-#EXTINF : -1 group-title = "TVSATELITE3", Serie TNT HD
+#EXTINF : -1 group-title = "TVSATELITE3", TNT Series HD
 http://45.179.140.242:8000/play/a05c
 #EXTINF : -1 group-title = "TVSATELITE3", TVE
 http://45.179.140.242:8000/play/a0ha
@@ -1427,7 +1417,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007f
 http://186.101.216.211:8000/play/a0e8
 #EXTINF:-1 group-title="Lista CNT PLAY", A&E
 http://186.101.216.211:8000/play/a0dr
-#EXTINF:-1 group-title="Lista CNT PLAY", A E Mundo
+#EXTINF:-1 group-title="Lista CNT PLAY", AE Mundo
 http://186.101.216.211:8000/play/a02p
 #EXTINF:-1 group-title="Lista CNT PLAY", ATRES SERIES
 http://186.101.216.211:8000/play/a0dv
@@ -1453,7 +1443,7 @@ http://186.101.216.211:8000/play/a0eb
 http://186.101.216.211:8000/play/a0am
 #EXTINF:-1 group-title="Lista CNT PLAY", CNN Chile
 http://186.101.216.211:8000/play/a0ec
-#EXTINF:-1 group-title="Lista CNT PLAY", CNN Espanol
+#EXTINF:-1 group-title="Lista CNT PLAY", CNN Español
 http://186.101.216.211:8000/play/a01u
 #EXTINF:-1 group-title="Lista CNT PLAY", CNN International
 http://186.101.216.211:8000/play/a0dk
@@ -1467,7 +1457,7 @@ http://186.101.216.211:8000/play/a093
 http://186.101.216.211:8000/play/a05i
 #EXTINF:-1 group-title="Lista CNT PLAY", Canal RCN
 http://186.101.216.211:8000/play/a09k
-#EXTINF:-1 group-title="Lista CNT PLAY", Canal Uno TV Ecu 
+#EXTINF:-1 group-title="Lista CNT PLAY", Canal Uno  
 http://186.101.216.211:8000/play/a033
 #EXTINF:-1 group-title="Lista CNT PLAY", Canal de Las estrellas 
 http://186.101.216.211:8000/play/a02y
@@ -1511,7 +1501,7 @@ http://186.101.216.211:8000/play/a02a
 http://186.101.216.211:8000/play/a06b
 #EXTINF:-1 group-title="Lista CNT PLAY", E¡ Entertainment
 http://186.101.216.211:8000/play/a02i
-#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 2 Latin
+#EXTINF:-1 group-title="Lista CNT PLAY", ESPN 2 
 http://186.101.216.211:8000/play/a02k
 #EXTINF:-1 group-title="Lista CNT PLAY", ESPN 3 
 http://186.101.216.211:8000/play/a0cz
@@ -1591,7 +1581,7 @@ http://186.101.216.211:8000/play/a0dx
 http://186.101.216.211:8000/play/a0ae
 #EXTINF:-1 group-title="Lista CNT PLAY", History Channel 
 http://186.101.216.211:8000/play/a06d
-#EXTINF:-1 group-title="Lista CNT PLAY", Home and Health
+#EXTINF:-1 group-title="Lista CNT PLAY", discovery Home and Health
 http://186.101.216.211:8000/play/a08g
 #EXTINF:-1 group-title="Lista CNT PLAY", I-Sat
 http://186.101.216.211:8000/play/a06g
@@ -1645,7 +1635,7 @@ http://186.101.216.211:8000/play/a08b
 http://186.101.216.211:8000/play/a0ee
 #EXTINF:-1 group-title="Lista CNT PLAY", STAR ACTION
 http://186.101.216.211:8000/play/a0af
-#EXTINF:-1 group-title="Lista CNT PLAY", STAR CHANNEL 
+#EXTINF:-1 group-title="Lista CNT PLAY", fox CHANNEL 
 http://186.101.216.211:8000/play/a06l
 #EXTINF:-1 group-title="Lista CNT PLAY", STAR CINEMA 
 http://186.101.216.211:8000/play/a0ag
@@ -1667,7 +1657,7 @@ http://186.101.216.211:8000/play/a0d5
 http://186.101.216.211:8000/play/a0dg
 #EXTINF:-1 group-title="Lista CNT PLAY", Sur TV
 http://186.101.216.211:8000/play/a03h
-#EXTINF:-1 group-title="Lista CNT PLAY" ,Symphonic
+#EXTINF:-1 group-title="Lista CNT PLAY" , Symphonic
 http://186.101.216.211:8000/play/a02r
 #EXTINF:-1 group-title="Lista CNT PLAY", TBS Co
 http://186.101.216.211:8000/play/a08f
@@ -2091,71 +2081,6 @@ http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54128
 
 
 ==========================================================================================================================================================================
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="FX ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="TVCABLE",FX ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55427
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANELL (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/800px-Disney_Channel_logo_%282014%29.svg.png" group-title="TVCABLE",DISNEY CHANELL (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/15604
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.howdeniberia.com/wp-content/uploads/2018/05/Disney-logo-png-transparent-download.png" group-title="TVCABLE",DISNEY CHANNEL
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/33727
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR (ꜱᴅ)" tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="TVCABLE",DISNEY JUNIOR (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/723
-#EXTINF:-1 tvg-id="disneyjr.cl" tvg-name="Disney Junior ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" group-title="TVCABLE",Disney Junior ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55408
-#EXTINF:-1 tvg-id="disneyxd.cl" tvg-name="Disney XD ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="TVCABLE",Disney XD ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55409
-#EXTINF:-1 tvg-id="disneyxd.cl" tvg-name="DISNEY XD ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="TVCABLE",DISNEY XD ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/724
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Film & Arts ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="TVCABLE",Film & Arts ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/49468
-#EXTINF:-1 tvg-id="foxaction.la" tvg-name="Fox Action ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/W_A_l4RrwQr5kxRaVHyue-Kk4ibAwU5F5D3jv-74Bx7SDmrd2H2mO1QR4kSZC9I06pgMXGoDRm-njPh0KzoUUiXX3L4IWVIfNUbyMGEiXYkGSM3Ols6BWopqF8VQ_OJlDbl08_HPWcyTk7xyP6sRl26o" group-title="TVCABLE",Fox Action ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55415
-#EXTINF:-1 tvg-id="foxchannel.mx" tvg-name="FOX CHANNEL (ᴍᴇxɪᴄᴏ)" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="TVCABLE",FOX CHANNEL
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53539
-#EXTINF:-1 tvg-id="foxaction.la" tvg-name="FOX CHANNEL SUR" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="TVCABLE",FOX CHANNEL SUR
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/1738
-#EXTINF:-1 tvg-id="foxaction.la" tvg-name="Fox Channel ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FOX_wordmark-black.svg/1200px-FOX_wordmark-black.svg.png" group-title="TVCABLE",Fox Channel
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55416
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Fox Cinema ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Fox_Premium_Cinema_1.png/revision/latest/scale-to-width-down/340?cb=20200109143105&path-prefix=es" group-title="TVCABLE",Fox Cinema ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55417
-#EXTINF:-1 tvg-id="foxclassics.la" tvg-name="Fox Classics ⁽ˢᵈ⁾" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png" group-title="TVCABLE",Fox Classics
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55418
-#EXTINF:-1 tvg-id="foxfamily.la" tvg-name="Fox Family ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Fox_Premium_Family_2017.svg/revision/latest/scale-to-width-down/340?cb=20200510184117&path-prefix=es" group-title="TVCABLE",Fox Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55419
-#EXTINF:-1 tvg-id="foxlife.la" tvg-name="Fox Life ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="TVCABLE",Fox Life ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55420
-#EXTINF:-1 tvg-id="foxmovies.la" tvg-name="Fox Movies ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/LLzdVwulEgEhLA6y2TgLpw7gPsdffx-K0T-RR_wr3RCtx6-VkbRzJDtjIJOsrIMv8E_mUYA4aB3jP0eL33gYDdnTuZJn6AZOXDVVSUT7hTkZnYgBvAaI6nsXshTdgWdsrOUizUg2n-W8kUdKyCD7JLFc" group-title="TVCABLE",Fox Movies ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55421
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Fox Series ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/5MSNsf1I8LH3BSTgkiZnvXZOhhBOmI9ijyeBeXCriEgpfG8ezeDuPYaHCprm03dHwcF5ZKR2OfhA98LD_bam1wVnmSHgwFngsE7JT6GwwnQ3m3Wb25ULYW5JeNgQvf6_EmCCi5Hq0ScKFJsJJVN7FWn8" group-title="TVCABLE",Fox Series ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55424
-#EXTINF:-1 tvg-id="history.co" tvg-name="H2 ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20191211180911&path-prefix=es" group-title="TVCABLE",H2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55429
-#EXTINF:-1 tvg-id="hbo2.cl" tvg-name="HBO 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TVCABLE",HBO 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55431
-#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO Family ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TVCABLE",HBO Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55432
-#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="TVCABLE",HBO ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55430
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Investigation Discovery ⁽ˢᵈ⁾" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="TVCABLE",Investigation Discovery ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55433
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TVCABLE",Las Estrellas ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55435
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="TVCABLE",NICK JR (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/726
 
-===========================================================================================================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Ecuavisa [Gquil] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a3fff5343075870074dbe3092d16656b.png" group-title="ECUADORSD",Ecuador - Ecuavisa [Gquil] SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63560
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Oromar TV SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/c295d286ede5d464463cbfea23a92938.png" group-title="ECUADORSD",Ecuador - Oromar TV SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63571
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - RTS SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/243653d8062248c551885f2a80f2f571.jpg" group-title="ECUADORSD",Ecuador - RTS SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63574
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - RTU SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/9c236d91351a53412856385c13fe16b9.jpg" group-title="ECUADORSD",Ecuador - RTU SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63575
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Teleamazonas [Gquil] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="ECUADORSD",Ecuador - Teleamazonas [Gquil] SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63582
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Teleamazonas [Quito] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="ECUADORSD",Ecuador - Teleamazonas [Quito] SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63585
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Gamavision ⁽ˢᵈ⁾" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png" group-title="ECUADORSD",Gamavision ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55428
 
 
