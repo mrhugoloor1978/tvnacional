@@ -197,44 +197,6 @@ http://45.71.202.210:50000/play/a08q/index.m3u8
 
 
 
-#EXTINF:-1 group-title= "DEPORTES",Claro Sports
-http://45.71.202.210:50000/play/a01w/index.m3u8
-#EXTINF:-1 group-title= "DEPORTES",ESPN 2 CO
-http://45.71.202.210:50000/play/a07u/index.m3u8
-#EXTINF:-1 group-title= "DEPORTES",GOL TV
-http://45.71.202.210:50000/play/a07h/index.m3u8
-#EXTINF:-1 group-title= "DEPORTES",TNT SPORTS 2
-http://186.33.168.30:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title= "DEPORTES",TNT SPORTS 3
-http://186.33.168.30:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title= "DEPORTES",TNT Sports HD
-http://186.33.168.30:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title= "DEPORTES",TyC Sports
-http://186.33.168.30:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title= "DEPORTES",TyC Sports
-http://186.33.168.30:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title= "DEPORTES",TyC Sports HD
-http://186.33.168.30:8000/play/a08p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
-http://200.115.190.211:8000/play/eGhTK4fJJR5p5M3N/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
-http://200.115.190.211:8000/play/G5zcc3HYpdc5AjMs/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS HD
-http://200.115.190.211:8000/play/Ru4Yp6qytEFsXYGA/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX7 WSVN
-http://200.115.190.211:8000/play/xShXfm4TDt98YmwJ/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOL TV
-http://200.115.190.211:8000/play/S58HV7ekrnCUvF4u/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
-http://200.115.190.211:8000/play/Xc74Bxbg3Qkc43Sr/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN
-http://200.115.190.211:8000/play/Z5TWRUY3869wGRLG/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN + HD
-http://200.115.190.211:8000/play/7mZEEEBQpQGypd9c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN2
-http://200.115.190.211:8000/play/3jZRN66nDhuZwLbW/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN3
-http://200.115.190.211:8000/play/4hrEpujghmYgjET8/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/31/16/12/220933.jpg" group-title="PELICULAS",CAPITÁN AMERICA
@@ -1091,64 +1053,6 @@ http://45.179.140.242:8000/play/a0fz
 
 
 =================================================
-
-
-
-
-
-#EXTINF:-1 group-title="COLOMBIA",RCN Novelas 
-http://45.71.202.210:50000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: RCN TELENOVELAS" tvg-logo="http://xtream-coders.com/x0/latino/rcn_telenovelas.png" group-title="COLOMBIA", RCN TELENOVELAS
-http://011011011.com:8080/vuemedia/587yt65r/92035
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT: Caracol " tvg-logo="http://xtream-coders.com/x0/latino/caracol.png" group-title="COLOMBIA", Caracol 
-http://186.101.216.211:8000/play/a08z
-#EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg" group-title="COLOMBIA", Cali TV 
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="115" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/115_Canal_Capital.png" group-title="COLOMBIA", Canal Capital  | CO
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg" group-title="COLOMBIA", Caracol 
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="125" tvg-name="Cosmovisión" tvg-logo="https://www.m3u.cl/logo/125_Cosmovision.jpg" group-title="COLOMBIA", Cosmovisión  | CO
-https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="COLOMBIA", Recuerdos Retro Radio TV  | CL
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="COLOMBIA", Retro Plus TV  | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="COLOMBIA", Retro Plus TV Señal 2  | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="COLOMBIA", Retro Plus TV Señal 3  | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="SUR: CARACOL NACIONAL" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="COLOMBIA",SUR: CARACOL NACIONAL
-http://skylogic.site:8080/esterichannel50con/36cb6c13/76225
-#EXTINF:-1 group-title="COLOMBIA" logo="https://www.televall.online/gallery/caracol-hd_thumb_fg9kaksd.png" group-title="COLOMBIA", CARACOL
-https://blackghost.live/play/tlvall-426.php?c=505&f=.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Canal RCN
-http://186.33.168.30:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title= "COLOMBIA",City TV
-http://186.33.168.30:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title= "COLOMBIA",Senal Colombia
-http://186.33.168.30:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title= "COLOMBIA",Telecafe
-http://186.33.168.30:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title= "COLOMBIA",Telecaribe
-http://186.33.168.30:8000/play/a03j/index.m3u8
-
-#EXTINF : -1 group-title="NOTICIAS" ,CNN Chile
-http://38.131.11.225:8000/play/a0bk
-#EXTINF:-1 group-title="NOTICIAS",CNN ESPANOL
-http://200.115.190.211:8000/play/WmpucMcLyV96bWYM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RUSSIA TODAY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NOTICIAS",ES: RUSSIA TODAY
-http://skylogic.site:8080/esterichannel50con/36cb6c13/192107
-#EXTINF:-1 tvg-id="" tvg-name="MX: NTN24 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NOTICIAS",MX: NTN24 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/31777
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="NOTICIAS", RT - 25.5
-https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="NOTICIAS", TODO NOTICIAS (OPCION 2)
-http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/tn.playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="NOTICIAS", TELESUR - 25.4
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/200px-Flag_of_Panama.svg.png" group-title="NOTICIAS", Telemetro
-https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
 #EXTINF:-1 group-title="INFANTIL", BabyBus
 https://www.youtube.com/watch?v=9FOhlvqOW9g
@@ -2100,33 +2004,225 @@ https://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador2", UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Canal del Futbol SD ( Solo Eventos )" tvg-logo="http://tv.iptv5latino.cl:8000/images/297f080dfda24ea8641eee3a451ac413.png" group-title="DEPORTES", Ecuador - Canal del Futbol SD ( Solo Eventos )
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63541
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE ECUADOR" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0/1519865005877?e=2159024400&v=beta&t=ztkAIkTsm7RcAsbUXkfXw32bAlR9IPjFmUQm2hagm-k" group-title="DEPORTES",LIGA DE ECUADOR
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/68864
-#EXTINF:-1 tvg-id="foxsports.las" tvg-name="FOX SPORTS 1 (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX SPORTS 1 (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54121
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="ESPN 2 MÉXICO (ꜱᴅ)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 MÉXICO (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53649
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 2 MÉXICO (ꜱᴅ)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 MÉXICO (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/27553
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Fox Sports 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55425
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3 ARGENTINA (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 ARGENTINA (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/41668
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 MÉXICO (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 MÉXICO (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55007
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES",FOX SPORTS PREMIUM (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/62490
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS (ecuador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES",DIRECTV SPORTS (ecuador)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/60863
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53362
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="DIRECTV SPORTS 1 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 1 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54128
 
 
 =========================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD :| NAT GEO KIDS" tvg-logo="http://plan.sockettv.online:25461/images/d933df149c62be04ea54d3a9bfb0372c.png" group-title="CANALESHD", NAT GEO KIDS
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/485
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD:| TOONCAST" tvg-logo="http://plan.sockettv.online:25461/images/51194287dea464e6be6d483240e1dba0.png" group-title="CANALESHD", TOONCAST
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/486
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD:| BOOMERANG" tvg-logo="http://plan.sockettv.online:25461/images/6848d756da66e55b42f79c0728e351ad.png" group-title="CANALESHD", BOOMERANG
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/487
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD :| BABY TV" tvg-logo="http://plan.sockettv.online:25461/images/f9c5bd779f169992e1f8635bdcab1efa.png" group-title="CANALESHD",  BABY TV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/488
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD:| NICKELODEON " tvg-logo="http://plan.sockettv.online:25461/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="CANALESHD",  NICKELODEON 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/489
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD :| NICK" tvg-logo="http://plan.sockettv.online:25461/images/f64609172efea86a5a6fbae12ab86d33.png" group-title="CANALESHD", NICK
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/492
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD :| NICKELODEON" tvg-logo="http://plan.sockettv.online:25461/images/74243d8f2a60c072dee87450ee49425a.png" group-title="CANALESHD", NICKELODEON
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/493
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD : BOOMERANG" tvg-logo="http://plan.sockettv.online:25461/images/65079b006e85a7e798abecb99e47c154.png" group-title="CANALESHD", BOOMERANG
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/494
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: DISCOVERY CHANNEL (LAT)" tvg-logo="http://plan.sockettv.online:25461/images/2dc024580b3688b250c2530872b0876b.jpg" group-title="CANALESHD",  DISCOVERY CHANNEL (LAT)
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/501
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: DISCOVERY CIVILIZATION" tvg-logo="http://plan.sockettv.online:25461/images/748a289347688e86f29ec425dd5479de.jpg" group-title="CANALESHD",  DISCOVERY CIVILIZATION
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/502
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: DISCOVERY SCIENCE" tvg-logo="http://plan.sockettv.online:25461/images/d14e99e734d6b1aa4ea73c82a2df446c.jpg" group-title="CANALESHD", DISCOVERY SCIENCE
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/504
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: DISCOVERY HOME AND HEALT" tvg-logo="http://plan.sockettv.online:25461/images/30b548a121e980a667a45db57121e1f1.jpg" group-title="CANALESHD", DISCOVERY HOME AND HEALT
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/507
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: NAT GEO (LAT)" tvg-logo="http://plan.sockettv.online:25461/images/e049da943e2ea602f078330eaa7df5fe.jpg" group-title="CANALESHD", NAT GEO
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/513
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: NAT GEO (MEX)" tvg-logo="http://plan.sockettv.online:25461/images/e049da943e2ea602f078330eaa7df5fe.jpg" group-title="CANALESHD", NAT GEO
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/514
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: NAT GEO WILD" tvg-logo="http://plan.sockettv.online:25461/images/c2fec486fc6395739e318df7506d6b1b.jpg" group-title="CANALESHD", NAT GEO WILD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/515
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: NAT GEO MUNDO" tvg-logo="http://plan.sockettv.online:25461/images/12b4035aaa1c448e87d7245a952e193a.jpg" group-title="CANALESHD", NAT GEO MUNDO
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/516
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: HISTORY CHANNEL 2" tvg-logo="http://plan.sockettv.online:25461/images/ac0e825b0a56d699ab5394efd1f0d093.jpg" group-title="CANALESHD", HISTORY CHANNEL 2
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/518
+#EXTINF:-1 tvg-id="" tvg-name="CR | TIGO SPORT" tvg-logo="http://plan.sockettv.online:25461/images/8734cfc43c34196d51a1c2634c2c8673.jpg" group-title="CANALESHD", TIGO SPORT
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/522
+#EXTINF:-1 tvg-id="" tvg-name="CR: //EXTRA+SPORT-" tvg-logo="http://plan.sockettv.online:25461/images/0a1cbb3ca55296b59f68d55e362fb188.jpg" group-title="CANALESHD", EXTRA+SPORT-
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/523
+#EXTINF:-1 tvg-id="" tvg-name="CR: | FUTV SD " tvg-logo="http://plan.sockettv.online:25461/images/5f5bb1ab2bad8bd6d3954eeda0f8d145.jpg" group-title="CANALESHD", FUTV SD 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/636
+#EXTINF:-1 tvg-id="" tvg-name="DOC |  DISTRITO COMEDIA " tvg-logo="" group-title="CANALESHD", DISTRITO COMEDIA 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/2174
+
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | A&E America UHD" tvg-logo="" group-title="CANALESHD", A&E 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/416
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | AMC America UHD" tvg-logo="" group-title="CANALESHD", AMC 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/417
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | AXN UHD" tvg-logo="" group-title="CANALESHD", AXN 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/418
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | CINECANAL UHD" tvg-logo="" group-title="CANALESHD", CINECANAL
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/419
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | CINEMAX UHD" tvg-logo="" group-title="CANALESHD", CINEMAX 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/420
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR CHANNEL UHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Channel.png" group-title="CANALESHD", FOX CHANNEL
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/423
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM ACTION UHD" tvg-logo="http://plan.sockettv.online:25461/images/3df285336ec10de0da4f2005ae967680.png" group-title="CANALESHD", STAR PREMIUM ACTION UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/424
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM CINEMA UHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Cinema.png" group-title="CANALESHD", STAR PREMIUM CINEMA
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/425
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM CLASSICS UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/STARClassics2021.svg" group-title="CANALESHD",  STAR PREMIUM CLASSICS UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/426
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM COMEDY" tvg-logo="http://plan.sockettv.online:25461/images/185e0dd36322d56d03b15562aa16deed.png" group-title="CANALESHD", STAR PREMIUM COMEDY
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/427
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM FUN UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg" group-title="CANALESHD", STAR PREMIUM FUN UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/428
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM SERIES UHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Series.png" group-title="CANALESHD", STAR PREMIUM SERIES
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/429
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUN HITS UHD" tvg-logo="http://plan.sockettv.online:25461/images/e3ca19a7b968f81b6e10f4315172628e.png" group-title="CANALESHD", STAR PREMIUN HITS UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/430
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | FXM Movie UHD" tvg-logo="" group-title="CANALESHD", FXM Movie UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/431
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | GOLDEN EDGE" tvg-logo="" group-title="CANALESHD", GOLDEN EDGE
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/432
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | GOLDEN PREMIER UHD" tvg-logo="" group-title="CANALESHD", GOLDEN PREMIER 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/433
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | GOLDEN PREMIERE 2 UHD" tvg-logo="" group-title="CANALESHD", GOLDEN PREMIERE 2 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/434
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO EAST UHD" tvg-logo="" group-title="CANALESHD", HBO 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/435
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO 2 EAST" tvg-logo="" group-title="CANALESHD", HBO 2 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/436
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO FAMILY UHD" tvg-logo="" group-title="CANALESHD", HBO FAMILY 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/437
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO SIGNATURE UHD" tvg-logo="" group-title="CANALESHD", HBO SIGNATURE 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/439
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO+ PLUS UHD" tvg-logo="" group-title="CANALESHD", HBO+ PLUS 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/440
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO XTREME UHD" tvg-logo="" group-title="CANALESHD", HBO XTREME 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/441
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | LIFETIME America" tvg-logo="" group-title="CANALESHD", LIFETIME 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/442
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | Paramount Channel America UHD" tvg-logo="" group-title="CANALESHD", Paramount Channel 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/443
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | SONY Channel UHD" tvg-logo="" group-title="CANALESHD",  SONY Channel 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/444
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | SONY Channel Novelas UHD" tvg-logo="" group-title="CANALESHD",PREM: | SONY Channel Novelas UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/447
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | SPACE America UHD" tvg-logo="" group-title="CANALESHD", SPACE 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/448
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | TNT Latin America UHD" tvg-logo="" group-title="CANALESHD", TNT 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/449
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | TNT Series America UHD" tvg-logo="" group-title="CANALESHD", TNT Series 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/450
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | Universal Channel America UHD" tvg-logo="" group-title="CANALESHD", Universal Channel America
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/451
+#EXTINF:-1 tvg-id="" tvg-name="PREM: | WARNER TV America UHD" tvg-logo="" group-title="CANALESHD", WARNER TV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/452
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS MIAMI HD" tvg-logo="http://plan.sockettv.online:25461/images/b036c6952f4b86d5a6a1f89dbe7228f3.png" group-title="CANALESHD", UNIMAS MIAMI HD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/459
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="http://plan.sockettv.online:25461/images/e52805d8344b67b9b3554d45f1c8958f.png" group-title="CANALESHD", UNIVISION MIAMI
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/460
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HD" tvg-logo="http://plan.sockettv.online:25461/images/e52805d8344b67b9b3554d45f1c8958f.png" group-title="CANALESHD", UNIVISION
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/461
+*********************************************************************
+EXTINF:-1 tvg-id="" tvg-name="COL| Caracol Colombia UHD" tvg-logo="" group-title="COLOMBIA", Caracol 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/364
+#EXTINF:-1 tvg-id="" tvg-name="COL| Caracol Ahora Noticas Play" tvg-logo="" group-title="COLOMBIA", Caracol Ahora Noticas Play
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/365
+#EXTINF:-1 tvg-id="" tvg-name="COL| Caracol Internacional UHD" tvg-logo="" group-title="COLOMBIA", Caracol Internacional UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/366
+#EXTINF:-1 tvg-id="" tvg-name="COL| Caracol 2 HD" tvg-logo="" group-title="COLOMBIA", Caracol 2 HD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/367
+#EXTINF:-1 tvg-id="" tvg-name="COL| RCN Colombia UHD" tvg-logo="" group-title="COLOMBIA", RCN Colombia UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/368
+#EXTINF:-1 tvg-id="" tvg-name="COL| Canal 1 Colombia" tvg-logo="" group-title="COLOMBIA", Canal 1 Colombia
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/369
+#EXTINF:-1 tvg-id="" tvg-name="COL| Canal Capital" tvg-logo="" group-title="COLOMBIA", Canal Capital
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/370
+#EXTINF:-1 tvg-id="" tvg-name="COL| City TV" tvg-logo="" group-title="COLOMBIA", City TV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/371
+#EXTINF:-1 tvg-id="" tvg-name="COL| El Tiempo" tvg-logo="" group-title="COLOMBIA", El Tiempo
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/372
+#EXTINF:-1 tvg-id="" tvg-name="COL| NTN 24 UHD" tvg-logo="" group-title="COLOMBIA", NTN 24 UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/373
+#EXTINF:-1 tvg-id="" tvg-name="COL| RCN Internacional UHD" tvg-logo="" group-title="COLOMBIA", RCN Internacional UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/375
+#EXTINF:-1 tvg-id="" tvg-name="COL| RCN Novelas UHD" tvg-logo="" group-title="COLOMBIA", RCN Novelas UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/376
+#EXTINF:-1 tvg-id="" tvg-name="COL| RCN Nuestra Tele UHD" tvg-logo="" group-title="COLOMBIA", RCN Nuestra Tele UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/377
+#EXTINF:-1 tvg-id="" tvg-name="COL| Senal Colombia UHD" tvg-logo="" group-title="COLOMBIA", Senal Colombia UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/378
+#EXTINF:-1 tvg-id="" tvg-name="COL| Teleantioquia" tvg-logo="" group-title="COLOMBIA", Teleantioquia
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/379
+#EXTINF:-1 tvg-id="" tvg-name="COL| Telecaribe" tvg-logo="" group-title="COLOMBIA", Telecaribe
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/380
+#EXTINF:-1 tvg-id="" tvg-name="COL| TelePacifico" tvg-logo="" group-title="COLOMBIA", TelePacifico
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/382
+#EXTINF:-1 tvg-id="" tvg-name="COL| WIN Sports Ultra" tvg-logo="" group-title="COLOMBIA", WIN Sports Ultra
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/383
+#EXTINF:-1 tvg-id="" tvg-name="COL| Win Sports + UHD" tvg-logo="" group-title="COLOMBIA", Win Sports + UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/384
+********************************************************************
+#EXTINF:-1 tvg-id="" tvg-name="EC: RTS" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", RTS
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/473
+#EXTINF:-1 tvg-id="" tvg-name="EC: GAMATV" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", GAMATV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/474
+#EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", Teleamazonas
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/475
+#EXTINF:-1 tvg-id="" tvg-name="EC: OromarTV" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", OromarTV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/476
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", Ecuavisa
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/477
+#EXTINF:-1 tvg-id="" tvg-name="EC: EcuadorTV" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", EcuadorTV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/478
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", TC Television
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/479
+#EXTINF:-1 tvg-id="" tvg-name="EC: Canal  Uno" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", Canal  Uno
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/480
+#EXTINF:-1 tvg-id="" tvg-name="EC: Televicentro" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", Televicentro
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/481
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecotel TV" tvg-logo="http://plan.sockettv.online:25461/images/4b9bdbe311e0be8ad51c487ab727232b.png" group-title="ECUADORHD", Ecotel TV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/482
+#EXTINF:-1 tvg-id="" tvg-name="EC: Canela" tvg-logo="" group-title="ECUADORHD", Canela
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/483
+#EXTINF:-1 tvg-id="" tvg-name="EC: RTU" tvg-logo="" group-title="ECUADORHD", RTU
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/484
+***************************************************************************
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021 | EN VIVO ESPANOL
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1020
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021: Ukraine vs Austria | 12:00 PM (EN VIVO) DTV2
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1089
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021: North Macedonia vs Netherlands | 12:00 PM (EN VIVO) DTV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1086
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021: República Checa vs Inglaterra | 3:00 PM (EN VIVO) DTV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/446
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021: Croacia vs Escocia | 3:00 PM (EN VIVO) DTV2
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/989
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐", COPA AMERICA | (EN VIVO) ESPANOL
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1088
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐", FUTBOL: | Ecuador vs Peru | 5:00 PM (EN VIVO) DIRECT
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/490
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐", FUTBOL: | Brazil vs Colombia | 8:00 PM (EN VIVO) DIRECT
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/635
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐",  FUTBOL: | Brazil vs Colombia | 8:00 PM (EN VIVO) TDUN
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1087
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐", FUTBOL: | Ecuador vs Peru | 5:00 PM (EN VIVO) TUDN
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/557
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/5ab9b24cb7b694c198f1e7dc9f2f22e2.jpg" group-title="⚽ DEPORTES ⚽",  Bein Liga De Campeones UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/389
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/63eddf1d251ce8fcf80f07e9f0bdf362.png" group-title="⚽ DEPORTES ⚽",  Claro Sports
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1113
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/a14ac55a4f27472c5d894ec1c3c743d2.png" group-title="⚽ DEPORTES ⚽",  Directv Sports HD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/391
+#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports (CDF HD)" tvg-logo="http://plan.sockettv.online:25461/images/2766e9eaa3475875ff6aa1b42411875c.png" group-title="⚽ DEPORTES ⚽",CHI| TNT Sports (CDF HD)
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/199
+#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports (CDF HD Chile UHD) (Exclusivo)" tvg-logo="http://plan.sockettv.online:25461/images/2766e9eaa3475875ff6aa1b42411875c.png" group-title="⚽ DEPORTES ⚽", TNT Sports 
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/200
+#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports 2 (CDF Premium)" tvg-logo="http://plan.sockettv.online:25461/images/316d618f1d2a1898df7a314471a69cee.png" group-title="⚽ DEPORTES ⚽", TNT Sports 2 (CDF Premium)
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/201
+#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports 3 (CDF Basico)" tvg-logo="http://plan.sockettv.online:25461/images/eb2d017be44e7b66619043dadba6188a.png" group-title="⚽ DEPORTES ⚽", TNT Sports 3 (CDF Basico)
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/202
+#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports (2K)" tvg-logo="http://plan.sockettv.online:25461/images/2766e9eaa3475875ff6aa1b42411875c.png" group-title="⚽ DEPORTES ⚽", Sports (2K)
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1153
+*******************************************************************
+
 
 
 ==========================================================================================================================================================================
