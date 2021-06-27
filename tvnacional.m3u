@@ -2816,7 +2816,10 @@ http://45.225.93.3:8000/play/a00b
 http://201.182.242.130:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title = "⭐ COPA UEFA Y AMERICA ⭐", TNT SPORTS 3-ext
 http://201.182.242.130:8000/play/a052/index.m3u8
-
+#EXTINF:-1  group-title = "⭐ COPA UEFA Y AMERICA ⭐", TUDN MX
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=tudnmx&f=.m3u8
+#EXTINF:-1  group-title = "⭐ COPA UEFA Y AMERICA ⭐", TUDN US
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=tudnus&f=.m3u8
 
 *******************************************************************
 
