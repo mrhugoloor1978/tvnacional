@@ -943,327 +943,248 @@ http://186.101.216.211:8000/play/a06i
 http://186.101.216.211:8000/play/a09b
 
 -------------------------------------------------------------------
-#EXTINF:-1  group-title="Lista TV", DREIKOTV CANAL 24/7
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-#EXTINF:-1  group-title="Lista TV", EIN SPORTS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=winhd&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", UNIVERSO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=universo&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", RCN
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=rcn&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", LA LIGA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=laliga&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", NBC
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=nbcsn&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", GOLTV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=goltv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AFIZZIONADOS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=afizzionados&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", BEIN SPORTS N
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=beines&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS +
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directvplus&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FOX SPORTS PREMIUM
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=foxsportp&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TELEMUNDO INTERNACIONAL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=telemundoint&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AZCORAZON
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=azcorazon&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", A&E
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=ae&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AXN
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=axn&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", COMEDY CENTRAL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=comedy&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", E!
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=e&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FX
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=fx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISCOVERY ID
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=id&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", LIFETIME
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=lifetime&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", PASIONES
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=pasiones&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", SONY
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=sony&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TBS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tbs&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TLC
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tlc&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TLNOVELAS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tlnovelas&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TNT SERIES
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tntseries&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TRUTV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=trutv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=universal&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", WARNER
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=warner&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AZ CINEMA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=azcinema&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AMC
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=amc&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CINECANAL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=cinecanal&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CINEMAX
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=cinemax&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CINE LATINO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=cinelatino&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CINE LATINO HD
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=cinelatinohd&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CLARO CINEMA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=clarocinema&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DE PELICULA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dpelicula&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DE PELICULA PLUS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dpeliculaplus&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DHE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dhe&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", EUROPA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=europa&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", EURO CHANNEL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=euroch&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FILMS & ARTS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=filmarts&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FXM
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=fxm&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", GOLDEN
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=golden&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=edge&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", GOLDEN PLUS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=goldenplus&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=goldenp&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hboes&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO 2
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbo2&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO PLUS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hboplus&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO FAMILY
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbofamily&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO MUNDI
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbomundi&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO POP
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbopop&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO SIGNATURE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbosignature&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO XTREME
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hboxtreme&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", I SAT
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=isat&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MORBIDO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=morbido&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MULTI CINEMA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mc&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MULTI PREMIER
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mp&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", PARAMOUNT CHANNEL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=paramount&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", SPACE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=space&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR CHANNEL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=starch&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR ACTION
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=staraction&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR CINEMA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=starcinema&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR CLASSICS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=starclassics&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR COMEDY
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=starcomedy&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR FUN
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=starfun&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR HITS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=starhits&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR LIFE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=starlife&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STAR SERIES
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=starseries&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", STUDIO UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=studiou&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", SYFY
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=syfy-1&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TCM
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tcm&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TNT
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tnt&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AZ MUNDO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=azmundo&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", ANIMAL PLANET
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=animalp&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=discovery&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISCOVERY SCIENCE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dciencia&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISCOVERY CIVILIZATION
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dcivil&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISCOVERY THEATER
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dtheater&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISCOVERY TURBO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dturbo&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISCOVERY WORLD
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dworld&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FOOD NETWORK
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=food&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", GOURMET
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=gourmet&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HISTORY
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=history&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", H2
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=history2&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", H&H
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hh&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HOLATV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=holatv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MAS CHIC
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=maschic&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", NAT GEO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=natgeo&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", NAT GEO WILD
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=natgeowild&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AZ CLIC
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=azclic&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CONCERT
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=concert&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", BANDAMAX
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=bandamax&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", EUFORIA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=euforia&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", EXATV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=exatv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FOX MIX
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=foxmix-1&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HTV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=htv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", LA MEJOR TV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=lamejor&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MTV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mtv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MTV TR3S
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mtvtr3s&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MTV HITS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mtvhits&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MTV LIVE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mtvlive&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MTV 80S
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mtv80s&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", NICK MUSIC
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=nickmusic&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TELEHIT
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=telehit&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TELEHIT PLUS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=telehitplus&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TELERITMO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=teleritmo&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TMTV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tmtv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", VH1
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=vh1&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", VIDEOROLA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=videorola&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", A+
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=amas&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AZTECA UNO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=aztecauno&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", EL DOS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=eldos&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CANAL 5
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=elcinco&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", AZTECA 7
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=azteca7&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", NU9VE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=nueve&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISTRITO COMEDIA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=distrito&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", IMAGEN TV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=imagentv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", UNICABLE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=unicable&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MEXIQUENSE
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mexiquense&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MULTIMEDIOS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=multimedios&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MVS TV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=mvstv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TV CUATRO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tvcuatro&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", ONCE TV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=oncetv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", ADN40
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=adn40&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CNN
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=cnnes&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FORO TV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=forotv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MILENIO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=milenio&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", GALAVISION
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=galavision&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TELEMUNDO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=telemundo&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", UNIMAS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=unimas&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", UNIVISION
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=univisionhd&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CANAL CLARO
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=claro&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", ESPN
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=espn1mx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", ESPN 2
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=espn2mx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", ESPN 3
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=espn3mx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=espnextramx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=espndep&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FOX SPORTS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=foxsport1mx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FOX SPORTS 2
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=foxsport2mx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", FOX SPORTS 3
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=foxsport3mx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TUDN MX
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tudnmx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TUDN US
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tudnus&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tvcdep&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", BABYTV
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=babytv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", BABY FIRST
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=babyfirts&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", BITME
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=bitme&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", BOOMERANG
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=boomerang&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", CARTOON NETWORK
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=cartoon&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=disneych&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISNEY JR
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=disneyjr&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISNEY XD
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=disneyxd&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=dkids&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", NAT GEO KIDS
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=natgeokids&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", NICK
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=nick&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", NICK JR
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=nickjr&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TEEN NICK
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=teennick&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TOONCAST
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tooncast&f=.m3u8
-
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", 24 Horas-ext
+http://201.182.242.130:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", AE Mundo
+http://201.182.242.130:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", ATV
+http://201.182.242.130:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", AXN
+http://201.182.242.130:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", America 
+http://201.182.242.130:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", AmericaTV
+http://201.182.242.130:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Animal Planet
+http://201.182.242.130:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", C9N
+http://201.182.242.130:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", CHV-emm-encodrgy-1
+http://201.182.242.130:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", CHV-emm-encodrgy-2
+http://201.182.242.130:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", CHV
+http://201.182.242.130:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", CNN Chile
+http://201.182.242.130:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", CNN Español
+http://201.182.242.130:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal 13-ext
+http://201.182.242.130:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
+http://201.182.242.130:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
+http://201.182.242.130:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
+http://201.182.242.130:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
+http://201.182.242.130:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
+http://201.182.242.130:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
+http://201.182.242.130:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
+http://201.182.242.130:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Claro
+http://201.182.242.130:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Institucional
+http://201.182.242.130:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal RCN
+http://201.182.242.130:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Uno
+http://201.182.242.130:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Uno-ext
+http://201.182.242.130:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal de Las estrellas
+http://201.182.242.130:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal del Congreso-ext
+http://201.182.242.130:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Capital
+http://201.182.242.130:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Cartoon Network
+http://201.182.242.130:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Cinecanal
+http://201.182.242.130:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Cinemax
+http://201.182.242.130:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", City TV
+http://201.182.242.130:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Claro Cinema
+http://201.182.242.130:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Claro Sports-ext
+http://201.182.242.130:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Discovery Channel
+http://201.182.242.130:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Discovery ID
+http://201.182.242.130:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Discovery Kids
+http://201.182.242.130:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Discovery Turbo
+http://201.182.242.130:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Disney Channel
+http://201.182.242.130:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Disney Junior
+http://201.182.242.130:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Disney XD
+http://201.182.242.130:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", E¡ Entertainment
+http://201.182.242.130:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuador TV
+http://201.182.242.130:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuador TV
+http://201.182.242.130:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuador TV
+http://201.182.242.130:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuador TV
+http://201.182.242.130:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuavisa
+http://201.182.242.130:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Enlace
+http://201.182.242.130:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Esne TV
+http://201.182.242.130:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", FOX PREMIUM ACTION
+http://201.182.242.130:8000/play/a00y/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", FOX PREMIUM MOVIES
+http://201.182.242.130:8000/play/a00w/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", FOX PREMIUM SERIES 
+http://201.182.242.130:8000/play/a00x/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", FX Movies
+http://201.182.242.130:8000/play/a00t/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", FX
+http://201.182.242.130:8000/play/a06l/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Fox Life
+http://201.182.242.130:8000/play/a00b/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", France 
+http://201.182.242.130:8000/play/a05d/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", GOL TV
+http://201.182.242.130:8000/play/a050/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", GOLTVEC
+http://201.182.242.130:8000/play/a05v/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", GamaTV
+http://201.182.242.130:8000/play/a026/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", HBO
+http://201.182.242.130:8000/play/a02v/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", HBO 2
+http://201.182.242.130:8000/play/a04k/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", HBO Family
+http://201.182.242.130:8000/play/a012/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", HBO Plus
+http://201.182.242.130:8000/play/a010/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", HBO XTREME
+http://201.182.242.130:8000/play/a04m/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", HBO
+http://201.182.242.130:8000/play/a06g/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", History Channel
+http://201.182.242.130:8000/play/a004/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", DISCOVERY Home and Health
+http://201.182.242.130:8000/play/a05g/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", I-Sat
+http://201.182.242.130:8000/play/a03t/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", La Red
+http://201.182.242.130:8000/play/a049/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", La Tele
+http://201.182.242.130:8000/play/a06y/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Latina
+http://201.182.242.130:8000/play/a01v/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", MTV
+http://201.182.242.130:8000/play/a03u/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Mega
+http://201.182.242.130:8000/play/a04b/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", NPY
+http://201.182.242.130:8000/play/a069/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Nat Geo
+http://201.182.242.130:8000/play/a03o/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", NatGeo Kids
+http://201.182.242.130:8000/play/a03z/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Nick Junior
+http://201.182.242.130:8000/play/a038/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Nickelodeon
+http://201.182.242.130:8000/play/a03m/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Oglobo
+http://201.182.242.130:8000/play/a05u/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Panamericana TV
+http://201.182.242.130:8000/play/a01x/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2",Panamericana TV
+http://201.182.242.130:8000/play/a05j/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Paraguay TV
+http://201.182.242.130:8000/play/a05t/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Paravision
+http://201.182.242.130:8000/play/a066/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", RCN Novelas
+http://201.182.242.130:8000/play/a01q/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", RTS
+http://201.182.242.130:8000/play/a034/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", SNT
+http://201.182.242.130:8000/play/a043/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", FOX CHANNEL
+http://201.182.242.130:8000/play/a04j/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Señal Colombia
+http://201.182.242.130:8000/play/a065/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Sony
+http://201.182.242.130:8000/play/a02x/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Space
+http://201.182.242.130:8000/play/a02z/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Sur TV
+http://201.182.242.130:8000/play/a06a/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TBS
+http://201.182.242.130:8000/play/a05f/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TC Television
+http://201.182.242.130:8000/play/a02d/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TCM
+http://201.182.242.130:8000/play/a00d/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TLC
+http://201.182.242.130:8000/play/a055/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TNT
+http://201.182.242.130:8000/play/a041/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TRO
+http://201.182.242.130:8000/play/a06c/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TV CAMARA
+http://201.182.242.130:8000/play/a071/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TV Peru
+http://201.182.242.130:8000/play/a05n/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TVE
+http://201.182.242.130:8000/play/a046/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TVEDUCA
+http://201.182.242.130:8000/play/a04r/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TVN
+http://201.182.242.130:8000/play/a04a/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Teleamazonas
+http://201.182.242.130:8000/play/a02h/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Teleantioquia
+http://201.182.242.130:8000/play/a06m/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Telecafe
+http://201.182.242.130:8000/play/a06z/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Telecaribe
+http://201.182.242.130:8000/play/a03c/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Telefe
+http://201.182.242.130:8000/play/a06q/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Telefuturo
+http://201.182.242.130:8000/play/a044/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Teleislas
+http://201.182.242.130:8000/play/a06d/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Telemundo
+http://201.182.242.130:8000/play/a01p/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Telepacifico
+http://201.182.242.130:8000/play/a06o/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", TyC Sports
+http://201.182.242.130:8000/play/a051/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Unicanal
+http://201.182.242.130:8000/play/a06r/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Universal
+http://201.182.242.130:8000/play/a006/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", ViaX
+http://201.182.242.130:8000/play/a056/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Warner
+http://201.182.242.130:8000/play/a04v/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Win
+http://201.182.242.130:8000/play/a06n/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Zona Latina
+http://201.182.242.130:8000/play/a03v/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", Zoom
+http://201.182.242.130:8000/play/a06b/index.m3u8
+#EXTINF:-1 "Lista CNT PLAY 2", trece
+http://201.182.242.130:8000/play/a05o/index.m3u8
 
 
 ----------------------------------------------------------------
@@ -2400,221 +2321,503 @@ http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
 
 
 =========================================================================================================================================================================
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Htv
+http://45.225.93.3:8000/play/a0co
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", El 13
+http://45.225.93.3:8000/play/a0ct
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", 13 C
+http://45.225.93.3:8000/play/a0d0
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", AMC HD
+http://45.225.93.3:8000/play/a0df
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Baby Tv
+http://45.225.93.3:8000/play/a0d4
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Canal N
+http://45.225.93.3:8000/play/a0d6
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Comedy Center HD
+http://45.225.93.3:8000/play/a0cv
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", ETC
+http://45.225.93.3:8000/play/a0dj
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Espn Extra HD
+http://45.225.93.3:8000/play/a0d2
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Food Network HD
+http://45.225.93.3:8000/play/a0dk
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", History 2 Hd
+http://45.225.93.3:8000/play/a0dd
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Meridiano
+http://45.225.93.3:8000/play/a0dm
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Pasiones HD
+http://45.225.93.3:8000/play/a0di
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Peru Magico
+http://45.225.93.3:8000/play/a0dh
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", RPP
+http://45.225.93.3:8000/play/a0d8
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Rec 13
+http://45.225.93.3:8000/play/a0d1
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Señal Colombia
+http://45.225.93.3:8000/play/a0cw
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Studio HD
+http://45.225.93.3:8000/play/a0cx
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Sun Chanel HD
+http://45.225.93.3:8000/play/a0de
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TeleTrak
+http://45.225.93.3:8000/play/a0cz
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TlT
+http://45.225.93.3:8000/play/a0d5
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Tv Peru
+http://45.225.93.3:8000/play/a0d3
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Venezolana de Tv
+http://45.225.93.3:8000/play/a0cy
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Vive
+http://45.225.93.3:8000/play/a0dq
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Atv
+http://45.225.93.3:8000/play/a0cu
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", CMD
+http://45.225.93.3:8000/play/a0dp
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Golden Edge
+http://45.225.93.3:8000/play/a0da
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Golden 
+http://45.225.93.3:8000/play/a0d9
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Life Time
+http://45.225.93.3:8000/play/a0db
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Panamericana Tv
+http://45.225.93.3:8000/play/a0dc
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TNT Series HD
+http://45.225.93.3:8000/play/a0dg
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", 24 Horas
+http://45.225.93.3:8000/play/a00m
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", 4Ever
+http://45.225.93.3:8000/play/a08c
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", AE Mundo
+http://45.225.93.3:8000/play/a02q
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", ANTENA 3 INT.
+http://45.225.93.3:8000/play/a09l
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", AXN
+http://45.225.93.3:8000/play/a0bk
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Animal Planet
+http://45.225.93.3:8000/play/a02h
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", BANDAMAX
+http://45.225.93.3:8000/play/a0ch
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Bumeran
+http://45.225.93.3:8000/play/a0cp
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", CANAL 26
+http://45.225.93.3:8000/play/a09p
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", CHV
+http://45.225.93.3:8000/play/a008
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", CNN Chile
+http://45.225.93.3:8000/play/a00z
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", CNN Español
+http://45.225.93.3:8000/play/a004
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", CRONICA
+http://45.225.93.3:8000/play/a09q
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Canal 13
+http://45.225.93.3:8000/play/a009
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Canal Capital
+http://45.225.93.3:8000/play/a0cr
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Canal Caracol
+http://45.225.93.3:8000/play/a0cn
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Canal de Las estrellas
+http://45.225.93.3:8000/play/a032
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Canal del Caballo
+http://45.225.93.3:8000/play/a08a
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Canal Dos
+http://45.225.93.3:8000/play/a0ae
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Cartoon Network
+http://45.225.93.3:8000/play/a012
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Cinecanal
+http://45.225.93.3:8000/play/a00s
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Cinemax
+http://45.225.93.3:8000/play/a01v
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", City Tv
+http://45.225.93.3:8000/play/a0cs
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", DISCOVERY SCIENCE
+http://45.225.93.3:8000/play/a09g
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", DISCOVERY THEATER
+http://45.225.93.3:8000/play/a09m
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", DISCOVERY WORLD
+http://45.225.93.3:8000/play/a09c
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Discovery Channel
+http://45.225.93.3:8000/play/a02g
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Discovery Ciencia
+http://45.225.93.3:8000/play/a0dr
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Discovery ID
+http://45.225.93.3:8000/play/a01a
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Discovery Kids
+http://45.225.93.3:8000/play/a003
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Discovery Turbo
+http://45.225.93.3:8000/play/a027
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Disney Channel
+http://45.225.93.3:8000/play/a02f
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Disney Jr
+http://45.225.93.3:8000/play/a00k
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Disney 
+http://45.225.93.3:8000/play/a00p
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", E Entertainment
+http://45.225.93.3:8000/play/a02j
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", EL GOURMET
+http://45.225.93.3:8000/play/a09i
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Enlace
+http://45.225.93.3:8000/play/a03f
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Esne TV
+http://45.225.93.3:8000/play/a0ck
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", FILM AND ART
+http://45.225.93.3:8000/play/a0cg
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", FX
+http://45.225.93.3:8000/play/a01z
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", FX Movies
+http://45.225.93.3:8000/play/a0bj
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Fox Channel
+http://45.225.93.3:8000/play/a00u
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Fox Life
+http://45.225.93.3:8000/play/a00y
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", France 24
+http://45.225.93.3:8000/play/a0cl
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Fuego TV
+http://45.225.93.3:8000/play/a0aa
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", GARAGE
+http://45.225.93.3:8000/play/a09r
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", GLITZ
+http://45.225.93.3:8000/play/a09k
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", GOL TV
+http://45.225.93.3:8000/play/a0at
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", GOLDEN PLUS
+http://45.225.93.3:8000/play/a0aq
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Goku TV
+http://45.225.93.3:8000/play/a08b
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", HBO
+http://45.225.93.3:8000/play/a01u
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", HGTV
+http://45.225.93.3:8000/play/a09f
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", History Channel
+http://45.225.93.3:8000/play/a00r
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", discovery Home and Health
+http://45.225.93.3:8000/play/a01d
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", I-Sat
+http://45.225.93.3:8000/play/a00v
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", ID DISCOVERY HD
+http://45.225.93.3:8000/play/a09d
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", KPOP
+http://45.225.93.3:8000/play/a0al
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Karavana TV
+http://45.225.93.3:8000/play/a0ac
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Karavana Urbano
+http://45.225.93.3:8000/play/a08f
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", La Red
+http://45.225.93.3:8000/play/a005
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", MTV
+http://45.225.93.3:8000/play/a00w
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", MUCH MUSIC
+http://45.225.93.3:8000/play/a0ci
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", MXClassic
+http://45.225.93.3:8000/play/a0ag
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", MXFamily
+http://45.225.93.3:8000/play/a0ah
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", MXPrime
+http://45.225.93.3:8000/play/a0af
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Mega
+http://45.225.93.3:8000/play/a007
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", NATGEO WILD
+http://45.225.93.3:8000/play/a09n
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Nat Geo
+http://45.225.93.3:8000/play/a00q
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", NatGeo Kids
+http://45.225.93.3:8000/play/a011
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Nick Junior
+http://45.225.93.3:8000/play/a026
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Nickelodeon
+http://45.225.93.3:8000/play/a00o
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", OLD
+http://45.225.93.3:8000/play/a091
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", PARAMOUNT
+http://45.225.93.3:8000/play/a09a
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", QUIEROTV
+http://45.225.93.3:8000/play/a0cj
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", RCN Novelas
+http://45.225.93.3:8000/play/a037
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Retro
+http://45.225.93.3:8000/play/a0a7
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Sony
+http://45.225.93.3:8000/play/a01w
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Space
+http://45.225.93.3:8000/play/a01y
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", SyFy
+http://45.225.93.3:8000/play/a0dn
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TBS
+http://45.225.93.3:8000/play/a038
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TCM
+http://45.225.93.3:8000/play/a010
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TLC DISCOVERY
+http://45.225.93.3:8000/play/a09h 
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TNT
+http://45.225.93.3:8000/play/a013
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TRU TV
+http://45.225.93.3:8000/play/a09j
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TV+
+http://45.225.93.3:8000/play/a044
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TV+ HD
+http://45.225.93.3:8000/play/a051
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TVE
+http://45.225.93.3:8000/play/a03g
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TVN
+http://45.225.93.3:8000/play/a006
+#EXTINF:-1 group-title = "Lista CNT PLAY 3" , TYC SPORTS
+http://45.225.93.3:8000/play/a09s
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Telemundo
+http://45.225.93.3:8000/play/a035
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Tooncast
+http://45.225.93.3:8000/play/a0dl
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Travel and Living
+http://45.225.93.3:8000/play/a030
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", TyC Sports
+http://45.225.93.3:8000/play/a0au
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Universal
+http://45.225.93.3:8000/play/a00t
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", ViaX
+http://45.225.93.3:8000/play/a031
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Warner
+http://45.225.93.3:8000/play/a05i
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Win
+http://45.225.93.3:8000/play/a0cq
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Zona Latina
+http://45.225.93.3:8000/play/a00x
+#EXTINF:-1 group-title = "Lista CNT PLAY 3", Zoom Back
+http://45.225.93.3:8000/play/a08h
 
-#EXTINF:-1 tvg-id="" tvg-name="KIDS HD :| NAT GEO KIDS" tvg-logo="http://plan.sockettv.online:25461/images/d933df149c62be04ea54d3a9bfb0372c.png" group-title="CANALESHD", NAT GEO KIDS
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/485
-#EXTINF:-1 tvg-id="" tvg-name="KIDS HD:| TOONCAST" tvg-logo="http://plan.sockettv.online:25461/images/51194287dea464e6be6d483240e1dba0.png" group-title="CANALESHD", TOONCAST
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/486
-#EXTINF:-1 tvg-id="" tvg-name="KIDS HD:| BOOMERANG" tvg-logo="http://plan.sockettv.online:25461/images/6848d756da66e55b42f79c0728e351ad.png" group-title="CANALESHD", BOOMERANG
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/487
-#EXTINF:-1 tvg-id="" tvg-name="KIDS HD :| BABY TV" tvg-logo="http://plan.sockettv.online:25461/images/f9c5bd779f169992e1f8635bdcab1efa.png" group-title="CANALESHD",  BABY TV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/488
-#EXTINF:-1 tvg-id="" tvg-name="KIDS HD:| NICKELODEON " tvg-logo="http://plan.sockettv.online:25461/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="CANALESHD",  NICKELODEON 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/489
-#EXTINF:-1 tvg-id="" tvg-name="KIDS HD :| NICK" tvg-logo="http://plan.sockettv.online:25461/images/f64609172efea86a5a6fbae12ab86d33.png" group-title="CANALESHD", NICK
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/492
-#EXTINF:-1 tvg-id="" tvg-name="KIDS HD :| NICKELODEON" tvg-logo="http://plan.sockettv.online:25461/images/74243d8f2a60c072dee87450ee49425a.png" group-title="CANALESHD", NICKELODEON
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/493
-#EXTINF:-1 tvg-id="" tvg-name="KIDS HD : BOOMERANG" tvg-logo="http://plan.sockettv.online:25461/images/65079b006e85a7e798abecb99e47c154.png" group-title="CANALESHD", BOOMERANG
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/494
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: DISCOVERY CHANNEL (LAT)" tvg-logo="http://plan.sockettv.online:25461/images/2dc024580b3688b250c2530872b0876b.jpg" group-title="CANALESHD",  DISCOVERY CHANNEL (LAT)
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/501
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: DISCOVERY CIVILIZATION" tvg-logo="http://plan.sockettv.online:25461/images/748a289347688e86f29ec425dd5479de.jpg" group-title="CANALESHD",  DISCOVERY CIVILIZATION
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/502
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: DISCOVERY SCIENCE" tvg-logo="http://plan.sockettv.online:25461/images/d14e99e734d6b1aa4ea73c82a2df446c.jpg" group-title="CANALESHD", DISCOVERY SCIENCE
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/504
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: DISCOVERY HOME AND HEALT" tvg-logo="http://plan.sockettv.online:25461/images/30b548a121e980a667a45db57121e1f1.jpg" group-title="CANALESHD", DISCOVERY HOME AND HEALT
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/507
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: NAT GEO (LAT)" tvg-logo="http://plan.sockettv.online:25461/images/e049da943e2ea602f078330eaa7df5fe.jpg" group-title="CANALESHD", NAT GEO
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/513
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: NAT GEO (MEX)" tvg-logo="http://plan.sockettv.online:25461/images/e049da943e2ea602f078330eaa7df5fe.jpg" group-title="CANALESHD", NAT GEO
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/514
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: NAT GEO WILD" tvg-logo="http://plan.sockettv.online:25461/images/c2fec486fc6395739e318df7506d6b1b.jpg" group-title="CANALESHD", NAT GEO WILD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/515
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: NAT GEO MUNDO" tvg-logo="http://plan.sockettv.online:25461/images/12b4035aaa1c448e87d7245a952e193a.jpg" group-title="CANALESHD", NAT GEO MUNDO
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/516
-#EXTINF:-1 tvg-id="" tvg-name="CUL HD: HISTORY CHANNEL 2" tvg-logo="http://plan.sockettv.online:25461/images/ac0e825b0a56d699ab5394efd1f0d093.jpg" group-title="CANALESHD", HISTORY CHANNEL 2
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/518
-#EXTINF:-1 tvg-id="" tvg-name="CR | TIGO SPORT" tvg-logo="http://plan.sockettv.online:25461/images/8734cfc43c34196d51a1c2634c2c8673.jpg" group-title="CANALESHD", TIGO SPORT
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/522
-#EXTINF:-1 tvg-id="" tvg-name="CR: //EXTRA+SPORT-" tvg-logo="http://plan.sockettv.online:25461/images/0a1cbb3ca55296b59f68d55e362fb188.jpg" group-title="CANALESHD", EXTRA+SPORT-
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/523
-#EXTINF:-1 tvg-id="" tvg-name="CR: | FUTV SD " tvg-logo="http://plan.sockettv.online:25461/images/5f5bb1ab2bad8bd6d3954eeda0f8d145.jpg" group-title="CANALESHD", FUTV SD 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/636
-#EXTINF:-1 tvg-id="" tvg-name="DOC |  DISTRITO COMEDIA " tvg-logo="" group-title="CANALESHD", DISTRITO COMEDIA 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/2174
+=========================================================================================================================================================================
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", 24 Horas 
+http://45.166.147.6:8000/play/a01c
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", AE Mundo
+http://45.166.147.6:8000/play/a01o
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", AXN 
+http://45.166.147.6:8000/play/a036
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Animal Planet 
+http://45.166.147.6:8000/play/a01f
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Baby TV
+http://45.166.147.6:8000/play/a03u
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", CHV
+http://45.166.147.6:8000/play/a00y
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", CNN Chile
+http://45.166.147.6:8000/play/a00j
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", CNN Español 
+http://45.166.147.6:8000/play/a00u
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Canal 13 
+http://45.166.147.6:8000/play/a00z
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Canal De Las Estrellas
+http://45.166.147.6:8000/play/a01s
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Cartoon network 
+http://45.166.147.6:8000/play/a00m
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Cinecanal 
+http://45.166.147.6:8000/play/a00c
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Cinemax 
+http://45.166.147.6:8000/play/a034
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Discovery Channel 
+http://45.166.147.6:8000/play/a01e
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Discovery ID
+http://45.166.147.6:8000/play/a01x
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Discovery Kids 
+http://45.166.147.6:8000/play/a00t
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Discovery Turbo 
+http://45.166.147.6:8000/play/a03h
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Disney Channel
+http://45.166.147.6:8000/play/a01d
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Disney Junior 
+http://45.166.147.6:8000/play/a01a
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Disney 
+http://45.166.147.6:8000/play/a009
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", E¡ Entertainment 
+http://45.166.147.6:8000/play/a01h
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", ESPN
+http://45.166.147.6:8000/play/a01j
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", ESPN
+http://45.166.147.6:8000/play/a01k
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", ESPN 3
+http://45.166.147.6:8000/play/a03j
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", ETC TV 
+http://45.166.147.6:8000/play/a03s
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Enlace 
+http://45.166.147.6:8000/play/a00r
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", FX 
+http://45.166.147.6:8000/play/a038
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", FX Movies
+http://45.166.147.6:8000/play/a010
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Fox Sports 1
+http://45.166.147.6:8000/play/a01i
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Fox Sports 2
+http://45.166.147.6:8000/play/a01t
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Fox Sports 3
+http://45.166.147.6:8000/play/a01u
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Fox Sports Premium
+http://45.166.147.6:8000/play/a012
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", GOL TV 
+http://45.166.147.6:8000/play/a01l
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Golden Edge 
+http://45.166.147.6:8000/play/a04x
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", HBO 
+http://45.166.147.6:8000/play/a033
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", HBO 2 
+http://45.166.147.6:8000/play/a016
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", HBO Extreme 
+http://45.166.147.6:8000/play/a018
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", HBO Family 
+http://45.166.147.6:8000/play/a019
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", HBO Plus
+http://45.166.147.6:8000/play/a017
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", History Channel 
+http://45.166.147.6:8000/play/a00b
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Home and Health 
+http://45.166.147.6:8000/play/a021
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", I-Sat 
+http://45.166.147.6:8000/play/a00f
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", La Red 
+http://45.166.147.6:8000/play/a00v
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", MTV 
+http://45.166.147.6:8000/play/a00g
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Mega 
+http://45.166.147.6:8000/play/a00x
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Nat Geo 
+http://45.166.147.6:8000/play/a00a
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", NatGeo Kids 
+http://45.166.147.6:8000/play/a00l
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Nick Junior 
+http://45.166.147.6:8000/play/a03g
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Nickelodeon 
+http://45.166.147.6:8000/play/a008
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", RCN Novelas 
+http://45.166.147.6:8000/play/a01w
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Sony 
+http://45.166.147.6:8000/play/a035
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Space
+http://45.166.147.6:8000/play/a037
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Star Action 
+http://45.166.147.6:8000/play/a015
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", fox Channel 
+http://45.166.147.6:8000/play/a00e
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Star Hits 
+http://45.166.147.6:8000/play/a013
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Star Life 
+http://45.166.147.6:8000/play/a00i
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Star Series
+http://45.166.147.6:8000/play/a014
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TBS 
+http://45.166.147.6:8000/play/a020
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TCM
+http://45.166.147.6:8000/play/a00k
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TNT 
+http://45.166.147.6:8000/play/a00n
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TNT Series
+http://45.166.147.6:8000/play/a04d
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TNT Sport 2 
+http://45.166.147.6:8000/play/a011
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TNT Sport 3 
+http://45.166.147.6:8000/play/a01n
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TV+ 
+http://45.166.147.6:8000/play/a03r
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TVE 
+http://45.166.147.6:8000/play/a00s
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TVEDUCA 
+http://45.166.147.6:8000/play/a04v
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TVN 
+http://45.166.147.6:8000/play/a00w
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Telemundo 
+http://45.166.147.6:8000/play/a01v
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Teletrak 
+http://45.166.147.6:8000/play/a04y
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Tooncast 
+http://45.166.147.6:8000/play/a03v
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Travel and Living 
+http://45.166.147.6:8000/play/a01q
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", TyC Sports 
+http://45.166.147.6:8000/play/a01m
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Universal 
+http://45.166.147.6:8000/play/a00d
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", ViaX 
+http://45.166.147.6:8000/play/a01r
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Warner 
+http://45.166.147.6:8000/play/a01g
+#EXTINF:-1 group-title = "Lista CNT PLAY 4", Zona Latina 
+http://45.166.147.6:8000/play/a00h
 
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | A&E America UHD" tvg-logo="" group-title="CANALESHD", A&E 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/416
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | AMC America UHD" tvg-logo="" group-title="CANALESHD", AMC 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/417
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | AXN UHD" tvg-logo="" group-title="CANALESHD", AXN 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/418
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | CINECANAL UHD" tvg-logo="" group-title="CANALESHD", CINECANAL
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/419
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | CINEMAX UHD" tvg-logo="" group-title="CANALESHD", CINEMAX 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/420
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR CHANNEL UHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Channel.png" group-title="CANALESHD", FOX CHANNEL
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/423
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM ACTION UHD" tvg-logo="http://plan.sockettv.online:25461/images/3df285336ec10de0da4f2005ae967680.png" group-title="CANALESHD", STAR PREMIUM ACTION UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/424
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM CINEMA UHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Cinema.png" group-title="CANALESHD", STAR PREMIUM CINEMA
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/425
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM CLASSICS UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/STARClassics2021.svg" group-title="CANALESHD",  STAR PREMIUM CLASSICS UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/426
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM COMEDY" tvg-logo="http://plan.sockettv.online:25461/images/185e0dd36322d56d03b15562aa16deed.png" group-title="CANALESHD", STAR PREMIUM COMEDY
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/427
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM FUN UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg" group-title="CANALESHD", STAR PREMIUM FUN UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/428
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUM SERIES UHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Series.png" group-title="CANALESHD", STAR PREMIUM SERIES
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/429
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | STAR PREMIUN HITS UHD" tvg-logo="http://plan.sockettv.online:25461/images/e3ca19a7b968f81b6e10f4315172628e.png" group-title="CANALESHD", STAR PREMIUN HITS UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/430
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | FXM Movie UHD" tvg-logo="" group-title="CANALESHD", FXM Movie UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/431
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | GOLDEN EDGE" tvg-logo="" group-title="CANALESHD", GOLDEN EDGE
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/432
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | GOLDEN PREMIER UHD" tvg-logo="" group-title="CANALESHD", GOLDEN PREMIER 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/433
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | GOLDEN PREMIERE 2 UHD" tvg-logo="" group-title="CANALESHD", GOLDEN PREMIERE 2 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/434
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO EAST UHD" tvg-logo="" group-title="CANALESHD", HBO 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/435
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO 2 EAST" tvg-logo="" group-title="CANALESHD", HBO 2 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/436
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO FAMILY UHD" tvg-logo="" group-title="CANALESHD", HBO FAMILY 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/437
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO SIGNATURE UHD" tvg-logo="" group-title="CANALESHD", HBO SIGNATURE 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/439
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO+ PLUS UHD" tvg-logo="" group-title="CANALESHD", HBO+ PLUS 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/440
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | HBO XTREME UHD" tvg-logo="" group-title="CANALESHD", HBO XTREME 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/441
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | LIFETIME America" tvg-logo="" group-title="CANALESHD", LIFETIME 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/442
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | Paramount Channel America UHD" tvg-logo="" group-title="CANALESHD", Paramount Channel 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/443
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | SONY Channel UHD" tvg-logo="" group-title="CANALESHD",  SONY Channel 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/444
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | SONY Channel Novelas UHD" tvg-logo="" group-title="CANALESHD",PREM: | SONY Channel Novelas UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/447
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | SPACE America UHD" tvg-logo="" group-title="CANALESHD", SPACE 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/448
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | TNT Latin America UHD" tvg-logo="" group-title="CANALESHD", TNT 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/449
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | TNT Series America UHD" tvg-logo="" group-title="CANALESHD", TNT Series 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/450
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | Universal Channel America UHD" tvg-logo="" group-title="CANALESHD", Universal Channel America
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/451
-#EXTINF:-1 tvg-id="" tvg-name="PREM: | WARNER TV America UHD" tvg-logo="" group-title="CANALESHD", WARNER TV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/452
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS MIAMI HD" tvg-logo="http://plan.sockettv.online:25461/images/b036c6952f4b86d5a6a1f89dbe7228f3.png" group-title="CANALESHD", UNIMAS MIAMI HD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/459
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="http://plan.sockettv.online:25461/images/e52805d8344b67b9b3554d45f1c8958f.png" group-title="CANALESHD", UNIVISION MIAMI
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/460
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HD" tvg-logo="http://plan.sockettv.online:25461/images/e52805d8344b67b9b3554d45f1c8958f.png" group-title="CANALESHD", UNIVISION
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/461
-*********************************************************************
-EXTINF:-1 tvg-id="" tvg-name="COL| Caracol Colombia UHD" tvg-logo="" group-title="COLOMBIA", Caracol 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/364
-#EXTINF:-1 tvg-id="" tvg-name="COL| Caracol Ahora Noticas Play" tvg-logo="" group-title="COLOMBIA", Caracol Ahora Noticas Play
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/365
-#EXTINF:-1 tvg-id="" tvg-name="COL| Caracol Internacional UHD" tvg-logo="" group-title="COLOMBIA", Caracol Internacional UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/366
-#EXTINF:-1 tvg-id="" tvg-name="COL| Caracol 2 HD" tvg-logo="" group-title="COLOMBIA", Caracol 2 HD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/367
-#EXTINF:-1 tvg-id="" tvg-name="COL| RCN Colombia UHD" tvg-logo="" group-title="COLOMBIA", RCN Colombia UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/368
-#EXTINF:-1 tvg-id="" tvg-name="COL| Canal 1 Colombia" tvg-logo="" group-title="COLOMBIA", Canal 1 Colombia
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/369
-#EXTINF:-1 tvg-id="" tvg-name="COL| Canal Capital" tvg-logo="" group-title="COLOMBIA", Canal Capital
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/370
-#EXTINF:-1 tvg-id="" tvg-name="COL| City TV" tvg-logo="" group-title="COLOMBIA", City TV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/371
-#EXTINF:-1 tvg-id="" tvg-name="COL| El Tiempo" tvg-logo="" group-title="COLOMBIA", El Tiempo
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/372
-#EXTINF:-1 tvg-id="" tvg-name="COL| NTN 24 UHD" tvg-logo="" group-title="COLOMBIA", NTN 24 UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/373
-#EXTINF:-1 tvg-id="" tvg-name="COL| RCN Internacional UHD" tvg-logo="" group-title="COLOMBIA", RCN Internacional UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/375
-#EXTINF:-1 tvg-id="" tvg-name="COL| RCN Novelas UHD" tvg-logo="" group-title="COLOMBIA", RCN Novelas UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/376
-#EXTINF:-1 tvg-id="" tvg-name="COL| RCN Nuestra Tele UHD" tvg-logo="" group-title="COLOMBIA", RCN Nuestra Tele UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/377
-#EXTINF:-1 tvg-id="" tvg-name="COL| Senal Colombia UHD" tvg-logo="" group-title="COLOMBIA", Senal Colombia UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/378
-#EXTINF:-1 tvg-id="" tvg-name="COL| Teleantioquia" tvg-logo="" group-title="COLOMBIA", Teleantioquia
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/379
-#EXTINF:-1 tvg-id="" tvg-name="COL| Telecaribe" tvg-logo="" group-title="COLOMBIA", Telecaribe
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/380
-#EXTINF:-1 tvg-id="" tvg-name="COL| TelePacifico" tvg-logo="" group-title="COLOMBIA", TelePacifico
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/382
-#EXTINF:-1 tvg-id="" tvg-name="COL| WIN Sports Ultra" tvg-logo="" group-title="COLOMBIA", WIN Sports Ultra
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/383
-#EXTINF:-1 tvg-id="" tvg-name="COL| Win Sports + UHD" tvg-logo="" group-title="COLOMBIA", Win Sports + UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/384
+
+
 ********************************************************************
-#EXTINF:-1 tvg-id="" tvg-name="EC: RTS" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", RTS
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/473
-#EXTINF:-1 tvg-id="" tvg-name="EC: GAMATV" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", GAMATV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/474
-#EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", Teleamazonas
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/475
-#EXTINF:-1 tvg-id="" tvg-name="EC: OromarTV" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", OromarTV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/476
-#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", Ecuavisa
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/477
-#EXTINF:-1 tvg-id="" tvg-name="EC: EcuadorTV" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", EcuadorTV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/478
-#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", TC Television
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/479
-#EXTINF:-1 tvg-id="" tvg-name="EC: Canal  Uno" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", Canal  Uno
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/480
-#EXTINF:-1 tvg-id="" tvg-name="EC: Televicentro" tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="ECUADORHD", Televicentro
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/481
-#EXTINF:-1 tvg-id="" tvg-name="EC: Ecotel TV" tvg-logo="http://plan.sockettv.online:25461/images/4b9bdbe311e0be8ad51c487ab727232b.png" group-title="ECUADORHD", Ecotel TV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/482
-#EXTINF:-1 tvg-id="" tvg-name="EC: Canela" tvg-logo="" group-title="ECUADORHD", Canela
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/483
-#EXTINF:-1 tvg-id="" tvg-name="EC: RTU" tvg-logo="" group-title="ECUADORHD", RTU
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/484
+EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports 1 .37
+http://45.166.147.6:8000/play/a01i
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports 2 .38
+http://45.166.147.6:8000/play/a01t
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports 3 .39
+http://45.166.147.6:8000/play/a01u
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports Premium .40
+http://45.166.147.6:8000/play/a012
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", GOL TV .43
+http://45.166.147.6:8000/play/a01l
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN .28
+http://45.166.147.6:8000/play/a01j
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN 2 .29
+http://45.166.147.6:8000/play/a01k
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN 3 .30
+http://45.166.147.6:8000/play/a03j
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", TyC Sports .71
+http://45.166.147.6:8000/play/a01m
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", CDO Premium
+http://45.225.93.3:8000/play/a0do
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", GOL Peru
+http://45.225.93.3:8000/play/a0ds
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", CDO PREMIUM HD
+http://45.225.93.3:8000/play/a09t
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN
+http://45.225.93.3:8000/play/a0as
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN 2 Latin
+http://45.225.93.3:8000/play/a0ar
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN 3
+http://45.225.93.3:8000/play/a029
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports
+http://45.225.93.3:8000/play/a02k
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports 2
+http://45.225.93.3:8000/play/a033
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports 3
+http://45.225.93.3:8000/play/a034
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports Premium
+http://45.225.93.3:8000/play/a00c
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN
+http://201.182.242.130:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN 2 CO
+http://201.182.242.130:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN 2-ext
+http://201.182.242.130:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN 3
+http://201.182.242.130:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", ESPN-ext
+http://201.182.242.130:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports
+http://201.182.242.130:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports 1
+http://201.182.242.130:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports 2
+http://201.182.242.130:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports 3
+http://201.182.242.130:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title = "⚽ DEPORTES ⚽", Fox Sports-ext
+http://201.182.242.130:8000/play/a04x/index.m3u8
+
+
+
+
 ***************************************************************************
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021 | EN VIVO ESPANOL
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1020
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021: Ukraine vs Austria | 12:00 PM (EN VIVO) DTV2
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1089
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021: North Macedonia vs Netherlands | 12:00 PM (EN VIVO) DTV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1086
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021: República Checa vs Inglaterra | 3:00 PM (EN VIVO) DTV
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/446
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/0a825ed22f7ed552f6b0a07856907e29.png" group-title="⭐ UEFA EURO 2021 ⭐",  EURO 2021: Croacia vs Escocia | 3:00 PM (EN VIVO) DTV2
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/989
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐", COPA AMERICA | (EN VIVO) ESPANOL
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1088
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐", FUTBOL: | Ecuador vs Peru | 5:00 PM (EN VIVO) DIRECT
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/490
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐", FUTBOL: | Brazil vs Colombia | 8:00 PM (EN VIVO) DIRECT
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/635
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐",  FUTBOL: | Brazil vs Colombia | 8:00 PM (EN VIVO) TDUN
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1087
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/ceb6794ad2f50e328222150140d31dc5.png" group-title="⭐ COPA AMéRICA 2021 ⭐", FUTBOL: | Ecuador vs Peru | 5:00 PM (EN VIVO) TUDN
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/557
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/5ab9b24cb7b694c198f1e7dc9f2f22e2.jpg" group-title="⚽ DEPORTES ⚽",  Bein Liga De Campeones UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/389
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/63eddf1d251ce8fcf80f07e9f0bdf362.png" group-title="⚽ DEPORTES ⚽",  Claro Sports
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1113
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/a14ac55a4f27472c5d894ec1c3c743d2.png" group-title="⚽ DEPORTES ⚽",  Directv Sports HD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/391
-#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports (CDF HD)" tvg-logo="http://plan.sockettv.online:25461/images/2766e9eaa3475875ff6aa1b42411875c.png" group-title="⚽ DEPORTES ⚽",CHI| TNT Sports (CDF HD)
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/199
-#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports (CDF HD Chile UHD) (Exclusivo)" tvg-logo="http://plan.sockettv.online:25461/images/2766e9eaa3475875ff6aa1b42411875c.png" group-title="⚽ DEPORTES ⚽", TNT Sports 
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/200
-#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports 2 (CDF Premium)" tvg-logo="http://plan.sockettv.online:25461/images/316d618f1d2a1898df7a314471a69cee.png" group-title="⚽ DEPORTES ⚽", TNT Sports 2 (CDF Premium)
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/201
-#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports 3 (CDF Basico)" tvg-logo="http://plan.sockettv.online:25461/images/eb2d017be44e7b66619043dadba6188a.png" group-title="⚽ DEPORTES ⚽", TNT Sports 3 (CDF Basico)
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/202
-#EXTINF:-1 tvg-id="" tvg-name="CHI| TNT Sports (2K)" tvg-logo="http://plan.sockettv.online:25461/images/2766e9eaa3475875ff6aa1b42411875c.png" group-title="⚽ DEPORTES ⚽", Sports (2K)
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1153
+#EXTINF:-1 group-title = "⭐COPA UEFA Y AMERICA ⭐", TNT Sport 2 .12
+http://45.166.147.6:8000/play/a011
+#EXTINF:-1 group-title = "⭐ COPA UEFA Y AMERICA ⭐",TNT Sport 3 .11
+http://45.166.147.6:8000/play/a01n
+#EXTINF:-1 group-title = "⭐ COPA UEFA Y AMERICA ⭐",ECDF
+http://45.225.93.3:8000/play/a0d7
+#EXTINF:-1 group-title = "⭐ COPA UEFA Y AMERICA ⭐",CDF Basico
+http://45.225.93.3:8000/play/a02p
+#EXTINF:-1 group-title = "⭐ COPA UEFA Y AMERICA ⭐",CDF PREMIUM
+http://45.225.93.3:8000/play/a00b
+#EXTINF:-1 group-title = "⭐ COPA UEFA Y AMERICA ⭐",TNT SPORTS 2-ext
+http://201.182.242.130:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title = "⭐ COPA UEFA Y AMERICA ⭐",TNT SPORTS 3-ext
+http://201.182.242.130:8000/play/a052/index.m3u8
+
+
 *******************************************************************
 
 
