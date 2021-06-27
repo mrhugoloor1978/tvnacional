@@ -1049,7 +1049,7 @@ http://201.182.242.130:8000/play/a00y/index.m3u8
 http://201.182.242.130:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title = "Lista CNT PLAY 2", FOX PREMIUM SERIES 
 http://201.182.242.130:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2"", FX Movies
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", FX Movies
 http://201.182.242.130:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title = "Lista CNT PLAY 2", FX
 http://201.182.242.130:8000/play/a06l/index.m3u8
@@ -1079,7 +1079,7 @@ http://201.182.242.130:8000/play/a06g/index.m3u8
 http://201.182.242.130:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title = "Lista CNT PLAY 2", DISCOVERY Home and Health
 http://201.182.242.130:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2"", I-Sat
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", I-Sat
 http://201.182.242.130:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title = "Lista CNT PLAY 2", La Red
 http://201.182.242.130:8000/play/a049/index.m3u8
@@ -1089,7 +1089,7 @@ http://201.182.242.130:8000/play/a06y/index.m3u8
 http://201.182.242.130:8000/play/a01v/index.m3u8
 #EXTINF:-1 group-title = "Lista CNT PLAY 2", MTV
 http://201.182.242.130:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2"", Mega
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", Mega
 http://201.182.242.130:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title = "Lista CNT PLAY 2", NPY
 http://201.182.242.130:8000/play/a069/index.m3u8
@@ -1127,7 +1127,7 @@ http://201.182.242.130:8000/play/a02x/index.m3u8
 http://201.182.242.130:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title = "Lista CNT PLAY 2", Sur TV
 http://201.182.242.130:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2"", TBS
+#EXTINF:-1 group-title = "Lista CNT PLAY 2", TBS
 http://201.182.242.130:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title = "Lista CNT PLAY 2", TC Television
 http://201.182.242.130:8000/play/a02d/index.m3u8
