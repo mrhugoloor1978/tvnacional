@@ -851,248 +851,329 @@ http://186.101.216.211:8000/play/a06i
 http://186.101.216.211:8000/play/a09b
 
 -------------------------------------------------------------------
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", 24 Horas-ext
-http://201.182.242.130:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", AE Mundo
-http://201.182.242.130:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", ATV
-http://201.182.242.130:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", AXN
-http://201.182.242.130:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", America 
-http://201.182.242.130:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", AmericaTV
-http://201.182.242.130:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Animal Planet
-http://201.182.242.130:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", C9N
-http://201.182.242.130:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", CHV-emm-encodrgy-1
-http://201.182.242.130:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", CHV-emm-encodrgy-2
-http://201.182.242.130:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", CHV
-http://201.182.242.130:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", CNN Chile
-http://201.182.242.130:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", CNN Español
-http://201.182.242.130:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal 13-ext
-http://201.182.242.130:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
-http://201.182.242.130:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
-http://201.182.242.130:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
-http://201.182.242.130:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
-http://201.182.242.130:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
-http://201.182.242.130:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
-http://201.182.242.130:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Caracol
-http://201.182.242.130:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Claro
-http://201.182.242.130:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Institucional
-http://201.182.242.130:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal RCN
-http://201.182.242.130:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Uno
-http://201.182.242.130:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal Uno-ext
-http://201.182.242.130:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal de Las estrellas
-http://201.182.242.130:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Canal del Congreso-ext
-http://201.182.242.130:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Capital
-http://201.182.242.130:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Cartoon Network
-http://201.182.242.130:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Cinecanal
-http://201.182.242.130:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Cinemax
-http://201.182.242.130:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", City TV
-http://201.182.242.130:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Claro Cinema
-http://201.182.242.130:8000/play/a06s/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Claro Sports-ext
-http://201.182.242.130:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Discovery Channel
-http://201.182.242.130:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Discovery ID
-http://201.182.242.130:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Discovery Kids
-http://201.182.242.130:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Discovery Turbo
-http://201.182.242.130:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Disney Channel
-http://201.182.242.130:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Disney Junior
-http://201.182.242.130:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Disney XD
-http://201.182.242.130:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", E¡ Entertainment
-http://201.182.242.130:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuador TV
-http://201.182.242.130:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuador TV
-http://201.182.242.130:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuador TV
-http://201.182.242.130:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuador TV
-http://201.182.242.130:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Ecuavisa
-http://201.182.242.130:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Enlace
-http://201.182.242.130:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Esne TV
-http://201.182.242.130:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", FOX PREMIUM ACTION
-http://201.182.242.130:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", FOX PREMIUM MOVIES
-http://201.182.242.130:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", FOX PREMIUM SERIES 
-http://201.182.242.130:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", FX Movies
-http://201.182.242.130:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", FX
-http://201.182.242.130:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Fox Life
-http://201.182.242.130:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", France 
-http://201.182.242.130:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", GOL TV
-http://201.182.242.130:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", GOLTVEC
-http://201.182.242.130:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", GamaTV
-http://201.182.242.130:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", HBO
-http://201.182.242.130:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", HBO 2
-http://201.182.242.130:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", HBO Family
-http://201.182.242.130:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", HBO Plus
-http://201.182.242.130:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", HBO XTREME
-http://201.182.242.130:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", HBO
-http://201.182.242.130:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", History Channel
-http://201.182.242.130:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", DISCOVERY Home and Health
-http://201.182.242.130:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", I-Sat
-http://201.182.242.130:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", La Red
-http://201.182.242.130:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", La Tele
-http://201.182.242.130:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Latina
-http://201.182.242.130:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", MTV
-http://201.182.242.130:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Mega
-http://201.182.242.130:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", NPY
-http://201.182.242.130:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Nat Geo
-http://201.182.242.130:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", NatGeo Kids
-http://201.182.242.130:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Nick Junior
-http://201.182.242.130:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Nickelodeon
-http://201.182.242.130:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Oglobo
-http://201.182.242.130:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Panamericana TV
-http://201.182.242.130:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Panamericana TV
-http://201.182.242.130:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Paraguay TV
-http://201.182.242.130:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Paravision
-http://201.182.242.130:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", RCN Novelas
-http://201.182.242.130:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", RTS
-http://201.182.242.130:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", SNT
-http://201.182.242.130:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", FOX CHANNEL
-http://201.182.242.130:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Señal Colombia
-http://201.182.242.130:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Sony
-http://201.182.242.130:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Space
-http://201.182.242.130:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Sur TV
-http://201.182.242.130:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TBS
-http://201.182.242.130:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TC Television
-http://201.182.242.130:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TCM
-http://201.182.242.130:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TLC
-http://201.182.242.130:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TNT
-http://201.182.242.130:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TRO
-http://201.182.242.130:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TV CAMARA
-http://201.182.242.130:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TV Peru
-http://201.182.242.130:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TVE
-http://201.182.242.130:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TVEDUCA
-http://201.182.242.130:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TVN
-http://201.182.242.130:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Teleamazonas
-http://201.182.242.130:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Teleantioquia
-http://201.182.242.130:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Telecafe
-http://201.182.242.130:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Telecaribe
-http://201.182.242.130:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Telefe
-http://201.182.242.130:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Telefuturo
-http://201.182.242.130:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Teleislas
-http://201.182.242.130:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Telemundo
-http://201.182.242.130:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Telepacifico
-http://201.182.242.130:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", TyC Sports
-http://201.182.242.130:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Unicanal
-http://201.182.242.130:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Universal
-http://201.182.242.130:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", ViaX
-http://201.182.242.130:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Warner
-http://201.182.242.130:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Win
-http://201.182.242.130:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Zona Latina
-http://201.182.242.130:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", Zoom
-http://201.182.242.130:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title = "Lista CNT PLAY 2", trece
-http://201.182.242.130:8000/play/a05o/index.m3u8
+# EXTM3U
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", A & E
+http://190.205.118.238:8000/play/a0dc
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", AMC
+http://190.205.118.238:8000/play/a0b5
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", ANTV
+http://190.205.118.238:8000/play/a08h
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", AXN
+http://190.205.118.238:8000/play/a071
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Animal Planet
+http: //190.205.118.238:8000/play/a0ap
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Antena 3
+http://190.205.118.238:8000/play/a09u
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Baby TV
+http://190.205.118.238:8000/ play / a0cx
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Boomerang
+http://190.205.118.238:8000/play/a08p
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", CHV
+http://190.205.118.238:8000/play/a07g
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", CNN Chile
+http://190.205.118.238:8000/play/a09t
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", CNN Español
+http://190.205.118.238:8000/play/a0d3
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", CNN Internacional
+http://190.205.118.238:8000/play/a0d5
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", CableNoticias
+http://190.205.118.238:8000/play/a0cc
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Canal I
+http://190.205.118.238:8000/play/a09j
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Canal Institucional
+http://190.205.118.238:8000/play/a0ag
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Canal TRO
+http://190.205.118.238:8000 / play / a0aj
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Caracol Internacional
+http://190.205.118.238:8000/play/a06w
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Cartoon Network
+http://190.205.118.238:8000/play/a09l
+#EXTINF : - 1 group-title = "Lista CNT PLAY 2", Cinecanal
+http://190.205.118.238:8000/play/a07x
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Cinemax
+http://190.205.118.238:8000/play/a08z
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Comedy Central
+http://190.205.118.238:8000/play/a0b1
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Conciencia
+http://190.205.118.238:8000/play/a08l
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Cristovision
+http://190.205.118.238:8000/play/a0aw
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", DW (Deutsch +)
+http://190.205.118.238:8000/play/a0d8
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", De Pelicula
+http://190.205.118.238:8000/play/a0cp
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Discovery Channel
+http://190.205.118.238:8000/play/a0aq
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Discovery H&H
+http: //190.205.118.238:8000/play/a06p
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Discovery Kids
+http://190.205.118.238:8000/play/a0am
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Discovery Science
+http://190.205.118.238:8000/play/a090
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Discovery Turbo
+http://190.205.118.238:8000/play/a0cn
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Disney Channel
+http://190.205.118.238:8000/play/a0c3
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Disney Junior
+http://190.205.118.238:8000/play/a06n
+#EXTINF : -1, Disney Xd
+http://190.205.118.238: 8000 / play / a0c4
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", E! Entertainment TV
+http://190.205.118.238:8000/play/a09p
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN
+http://190.205.118.238:8000/play/a09v
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN
+http://190.205.118.238: 8000 / play / a08u
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN
+http://190.205.118.238:8000/play/a05y
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN 3
+http://190.205.118.238:8000/play/a070
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN2
+http://190.205.118.238:8000/play/a09w
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN2
+http://190.205.118.238:8000/play/a07s
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", EWTN
+http://190.205.118.238:8000/play/a06v
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", El Gourmet
+http://190.205.118.238:8000/play/a0c8
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", El Trece
+http://190.205.118.238:8000/play/a068
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Enlace
+http://190.205.118.238:8000/play/a0b8
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Eurochannel
+http://190.205.118.238:8000/play/a0d6
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Europa Europa
+http://190.205.118.238:8000/play/a0b6
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", FANB
+http://190.205.118.238:8000/play/a08m
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", FOX Sport Ven
+http://190.205.118.238: 8000 / play / a07t
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", FX
+http://190.205.118.238:8000/play/a074
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Películas FX
+http://190.205.118.238:8000/play/a0ck
+#EXTINF : - 1 group-title = "Lista CNT PLAY 2", Cine y artes
+http://190.205.118.238:8000/play/a0ar
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Flashback 70s
+http://190.205.118.238:8000/play/a0bq
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Fox News
+http: //190.205 .118.238: 8000 / play / a0a7
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Fox Sports 2
+http://190.205.118.238:8000/play/a08t
+#EXTINF: -1 group-title = "Lista CNT PLAY 2", Fox Sports 3
+http://190.205.118.238:8000/play/a0db
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Glitz *
+http://190.205.118.238:8000/play/a07m
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Globovision
+http: //190.205.118.238:8000/play/a0bx
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", golden
+http://190.205.118.238:8000/play/a093
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", golden edge
+http://190.205.118.238:8000/play/a07w
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Canal de golf
+http://190.205.118.238:8000/play/a07b
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HBO
+http://190.205.118.238:8000/play/a062
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HBO Familia
+http://190.205.118.238:8000/play/a0dh
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HBO MUNDI
+http://190.205.118.238:8000/play/a0cm
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HBO Plus
+http://190.205.118.238:8000/play/a0dj
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HBO SD
+http://190.205.118.238:8000/play/a0a1
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HBO signature
+http://190.205.118.238:8000/play/a0dk
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HBO XTREME
+http://190.205.118.238:8000/play/a0di
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HBO2
+http://190.205.118.238:8000/play/a063
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HGTV
+http://190.205.118.238:8000/play/a0c6
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", HTV
+http://190.205.118.238:8000/play/a0ca
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", History 2
+http://190.205.118.238:8000/play/a09n
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", History Channel
+http://190.205.118.238:8000/play/a06o
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Hola TV
+http://190.205.118.238:8000/play/a0at
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", I SAT
+http://190.205.118.238:8000/play/a08x
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", ID - Investigación Descubrimiento
+http://190.205.118.238:8000/play/a073
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Las Estrellas
+http://190.205.118.238:8000/play/a0c9
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Latina
+http://190.205.118.238:8000/play/a05i
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Latino Tropical
+http://190.205.118.238:8000/play/a0bo
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Lifetime
+http://190.205.118.238:8000/play/a0ch
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", MEGA
+http://190.205.118.238:8000/play/a07f
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", MTV
+http://190.205.118.238:8000/play/a0d2
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Meridiano
+http://190.205.118.238:8000/play/a08j
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Serie Movistar
+http://190.205.118.238:8000/play/a0ae
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", MÆsChic
+http://190.205.118.238:8000/play/a0a6
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Nat Geo Kids
+http://190.205.118.238:8000/play/a0ao
+#EXTINF : - 1 group-title = "Lista CNT PLAY 2", Nat Geo Wild
+http://190.205.118.238:8000/play/a09o
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Nat Geo
+http://190.205.118.238:8000/play/a09m
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Nick Jr
+http://190.205.118.238:8000/play/a067
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Nickelodeon
+http://190.205.118.238:8000/play/a08o
+#EXTINF: -1 group-title = "Lista CNT PLAY 2", Nuestra Tele
+http://190.205.118.238:8000/play/a0co
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", PLUSTV
+http://190.205.118.238:8000/play/a05w
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Paramount Channel
+http://190.205.118.238:8000/play/a08y
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Peru Magico
+http://190.205.118.238:8000/play/a05x
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Playboy
+http://190.205.118.238:8000/play/ a0a9
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", junto a la piscina
+http://190.205.118.238:8000/play/a0bp
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Pop Classics
+http://190.205.118.238:8000/play/a0bk
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", RAI
+http://190.205.118.238:8000/play/a0d7
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", RED Televisiðn
+http://190.205.118.238:8000/play/a06k
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Reggaeton
+http://190.205.118.238:8000/play/a0bt
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Rock en Español
+http://190.205.118.238:8000/play/a0bs
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Romance Latino
+http://190.205.118.238:8000/play/a0bn
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", fox ACCIÓN 
+http://190.205.118.238:8000/play/a064
+#EXTINF : -1, fox channel
+http://190.205.118.238: 8000 / play / a061
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", STAR CINEMA
+http://190.205.118.238:8000/play/a065
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", STAR CLASSICS
+http://190.205.118.238:8000/play/a0a3
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", fox comedy
+http://190.205.118.238:8000/play/a066
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", fox fun
+http://190.205.118.238:8000/play/a0b7
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", fox HITS
+http://190.205.118.238:8000/play/a0a2
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", fox live
+http://190.205.118.238: 8000 / play / a0as
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", fox series E
+http://190.205.118.238:8000/play/a07y
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", fox series O
+http://190.205.118.238:8000/play/a07z
+# EXTINF : -1 group-title = "Lista CNT PLAY 2", Sextreme
+http://190.205.118.238:8000/play/a078
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Señal Colombia
+http://190.205.118.238:8000/play/a0bz
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Sony
+http: / /190.205.118.238:8000/play/a09y
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Espace
+http://190.205.118.238:8000/play/a0cj
+#EXTINF: -1 group-title = "Lista CNT PLAY 2", Studio Universal
+http://190.205.118.238:8000/play/a0ci
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Sun Channel
+http://190.205.118.238:8000/play/a0d1
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", SyFy
+http: / /190.205.118.238:8000/play/a0a0
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TBS Muy divertido
+http://190.205.118.238:8000/play/a0a8
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TCM
+http://190.205.118.238:8000/play/a08w
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TLC
+http://190.205.118.238:8000/play/a0cz
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TLT
+http://190.205.118.238:8000/play/a0by
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TNT
+http://190.205.118.238:8000/play/a0de
+#EXTINF : -1, TNT series
+http://190.205.118.238:8000/play/a0df
+#EXTINF: -1 group-title = "Lista CNT PLAY 2", TNT_2
+http://190.205.118.238:8000/play/a0b4
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TV EPACO
+http://190.205.118.238:8000/play/a08k
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TV FAMILIA
+http://190.205.118.238:8000/play/a08d
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TV PERU
+http://190.205.118.238:8000/play/a05n
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TV +
+http://190.205.118.238:8000/play/ a07d
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TVE
+http://190.205.118.238:8000/play/a06u
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", TVES
+http://190.205.118.238:8000/play/a08f
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Tango
+http: //190.205.118.238:8000/play/a0bb
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Teleantioquia
+http://190.205.118.238:8000/play/a0cu
+#EXTINF: -1 group-title = "Lista CNT PLAY 2", Telecafe
+http://190.205.118.238:8000/play/a0ak
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Telecanal
+http://190.205.118.238:8000/play/a09i
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Telecaribe
+http://190.205.118.238:8000/play/a0ai
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Telefe
+http://190.205.118.238:8000/play/a0cd
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Teleislas
+http://190.205.118.238:8000/play/a08n
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Telemundo
+http://190.205.118.238:8000/play/a05t
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Telenovelas
+http://190.205.118.238:8000/play/a079
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Telepacifico
+http://190.205.118.238:8000/play/a0ct
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Telesur
+http://190.205.118.238:8000/play/a0d9
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Teletrak
+http://190.205.118.238:8000/play/a07r
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Televen
+http://190.205.118.238:8000/play/a0af
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", The Chill Lounge
+http://190.205.118.238:8000/play/a0bm
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Tooncast
+http://190.205.118.238:8000/play/a0dm
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Travel and Living Channel
+http://190.205.118.238: 8000 / play / a0d0
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Tru TV
+http://190.205.118.238:8000/play/a0dd
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", VALLE TV
+http://190.205.118.238:8000/play/a08e
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Megahits de VH1
+http://190.205.118.238:8000/play/a0au
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Venevision Plus
+http://190.205.118.238:8000/play/a05s
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Venevision
+http://190.205.118.238:8000/play/a08c
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Venezolana de Televisiðn
+http://190.205.118.238: 8000 / play / a08i
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Venus
+http://190.205.118.238:8000/play/a077
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Via X
+http://190.205.118.238:8000/play/a07j
+#EXTINF : - 1 group-title = "Lista CNT PLAY 2", Vive
+http://190.205.118.238:8000/play/a08g
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", WOBI
+http://190.205.118.238:8000/play/a069
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Canal Warner
+http://190.205.118.238:8000/play/a060
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", Y2K
+http://190.205.118.238:8000/play/a0br
+#EXTINF: -1 group-title = "Lista CNT PLAY 2", Zona Latina
+http://190.205.118.238:8000/play/a07i
+
+
 
 
 ----------------------------------------------------------------
