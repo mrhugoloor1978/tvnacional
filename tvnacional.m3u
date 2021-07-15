@@ -916,14 +916,14 @@ http://190.205.118.238:8000/play/a0cn
 http://190.205.118.238:8000/play/a0c3
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Disney Junior
 http://190.205.118.238:8000/play/a06n
-#EXTINF : -1, Disney Xd
-http://190.205.118.238: 8000 / play / a0c4
+#EXTINF : -1group-title = "Lista CNT PLAY 2" , Disney Xd
+http://190.205.118.238:8000/play/a0c4
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", E! Entertainment TV
 http://190.205.118.238:8000/play/a09p
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN
 http://190.205.118.238:8000/play/a09v
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN
-http://190.205.118.238: 8000 / play / a08u
+http://190.205.118.238:8000/play/a08u
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN
 http://190.205.118.238:8000/play/a05y
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", ESPN 3
@@ -947,7 +947,7 @@ http://190.205.118.238:8000/play/a0b6
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", FANB
 http://190.205.118.238:8000/play/a08m
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", FOX Sport Ven
-http://190.205.118.238: 8000 / play / a07t
+http://190.205.118.238:8000/play/a07t
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", FX
 http://190.205.118.238:8000/play/a074
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Películas FX
@@ -1018,7 +1018,7 @@ http://190.205.118.238:8000/play/a0d2
 http://190.205.118.238:8000/play/a08j
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Serie Movistar
 http://190.205.118.238:8000/play/a0ae
-#EXTINF : -1 group-title = "Lista CNT PLAY 2", MÆsChic
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", MasChic
 http://190.205.118.238:8000/play/a0a6
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Nat Geo Kids
 http://190.205.118.238:8000/play/a0ao
@@ -1056,8 +1056,8 @@ http://190.205.118.238:8000/play/a0bs
 http://190.205.118.238:8000/play/a0bn
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", fox ACCIÓN 
 http://190.205.118.238:8000/play/a064
-#EXTINF : -1, fox channel
-http://190.205.118.238: 8000 / play / a061
+#EXTINF : -1 group-title = "Lista CNT PLAY 2", fox channel
+http://190.205.118.238:8000/play/a061
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", STAR CINEMA
 http://190.205.118.238:8000/play/a065
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", STAR CLASSICS
@@ -1069,7 +1069,7 @@ http://190.205.118.238:8000/play/a0b7
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", fox HITS
 http://190.205.118.238:8000/play/a0a2
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", fox live
-http://190.205.118.238: 8000 / play / a0as
+http://190.205.118.238:8000/play/a0as
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", fox series E
 http://190.205.118.238:8000/play/a07y
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", fox series O
@@ -1079,7 +1079,7 @@ http://190.205.118.238:8000/play/a078
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Señal Colombia
 http://190.205.118.238:8000/play/a0bz
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Sony
-http: / /190.205.118.238:8000/play/a09y
+http://190.205.118.238:8000/play/a09y
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Espace
 http://190.205.118.238:8000/play/a0cj
 #EXTINF: -1 group-title = "Lista CNT PLAY 2", Studio Universal
@@ -1098,7 +1098,7 @@ http://190.205.118.238:8000/play/a0cz
 http://190.205.118.238:8000/play/a0by
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", TNT
 http://190.205.118.238:8000/play/a0de
-#EXTINF : -1, TNT series
+#EXTINF : -1group-title = "Lista CNT PLAY 2" , TNT series
 http://190.205.118.238:8000/play/a0df
 #EXTINF: -1 group-title = "Lista CNT PLAY 2", TNT_2
 http://190.205.118.238:8000/play/a0b4
@@ -1145,7 +1145,7 @@ http://190.205.118.238:8000/play/a0bm
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Tooncast
 http://190.205.118.238:8000/play/a0dm
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Travel and Living Channel
-http://190.205.118.238: 8000 / play / a0d0
+http://190.205.118.238:8000/play/a0d0
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", Tru TV
 http://190.205.118.238:8000/play/a0dd
 #EXTINF : -1 group-title = "Lista CNT PLAY 2", VALLE TV
