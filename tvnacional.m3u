@@ -3090,7 +3090,7 @@ http://186.101.216.211:8000/play/a01t
 http://186.101.216.211:8000/play/a0cx 
 #EXTINF:-1 group-title="Lista DIRECTV", Disney Channel Conax 
 http://186.101.216.211:8000/play/a02e 
-#EXTINF:-1 group-title="Lista DIRECTV",Disney Junior 
+#EXTINF:-1 group-title="Lista DIRECTV", Disney Junior 
 http://186.101.216.211:8000/play/a02a 
 #EXTINF:-1 group-title="Lista DIRECTV", Disney  
 http://186.101.216.211:8000/play/a06b 
@@ -3116,7 +3116,7 @@ http://186.101.216.211:8000/play/a06u
 http://186.101.216.211:8000/play/a04c 
 #EXTINF:-1 tvg-id="a038" group-title="Lista DIRECTV", Ecuavisa
 http://186.101.216.211:8000/play/a038 
-#EXTINF:-1 group-title="Lista DIRECTV", El Trece na 
+#EXTINF:-1 group-title="Lista DIRECTV", El Trece  
 http://186.101.216.211:8000/play/a0aj 
 #EXTINF:-1 group-title="Lista DIRECTV",Enlace 
 http://186.101.216.211:8000/play/a0ed 
@@ -3238,7 +3238,7 @@ http://186.101.216.211:8000/play/a0ag
 http://186.101.216.211:8000/play/a0ah 
 #EXTINF:-1 group-title="Lista DIRECTV", STAR HITS 
 http://186.101.216.211:8000/play/a0e7 
-#EXTINF:-1 group-title="Lista DIRECTV", STAR LIFE Co 
+#EXTINF:-1 group-title="Lista DIRECTV", STAR LIFE  
 http://186.101.216.211:8000/play/a06j 
 #EXTINF:-1 group-title="Lista DIRECTV", Senal Colombia 
 http://186.101.216.211:8000/play/a095 
@@ -3316,7 +3316,7 @@ http://186.101.216.211:8000/play/a0al
 http://186.101.216.211:8000/play/a0cu 
 #EXTINF:-1 group-title="Lista DIRECTV", Universal  
 http://186.101.216.211:8000/play/a06f 
-#EXTINF:-1 group-title="Lista DIRECTV", Venevision Plus na 
+#EXTINF:-1 group-title="Lista DIRECTV", Venevision Plus  
 http://186.101.216.211:8000/play/a0a3 
 #EXTINF:-1 group-title="Lista DIRECTV", Venus 
 http://186.101.216.211:8000/play/a02q 
