@@ -3007,3 +3007,327 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 ==========================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
+
+#EXTINF:-1 group-title="Lista DIRECTV", 24 Horas 
+http://186.101.216.211:8000/play/a0e8 
+#EXTINF:-1 group-title="Lista DIRECTV", A&E 
+http://186.101.216.211:8000/play/a0dr 
+#EXTINF:-1 group-title="Lista DIRECTV", AE Mundo
+http://186.101.216.211:8000/play/a02p 
+#EXTINF:-1 group-title="Lista DIRECTV", ATRES SERIES 
+http://186.101.216.211:8000/play/a0dv 
+#EXTINF:-1 group-title="Lista DIRECTV", ATV 
+http://186.101.216.211:8000/play/a073 
+#EXTINF:-1 group-title="Lista DIRECTV", AXN 
+http://186.101.216.211:8000/play/a0cm 
+#EXTINF:-1 group-title="Lista DIRECTV", America TV AR Conax 
+http://186.101.216.211:8000/play/a079 
+#EXTINF:-1 group-title="Lista DIRECTV", AmericaTV P 
+http://186.101.216.211:8000/play/a071 
+#EXTINF:-1 group-title="Lista DIRECTV", Animal Planet Co 
+http://186.101.216.211:8000/play/a02g 
+#EXTINF:-1 group-title="Lista DIRECTV", BBC World 
+http://186.101.216.211:8000/play/a0dj 
+#EXTINF:-1 group-title="Lista DIRECTV", Baby TV 
+http://186.101.216.211:8000/play/a0dc 
+#EXTINF:-1 group-title="Lista DIRECTV", C9N 
+http://186.101.216.211:8000/play/a097 
+#EXTINF:-1 group-title="Lista DIRECTV", CHV 
+http://186.101.216.211:8000/play/a0eb 
+#EXTINF:-1 group-title="Lista DIRECTV", CMD  
+http://186.101.216.211:8000/play/a0am 
+#EXTINF:-1 group-title="Lista DIRECTV", CNN Chile 
+http://186.101.216.211:8000/play/a0ec 
+#EXTINF:-1 group-title="Lista DIRECTV", CNN Español 
+http://186.101.216.211:8000/play/a01u 
+#EXTINF:-1 group-title="Lista DIRECTV", CNN International 
+http://186.101.216.211:8000/play/a0dk 
+#EXTINF:-1 group-title="Lista DIRECTV", Canal Caracol 
+http://186.101.216.211:8000/play/a08z 
+#EXTINF:-1 group-title="Lista DIRECTV", Canal Claro co 
+http://186.101.216.211:8000/play/a08e 
+#EXTINF:-1 group-title="Lista DIRECTV", Canal Institucional 
+http://186.101.216.211:8000/play/a093 
+#EXTINF:-1 tvg-id=""CANAL N (Canal N)"" group-title="Lista DIRECTV", Canal N Na 
+http://186.101.216.211:8000/play/a05i 
+#EXTINF:-1 group-title="Lista DIRECTV", Canal RCN 
+http://186.101.216.211:8000/play/a09k 
+#EXTINF:-1 group-title="Lista DIRECTV", Canal Uno
+http://186.101.216.211:8000/play/a033 
+#EXTINF:-1 group-title="Lista DIRECTV", Canal de Las estrellas
+http://186.101.216.211:8000/play/a02y 
+#EXTINF:-1 group-title="Lista DIRECTV", Canal del Congreso 
+http://186.101.216.211:8000/play/a03b 
+#EXTINF:-1 group-title="Lista DIRECTV", Capital 
+http://186.101.216.211:8000/play/a03m 
+#EXTINF:-1 group-title="Lista DIRECTV", Cartoon Network  
+http://186.101.216.211:8000/play/a06o 
+#EXTINF:-1 group-title="Lista DIRECTV", Cinecanal  
+http://186.101.216.211:8000/play/a06e 
+#EXTINF:-1 group-title="Lista DIRECTV", Cinemax 
+http://186.101.216.211:8000/play/a0ck 
+#EXTINF:-1 group-title="Lista DIRECTV", City TV 
+http://186.101.216.211:8000/play/a09e 
+#EXTINF:-1 group-title="Lista DIRECTV", Claro Cinema 
+http://186.101.216.211:8000/play/a0cv 
+#EXTINF:-1 group-title="Lista DIRECTV", Claro Sports 
+http://186.101.216.211:8000/play/a06q 
+#EXTINF:-1 group-title="Lista DIRECTV", Classic Rock 
+http://186.101.216.211:8000/play/a02u 
+#EXTINF:-1 group-title="Lista DIRECTV", Classic RockRoll 
+http://186.101.216.211:8000/play/a03q 
+#EXTINF:-1 group-title="Lista DIRECTV", DW (Deutsch +) 
+http://186.101.216.211:8000/play/a0dn 
+#EXTINF:-1 group-title="Lista DIRECTV", Directv 
+http://186.101.216.211:8000/play/dtsp 
+#EXTINF:-1 group-title="Lista DIRECTV", Discovery Channel  
+http://186.101.216.211:8000/play/a02f 
+#EXTINF:-1 group-title="Lista DIRECTV", Discovery ID 
+http://186.101.216.211:8000/play/a07s 
+#EXTINF:-1 group-title="Lista DIRECTV", Discovery Kids 
+http://186.101.216.211:8000/play/a01t 
+#EXTINF:-1 group-title="Lista DIRECTV", Discovery Turbo 
+http://186.101.216.211:8000/play/a0cx 
+#EXTINF:-1 group-title="Lista DIRECTV", Disney Channel Conax 
+http://186.101.216.211:8000/play/a02e 
+#EXTINF:-1 group-title="Lista DIRECTV",Disney Junior 
+http://186.101.216.211:8000/play/a02a 
+#EXTINF:-1 group-title="Lista DIRECTV", Disney  
+http://186.101.216.211:8000/play/a06b 
+#EXTINF:-1 group-title="Lista DIRECTV", E¡ Entertainment 
+http://186.101.216.211:8000/play/a02i 
+#EXTINF:-1 group-title="Lista DIRECTV", ESPN 2 
+http://186.101.216.211:8000/play/a02k 
+#EXTINF:-1 group-title="Lista DIRECTV", ESPN 3 
+http://186.101.216.211:8000/play/a0cz 
+#EXTINF:-1 group-title="Lista DIRECTV", ESPN Co 
+http://186.101.216.211:8000/play/a02l 
+#EXTINF:-1 group-title="Lista DIRECTV", ESPN MOV 
+http://186.101.216.211:8000/play/espn 
+#EXTINF:-1 group-title="Lista DIRECTV", ESPNe 
+http://186.101.216.211:8000/play/a0e4 
+#EXTINF:-1 group-title="Lista DIRECTV", ESPn 
+http://186.101.216.211:8000/play/a0e3 
+#EXTINF:-1 group-title="Lista DIRECTV", ETC TV 
+http://186.101.216.211:8000/play/etct 
+#EXTINF:-1 group-title="Lista DIRECTV", Ecuador TV 
+http://186.101.216.211:8000/play/a06u 
+#EXTINF:-1 group-title="Lista DIRECTV", Ecuador TV  
+http://186.101.216.211:8000/play/a04c 
+#EXTINF:-1 tvg-id="a038" group-title="Lista DIRECTV", Ecuavisa
+http://186.101.216.211:8000/play/a038 
+#EXTINF:-1 group-title="Lista DIRECTV", El Trece na 
+http://186.101.216.211:8000/play/a0aj 
+#EXTINF:-1 group-title="Lista DIRECTV",Enlace 
+http://186.101.216.211:8000/play/a0ed 
+#EXTINF:-1 group-title="Lista DIRECTV", Epoca 
+http://186.101.216.211:8000/play/a0db 
+#EXTINF:-1 group-title="Lista DIRECTV", Esne TV 
+http://186.101.216.211:8000/play/a0cy 
+#EXTINF:-1 group-title="Lista DIRECTV", Eurochannel 
+http://186.101.216.211:8000/play/a0dl 
+#EXTINF:-1 group-title="Lista DIRECTV", FOX SPORT 
+http://186.101.216.211:8000/play/foxm 
+#EXTINF:-1 group-title="Lista DIRECTV", FX 
+http://186.101.216.211:8000/play/a0co 
+#EXTINF:-1 group-title="Lista DIRECTV", FX Movies 
+http://186.101.216.211:8000/play/a0ea 
+#EXTINF:-1 group-title="Lista DIRECTV", Fox Sport Chile 
+http://186.101.216.211:8000/play/fosc 
+#EXTINF:-1 group-title="Lista DIRECTV", Fox Sports 1 
+http://186.101.216.211:8000/play/a08m 
+#EXTINF:-1 group-title="Lista DIRECTV", Fox Sports 2 
+http://186.101.216.211:8000/play/a02z 
+#EXTINF:-1 group-title="Lista DIRECTV", Fox Sports 3 
+http://186.101.216.211:8000/play/a0dq 
+#EXTINF:-1 group-title="Lista DIRECTV", Fox Sports 3  
+http://186.101.216.211:8000/play/a030 
+#EXTINF:-1 group-title="Lista DIRECTV", Fox Sports 
+http://186.101.216.211:8000/play/a02j 
+#EXTINF:-1 group-title="Lista DIRECTV", France 24 
+http://186.101.216.211:8000/play/a08d 
+#EXTINF:-1 group-title="Lista DIRECTV", GLOBAL  
+http://186.101.216.211:8000/play/a0a1 
+#EXTINF:-1 group-title="Lista DIRECTV", GOL TV  
+http://186.101.216.211:8000/play/a02m 
+#EXTINF:-1 group-title="Lista DIRECTV", GOLPERU 
+http://186.101.216.211:8000/play/a0d6 
+#EXTINF:-1 group-title="Lista DIRECTV", GOLTVEC  
+http://186.101.216.211:8000/play/a032 
+#EXTINF:-1 group-title="Lista DIRECTV", Gamavision  
+http://186.101.216.211:8000/play/a067 
+#EXTINF:-1 group-title="Lista DIRECTV", Gol TV 
+http://186.101.216.211:8000/play/a0dp 
+#EXTINF:-1 group-title="Lista DIRECTV", HBO Family 
+http://186.101.216.211:8000/play/a0dw 
+#EXTINF:-1 group-title="Lista DIRECTV", HBO  
+http://186.101.216.211:8000/play/a0ad 
+#EXTINF:-1 group-title="Lista DIRECTV", HBO POP 
+http://186.101.216.211:8000/play/a0e2 
+#EXTINF:-1 group-title="Lista DIRECTV", HBO Plus 
+http://186.101.216.211:8000/play/a0dy 
+#EXTINF:-1 group-title="Lista DIRECTV", HBO Plus Oeste 
+http://186.101.216.211:8000/play/a0e0 
+#EXTINF:-1 group-title="Lista DIRECTV", HBO Signature 
+http://186.101.216.211:8000/play/a0dz 
+#EXTINF:-1 group-title="Lista DIRECTV", HBO XTREME 
+http://186.101.216.211:8000/play/a0dx 
+#EXTINF:-1 group-title="Lista DIRECTV", HBO2  
+http://186.101.216.211:8000/play/a0ae 
+#EXTINF:-1 group-title="Lista DIRECTV", History Channel Co 
+http://186.101.216.211:8000/play/a06d 
+#EXTINF:-1 group-title="Lista DIRECTV", discovery Home and Health 
+http://186.101.216.211:8000/play/a08g 
+#EXTINF:-1 group-title="Lista DIRECTV", I-Sat 
+http://186.101.216.211:8000/play/a06g 
+#EXTINF:-1 group-title="Lista DIRECTV", La Red 
+http://186.101.216.211:8000/play/a01v 
+#EXTINF:-1 group-title="Lista DIRECTV", La Tele  
+http://186.101.216.211:8000/play/a074 
+#EXTINF:-1 group-title="Lista DIRECTV", Latina 
+http://186.101.216.211:8000/play/a0ef 
+#EXTINF:-1 group-title="Lista DIRECTV", Love Music 
+http://186.101.216.211:8000/play/a02t 
+#EXTINF:-1 group-title="Lista DIRECTV", MTV 
+http://186.101.216.211:8000/play/a0dh 
+#EXTINF:-1 group-title="Lista DIRECTV", Mega 
+http://186.101.216.211:8000/play/a01x 
+#EXTINF:-1 group-title="Lista DIRECTV", Mis Peliculas 
+http://186.101.216.211:8000/play/a069 
+#EXTINF:-1 group-title="Lista DIRECTV", Mis Peliculas  
+http://186.101.216.211:8000/play/a0aq 
+#EXTINF:-1 group-title="Lista DIRECTV", Movistar Plus 
+http://186.101.216.211:8000/play/a0eg 
+#EXTINF:-1 group-title="Lista DIRECTV", NPY 
+http://186.101.216.211:8000/play/a099 
+#EXTINF:-1 group-title="Lista DIRECTV", Nat Geo  
+http://186.101.216.211:8000/play/a06c 
+#EXTINF:-1 group-title="Lista DIRECTV", NatGeo Kids 
+http://186.101.216.211:8000/play/a0e6 
+#EXTINF:-1 group-title="Lista DIRECTV", Nick Junior 
+http://186.101.216.211:8000/play/a0ai 
+#EXTINF:-1 group-title="Lista DIRECTV", Nickelodeon  
+http://186.101.216.211:8000/play/a06a 
+#EXTINF:-1 group-title="Lista DIRECTV", OROMAR 
+http://186.101.216.211:8000/play/a06r 
+#EXTINF:-1 group-title="Lista DIRECTV", Oglobo 
+http://186.101.216.211:8000/play/a08u 
+#EXTINF:-1 group-title="Lista DIRECTV", Panamericana TV Conax 
+http://186.101.216.211:8000/play/a072 
+#EXTINF:-1 group-title="Lista DIRECTV", Paraguay TV 
+http://186.101.216.211:8000/play/a08t 
+#EXTINF:-1 group-title="Lista DIRECTV", Paravision 
+http://186.101.216.211:8000/play/a03d 
+#EXTINF:-1 group-title="Lista DIRECTV", Peru Magico 
+http://186.101.216.211:8000/play/a0a8 
+#EXTINF:-1 group-title="Lista DIRECTV", Playboy 
+http://186.101.216.211:8000/play/a070 
+#EXTINF:-1 group-title="Lista DIRECTV", RAI 
+http://186.101.216.211:8000/play/a0dm 
+#EXTINF:-1 group-title="Lista DIRECTV", RCN Novelas  
+http://186.101.216.211:8000/play/a08b 
+#EXTINF:-1 group-title="Lista DIRECTV", RTS 
+http://186.101.216.211:8000/play/a0ee 
+#EXTINF:-1 group-title="Lista DIRECTV", fox ACTION 
+http://186.101.216.211:8000/play/a0af 
+#EXTINF:-1 group-title="Lista DIRECTV", fox CHANNEL  
+http://186.101.216.211:8000/play/a06l 
+#EXTINF:-1 group-title="Lista DIRECTV", fox CINEMA  
+http://186.101.216.211:8000/play/a0ag 
+#EXTINF:-1 group-title="Lista DIRECTV", fox COMEDY 
+http://186.101.216.211:8000/play/a0ah 
+#EXTINF:-1 group-title="Lista DIRECTV", STAR HITS 
+http://186.101.216.211:8000/play/a0e7 
+#EXTINF:-1 group-title="Lista DIRECTV", STAR LIFE Co 
+http://186.101.216.211:8000/play/a06j 
+#EXTINF:-1 group-title="Lista DIRECTV", Senal Colombia 
+http://186.101.216.211:8000/play/a095 
+#EXTINF:-1 group-title="Lista DIRECTV", Sin Limites 
+http://186.101.216.211:8000/play/a08p 
+#EXTINF:-1 group-title="Lista DIRECTV", Sony 
+http://186.101.216.211:8000/play/a0cl 
+#EXTINF:-1 group-title="Lista DIRECTV", Space 
+http://186.101.216.211:8000/play/a0d5 
+#EXTINF:-1 group-title="Lista DIRECTV", Sun Channel 
+http://186.101.216.211:8000/play/a0dg 
+#EXTINF:-1 group-title="Lista DIRECTV", Sur TV 
+http://186.101.216.211:8000/play/a03h 
+#EXTINF:-1 group-title="Lista DIRECTV", Symphonic 
+http://186.101.216.211:8000/play/a02r 
+#EXTINF:-1 group-title="Lista DIRECTV", TBS Co 
+http://186.101.216.211:8000/play/a08f 
+#EXTINF:-1 group-title="Lista DIRECTV", TC TV 
+http://186.101.216.211:8000/play/a06n 
+#EXTINF:-1 group-title="Lista DIRECTV", TC Television  
+http://186.101.216.211:8000/play/a035 
+#EXTINF:-1 group-title="Lista DIRECTV", TCM 
+http://186.101.216.211:8000/play/a0e9 
+#EXTINF:-1 group-title="Lista DIRECTV", TLC  
+http://186.101.216.211:8000/play/a02x 
+#EXTINF:-1 group-title="Lista DIRECTV", TNT 
+http://186.101.216.211:8000/play/a0dt 
+#EXTINF:-1 group-title="Lista DIRECTV", TNT 
+http://186.101.216.211:8000/play/a06p 
+#EXTINF:-1 group-title="Lista DIRECTV", TNT SPORTS 2 
+http://186.101.216.211:8000/play/a021 
+#EXTINF:-1 group-title="Lista DIRECTV", TNT SPORTS 3 
+http://186.101.216.211:8000/play/a02o 
+#EXTINF:-1 group-title="Lista DIRECTV", TNT Series 
+http://186.101.216.211:8000/play/a0du 
+#EXTINF:-1 group-title="Lista DIRECTV", TRO 
+http://186.101.216.211:8000/play/a09c 
+#EXTINF:-1 group-title="Lista DIRECTV", TV CAMARA 
+http://186.101.216.211:8000/play/a0d4 
+#EXTINF:-1 group-title="Lista DIRECTV", TV PERU 
+http://186.101.216.211:8000/play/a09y 
+#EXTINF:-1 group-title="Lista DIRECTV", TVEDUCA 
+http://186.101.216.211:8000/play/a02d 
+#EXTINF:-1 group-title="Lista DIRECTV", Teleamazonas  
+http://186.101.216.211:8000/play/a039 
+#EXTINF:-1 group-title="Lista DIRECTV", Teleantioquia 
+http://186.101.216.211:8000/play/a0cp 
+#EXTINF:-1 group-title="Lista DIRECTV", Telecafe 
+http://186.101.216.211:8000/play/a0d2 
+#EXTINF:-1 group-title="Lista DIRECTV", Telecaribe 
+http://186.101.216.211:8000/play/a0d0 
+#EXTINF:-1 group-title="Lista DIRECTV", Telefe 
+http://186.101.216.211:8000/play/a0ct 
+#EXTINF:-1 group-title="Lista DIRECTV", Telefuturo 
+http://186.101.216.211:8000/play/a06s 
+#EXTINF:-1 group-title="Lista DIRECTV", Teleislas 
+http://186.101.216.211:8000/play/a03k 
+#EXTINF:-1 group-title="Lista DIRECTV", Telemundo1 
+http://186.101.216.211:8000/play/a0a4 
+#EXTINF:-1 group-title="Lista DIRECTV", Telepacifico 
+http://186.101.216.211:8000/play/a0cr 
+#EXTINF:-1 group-title="Lista DIRECTV", Telesur 
+http://186.101.216.211:8000/play/a0do 
+#EXTINF:-1 group-title="Lista DIRECTV", Tooncast 
+http://186.101.216.211:8000/play/a0dd 
+#EXTINF:-1 group-title="Lista DIRECTV", Travel and Living Channel 
+http://186.101.216.211:8000/play/a0df 
+#EXTINF:-1 group-title="Lista DIRECTV", Trece 
+http://186.101.216.211:8000/play/a0d3 
+#EXTINF:-1 group-title="Lista DIRECTV", Tru TV 
+http://186.101.216.211:8000/play/a0ds 
+#EXTINF:-1 group-title="Lista DIRECTV", TyC Sports  
+http://186.101.216.211:8000/play/a0al 
+#EXTINF:-1 group-title="Lista DIRECTV", Unicanal 
+http://186.101.216.211:8000/play/a0cu 
+#EXTINF:-1 group-title="Lista DIRECTV", Universal  
+http://186.101.216.211:8000/play/a06f 
+#EXTINF:-1 group-title="Lista DIRECTV", Venevision Plus na 
+http://186.101.216.211:8000/play/a0a3 
+#EXTINF:-1 group-title="Lista DIRECTV", Venus 
+http://186.101.216.211:8000/play/a02q 
+#EXTINF:-1,WOBI Na http://186.101.216.211:8000/play/a0ak 
+#EXTINF:-1 tvg-id="Canal Warner TV (MÃ©xico)" group-title="Lista DIRECTV", Warner Co 
+http://186.101.216.211:8000/play/a02h 
+#EXTINF:-1 group-title="Lista DIRECTV", Win 
+http://186.101.216.211:8000/play/a0cq 
+#EXTINF:-1 group-title="Lista DIRECTV", Win Sport+ 
+http://186.101.216.211:8000/play/g07j 
+#EXTINF:-1 group-title="Lista DIRECTV", Zona Latina 
+http://186.101.216.211:8000/play/a06i 
+#EXTINF:-1 tvg-id="Canal ZOOM (Colombia)" group-title="Lista DIRECTV", Zoom 
+http://186.101.216.211:8000/play/a09b
