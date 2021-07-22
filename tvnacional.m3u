@@ -559,9 +559,6 @@ http://gratuita.mrzutv.net:8080/sfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfg
 http://gratuita.mrzutv.net:8080/sfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfgh545454/sfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfgh545454/41505
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES DE HOY2 MRZUTV.NET" tvg-logo="" group-title="CANALESTVLAT", DEPORTES DE HOY2 
 http://gratuita.mrzutv.net:8080/sfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfgh545454/sfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfgh545454/41506
-#EXTINF:-1 tvg-id="" tvg-name="Space Jam: Nuevas Leyendas (2021)" tvg-logo="" group-title="FULL MOVIES   APOYANOS MRZUTV.NET BAJA NUESTRA APP",Space Jam: Nuevas Leyendas (2021)
-http://gratuita.mrzutv.net:8080/movie/sfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfgh545454/sfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfghsfgthsdfghsdfgh545454/41508.mp4
-
 
 
 ===================================================
@@ -2805,10 +2802,7 @@ http://45.225.93.3:8000/play/a00b
 http://201.182.242.130:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title = "⭐ COPA UEFA Y AMERICA ⭐", TNT SPORTS 3-ext
 http://201.182.242.130:8000/play/a052/index.m3u8
-#EXTINF:-1  group-title = "⭐ COPA UEFA Y AMERICA ⭐", TUDN MX
-http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=tudnmx&f=.m3u8
-#EXTINF:-1  group-title = "⭐ COPA UEFA Y AMERICA ⭐", TUDN US
-http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=tudnus&f=.m3u8
+
 
 *******************************************************************
 
@@ -3236,7 +3230,7 @@ http://186.101.216.211:8000/play/a0ah
 http://186.101.216.211:8000/play/a0e7 
 #EXTINF:-1 group-title="Lista DIRECTV", STAR LIFE  
 http://186.101.216.211:8000/play/a06j 
-#EXTINF:-1 group-title="Lista DIRECTV", Senal Colombia 
+#EXTINF:-1 group-title="Lista DIRECTV", Señal Colombia 
 http://186.101.216.211:8000/play/a095 
 #EXTINF:-1 group-title="Lista DIRECTV", Sin Limites 
 http://186.101.216.211:8000/play/a08p 
