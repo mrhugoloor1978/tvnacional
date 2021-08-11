@@ -3291,10 +3291,10 @@ http://181.64.11.148:8000/play/a021
 #EXTINF:-1 group-title="CANALES",Disney Channel
 http://181.64.11.148:8000/play/a00e
 
-#EXTINF:-1 group-title="CANALES",Disney Jr
+#EXTINF:-1 group-title="CANALES",Disney Junior
 http://181.64.11.148:8000/play/a018
 
-#EXTINF:-1 group-title="CANALES",Disney 😆
+#EXTINF:-1 group-title="CANALES",Disney 
 http://181.64.11.148:8000/play/a01c
 
 #EXTINF:-1 group-title="CANALES",E Entertainment
@@ -3321,7 +3321,7 @@ http://181.64.11.148:8000/play/a022
 #EXTINF:-1 group-title="CANALES",FX
 http://181.64.11.148:8000/play/a01z
 
-#EXTINF:-1,fox CHANNEL
+#EXTINF:-1 group-title="CANALES",fox CHANNEL
 http://181.64.11.148:8000/play/a01m
 
 #EXTINF:-1 group-title="CANALES",FX Movies
