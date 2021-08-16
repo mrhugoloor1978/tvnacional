@@ -510,14 +510,14 @@ http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3u
 #EXTINF:-1 tvg-id="" tvg-name="SD: DISCOVERY FAMILY" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/4/47/1200px-Discovery_Family_logo.svg.png" group-title="CANALESTVLAT", DISCOVERY FAMILY
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3uddddlistam3u/41034
 
-#EXTINF:-1 tvg-id="" tvg-name="SD: BRAVO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="CANALESTVLAT",SD: BRAVO TV
+#EXTINF:-1 tvg-id="" tvg-name="SD: BRAVO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="CANALESTVLAT", BRAVO TV
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3uddddlistam3u/41035
 
 #EXTINF:-1 tvg-id="" tvg-name="SD: CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="CANALESTVLAT", CNN
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3uddddlistam3u/41036
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SD: ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="ENTRETENIMIENTO", ATRES
+#EXTINF:-1 tvg-id="" tvg-name="SD: ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CANALESTVLAT", ATRES
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3uddddlistam3u/41047
 
 #EXTINF:-1 tvg-id="" tvg-name="SD: AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="CANALESTVLAT", AZTECA 7
@@ -3397,7 +3397,7 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/62999
 #EXTINF: -1 group-title = "24/7.2", Departamento de Policía de Chicago (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37784
  
-#EXTINF: -1 título de grupo = "24/7.2", Chip N Dale (e) (720) (e)
+#EXTINF: -1 group-title = "24/7.2", Chip N Dale (e) (720) (e)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37840
  
 #EXTINF: -1 group-title = "24/7.2", CienciaFiccion (e) (1080)
@@ -3412,7 +3412,7 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/40269
 #EXTINF: -1 group-title = "24/7.2", Cine Catastrofico (e) (1080)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/40270
  
-#EXTINF: -1 título de grupo = "24/7.2", Cobra Kai (PM) (4k)
+#EXTINF: -1 group-title = "24/7.2", Cobra Kai (PM) (4k)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/63764
  
 #EXTINF: -1 group-title = "24/7.2", Comedia (e) (1080)
@@ -3439,7 +3439,7 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/40280
 #EXTINF: -1 group-title = "24/7.2", Cuna de lobos (e) (SD)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/63076
  
-#EXTINF: -1 título de grupo = "24/7.2", Daria (e) (720)
+#EXTINF: -1 group-title = "24/7.2", Daria (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/38450
  
 #EXTINF: -1 group-title = "24/7.2", DC Comics Peliculas (e) (720)
@@ -3448,7 +3448,7 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37871
 #EXTINF: -1 group-title = "24/7.2", DC Comics Series (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37874
  
-#EXTINF: -1 título de grupo = "24/7.2", DC Lego (e) (720)
+#EXTINF: -1 group-title = "24/7.2", DC Lego (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37914
  
 #EXTINF: -1 group-title = "24/7.2", DC Leyendas Del Mañana (e) (720)
@@ -3463,16 +3463,16 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/44382
 #EXTINF: -1 group-title = "24/7.2", Denver El último dinosaurio (e)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37873
  
-#EXTINF: -1 título de grupo = "24/7.2", Detective Conan (e) (SD)
+#EXTINF: -1 group-title = "24/7.2", Detective Conan (e) (SD)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/38813
  
-#EXTINF: -1 título-grupo = "24/7.2", Dexter (e) (720)
+#EXTINF: -1 group-title = "24/7.2", Dexter (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/44379
  
 #EXTINF: -1 group-title = "24/7.2", Diarios De Vampiros (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/63086
  
-#EXTINF: -1 título de grupo = "24/7.2", Digimon (e) (720)
+#EXTINF: -1 group-title = "24/7.2", Digimon (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37814
  
 #EXTINF: -1 group-title = "24/7.2", Disney Animacion 3D (e) (1080)
@@ -3496,10 +3496,10 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/54925
 #EXTINF: -1 group-title = "24/7.2", Dragon Ball (e)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37816
  
-#EXTINF: -1 título de grupo = "24/7.2", Dragon Ball GT (e)
+#EXTINF: -1 group-title = "24/7.2", Dragon Ball GT (e)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37831
  
-#EXTINF: -1 título de grupo = "24/7.2", Dragon Ball Super (e) (720)
+#EXTINF: -1 group-title = "24/7.2", Dragon Ball Super (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37841
  
 #EXTINF: -1 group-title = "24/7.2", Dragon Ball Z - Saga Cell (e) (720)
@@ -3508,7 +3508,7 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37826
 #EXTINF: -1 group-title = "24/7.2", Dragon Ball Z - Saga de Freezer (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37812
  
-#EXTINF: -1 título de grupo = "24/7.2", Dragon Ball Z - Saga Majin Boo (e) (720)
+#EXTINF: -1 group-title = "24/7.2", Dragon Ball Z - Saga Majin Boo (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37813
  
 #EXTINF: -1 group-title = "24/7.2", Dragon Quest Las aventuras de Fly (e) (SD)
@@ -3574,13 +3574,13 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/55349
 #EXTINF: -1 group-title = "24/7.2", Estrenos 2020 (e) (1080)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/55628
  
-#EXTINF: -1 título-grupo = "24/7.2", Fantasía (e) (720)
+#EXTINF: -1 group-title = "24/7.2", Fantasía (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37921
  
 #EXTINF: -1 group-title = "24/7.2", Fear the Walking Dead
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/61987
  
-#EXTINF: -1 título de grupo = "24/7.2", Flash (e) (720)
+#EXTINF: -1 group-title = "24/7.2", Flash (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37747
  
 #EXTINF: -1 group-title = "24/7.2", Amigos (e) (720)
@@ -3589,7 +3589,7 @@ http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37800
 #EXTINF: -1 group-title = "24/7.2", Fuerza G (e) (SD)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/38321
  
-#EXTINF: -1 título-grupo = "24/7.2", Futurama (e) (720)
+#EXTINF: -1 group-title = "24/7.2", Futurama (e) (720)
 http://tv.mediaxyz1.com:25461/9IdQJw8M7M/SCyr4ORqK4/37835
  
 #EXTINF: -1 group-title = "24/7.2", Garfield y sus amigos (e) (SD)
