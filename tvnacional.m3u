@@ -3068,6 +3068,9 @@ http://38.131.11.34:1080/play/a07l
 #EXTINF:-1 group-title = "⭐ PREMIUM ⭐",FX
 http://38.131.11.34:1080/play/a01z
 
+#EXTINF:-1 group-title = "⭐ PREMIUM ⭐",FOX CHANNEL
+http://38.131.11.34:1080/play/a07m
+
 #EXTINF:-1 group-title = "⭐ PREMIUM ⭐",FX Movies
 http://38.131.11.34:1080/play/a00a
 
@@ -3151,9 +3154,6 @@ http://38.131.11.34:1080/play/a07z
 
 #EXTINF:-1 group-title = "⭐ PREMIUM ⭐",RCN Novelas
 http://38.131.11.34:1080/play/a037
-
-#EXTINF:-1 group-title = "⭐ PREMIUM ⭐",STAR CHANNEL
-http://38.131.11.34:1080/play/a07m
 
 #EXTINF:-1 group-title = "⭐ PREMIUM ⭐",Sony
 http://38.131.11.34:1080/play/a01w
