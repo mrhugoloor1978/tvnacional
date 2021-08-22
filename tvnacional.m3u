@@ -3404,214 +3404,364 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6
 #EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="PLUTOTV",Pluto TV Cine Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 ==========================================================================================================================================================================================================================================================================================================================================================================================================================================================
+#EXTINF: -1 group-title = "CANALES",24 Horas
+http://38.131.11.5:1080/play/a00m
 
+#EXTINF: -1 group-title = "CANALES",AE Mundo
+http://38.131.11.5:1080/play/a02q
 
-#EXTINF:-1 group-title="CANALES",AE Mundo
-http://181.64.11.148:8000/play/a00p
+#EXTINF: -1 group-title = "CANALES",AMC HD
+http://38.131.11.5:1080/play/a098
 
-#EXTINF:-1 group-title="CANALES",ATV
-http://181.64.11.148:8000/play/a009
+#EXTINF: -1 group-title = "CANALES",ATRES SERIES HD
+http://38.131.11.5:1080/play/a09r
 
-#EXTINF:-1 group-title="CANALES",AXN
-http://181.64.11.148:8000/play/a01x
+#EXTINF: -1 group-title = "CANALES",AXN
+http://38.131.11.5:1080/play/a01x
 
-#EXTINF:-1 group-title="CANALES",AmericaTV
-http://181.64.11.148:8000/play/a004
+#EXTINF: -1 group-title = "CANALES",Animal Planet
+http://38.131.11.5:1080/play/a02h
 
-#EXTINF:-1 group-title="CANALES",Animal Planet
-http://181.64.11.148:8000/play/a00g
+#EXTINF: -1 group-title = "CANALES",Animal Planet HD
+http://38.131.11.5:1080/play/a09h
 
-#EXTINF:-1 group-title="CANALES",CNN Chile
-http://181.64.11.148:8000/play/a01l
+#EXTINF: -1 group-title = "CANALES",CANAL 13
+http://38.131.11.5:1080/play/a0bd
 
-#EXTINF:-1 group-title="CANALES",CNN Español
-http://181.64.11.148:8000/play/a00x
+#EXTINF: -1 group-title = "CANALES",CDF HD
+http://38.131.11.5:1080/play/a0bb
 
-#EXTINF:-1 group-title="CANALES",Canal Claro
-http://181.64.11.148:8000/play/a01u
+#EXTINF: -1 group-title = "CANALES",CHV
+http://38.131.11.5:1080/play/a008
 
-#EXTINF:-1 group-title="CANALES",Canal de Las estrellas
-http://181.64.11.148:8000/play/a00s
+#EXTINF: -1 group-title = "CANALES",CHV HD
+http://38.131.11.5:1080/play/a090
 
-#EXTINF:-1 group-title="CANALES",Cartoon Network
-http://181.64.11.148:8000/play/a01p
+#EXTINF: -1 group-title = "CANALES",CNN Chile
+http://38.131.11.5:1080/play/a00z
 
-#EXTINF:-1 group-title="CANALES",Cinecanal
-http://181.64.11.148:8000/play/a01f
+#EXTINF: -1 group-title = "CANALES",CNN Español
+http://38.131.11.5:1080/play/a004
 
-#EXTINF:-1 group-title="CANALES",Cinemax
-http://181.64.11.148:8000/play/a01v
+#EXTINF: -1 group-title = "CANALES",Canal 13 HD
+http://38.131.11.5:1080/play/a0an
 
-#EXTINF:-1 group-title="CANALES",Discovery Channel
-http://181.64.11.148:8000/play/a00f
+#EXTINF: -1 group-title = "CANALES",Canal 24 Horas HD
+http://38.131.11.5:1080/play/a0ao
 
-#EXTINF:-1 group-title="CANALES",Discovery ID
-http://181.64.11.148:8000/play/a00c
+#EXTINF: -1 group-title = "CANALES",Canal de Las estrellas
+http://38.131.11.5:1080/play/a032
 
-#EXTINF:-1 group-title="CANALES",Discovery Kids
-http://181.64.11.148:8000/play/a00w
+#EXTINF: -1 group-title = "CANALES",Caracol HD
+http://38.131.11.5:1080/play/a0aq
 
-#EXTINF:-1 group-title="CANALES",Discovery Turbo
-http://181.64.11.148:8000/play/a021
+#EXTINF: -1 group-title = "CANALES",Cartoon Network
+http://38.131.11.5:1080/play/a012
 
-#EXTINF:-1 group-title="CANALES",Disney Channel
-http://181.64.11.148:8000/play/a00e
+#EXTINF: -1 group-title = "CANALES",Cartoon Network HD
+http://38.131.11.5:1080/play/a09b
 
-#EXTINF:-1 group-title="CANALES",Disney Junior
-http://181.64.11.148:8000/play/a018
+#EXTINF: -1 group-title = "CANALES",Cinecanal
+http://38.131.11.5:1080/play/a00s
 
-#EXTINF:-1 group-title="CANALES",Disney 
-http://181.64.11.148:8000/play/a01c
+#EXTINF: -1 group-title = "CANALES",Cinecanal HD
+http://38.131.11.5:1080/play/a097
 
-#EXTINF:-1 group-title="CANALES",E Entertainment
-http://181.64.11.148:8000/play/a00i
+#EXTINF: -1 group-title = "CANALES",Cinemax
+http://38.131.11.5:1080/play/a01v
 
-#EXTINF:-1 group-title="CANALES",ESPN
-http://181.64.11.148:8000/play/a00l
+#EXTINF: -1 group-title = "CANALES",Cinemax HD
+http://38.131.11.5:1080/play/a09s
 
-#EXTINF:-1 group-title="CANALES",ESPN 2
-http://181.64.11.148:8000/play/a01a
+#EXTINF: -1 group-title = "CANALES",Comedy Central HD
+http://38.131.11.5:1080/play/a09t
 
-#EXTINF:-1 group-title="CANALES",ESPN 2 Latin
-http://181.64.11.148:8000/play/a00k
+#EXTINF: -1 group-title = "CANALES",DHE HD
+http://38.131.11.5:1080/play/a0as
 
-#EXTINF:-1 group-title="CANALES",ESPN 3
-http://181.64.11.148:8000/play/a023
+#EXTINF: -1 group-title = "CANALES",Discovery Channel
+http://38.131.11.5:1080/play/a02g
 
-#EXTINF:-1 group-title="CANALES",Enlace
-http://181.64.11.148:8000/play/a01s
+#EXTINF: -1 group-title = "CANALES",Discovery HD
+http://38.131.11.5:1080/play/a0at
 
-#EXTINF:-1 group-title="CANALES",Esne TV
-http://181.64.11.148:8000/play/a022
+#EXTINF: -1 group-title = "CANALES",Discovery ID
+http://38.131.11.5:1080/play/a01a
 
-#EXTINF:-1 group-title="CANALES",FX
-http://181.64.11.148:8000/play/a01z
+#EXTINF: -1 group-title = "CANALES",Discovery Kids
+http://38.131.11.5:1080/play/a003
 
-#EXTINF:-1 group-title="CANALES",fox CHANNEL
-http://181.64.11.148:8000/play/a01m
+#EXTINF: -1 group-title = "CANALES",Discovery Turbo
+http://38.131.11.5:1080/play/a027
 
-#EXTINF:-1 group-title="CANALES",FX Movies
-http://181.64.11.148:8000/play/a00z
+#EXTINF: -1 group-title = "CANALES",Discovery World HD
+http://38.131.11.5:1080/play/a096
 
-#EXTINF:-1 group-title="CANALES",Fox Sports
-http://181.64.11.148:8000/play/a00d
+#EXTINF: -1 group-title = "CANALES",Disney Channel
+http://38.131.11.5:1080/play/a02f
 
-#EXTINF:-1 group-title="CANALES",Fox Sports 2
-http://181.64.11.148:8000/play/a00t
+#EXTINF: -1 group-title = "CANALES",Disney HD
+http://38.131.11.5:1080/play/a09l
 
-#EXTINF:-1 group-title="CANALES",Fox Sports 3
-http://181.64.11.148:8000/play/a00u
+#EXTINF: -1 group-title = "CANALES",Disney JUNIOR
+http://38.131.11.5:1080/play/a00k
 
-#EXTINF:-1 group-title="CANALES",France 24
-http://181.64.11.148:8000/play/a001
+#EXTINF: -1 group-title = "CANALES",Disney 
+http://38.131.11.5:1080/play/a00p
 
-#EXTINF:-1 group-title="CANALES",HBO
-http://181.64.11.148:8000/play/a025
+#EXTINF: -1 group-title = "CANALES",E¡ Entertainment
+http://38.131.11.5:1080/play/a02j
 
-#EXTINF:-1 group-title="CANALES",HBO 2
-http://181.64.11.148:8000/play/a014
+#EXTINF: -1 group-title = "CANALES",ESPN
+http://38.131.11.5:1080/play/a02l
 
-#EXTINF:-1 group-title="CANALES",HBO Family
-http://181.64.11.148:8000/play/a017
+#EXTINF: -1 group-title = "CANALES",ESPN 2
+http://38.131.11.5:1080/play/a02m
 
-#EXTINF:-1 group-title="CANALES",HBO Plus
-http://181.64.11.148:8000/play/a015
+#EXTINF: -1 group-title = "CANALES",ESPN 3
+http://38.131.11.5:1080/play/a029
 
-#EXTINF:-1 group-title="CANALES",HBO XTREME 
-http://181.64.11.148:8000/play/a016
+#EXTINF: -1 group-title = "CANALES",ESPN 3 HD
+http://38.131.11.5:1080/play/a09o
 
-#EXTINF:-1 group-title="CANALES",History Channel
-http://181.64.11.148:8000/play/a01e
+#EXTINF: -1 group-title = "CANALES",ESPN EXTRA HD
+http://38.131.11.5:1080/play/a099
 
-#EXTINF:-1 group-title="CANALES",Home and Health
-http://181.64.11.148:8000/play/a00b
+#EXTINF: -1 group-title = "CANALES",El Gourmet HD
+http://38.131.11.5:1080/play/a09w
 
-#EXTINF:-1 group-title="CANALES",I-Sat
-http://181.64.11.148:8000/play/a01h
+#EXTINF: -1 group-title = "CANALES",Enlace
+http://38.131.11.5:1080/play/a03f
 
-#EXTINF:-1 group-title="CANALES",La Tele
-http://181.64.11.148:8000/play/a027
+#EXTINF: -1 group-title = "CANALES",FX
+http://38.131.11.5:1080/play/a01z
 
-#EXTINF:-1 group-title="CANALES",Latina
-http://181.64.11.148:8000/play/a002
+#EXTINF: -1 group-title = "CANALES",fox CHANNEL
+http://38.131.11.5:1080/play/a07m
 
-#EXTINF:-1 group-title="CANALES",MTV
-http://181.64.11.148:8000/play/a01i
 
-#EXTINF:-1 group-title="CANALES",Nat Geo
-http://181.64.11.148:8000/play/a01d
+#EXTINF: -1 group-title = "CANALES",FX Movies
+http://38.131.11.5:1080/play/a00a
 
-#EXTINF:-1 group-title="CANALES",NatGeo Kids
-http://181.64.11.148:8000/play/a01o
+#EXTINF: -1 group-title = "CANALES",FX Movies HD
+http://38.131.11.5:1080/play/a09j
 
-#EXTINF:-1 group-title="CANALES",Nick Jr
-http://181.64.11.148:8000/play/a020
+#EXTINF: -1 group-title = "CANALES",FX Movies HD
+http://38.131.11.5:1080/play/a09e
 
-#EXTINF:-1 group-title="CANALES",Nickelodeon
-http://181.64.11.148:8000/play/a01b
+#EXTINF: -1 group-title = "CANALES",Fox Sports
+http://38.131.11.5:1080/play/a02k
 
-#EXTINF:-1 group-title="CANALES",Panamericana TV
-http://181.64.11.148:8000/play/a005
+#EXTINF: -1 group-title = "CANALES",Fox Sports 1 HD
+http://38.131.11.5:1080/play/a0ax
 
-#EXTINF:-1 group-title="CANALES",RCN Novelas
-http://181.64.11.148:8000/play/a006
+#EXTINF: -1 group-title = "CANALES",Fox Sports 2
+http://38.131.11.5:1080/play/a033
 
-#EXTINF:-1 group-title="CANALES",STAR ACTION
-http://181.64.11.148:8000/play/a013
+#EXTINF: -1 group-title = "CANALES",Fox Sports 3
+http://38.131.11.5:1080/play/a034
 
-#EXTINF:-1 group-title="CANALES",STAR HITS
-http://181.64.11.148:8000/play/a011
+#EXTINF: -1 group-title = "CANALES",Fox Sports Premium
+http://38.131.11.5:1080/play/a00c
 
-#EXTINF:-1 group-title="CANALES",STAR LIFE
-http://181.64.11.148:8000/play/a01k
+#EXTINF: -1 group-title = "CANALES",France 24
+http://38.131.11.5:1080/play/a09x
 
-#EXTINF:-1 group-title="CANALES",STAR SERIES
-http://181.64.11.148:8000/play/a012
+#EXTINF: -1 group-title = "CANALES",HBO
+http://38.131.11.5:1080/play/a01u
 
-#EXTINF:-1 group-title="CANALES",Sin Limites
-http://181.64.11.148:8000/play/a00a
+#EXTINF: -1 group-title = "CANALES",HBO 2
+http://38.131.11.5:1080/play/a00g
 
-#EXTINF:-1 group-title="CANALES",Sony
-http://181.64.11.148:8000/play/a01w
+#EXTINF: -1 group-title = "CANALES",HBO 2 HD
+http://38.131.11.5:1080/play/a09f
 
-#EXTINF:-1 group-title="CANALES",Space
-http://181.64.11.148:8000/play/a01y
+#EXTINF: -1 group-title = "CANALES",HBO Family
+http://38.131.11.5:1080/play/a00j
 
-#EXTINF:-1 group-title="CANALES",TBS
-http://181.64.11.148:8000/play/a008
+#EXTINF: -1 group-title = "CANALES",HBO Family HD
+http://38.131.11.5:1080/play/a0az
 
-#EXTINF:-1 group-title="CANALES",TCM
-http://181.64.11.148:8000/play/a01n
+#EXTINF: -1 group-title = "CANALES",HBO HD
+http://38.131.11.5:1080/play/a09a
 
-#EXTINF:-1 group-title="CANALES",TLC
-http://181.64.11.148:8000/play/a00q
+#EXTINF: -1 group-title = "CANALES",HBO Plus
+http://38.131.11.5:1080/play/a00h
 
-#EXTINF:-1 group-title="CANALES",TNT
-http://181.64.11.148:8000/play/a01q
+#EXTINF: -1 group-title = "CANALES",HBO XTREME
+http://38.131.11.5:1080/play/a00i
 
-#EXTINF:-1 group-title="CANALES",TV Peru
-http://181.64.11.148:8000/play/a007
+#EXTINF: -1 group-title = "CANALES",HBO XTREME HD
+http://38.131.11.5:1080/play/a0b3
 
-#EXTINF:-1 group-title="CANALES",TVE
-http://181.64.11.148:8000/play/a01t
+#EXTINF: -1 group-title = "CANALES",HOLA TV HD
+http://38.131.11.5:1080/play/a09m
 
-#EXTINF:-1 group-title="CANALES",Telemundo
-http://181.64.11.148:8000/play/a00v
+#EXTINF: -1 group-title = "CANALES",History 2 HD
+http://38.131.11.5:1080/play/a0ay
 
-#EXTINF:-1 group-title="CANALES",TyC Sports
-http://181.64.11.148:8000/play/a00n
+#EXTINF: -1 group-title = "CANALES",History Channel
+http://38.131.11.5:1080/play/a00r
 
-#EXTINF:-1 group-title="CANALES",Universal
-http://181.64.11.148:8000/play/a01g
+#EXTINF: -1 group-title = "CANALES",Home and Health
+http://38.131.11.5:1080/play/a01d
 
-#EXTINF:-1 group-title="CANALES",ViaX
-http://181.64.11.148:8000/play/a00r
+#EXTINF: -1 group-title = "CANALES",I-Sat
+http://38.131.11.5:1080/play/a00v
 
-#EXTINF:-1 group-title="CANALES",Warner
-http://181.64.11.148:8000/play/a00h
+#EXTINF: -1 group-title = "CANALES",ID HD
+http://38.131.11.5:1080/play/a09u
 
-#EXTINF:-1 group-title="CANALES",Zona Latina
-http://181.64.11.148:8000/play/a01j
+#EXTINF: -1 group-title = "CANALES",La Red
+http://38.131.11.5:1080/play/a005
+
+#EXTINF: -1 group-title = "CANALES",Las Estrellas HD
+http://38.131.11.5:1080/play/a0ar
+
+#EXTINF: -1 group-title = "CANALES",MEGA HD
+http://38.131.11.5:1080/play/a08v
+
+#EXTINF: -1 group-title = "CANALES",MTV
+http://38.131.11.5:1080/play/a00w
+
+#EXTINF: -1 group-title = "CANALES",MTV HD
+http://38.131.11.5:1080/play/a0ap
+
+#EXTINF: -1 group-title = "CANALES",Mega
+http://38.131.11.5:1080/play/a007
+
+#EXTINF: -1 group-title = "CANALES",Nat Geo
+http://38.131.11.5:1080/play/a00q
+
+#EXTINF: -1 group-title = "CANALES",Nat Geo HD
+http://38.131.11.5:1080/play/a095
+
+#EXTINF: -1 group-title = "CANALES",Nat Geo Kids HD
+http://38.131.11.5:1080/play/a09p
+
+#EXTINF: -1 group-title = "CANALES",NatGeo Kids
+http://38.131.11.5:1080/play/a011
+
+#EXTINF: -1 group-title = "CANALES",Nick Junior
+http://38.131.11.5:1080/play/a026
+
+#EXTINF: -1 group-title = "CANALES",Nickelodeon
+http://38.131.11.5:1080/play/a00o
+
+#EXTINF: -1 group-title = "CANALES",Paramount HD
+http://38.131.11.5:1080/play/a09c
+
+#EXTINF: -1 group-title = "CANALES",Pasiones HD
+http://38.131.11.5:1080/play/a09k
+
+#EXTINF: -1 group-title = "CANALES",RCN Novelas
+http://38.131.11.5:1080/play/a037
+
+#EXTINF: -1 group-title = "CANALES",STAR ACTION
+http://38.131.11.5:1080/play/a00f
+
+#EXTINF: -1 group-title = "CANALES",STAR COMEDY HD
+http://38.131.11.5:1080/play/a0av
+
+#EXTINF: -1 group-title = "CANALES",STAR HITS
+http://38.131.11.5:1080/play/a00d
+
+#EXTINF: -1 group-title = "CANALES",STAR HITS HD
+http://38.131.11.5:1080/play/a0b5
+
+#EXTINF: -1 group-title = "CANALES",STAR LIFE
+http://38.131.11.5:1080/play/a00y
+
+#EXTINF: -1 group-title = "CANALES",STAR LIFE HD
+http://38.131.11.5:1080/play/a0b2
+
+#EXTINF: -1 group-title = "CANALES",STAR SERIES E
+http://38.131.11.5:1080/play/a0aj
+
+#EXTINF: -1 group-title = "CANALES",STAR SERIES O
+http://38.131.11.5:1080/play/a0ak
+
+#EXTINF: -1 group-title = "CANALES",START SERIES
+http://38.131.11.5:1080/play/a00e
+
+#EXTINF: -1 group-title = "CANALES",Sin Limites
+http://38.131.11.5:1080/play/a0a6
+
+#EXTINF: -1 group-title = "CANALES",Sony
+http://38.131.11.5:1080/play/a01w
+
+#EXTINF: -1 group-title = "CANALES",Space
+http://38.131.11.5:1080/play/a01y
+
+#EXTINF: -1 group-title = "CANALES",Studio Universal HD
+http://38.131.11.5:1080/play/a09d
+
+#EXTINF: -1 group-title = "CANALES",TBS
+http://38.131.11.5:1080/play/a038
+
+#EXTINF: -1 group-title = "CANALES",TBS Very Funny HD
+http://38.131.11.5:1080/play/a0b1
+
+#EXTINF: -1 group-title = "CANALES",TCM
+http://38.131.11.5:1080/play/a010
+
+#EXTINF: -1 group-title = "CANALES",TNT
+http://38.131.11.5:1080/play/a013
+
+#EXTINF: -1 group-title = "CANALES",TNT HD
+http://38.131.11.5:1080/play/a09n
+
+#EXTINF: -1 group-title = "CANALES",TNT SPORTS 2
+http://38.131.11.5:1080/play/a00b
+
+#EXTINF: -1 group-title = "CANALES",TNT SPORTS 3
+http://38.131.11.5:1080/play/a02p
+
+#EXTINF: -1 group-title = "CANALES",TRUTV HD
+http://38.131.11.5:1080/play/a09v
+
+#EXTINF: -1 group-title = "CANALES",TV+ HD
+http://38.131.11.5:1080/play/a051
+
+#EXTINF: -1 group-title = "CANALES",TVE
+http://38.131.11.5:1080/play/a03g
+
+#EXTINF: -1 group-title = "CANALES",TVN
+http://38.131.11.5:1080/play/a006
+
+#EXTINF: -1 group-title = "CANALES",TVN HD
+http://38.131.11.5:1080/play/a08z
+
+#EXTINF: -1 group-title = "CANALES",Telemundo
+http://38.131.11.5:1080/play/a035
+
+#EXTINF: -1 group-title = "CANALES",Travel and Living
+http://38.131.11.5:1080/play/a030
+
+#EXTINF: -1 group-title = "CANALES",Universal
+http://38.131.11.5:1080/play/a00t
+
+#EXTINF: -1 group-title = "CANALES",VH1 HD
+http://38.131.11.5:1080/play/a09q
+
+#EXTINF: -1 group-title = "CANALES",ViaX
+http://38.131.11.5:1080/play/a031
+
+#EXTINF: -1 group-title = "CANALES",Warner
+http://38.131.11.5:1080/play/a05i
+
+#EXTINF: -1 group-title = "CANALES",Win Sports+ HD
+http://38.131.11.5:1080/play/a09g
+
+#EXTINF: -1 group-title = "CANALES",Zona Latina
+http://38.131.11.5:1080/play/a00x
+
+#EXTINF: -1 group-title = "CANALES",teletrak
+http://38.131.11.5:1080/play/a0b7
+
+
+
+
 
 ==========================================================================================================================================================================
 ==========================================================================================================================================================================
