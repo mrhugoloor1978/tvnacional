@@ -2545,3 +2545,214 @@ http://38.131.11.5:1080/play/a0b7
 ==========================================================================================================================================================================
 
 
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",amc
+http://stream.tvtap.live:8081/live/es-amc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mzc6NTggQU0maGFzaF92YWx1ZT1ud3hVSDhmQmFoencyNDNBeEdDRXZBPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",axn
+http://stream.tvtap.live:8081/live/es-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mzg6MzkgQU0maGFzaF92YWx1ZT1aZ0VJRTk0WGgvT1JDMVcvNk5WSmFnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",investigation Discovery
+http://stream.tvtap.live:8081/live/es-crimeandinvestigation.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mzk6NTUgQU0maGFzaF92YWx1ZT04VSsraXRzeVV4RWpwMlNOaFNiVkdnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",fox-life
+http://stream.tvtap.live:8081/live/es-fox-life.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NDE6MTEgQU0maGFzaF92YWx1ZT1QMTFuSWk4MDhLYnpTSXEzYmFIa3pBPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",fox.
+http://stream.tvtap.live:8081/live/es-fox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NDE6MzUgQU0maGFzaF92YWx1ZT1hdWZnVWxnamhDVnQyUHN2UFdUektnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",history
+http://stream.tvtap.live:8081/live/es-historia.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NDM6MDYgQU0maGFzaF92YWx1ZT1SYTJQbmU3bU1DSHVxQ3RZcFh5Vzl3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",nat-geo-wild
+http://stream.tvtap.live:8081/live/es-nat-geo-wild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NDQ6MTAgQU0maGFzaF92YWx1ZT1xUDJIYVlZNUgwdWpnazVRb1BESXJnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",nat-geo
+http://stream.tvtap.live:8081/live/es-national-geographic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NDQ6MzYgQU0maGFzaF92YWx1ZT1uNVRJYThFMmw4VGU3QjUxNzNUUWVnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",tcm
+http://stream.tvtap.live:8081/live/es-tcm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NDU6MDggQU0maGFzaF92YWx1ZT1lNE5Rbm02TWZtOWNjR2FCVjAyVjZRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",tnt
+http://stream.tvtap.live:8081/live/es-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NDU6NTEgQU0maGFzaF92YWx1ZT1jU2cvUnlQWEloc1pQOVJNeThrZ0xRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",disney
+http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NTQ6MjUgQU0maGFzaF92YWx1ZT1lWCtzdFJSb1JZdlA5c1ZrL2Y1ZVdnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",espnus
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NTU6NDggQU0maGFzaF92YWx1ZT1LY3VmdXJ5b1lSRnJyNklFSVJlWTJnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",foxsports1
+http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NTY6NTQgQU0maGFzaF92YWx1ZT01eGM4S0pGR0xxU2xxTmlwT0Vsc2NRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",espn2hd
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6NTg6NDMgQU0maGFzaF92YWx1ZT1ubEdxNDBxVHZ3bXhvL1ExM0NwTm1BPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",calle13
+http://stream.tvtap.live:8081/live/es-calle-13.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgMTE6NTQ6NDUgUE0maGFzaF92YWx1ZT1VSjNITDVzWWpLdjQxdjhBcmQ1bDVRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",toros TV
+http://stream.tvtap.live:8081/live/es-toros.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgMTE6NTU6NTcgUE0maGFzaF92YWx1ZT0zcExOdUY5L3ROQ0gxQmovVlFjM2RBPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",caza pesca TV
+http://stream.tvtap.live:8081/live/es-caza-pesca.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgMTE6NTY6MjMgUE0maGFzaF92YWx1ZT0xRU
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",hollywood
+http://stream.tvtap.live:8081/live/es-hollywood.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgMTE6NTc6NDAgUE0maGFzaF92YWx1ZT1kUUY1aXZzSVNvME5wUU11bERSQlpnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",movistar dcine
+http://stream.tvtap.live:8081/live/es-movistar-dcine.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTI6MDE6MjQgQU0maGFzaF92YWx1ZT1XZVBwdWZnOWEvVk5xWTBvR1ZHZE53PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",moviestarf1
+http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTI6MDM6MTkgQU0maGFzaF92YWx1ZT1HNGtmczV2Q2pnbEZkTjlVV2VkM0t3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",moviestarmotogp
+http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTI6MDY6MTIgQU0maGFzaF92YWx1ZT0wRXFNVTdTYUJXWnFVaXVmVU1uZUZ3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",neox
+http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTI6MDg6MzggQU0maGFzaF92YWx1ZT1uNDJWUzV6NURhVE1xdTV1SWlsTlZBPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",nova
+http://stream.tvtap.live:8081/live/es-nova.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTI6MTA6MDggQU0maGFzaF92YWx1ZT0xaTkvNDFFNjRvS1h0QWF5WVRiY2NnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",real madrid TV
+http://stream.tvtap.live:8081/live/es-real-madrid.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTI6MTI6NDQgQU0maGFzaF92YWx1ZT1DV01uTGkrVTVRNk1TYnlJeUZPYVdRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6bROABbQxhdqm2Ho287Sod-YRduBk4qeRpOBlfw0cPJW_FqUel5fDPQBCwJfIqCnVPmG" group-title = "⭐ ILIMITADO ⭐", MUNDO TV People Awesome
+https://jukin-peopleareawesome-2-es.samsung.wurl.com:443/manifest/1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NC6MY5iZMYkChxE6LUKKMqNHs-b9w7PhyLGzJYQj9CV4IeqPYIWmaNHqTrtamzeeHKc" group-title = "⭐ ILIMITADO ⭐",DISCOVERY  EARTH
+https://alchimie-unearth-3-es.samsung.wurl.com:443/manifest/1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRgy2QCZv42QeS1bEnx3WceL4jcC-LnhYNjVsDO=s900-c-k-c0x00ffffff-no-rj" group-title = "⭐ ILIMITADO ⭐",INWONDER channel DOCUMENTAL
+https://inwonder-samsungmexico.amagi.tv:443/playlist360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLC_ktxGb0IsQaIMHuS35pxaytGpXPy-8Hg&usqp=CAU" group-title = "⭐ ILIMITADO ⭐", INTROUBLE channel DOCUMENTAL
+https://introuble-samsungmexico.amagi.tv:443/playlistR360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title = "⭐ ILIMITADO ⭐", MY TIME movie
+https://appletree-mytime-samsungmexico.amagi.tv:443/playlist360_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title = "⭐ ILIMITADO ⭐", Natural channel
+https://bamus-spa-roku.amagi.tv:443/playlist288-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg" group-title = "⭐ ILIMITADO ⭐", atreseries
+https://atresmedia-atreseries-1-it.samsung.wurl.com:443/manifest/1200.m3u8
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐",sofytv 
+https://sofytv-samsungit.amagi.tv:443/playlist360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ZYQxORVwsvs/WrThQm0FgjI/AAAAAAAAKDw/KyNBw0k44cUahPKOat3uJZS4ENfdfQ58wCLcBGAs/s1600/023c0c3a-a7b8-4b54-ad43-f141903f70a1.jpg" group-title = "⭐ ILIMITADO ⭐", TOPCine
+https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS9TCh2Z-CION3fGyODNZcg6kbdud6yk0DRnSnY=s900-c-k-c0x00ffffff-no-rj" group-title = "⭐ ILIMITADO ⭐",TERROR CHANNEL 
+https://olympusamagi.pc.cdn.bitgravity.com:443/Horrify-roku/master_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/cinesureno_artwork_horizontal.jpg" group-title = "⭐ ILIMITADO ⭐", CineSureño
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://masmediatv.es/images/2020/canales-azcorazon.png" group-title = "⭐ ILIMITADO ⭐", JuntosCorazon tv
+https://olympusamagi.pc.cdn.bitgravity.com:443/Juntos-roku/master_3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.maxtv.com.gh/wp-content/uploads/2021/03/MAX-TV-1.png" group-title = "⭐ ILIMITADO ⭐", max tv 
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.multimedios.com/sites/default/files/styles/social_share/public/field/image/thumb_5e583de3d469f70788f4fd84_5e583de3d469f70788f4fd91_64_188724s.jpg",AE 6
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+
+
+#EXTINF:-1 tvg-logo="https://mareatvcable.com/wp-content/themes/marea/img/canales/77-logocm.png",FOXMIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9512bacf6f14cf9e6a45dc35587fa12e.webp",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", LA KARIBEÑA
+http://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", NEWS
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", France 24
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", CARACOL TV
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-I2%2B38z3L.png" group-title = "⭐ ILIMITADO ⭐",ZEE MUNDO 
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Unicanal  
+http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL   
+
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Canal 10 ARTV  
+http://mediacpstreamchile.com:1935/canal10artv/canal10artv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Radio Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL  
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Farra Play
+http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Anime Zone TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Cloud Server Kids 
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", CSTV  
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", El Chavo TV
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Pequeradio TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Planeta Junior
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", Tele animacion
+https://live.admefy.com/live/default/socialist_azure_5d76a.m3u8?PlaylistM3UCL
+
+********************************************************************************************************
+********************************************************************************************************
+
+
+#EXTINF:-1 tvg-logo="https://www.ecuavisa.com/binrepository/660x314/0c0/0d0/none/11705/WENL/ecuavisa_nota_2_EC111554_MG226965.jpg" group-title = "⭐ EC.ILIMITADO ⭐",ECUAVISA
+http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/9/9a/Teleamazonas.png" group-title = "⭐ EC.ILIMITADO ⭐",TELEAMAZONAS
+http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Goltv-ecuador.png" group-title = "⭐ EC.ILIMITADO ⭐",GOLTV EC
+http://bit.ly/ajjdkekdhhwgo
+
+
+#EXTINF:-1tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png?mtime=20190825175049&focal=none" group-title = "⭐ EC.ILIMITADO ⭐", TC TELEVISION
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8?uid=8vhsvBv1mPSPLCdRmWMUSUqMHXrsnGwb&sid=kTF0QyglqLOn85CHXTZiqLtRLssIHZK8&pid=7ho7mAb8ht6rOfSOqhPFprxUIqJaBsZk&an=screen&at=web-app&av=v5.2.143&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&res=310x173&without_cookies=false&dnt=true
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ec-canela-tv-5474.jpg" group-title = "⭐ EC.ILIMITADO ⭐", Canela TV
+https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5Xo1RfOOfTI/Xw9zs1j1kSI/AAAAAAAAB0A/9mdv_nm-FHkEB0H15GWyN4OTfGjOewyIgCLcBGAsYHQ/s540/hechosecuador_logoroku.jpg" group-title = "⭐ EC.ILIMITADO ⭐", Hechos
+http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
+
+
