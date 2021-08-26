@@ -2803,7 +2803,7 @@ http://45.235.37.254:8600/play/a07d
 #EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Canal 13
 http://45.235.37.254:8600/play/a0ay
 
-#EXTINF : -1, Fox Channel
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Fox Channel
 http://45.235.37.254:8600/play/a0am
 
 #EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Cartoon Network 
