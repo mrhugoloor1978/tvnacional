@@ -2658,14 +2658,14 @@ https://olympusamagi.pc.cdn.bitgravity.com:443/Juntos-roku/master_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.maxtv.com.gh/wp-content/uploads/2021/03/MAX-TV-1.png" group-title = "⭐ ILIMITADO ⭐", max tv 
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.multimedios.com/sites/default/files/styles/social_share/public/field/image/thumb_5e583de3d469f70788f4fd84_5e583de3d469f70788f4fd91_64_188724s.jpg",AE 6
+#EXTINF:-1 tvg-logo="https://image.multimedios.com/sites/default/files/styles/social_share/public/field/image/thumb_5e583de3d469f70788f4fd84_5e583de3d469f70788f4fd91_64_188724s.jpg" group-title = "⭐ ILIMITADO ⭐", AE 6
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
 
 
-#EXTINF:-1 tvg-logo="https://mareatvcable.com/wp-content/themes/marea/img/canales/77-logocm.png",FOXMIX
+#EXTINF:-1 tvg-logo="https://mareatvcable.com/wp-content/themes/marea/img/canales/77-logocm.png" group-title = "⭐ ILIMITADO ⭐", FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9512bacf6f14cf9e6a45dc35587fa12e.webp",MUSIC TOP
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9512bacf6f14cf9e6a45dc35587fa12e.webp" group-title = "⭐ ILIMITADO ⭐", MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 group-title = "⭐ ILIMITADO ⭐", LA KARIBEÑA
@@ -2755,4 +2755,368 @@ https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?Playlis
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5Xo1RfOOfTI/Xw9zs1j1kSI/AAAAAAAAB0A/9mdv_nm-FHkEB0H15GWyN4OTfGjOewyIgCLcBGAsYHQ/s540/hechosecuador_logoroku.jpg" group-title = "⭐ EC.ILIMITADO ⭐", Hechos
 http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
 
+***************************************************************************************************************************************
+***************************************************************************************************************************************
 
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐",13
+http://45.235.37.254:8600/play/a060
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐",24 Horas 
+http://45.235.37.254:8600/play/a07k
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", A&E 
+http://45.235.37.254:8600/play/a0c5
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", SERIE ATRES
+http://45.235.37.254:8600/play/a0c9
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", AXN 
+http://45.235.37.254:8600/play/a096
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Animal Planet 
+http://45.235.37.254:8600/play/a0ab
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Baby TV -7
+http: //45.235.37.254:8600/play/a068
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Boomerang 
+http://45.235.37.254:8600/play/a06c
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", CDF Basico
+http://45.235.37.254:8600/play/a0aj
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", CDF Premium 
+http://45.235.37.254:8600/play/a0ba
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", CDO Basico
+http://45.235.37.254:8600/play/a093
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", CHV 
+http://45.235.37.254:8600/play/a07c
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", CNN Chile
+http://45.235.37.254:8600/play/a0cq
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Canal 13
+http://45.235.37.254:8600/play/a07d
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Canal 13
+http://45.235.37.254:8600/play/a0ay
+
+#EXTINF : -1, Fox Channel
+http://45.235.37.254:8600/play/a0am
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Cartoon Network 
+http://45.235.37.254:8600/play/a0cj
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Cinecanal 
+http://45.235.37.254:8600/play/a07r
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Cinemax 
+http://45.235.37.254:8600/play/a09x
+
+#EXTINF: -1 group-title = "⭐ PREMIUM.03 ⭐", De Pelicula 
+http://45.235.37.254:8600/play/a0bg
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Discovery Channel 
+http://45.235.37.254:8600/play/a0ac
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Discovery H&H 
+http://45.235.37.254:8600/play/a08x
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Discovery Kids 
+http://45.235.37.254:8600/play/a0a8
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Discovery Science
+http: //45.235.37.254:8600/play/a09y
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Discovery Turbo 
+http://45.235.37.254:8600/play/a0b3
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Disney Channel 
+http://45.235.37.254:8600/play/a0az
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Disney Junior 
+http://45.235.37.254:8600/play/a08v
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Disney Xd 
+http://45.235.37.254:8600/play/a0b0
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", E! Entertainment 
+http://45.235.37.254:8600/play/a0cn
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM1
+http://45.235.37.254:8600/play/a06n
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM1 (clon)
+http: / /45.235.37.254:8600/play/a06s
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM11 (clon)
+http://45.235.37.254:8600/play/a0de
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM2
+http://45.235.37.254:8600/play/a06l
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM2 (clon)
+http://45.235.37.254:8600/play/a06t
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM22 (clon)
+http://45.235.37.254:8600/play/a0df
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM3
+http://45.235.37.254:8600/play/a06k
+
+#EXTINF: -1 group-title = "⭐ PREMIUM.03 ⭐", EMM3 (clon)
+http://45.235.37.254:8600/play/a06u
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM33 (clon)
+http://45.235.37.254:8600/play/a0dg
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM4
+http://45.235.37.254:8600/play/a06m
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM4 (clon)
+http://45.235.37.254:8600/play/a06v
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM44 (clon)
+http: / /45.235.37.254:8600/play/a0dh
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM5
+http://45.235.37.254:8600/play/a071
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM55 (clon)
+http://45.235.37.254:8600/play/a0di
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", EMM66 (clon)
+http://45.235.37.254:8600/play/a0dr
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", ESPN 
+http://45.235.37.254:8600/play/a0cs
+
+#EXTINF: -1 group-title = "⭐ PREMIUM.03 ⭐", ESPN 3
+http://45.235.37.254:8600/play/a095
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", ESPN2
+http://45.235.37.254:8600/play/a0ct
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", ESPN2 
+http: //45.235.37.254:8600/play/a08a
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", ETC TV 
+http://45.235.37.254:8600/play/a063
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", El Gourmet 
+http://45.235.37.254:8600/play/a0b4
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", FX 
+http://45.235.37.254:8600/play/a099
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", FX Movies 
+http://45.235.37.254:8600/play/a0bf
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Cine y artes
+http://45.235.37.254:8600/play/a0ad
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Fox Action 
+http://45.235.37.254:8600/play/a08g
+
+#EXTINF: -1 group-title = "⭐ PREMIUM.03 ⭐", Fox Classics 
+http://45.235.37.254:8600/play/a0d0
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Fox Life
+http://45.235.37.254:8600/play/a0ae
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Fox Sports 1
+http://45.235.37.254:8600/play/a0cu
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Fox Sports 2
+http://45.235.37.254:8600/play/a09s
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Fox Sports 3
+http://45.235.37.254:8600/play/a0c4
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", GOLPERU
+http://45.235.37.254:8600/play/a0bl
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Glitz 
+http://45.235.37.254:8600/play/a07i
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Gol TV
+http://45.235.37.254:8600/play/a0c3
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Golden 
+http://45.235.37.254:8600/play/a09t
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Golden Edge
+http://45.235.37.254:8600/play/a064
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO 
+http://45.235.37.254:8600/play/a08e
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO Family 
+http://45.235.37.254:8600/play/a0ca
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO MUNDI
+http://45.235.37.254:8600/play/a0bh
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO POP
+http://45.235.37.254:8600/play/a0cf
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO Plus
+http://45.235.37.254:8600/play/a0cc
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO 
+http://45.235.37.254:8600/play/a0cy
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO Signature
+http://45.235.37.254:8600/play/a0cd
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO XTREME 
+http://45.235.37.254:8600/play/a0cb
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HBO2
+http://45.235.37.254:8600/play/a08f
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", HTV 
+http://45.235.37.254:8600/play/a066
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Historia 
+http://45.235.37.254:8600/play/a08w
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", I SAT
+http://45.235.37.254:8600/play/a09v
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", ID 
+http://45.235.37.254:8600/play/a08y
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Las Estrellas 
+http://45.235.37.254:8600/play/a0as
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Latina
+http://45.235.37.254:8600/play/a07u
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", MEGA -46
+http://45.235.37.254:8600/play/a07b
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", MTV 
+http://45.235.37.254:8600/play/a0bv
+
+#EXTINF: -1 group-title = "⭐ PREMIUM.03 ⭐", Nat Geo Kids 
+http://45.235.37.254:8600/play/a0aa
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Nat Geo Wild 
+http://45.235.37.254:8600/play/a0cm
+
+#EXTINF : - 1 group-title = "⭐ PREMIUM.03 ⭐", National Geographic
+http://45.235.37.254:8600/play/a0ck
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Nick Junior
+http://45.235.37.254:8600/play/a08j
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Nickelodeon
+http://45.235.37.254:8600/play/a09o
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Panamericana
+http://45.235.37.254:8600/play/a07x
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Paramount Channel 
+http://45.235.37.254:8600/play/a09w
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Peru Magico
+http://45.235.37.254:8600/play/a089
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", REC TV 
+http://45.235.37.254:8600/play/a065
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", RED Television
+http://45.235.37.254:8600/play/a08s
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", RPP
+http://45.235.37.254:8600/play/a08q
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Sextreme
+http://45.235.37.254:8600/play/a0d8
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Sony
+http://45.235.37.254:8600/play/a0cv
+
+#EXTINF : - 1 group-title = "⭐ PREMIUM.03 ⭐", Space 
+http://45.235.37.254:8600/play/a0be
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Studio Universal 
+http://45.235.37.254:8600/play/a06g
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TBS Muy divertido 
+http://45.235.37.254:8600/play/a0cw
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TCM
+http://45.235.37.254:8600/play/a09u
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TLC 
+http://45.235.37.254:8600/play/a0bt
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TLT
+http://45.235.37.254:8600/play/a0au
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TNT 
+http://45.235.37.254:8600/play/a0an
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TNT Series 
+http://45.235.37.254:8600/play/a0c8
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TV PERU
+http://45.235.37.254:8600/play/a07z
+
+# EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TV + 
+http://45.235.37.254:8600/play/a062
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TVN 
+http://45.235.37.254:8600/play/a07a
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Telecanal
+http://45.235.37.254:8600/play/a0ch
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Telemundo 
+http://45.235.37.254:8600/play/a085
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Telenovelas 
+http://45.235.37.254:8600/play/a08r
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Teletrak 
+http://45.235.37.254:8600/play/a06b
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Tooncast
+http://45.235.37.254:8600/play/a0ce
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Tooncast
+http://45.235.37.254:8600/play/a0bs
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Tooncast 
+http://45.235.37.254:8600/play/a069
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Tru TV 
+http://45.235.37.254:8600/play/a0c6
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", TyC Sports 
+http://45.235.37.254:8600/play/a08m
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Universal 
+http://45.235.37.254:8600/play/a097
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Venus
+http://45.235.37.254:8600/play/a0d7
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Via X -72
+http://45.235.37.254:8600/play/a07f
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Vive
+http://45.235.37.254:8600/play/a09g
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Warner Channel 
+http://45.235.37.254:8600/play/a08c
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Win Sports
+http://45.235.37.254:8600/play/a0ak
+
+#EXTINF : -1 group-title = "⭐ PREMIUM.03 ⭐", Zona Latina 
+http://45.235.37.254:8600/play/a07e
