@@ -2064,204 +2064,215 @@ http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
 ***************************************************************************************************************************************
 ***************************************************************************************************************************************
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",24 HORAS
-http://45.232.178.10:8000/play/a00o
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",24 Horas
+http://38.131.11.34:1080/play/a00m
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",A&E Mundo
-http://45.232.178.10:8000/play/a02q
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",AE Mundo
+http://38.131.11.34:1080/play/a02q
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",AXN
-http://45.232.178.10:8000/play/a01x
+http://38.131.11.34:1080/play/a01x
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Animal Planet
-http://45.232.178.10:8000/play/a02h
+http://38.131.11.34:1080/play/a02h
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",CANAL 13
-http://45.232.178.10:8000/play/a00c
+http://38.131.11.34:1080/play/a07u
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",CDF Basico
+http://38.131.11.34:1080/play/a02p
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",CDF PREMIUM
+http://38.131.11.34:1080/play/a00b
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",CHV
-http://45.232.178.10:8000/play/a00b
+http://38.131.11.34:1080/play/a008
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",CNN Chile
-http://45.232.178.10:8000/play/a011
+http://38.131.11.34:1080/play/a00z
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",CNN Espanol
-http://45.232.178.10:8000/play/a007
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",CNN Español
+http://38.131.11.34:1080/play/a004
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Canal Estrellas
-http://45.232.178.10:8000/play/a034
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Canal de Las estrellas
+http://38.131.11.34:1080/play/a032
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Cartoon Network
-http://45.232.178.10:8000/play/a015
+http://38.131.11.34:1080/play/a012
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Cinecanal
-http://45.232.178.10:8000/play/a00v
+http://38.131.11.34:1080/play/a00s
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Cinemax
-http://45.232.178.10:8000/play/a01v
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Classic Rock
-http://45.232.178.10:8000/play/a02v
+http://38.131.11.34:1080/play/a01v
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Discovery Channel
-http://45.232.178.10:8000/play/a02g
+http://38.131.11.34:1080/play/a02g
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Discovery ID
-http://45.232.178.10:8000/play/a01c
+http://38.131.11.34:1080/play/a01a
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Discovery Kids
-http://45.232.178.10:8000/play/a006
+http://38.131.11.34:1080/play/a003
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Discovery Turbo
-http://45.232.178.10:8000/play/a027
+http://38.131.11.34:1080/play/a027
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Disney Channel
-http://45.232.178.10:8000/play/a00n
+http://38.131.11.34:1080/play/a02f
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Disney Jr
+http://38.131.11.34:1080/play/a00k
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Disney 
-http://45.232.178.10:8000/play/a00s
+http://38.131.11.34:1080/play/a00p
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",E! Entertainment
-http://45.232.178.10:8000/play/a02j
+http://38.131.11.34:1080/play/a02j
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",ESPN
-http://45.232.178.10:8000/play/a02m
+http://38.131.11.34:1080/play/a02l
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",ESPN 2
-http://45.232.178.10:8000/play/a00p
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",ESPN 2 Latin
-http://45.232.178.10:8000/play/a02l
+http://38.131.11.34:1080/play/a02m
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",ESPN 3
-http://45.232.178.10:8000/play/a029
+http://38.131.11.34:1080/play/a029
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Enlace
-http://45.232.178.10:8000/play/a019
+http://38.131.11.34:1080/play/a03f
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",FOX Premium ACTION
+http://38.131.11.34:1080/play/a00f
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",FOX Premium MOVIES
+http://38.131.11.34:1080/play/a00d
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",FOX Premium SERIES E
+http://38.131.11.34:1080/play/a07l
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",FOX CHANNEL
-http://45.232.178.10:8000/play/a012
+http://38.131.11.34:1080/play/a07m
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",FX
-http://45.232.178.10:8000/play/a01z
+http://38.131.11.34:1080/play/a01z
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",FXM
-http://45.232.178.10:8000/play/a00d
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",FX Movies
+http://38.131.11.34:1080/play/a00a
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Fox Life
+http://38.131.11.34:1080/play/a00y
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Fox Sports
-http://45.232.178.10:8000/play/a02k
+http://38.131.11.34:1080/play/a02k
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Fox Sports 2
-http://45.232.178.10:8000/play/a035
+http://38.131.11.34:1080/play/a033
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Fox Sports 3
-http://45.232.178.10:8000/play/a036
+http://38.131.11.34:1080/play/a034
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Fox Sports Premium
-http://45.232.178.10:8000/play/a00f
+http://38.131.11.34:1080/play/a00c
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",HBO
-http://45.232.178.10:8000/play/a01u
+http://38.131.11.34:1080/play/a01u
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",HBO 2
-http://45.232.178.10:8000/play/a00j
+http://38.131.11.34:1080/play/a00g
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",HBO family
-http://45.232.178.10:8000/play/a00m
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",HBO Family
+http://38.131.11.34:1080/play/a00j
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",HBO Plus
-http://45.232.178.10:8000/play/a00k
+http://38.131.11.34:1080/play/a00h
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",HBO XTREME SD
-http://45.232.178.10:8000/play/a00a
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",History Channel
+http://38.131.11.34:1080/play/a00r
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Home and Health
+http://38.131.11.34:1080/play/a01d
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",I-Sat
+http://38.131.11.34:1080/play/a00v
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",La Red
+http://38.131.11.34:1080/play/a005
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",MTV
+http://38.131.11.34:1080/play/a00w
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Max Prime
+http://38.131.11.34:1080/play/a00i
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Mega
+http://38.131.11.34:1080/play/a007
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Nat Geo
-http://45.232.178.10:8000/play/a00t
+http://38.131.11.34:1080/play/a00q
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",NatGeo Kids
-http://45.232.178.10:8000/play/a014
+http://38.131.11.34:1080/play/a011
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",New Age
-http://45.232.178.10:8000/play/a02t
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Nick Junior
-http://45.232.178.10:8000/play/a026
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Nick Jr
+http://38.131.11.34:1080/play/a026
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Nickelodeon
-http://45.232.178.10:8000/play/a00r
+http://38.131.11.34:1080/play/a00o
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",RCN Novelas
-http://45.232.178.10:8000/play/a01b
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Reggae
-http://45.232.178.10:8000/play/a02y
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Reggaeton
-http://45.232.178.10:8000/play/a02z
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Regional Mexican
-http://45.232.178.10:8000/play/a031
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Rock Latino
-http://45.232.178.10:8000/play/a030
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",STAR ACTION
-http://45.232.178.10:8000/play/a00i
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",STAR HITS
-http://45.232.178.10:8000/play/a00g
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",STAR LIFE
-http://45.232.178.10:8000/play/a010
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",STAR SERIES
-http://45.232.178.10:8000/play/a00h
+http://38.131.11.34:1080/play/a037
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Sony
-http://45.232.178.10:8000/play/a01w
+http://38.131.11.34:1080/play/a01w
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Space
-http://45.232.178.10:8000/play/a01y
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Symphonic
-http://45.232.178.10:8000/play/a02s
+http://38.131.11.34:1080/play/a01y
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TBS
-http://45.232.178.10:8000/play/a01e
+http://38.131.11.34:1080/play/a038
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TCM
-http://45.232.178.10:8000/play/a013
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TLC
-http://45.232.178.10:8000/play/a032
+http://38.131.11.34:1080/play/a010
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TNT
-http://45.232.178.10:8000/play/a016
+http://38.131.11.34:1080/play/a013
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TNT SPORTS 2
-http://45.232.178.10:8000/play/a00e
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TNT SPORTS 3
-http://45.232.178.10:8000/play/a02p
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TNT Series
+http://181.115.72.65:8099/play/a018/index.m3u8
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TV+
-http://45.232.178.10:8000/play/a00q
+http://38.131.11.34:1080/play/a044
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TV+ HD
+http://38.131.11.34:1080/play/a051
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TVE
-http://45.232.178.10:8000/play/a01a
+http://38.131.11.34:1080/play/a03g
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TVEDUCA
+http://38.131.11.34:1080/play/a07k
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TVN
+http://38.131.11.34:1080/play/a006
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Telemundo
-http://45.232.178.10:8000/play/a037
+http://38.131.11.34:1080/play/a035
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Travel and Living
+http://38.131.11.34:1080/play/a030
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Universal
-http://45.232.178.10:8000/play/a00w
+http://38.131.11.34:1080/play/a00t
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",ViaX
-http://45.232.178.10:8000/play/a033
+http://38.131.11.34:1080/play/a031
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Warner
-http://45.232.178.10:8000/play/a02i
+http://38.131.11.34:1080/play/a05i
 
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",Zona Latina
+http://38.131.11.34:1080/play/a00x
 
 
 ======================================================================
