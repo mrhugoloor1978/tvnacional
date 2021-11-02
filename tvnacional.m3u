@@ -2658,315 +2658,235 @@ http://201.182.242.135:8000/play/a05o/index.m3u8
 _____________________________________________________________________
 _____________________________________________________________________
 
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",24 Horas
+http://186.67.117.178:8081/play/a01c
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CDF
-http://186.67.37.45:9000/play/a002/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CDF Basico
-http://186.67.37.45:9000/play/a00e/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",A&E
-http://181.115.72.65:8099/play/a029/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",AMC
-http://181.115.72.65:8099/play/a01g/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",AE Mundo .3
+http://186.67.117.178:8081/play/a01o
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",AXN
-http://181.115.72.65:8099/play/a01e/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",AXN HD
-http://181.115.72.65:8099/play/a03f/index.m3u8
+http://186.67.117.178:8081/play/a036
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Animal Planet
-http://181.115.72.65:8099/play/a02c/index.m3u8
+http://186.67.117.178:8081/play/a01f
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Atres Series
-http://181.115.72.65:8099/play/a00h/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CDF Basico 
+http://186.67.117.178:8081/play/a01n
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Azcorazon
-http://181.115.72.65:8099/play/a016/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CDF PREMIUM 
+http://186.67.117.178:8081/play/a011
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Azmundo
-http://181.115.72.65:8099/play/a025/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CHV 
+http://186.67.117.178:8081/play/a00y
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",BBC World
-http://181.115.72.65:8099/play/a01i/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CNN Chile
+http://186.67.117.178:8081/play/a00j
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Baby TV
-http://181.115.72.65:8099/play/a00d/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CNN Espanol
+http://186.67.117.178:8081/play/a00u
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Boomerang
-http://181.115.72.65:8099/play/a012/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Canal 13 
+http://186.67.117.178:8081/play/a00z
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CARTOON NT HD
-http://181.115.72.65:8099/play/a00s/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Canal de Las estrellas
+http://186.67.117.178:8081/play/a01s
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CINECANAL HD
-http://181.115.72.65:8099/play/a02l/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Cartoon 
+http://186.67.117.178:8081/play/a00m
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CNN Internacional
-http://181.115.72.65:8099/play/a00b/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Cinecanal 
+http://186.67.117.178:8081/play/a00c
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CNNE
-http://181.115.72.65:8099/play/a01h/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Canal 3 Telesistemas HND
-http://181.115.72.65:8099/play/a02m/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Canal VTV HND
-http://181.115.72.65:8099/play/a03h/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Canal24-Tela
-http://181.115.72.65:8099/play/1/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Cartoon Network
-http://181.115.72.65:8099/play/a010/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Cine Latino
-http://181.115.72.65:8099/play/a032/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CineCanal
-http://181.115.72.65:8099/play/a036/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",CineMax
-http://181.115.72.65:8099/play/a033/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Cinema Dinamita
-http://181.115.72.65:8099/play/a035/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Concert Channel
-http://181.115.72.65:8099/play/a02y/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",DHE
-http://181.115.72.65:8099/play/a00o/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Cinemax 
+http://186.67.117.178:8081/play/a034
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Discovery Channel
-http://181.115.72.65:8099/play/a02b/index.m3u8
+http://186.67.117.178:8081/play/a01e
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Discovery Home & Health
-http://181.115.72.65:8099/play/a02t/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Discovery ID
+http://186.67.117.178:8081/play/a01x
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Discovery Kids
-http://181.115.72.65:8099/play/a02o/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Discovery Science
-http://181.115.72.65:8099/play/a009/index.m3u8
+http://186.67.117.178:8081/play/a00t
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Discovery Turbo
-http://181.115.72.65:8099/play/a02s/index.m3u8
+http://186.67.117.178:8081/play/a03h
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Disney Channel
+http://186.67.117.178:8081/play/a01d
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Disney Junior
+http://186.67.117.178:8081/play/a01a
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Disney
-http://181.115.72.65:8099/play/a02q/index.m3u8
+http://186.67.117.178:8081/play/a009
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Disney JR
-http://181.115.72.65:8099/play/a013/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Disney 
-http://181.115.72.65:8099/play/a024/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",E!
-http://181.115.72.65:8099/play/a028/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",E! Entertainment
+http://186.67.117.178:8081/play/a01h
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",ESPN
-http://181.115.72.65:8099/play/a02g/index.m3u8
+http://186.67.117.178:8081/play/a01j
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",ESPN +
-http://181.115.72.65:8099/play/a01k/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",ESPN 2
+http://186.67.117.178:8081/play/a01k
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",ESPN 3
-http://181.115.72.65:8099/play/a01s/index.m3u8
+http://186.67.117.178:8081/play/a03j
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",ESPN2
-http://181.115.72.65:8099/play/a02f/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",ETC TV
+http://186.67.117.178:8081/play/a05p
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",EURO Channel
-http://181.115.72.65:8099/play/a01p/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Enlace
+http://186.67.117.178:8081/play/a00r
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",El Gourmet
-http://181.115.72.65:8099/play/a00m/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Esne TV
+http://186.67.117.178:8081/play/a05s
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",FOX Sports 2
-http://181.115.72.65:8099/play/a01t/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",FOX PREMIUM ACTION 
+http://186.67.117.178:8081/play/a015
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",FX
-http://181.115.72.65:8099/play/a01n/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",FOX PREMIUM MOVIES
+http://186.67.117.178:8081/play/a013
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",fox CHANNEL
-http://181.115.72.65:8099/play/a02r/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",FOX PREMIUM SERIES 
+http://186.67.117.178:8081/play/a014
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",fox CHANNEL HD
-http://181.115.72.65:8099/play/a02i/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",FX 
+http://186.67.117.178:8081/play/a038
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",FX Movies
-http://181.115.72.65:8099/play/a030/index.m3u8
+http://186.67.117.178:8081/play/a010
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Fox News
-http://181.115.72.65:8099/play/a00c/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Fox Life
+http://186.67.117.178:8081/play/a00i
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Fox Sports
-http://181.115.72.65:8099/play/a02w/index.m3u8
+http://186.67.117.178:8081/play/a01i
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Fox Sports HD
-http://181.115.72.65:8099/play/a03e/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Fox Sports 2
+http://186.67.117.178:8081/play/a01t
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Golden
-http://181.115.72.65:8099/play/a01v/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Fox Sports 3
+http://186.67.117.178:8081/play/a01u
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Golf Channel
-http://181.115.72.65:8099/play/a00i/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Fox Sports Premium 
+http://186.67.117.178:8081/play/a012
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",H2
-http://181.115.72.65:8099/play/a01r/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",GOL TV
+http://186.67.117.178:8081/play/a01l
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",History Channel
-http://181.115.72.65:8099/play/a02d/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",History HD
-http://181.115.72.65:8099/play/a01j/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Glitz*
+http://186.67.117.178:8081/play/a05q
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",HBO
-http://181.115.72.65:8099/play/a037/index.m3u8
+http://186.67.117.178:8081/play/a033
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",HBO 2
+http://186.67.117.178:8081/play/a016
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",HBO Family
-http://181.115.72.65:8099/play/a03a/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",HBO HD
-http://181.115.72.65:8099/play/a00u/index.m3u8
+http://186.67.117.178:8081/play/a019
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",HBO Plus
-http://181.115.72.65:8099/play/a039/index.m3u8
+http://186.67.117.178:8081/play/a017
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",HBO Plus HD
-http://181.115.72.65:8099/play/a00w/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",History Channel 
+http://186.67.117.178:8081/play/a00b
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",HBO XTREME
-http://181.115.72.65:8099/play/a03b/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Home and Health
+http://186.67.117.178:8081/play/a021
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",HBO2
-http://181.115.72.65:8099/play/a038/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",I-Sat
+http://186.67.117.178:8081/play/a00f
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Hola!TV
-http://181.115.72.65:8099/play/a00a/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",La Red
+http://186.67.117.178:8081/play/a00v
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",ID
-http://181.115.72.65:8099/play/a02u/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",MTV 
+http://186.67.117.178:8081/play/a00g
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",LIFE TIME
-http://181.115.72.65:8099/play/a01b/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Max Prime
+http://186.67.117.178:8081/play/a018
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",MTV HD
-http://181.115.72.65:8099/play/a01l/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Mega
+http://186.67.117.178:8081/play/a00x
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",MTV Hits
-http://181.115.72.65:8099/play/a01d/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Nat Geo
+http://186.67.117.178:8081/play/a00a
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Mas Chic
-http://181.115.72.65:8099/play/a00f/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",NatGeo Kids
+http://186.67.117.178:8081/play/a00l
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Multicinema
-http://181.115.72.65:8099/play/a00j/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Multipremier
-http://181.115.72.65:8099/play/a031/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Nat Geo Kids
-http://181.115.72.65:8099/play/a01m/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Nat Geo Wild
-http://181.115.72.65:8099/play/a01q/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",National Geographic
-http://181.115.72.65:8099/play/a01a/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Nick Junior
-http://181.115.72.65:8099/play/a011/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Nick Junior 
+http://186.67.117.178:8081/play/a03g
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Nickelodeon
-http://181.115.72.65:8099/play/a02p/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Paramount
-http://181.115.72.65:8099/play/a00p/index.m3u8
+http://186.67.117.178:8081/play/a008
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",RCN Novelas
-http://181.115.72.65:8099/play/a01o/index.m3u8
+http://186.67.117.178:8081/play/a01w
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",SONY
-http://181.115.72.65:8099/play/a026/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",STAR CHANNEL
+http://186.67.117.178:8081/play/a055
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",SONY HD
-http://181.115.72.65:8099/play/a02k/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Sony
+http://186.67.117.178:8081/play/a035
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",SPACE HD
-http://181.115.72.65:8099/play/a03g/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",STAR ACTION
-http://181.115.72.65:8099/play/a01x/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",STAR CLASSICS
-http://181.115.72.65:8099/play/a01z/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",STAR COMEDY
-http://181.115.72.65:8099/play/a00q/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",STAR FUN
-http://181.115.72.65:8099/play/a01y/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",STAR HITS
-http://181.115.72.65:8099/play/a03d/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",STAR LIFE
-http://181.115.72.65:8099/play/a014/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",STAR SERIES
-http://181.115.72.65:8099/play/a03c/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Sembrador
-http://181.115.72.65:8099/play/a020/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Studio Universal
-http://181.115.72.65:8099/play/a034/index.m3u8
-
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",SyFy
-http://181.115.72.65:8099/play/a02a/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Space 
+http://186.67.117.178:8081/play/a037
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TBS
-http://181.115.72.65:8099/play/a019/index.m3u8
+http://186.67.117.178:8081/play/a020
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TCM
-http://181.115.72.65:8099/play/a01w/index.m3u8
+http://186.67.117.178:8081/play/a00k
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TLC
-http://181.115.72.65:8099/play/a02e/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TNT 
+http://186.67.117.178:8081/play/a00n
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TLNovelas
-http://181.115.72.65:8099/play/a03j/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TNT Series 
+http://186.67.117.178:8081/play/a04d
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TNT
-http://181.115.72.65:8099/play/a01f/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TV+
+http://186.67.117.178:8081/play/a03r
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TNT Series
-http://181.115.72.65:8099/play/a018/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TVE 
+http://186.67.117.178:8081/play/a00s
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TVE
-http://181.115.72.65:8099/play/a02h/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TVEDUCA 
+http://186.67.117.178:8081/play/a04v
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Telecadena - HON
-http://181.115.72.65:8099/play/a023/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TVN
+http://186.67.117.178:8081/play/a00w
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Telenerema Movil
-http://181.115.72.65:8099/play/5/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Telemundo
+http://186.67.117.178:8081/play/a01v
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Universal
-http://181.115.72.65:8099/play/a02z/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Travel and Living
+http://186.67.117.178:8081/play/a01q
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",VH1
-http://181.115.72.65:8099/play/a01u/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",TyC Sports
+http://186.67.117.178:8081/play/a01m
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",WARNER HD
-http://181.115.72.65:8099/play/a02j/index.m3u8
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",UPDATE CLARO
+http://186.67.117.178:8081/play/a05a
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",UPDATE CLARO 2
+http://186.67.117.178:8081/play/a05o
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Universal 
+http://186.67.117.178:8081/play/a00d
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",ViaX 
+http://186.67.117.178:8081/play/a01r
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Warner
-http://181.115.72.65:8099/play/a027/index.m3u8
+http://186.67.117.178:8081/play/a01g
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.05 ⭐",Zona Latina
+http://186.67.117.178:8081/play/a00h
+
+
 
 _______________________________________________________
 _______________________________________________________
