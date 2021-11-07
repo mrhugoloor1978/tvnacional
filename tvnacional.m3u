@@ -990,6 +990,9 @@ http://45.232.178.10:8000/play/a032
 #EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TNT
 http://45.232.178.10:8000/play/a016
 
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TNT Series
+http://190.61.37.9:8000/play/a02d/index.m3u8
+
 #EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TNT SPORTS 2
 http://45.232.178.10:8000/play/a00e
 
