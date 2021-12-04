@@ -816,135 +816,485 @@ http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
 
 =========================================================================================================================================================================
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",AZ CORAZON
-http://45.176.70.89:8000/play/a01k
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",7-Teletica
+http://200.229.147.16:8000/play/a023/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",BOOMERANG
-http://45.176.70.89:8000/play/a00b
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",A&E
+http://200.229.147.16:8000/play/a02y/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CAROLINA TV
-http://45.176.70.89:8000/play/a018
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",AMC
+http://200.229.147.16:8000/play/a01n/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CGTN
-http://45.176.70.89:8000/play/a01i
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",AXN
+http://200.229.147.16:8000/play/a01l/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CINE PREMIUN HD
-http://45.176.70.89:8000/play/a01n
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",AXN HD
+http://200.229.147.16:8000/play/a045/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CONECTA TV
-http://45.176.70.89:8000/play/a00m
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Animal Planet
+http://200.229.147.16:8000/play/a031/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal 13
-http://45.176.70.89:8000/play/a01v
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Antena 3
+http://200.229.147.16:8000/play/a005/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal Infantil HD
-http://45.176.70.89:8000/play/a01q
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Antena 7- RD
+http://200.229.147.16:8000/play/a011/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Cine Familiar HD
-http://45.176.70.89:8000/play/a01o
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Azcorazon
+http://200.229.147.16:8000/play/a01c/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Cine Hispano HD
-http://45.176.70.89:8000/play/a01p
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Azmundo
+http://200.229.147.16:8000/play/a02u/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Dios Te Ve Kids
-http://45.176.70.89:8000/play/a01c
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",BBC World
+http://200.229.147.16:8000/play/a01p/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",ECUAVISA ECUADOR
-http://45.176.70.89:8000/play/a00i
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Boomerang
+http://200.229.147.16:8000/play/a016/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",FMH FAMILY
-http://45.176.70.89:8000/play/a003
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CANAL34
+http://200.229.147.16:8000/play/a06y/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",FMH KIDS
-http://45.176.70.89:8000/play/a004
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CANAL40
+http://200.229.147.16:8000/play/a065/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",FMH MOVIES
-http://45.176.70.89:8000/play/a002
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CANAL6
+http://200.229.147.16:8000/play/a05f/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",FRANCE 24
-http://45.176.70.89:8000/play/a019
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CARTOON NT HD
+http://200.229.147.16:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",GOLDEN
-http://45.176.70.89:8000/play/a017
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CCI Channel
+http://200.229.147.16:8000/play/a04d/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HISTORY CHANNEL 2
-http://45.176.70.89:8000/play/a010
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CCN
+http://200.229.147.16:8000/play/a018/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HTV
-http://45.176.70.89:8000/play/a00d
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CH TV
+http://200.229.147.16:8000/play/a04a/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Hispan Tv
-http://45.176.70.89:8000/play/a01z
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CINECANAL HD
+http://200.229.147.16:8000/play/a03a/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",KIZZY
-http://45.176.70.89:8000/play/a006
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CNN Internacional
+http://200.229.147.16:8000/play/a00d/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MUNDO +
-http://45.176.70.89:8000/play/a01d
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CNNE
+http://200.229.147.16:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MiMusica HD Hits
-http://45.176.70.89:8000/play/a01t
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CTVCOM
+http://200.229.147.16:8000/play/a079/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MiMusica HD K-POP
-http://45.176.70.89:8000/play/a01u
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal 11
+http://200.229.147.16:8000/play/a04c/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MiMusica HD Popular
-http://45.176.70.89:8000/play/a01s
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal 3 Telesistemas HND
+http://200.229.147.16:8000/play/a06p/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MiMusica HD Reggaeton
-http://45.176.70.89:8000/play/a01r
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal 30
+http://200.229.147.16:8000/play/a067/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",OROMAR TV
-http://45.176.70.89:8000/play/a00j
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal 5 - HON
+http://200.229.147.16:8000/play/a06n/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",PLANETATV KIDS
-http://45.176.70.89:8000/play/a01w
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal Antigua
+http://200.229.147.16:8000/play/a051/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",PLANETATV MOVIES
-http://45.176.70.89:8000/play/a01x
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal Azteca - GUA
+http://200.229.147.16:8000/play/a02p/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",PLANETATV MUSIC
-http://45.176.70.89:8000/play/a01y
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Canal VTV HND
+http://200.229.147.16:8000/play/a06q/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",RETRO PLUS
-http://45.176.70.89:8000/play/a00o
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Cartoon Network
+http://200.229.147.16:8000/play/a014/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",RETRO PLUS 2
-http://45.176.70.89:8000/play/a00p
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Centro America
+http://200.229.147.16:8000/play/a04r/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",RETROPLUS CLASICO
-http://45.176.70.89:8000/play/a00r
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Cine Latino
+http://200.229.147.16:8000/play/a03s/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",REWIND
-http://45.176.70.89:8000/play/a005
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CineCanal
+http://200.229.147.16:8000/play/a03w/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STANDUP
-http://45.176.70.89:8000/play/a01g
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",CineMax
+http://200.229.147.16:8000/play/a03t/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STUDIO UNIVERSAL
-http://45.176.70.89:8000/play/a012
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Concert Channel
+http://200.229.147.16:8000/play/a03o/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SURAM
-http://45.176.70.89:8000/play/a00q
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Concert Channel HD
+http://200.229.147.16:8000/play/a077/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SYFY
-http://45.176.70.89:8000/play/a015
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Conectados Con Dios
+http://200.229.147.16:8000/play/a052/index.m3u8
 
-#EXTINF: -1 título-grupo = "⭐ PREMIUM 2 ⭐",TC HD
-http://45.176.70.89:8000/play/a01b
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Congreso TV
+http://200.229.147.16:8000/play/a06f/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TELEAMAZONAS HD
-http://45.176.70.89:8000/play/a01a
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Coral 39
+http://200.229.147.16:8000/play/a04m/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TLT
-http://45.176.70.89:8000/play/a00g
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",DHE
+http://200.229.147.16:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TNT SERIES
-http://45.176.70.89:8000/play/a007
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",DTV
+http://200.229.147.16:8000/play/a076/index.m3u8
 
-#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",ZONA LATINA
-http://45.176.70.89:8000/play/a01e
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",DTV
+http://200.229.147.16:8000/play/a048/index.m3u8
 
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Discovery Channel
+http://200.229.147.16:8000/play/a030/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Discovery Home & Health
+http://200.229.147.16:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Discovery Kids
+http://200.229.147.16:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Discovery Science
+http://200.229.147.16:8000/play/a008/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Discovery Turbo
+http://200.229.147.16:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Disney
+http://200.229.147.16:8000/play/a03g/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Disney JR
+http://200.229.147.16:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Disney 😆
+http://200.229.147.16:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",E!
+http://200.229.147.16:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",EDN HEVC
+http://200.229.147.16:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",ESPN
+http://200.229.147.16:8000/play/a035/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",ESPN +
+http://200.229.147.16:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",ESPN 3
+http://200.229.147.16:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",ESPN2
+http://200.229.147.16:8000/play/a034/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",EWTN
+http://200.229.147.16:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",El Gourmet
+http://200.229.147.16:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",FOX Sports 2
+http://200.229.147.16:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",FX
+http://200.229.147.16:8000/play/a028/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",FX Movies
+http://200.229.147.16:8000/play/a03q/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Film & Arts
+http://200.229.147.16:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Fox Sport 3
+http://200.229.147.16:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Fox Sports
+http://200.229.147.16:8000/play/a03m/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Fox Sports HD
+http://200.229.147.16:8000/play/a044/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Franchs TV
+http://200.229.147.16:8000/play/a07a/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",GTR-LIBERTAD
+http://200.229.147.16:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Gallo Sports
+http://200.229.147.16:8000/play/a053/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Go TV
+http://200.229.147.16:8000/play/a056/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Golden
+http://200.229.147.16:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Golf Channel
+http://200.229.147.16:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Guatevision - GUA
+http://200.229.147.16:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",H2
+http://200.229.147.16:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO
+http://200.229.147.16:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO Family
+http://200.229.147.16:8000/play/a040/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO Family HD
+http://200.229.147.16:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO HD
+http://200.229.147.16:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO Plus
+http://200.229.147.16:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO Plus HD
+http://200.229.147.16:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO XTREME
+http://200.229.147.16:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO XTREME
+http://200.229.147.16:8000/play/a041/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO2
+http://200.229.147.16:8000/play/a03y/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HBO2 HD
+http://200.229.147.16:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HCH
+http://200.229.147.16:8000/play/a04b/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",HITN
+http://200.229.147.16:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",History Channel
+http://200.229.147.16:8000/play/a032/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",History HD
+http://200.229.147.16:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Hola!TV
+http://200.229.147.16:8000/play/a009/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Home Garden Latino
+http://200.229.147.16:8000/play/a007/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",ID
+http://200.229.147.16:8000/play/a03k/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",JBN
+http://200.229.147.16:8000/play/a04e/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",KURIOSTV
+http://200.229.147.16:8000/play/a05p/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",LIFE TIME
+http://200.229.147.16:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",LTV
+http://200.229.147.16:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",LTV
+http://200.229.147.16:8000/play/a057/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",La voz de Maria
+http://200.229.147.16:8000/play/a03l/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MISIONRADIO
+http://200.229.147.16:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MTV
+http://200.229.147.16:8000/play/a03n/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MTV 80s
+http://200.229.147.16:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",MTV Hits
+http://200.229.147.16:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Martetv
+http://200.229.147.16:8000/play/a078/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Mas Chic
+http://200.229.147.16:8000/play/a004/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Maya TV
+http://200.229.147.16:8000/play/a055/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Megavision
+http://200.229.147.16:8000/play/a058/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Multicinema
+http://200.229.147.16:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Multimedios
+http://200.229.147.16:8000/play/a024/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Multipremier
+http://200.229.147.16:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Nat Geo Kids
+http://200.229.147.16:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Nat Geo Wild
+http://200.229.147.16:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",National Geographic
+http://200.229.147.16:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Nick Junior
+http://200.229.147.16:8000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Nickelodeon
+http://200.229.147.16:8000/play/a03f/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",PASIONES USA
+http://200.229.147.16:8000/play/a04q/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",PXTV
+http://200.229.147.16:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Paramount
+http://200.229.147.16:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Qhubo TV
+http://200.229.147.16:8000/play/a049/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",RCN Novelas
+http://200.229.147.16:8000/play/a029/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",RTV
+http://200.229.147.16:8000/play/a04f/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SEDENA
+http://200.229.147.16:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SEMILLITAS
+http://200.229.147.16:8000/play/a019/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SINPRODOH TV
+http://200.229.147.16:8000/play/a054/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SONY HD
+http://200.229.147.16:8000/play/a039/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SPACE
+http://200.229.147.16:8000/play/a01d/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SPACE HD
+http://200.229.147.16:8000/play/a046/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STAR ACTION
+http://200.229.147.16:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STAR CHANNEL HD
+http://200.229.147.16:8000/play/a037/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STAR CLASSICS
+http://200.229.147.16:8000/play/a02k/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STAR COMEDY
+http://200.229.147.16:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STAR FUN
+http://200.229.147.16:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STAR HITS
+http://200.229.147.16:8000/play/a043/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STAR LIFE
+http://200.229.147.16:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",STAR SERIES
+http://200.229.147.16:8000/play/a042/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SUYAPA TV
+http://200.229.147.16:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Sembrador
+http://200.229.147.16:8000/play/a02l/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Studio Universal
+http://200.229.147.16:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Sun Channel
+http://200.229.147.16:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",SyFy
+http://200.229.147.16:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TBN Enlace
+http://200.229.147.16:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TBS
+http://200.229.147.16:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TCM
+http://200.229.147.16:8000/play/a02h/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TELECEIBA
+http://200.229.147.16:8000/play/a06i/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TELENEREMA
+http://200.229.147.16:8000/play/a074/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TLC
+http://200.229.147.16:8000/play/a033/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TNH
+http://200.229.147.16:8000/play/a06e/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TNT
+http://200.229.147.16:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TNT Series
+http://200.229.147.16:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TV 12
+http://200.229.147.16:8000/play/a069/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TV Dominicana
+http://200.229.147.16:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TVChile
+http://200.229.147.16:8000/play/a006/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",TVE
+http://200.229.147.16:8000/play/a036/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Teleantillas
+http://200.229.147.16:8000/play/a04l/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Telecadena - HON
+http://200.229.147.16:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Telemundo
+http://200.229.147.16:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Telesistema 11
+http://200.229.147.16:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Teleunion
+http://200.229.147.16:8000/play/a059/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Une TV
+http://200.229.147.16:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",Universal
+http://200.229.147.16:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",VH1
+http://200.229.147.16:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 group-title = "⭐ PREMIUM 2 ⭐",WARNER HD
+http://200.229.147.16:8000/play/a038/index.m3u8
 
 
 
@@ -2019,8 +2369,11 @@ http://181.78.22.214:8000/play/a01u
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TNT
 http://181.78.22.214:8000/play/a00e
 
-#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TNT SERIES
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TNT SERIES HD
 http://45.176.70.89:8000/play/a007
+
+#EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TNT SERIES
+http://200.229.147.16:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title = "⭐ PREMIUM.03 ⭐",TRO
 http://181.78.22.214:8000/play/a01e
